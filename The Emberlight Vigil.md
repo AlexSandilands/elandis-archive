@@ -1,0 +1,4 @@
+---
+aliases:
+  - Emberlight Vigil
+---

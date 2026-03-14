@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"Campaigns/The Bloody Nails/Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "path: \"x_Session Prep\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 244992
+      }
+    },
+    {
+      "query": "path: \"Campaigns/The Bloody Nails/Sessions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10741
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.713541666666667,
+  "repelStrength": 12.5,
+  "linkStrength": 1,
+  "linkDistance": 280,
+  "scale": 0.25883865621816365,
+  "close": false
+}

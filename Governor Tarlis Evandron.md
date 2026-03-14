@@ -1,0 +1,5 @@
+---
+aliases:
+  - Tarlis
+  - Governor Tarlis
+---

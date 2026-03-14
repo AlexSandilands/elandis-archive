@@ -1,0 +1,37 @@
+/* custom-banner.css */
+/* 
+   We'll look for --active-banner-url and render it behind the note title.
+   If it’s not set, no banner shows.
+*/
+
+.view-header {
+  position: relative;
+  height: 250px; /* Adjust as needed */
+  background: var(--active-banner-url, none) center/cover no-repeat;
+  margin-bottom: 1rem;
+  isolation: isolate; 
+}
+
+/* Optional fade from the banner to note background */
+.view-header::before {
+  content: "";
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%; height: 100%;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom, 
+    rgba(0,0,0,0) 70%, 
+    var(--background-primary) 100%
+  );
+}
+
+/* Make title visible */
+.view-header-title {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+  padding: 1rem;
+  margin: 0;
+}

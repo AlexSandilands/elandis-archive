@@ -1,0 +1,2 @@
+> [!Danger] Combat
+> Some Text
