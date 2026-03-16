@@ -21,7 +21,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|10th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]
-> Characters | [[Porta Hale]]<br>[[Ayana Wynne]] |
+> Characters | [[Porta Hale]]<br>[[Ayana Syndrosa]] |
 ## Summary
 
 The morning breaks over [[Val Miriel]] with tension thick in the air. At [[The Green Gryphons]], [[Vaeleran]], [[Ryo]], and [[Eryndor]] are awakened by a pulsing message from [[Governor Tarlis Evandron|Govenor Tarlis]], inquiring about a failed assassination attempt on [[General Varan Brado]] at [[The Bastion]] - a crime the party denies committing. The atmosphere shifts from intrigue to danger as Gorath, a [[Hand of the Empire]], raids the guildhall in search of a druid and a "half-folk" magic user. Thanks to the stoic deflection of [[Porta Hale]], the party evades capture, though the Guildmaster warns that their presence is becoming a liability, urging them to leave the city until the heat dies down.

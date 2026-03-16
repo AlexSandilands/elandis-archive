@@ -97,7 +97,7 @@ tags:
 > - Most people are asleep
 > - Guards are only ones awake
 
-- Marius will request [[Captain Erendir Thalos]] and [[Ayana Wynne]] for briefing
+- Marius will request [[Captain Erendir Thalos]] and [[Ayana Syndrosa|Ayana Wynne]] for briefing
 - Suggest the party gets rest
 - Big day tomorrow
 

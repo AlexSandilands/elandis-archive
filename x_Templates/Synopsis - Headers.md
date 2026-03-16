@@ -20,5 +20,5 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|7th Water, 3rd - 2507]] |
-> Location | [[Val Noren]]
-> Characters | [[King Marius Noren]]<br>[[Ayana Wynne]] |
+> Location | TODO
+> Characters | TODO<br>TODO |

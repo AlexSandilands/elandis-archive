@@ -45,7 +45,7 @@ tags:
 > 
 > > [!info]- Action
 > > 
-> > - [[Ayana Wynne]] steps in aggressively to swat it away and takes the full hit.
+> > - [[Ayana Syndrosa|Ayana]] steps in aggressively to swat it away and takes the full hit.
 > >     
 > > - **Effect:** Concentrated _Polymorph_ + _Confusion_. She physically reverts to a 6-to-8-year-old child.
 > > - She is extremely confused, joyful, playful and doesn't understand most questions

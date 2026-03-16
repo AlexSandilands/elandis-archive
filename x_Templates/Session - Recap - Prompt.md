@@ -67,6 +67,7 @@ Vael: Berberis, Human Druid/Ranger
 Human Cities: Val Miriel, Val Noren, Val Aran, Val Luminor, Val Aerie, Val Solis, Darmouth, Camaar, Farhaven, Lighthaven, Brightwater, Shardcrest
 Dwarven Cities: Glimmerforge, Gemhold, Orespire, Silverdeep
 Elven Cities: Ithilmara, Celembrindal, Calathilion, Lorinath, Mithrondal
+Faewild: Sumara / The Shining City (hidden elven city in the Shimmering Peaks, governed by the Council of the Seven Circles)
 
 ## Factions
 
@@ -95,11 +96,13 @@ Lia (young girl, ex member of The Veiled Cubs)
 Jerek (Eryndor's father)
 Eirieneth (Eryndor's mother)
 Korvas (alter ego of Vaeleran, ex general of the Empire)
-Ayana (advisor to Marius, revealed to be a powerful Elf in disguise)
+Ayana Syndrosa / Lady Syndrosa (goes by Ayana Wynne on the Material Plane): Former leader of the Circle of the Weave in Sumara. True name revealed in Session 46.
 Belinda Bubblegum (dwarven artificer, crafted The Emberblade for Eryndor)
 Ellesar (leader of The Veiled Cubs)
 
-## Session Goals
+The Seven Circles of Sumara: Illythia Voss (current leader of the Circle of the Weave, Ayana's former lover), Kaelen Vayne / Commander Vayne (leader of the Circle of the Blade, de facto council authority), Naivara Siannodel / Justiciar Naivara (leader of the Circle of the Scales), Elrohir Gemflower / Archivist Elrohir (leader of the Circle of the Scroll), Elder Silaqui Amastacia (leader of the Circle of the Dawn), Warden Sylvaris (leader of the Circle of the Root), Fenian / Master Artisan Fenian (leader of the Circle of the Loom)
+
+## Session Context
 
 ....
 

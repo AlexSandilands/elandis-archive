@@ -58,7 +58,7 @@ This estimate is grounded in historical parallels and would present a formidable
 
 - [[Captain Erendir Thalos]] – Commander of the city guard. Loyal to the king, but pragmatic. His men are overstretched maintaining order in the city and manning the walls.
 - **Marshal Kaelen Dravorn** – Veteran rebel leader who commanded much of the uprising. Fiercely opposed to the Empire, quick to push for aggressive action, but sometimes disregards logistics.
-- [[Ayana Wynne]] – Young but respected lead advisor of the King. Was there since the beginning and help encourage Marius to start the rebellion. (secretly an Elf in disguise)
+- [[Ayana Syndrosa|Ayana Wynne]] – Young but respected lead advisor of the King. Was there since the beginning and help encourage Marius to start the rebellion. (secretly an Elf in disguise)
 
 #### Nobility and Loyal Houses
 

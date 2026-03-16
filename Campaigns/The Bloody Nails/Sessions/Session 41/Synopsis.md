@@ -21,7 +21,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|6th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
-> Characters | [[King Marius Noren]]<br>[[Ayana Wynne]]<br>[[Barak Stormrider]]<br>[[Dread General Blackmarsh]] |
+> Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]]<br>[[Barak Stormrider]]<br>[[Dread General Blackmarsh]] |
 
 ## Summary
 
@@ -29,7 +29,7 @@ Following the desperate battle against [[Dread General Blackmarsh]] within [[The
 
 The group navigated the tunnels back to The Keep of [[Val Noren]], collapsing their escape route behind them to prevent pursuit. Upon returning to the Keep, a relieved [[King Marius Noren|Marius Noren]] granted them sanctuary. The following morning revealed the spoils of war to be both powerful and ominous; specifically, Blackmarsh’s greatsword, *Dread’s Hunger*, was identified as an evil blade that consumes the wielder's life force to fuel necrotic strikes and reanimate the dead. The party chose to stow the malevolent weapon away.
 
-The session culminated in a war council with Marius, [[Ayana Wynne]], and [[Barak Stormrider]]. With the Imperial leadership decapitated but their army still holding the bridge in a stalemate, the party devised a two-pronged strategy. First, Kai used *Skywrite* to broadcast a demand for parley, announcing the General's death to the sky. Second, should diplomacy fail, the group began coordinating with [[The Mawbreakers]] to construct a pontoon bridge using commandeered boats, aiming to flank the Imperial forces from the river and end the siege once and for all.
+The session culminated in a war council with Marius, [[Ayana Syndrosa|Ayana Wynne]], and [[Barak Stormrider]]. With the Imperial leadership decapitated but their army still holding the bridge in a stalemate, the party devised a two-pronged strategy. First, Kai used *Skywrite* to broadcast a demand for parley, announcing the General's death to the sky. Second, should diplomacy fail, the group began coordinating with [[The Mawbreakers]] to construct a pontoon bridge using commandeered boats, aiming to flank the Imperial forces from the river and end the siege once and for all.
 
 ## Details
 
@@ -72,7 +72,7 @@ The following morning, [[Dondar]] cast *Ritual Identify* on the items recovered:
 
 ### The War Council
 
-* **State of Affairs:** [[King Marius Noren]], [[Captain Erendir Thalos]], and [[Ayana Wynne]] (Marius's advisor) discussed the stalemate. The Imperial army has massed at the bridge, creating a choke point.
+* **State of Affairs:** [[King Marius Noren]], [[Captain Erendir Thalos]], and [[Ayana Syndrosa|Ayana Wynne]] (Marius's advisor) discussed the stalemate. The Imperial army has massed at the bridge, creating a choke point.
 * **The Psychological Play:** [[Kai]] proposed using *Skywrite* to demoralize the enemy. He wrote: *"Red General Decapitated. Parley at Sunset."*
 * **The Tactical Plan:**
     * A direct assault on the bridge is deemed too costly.

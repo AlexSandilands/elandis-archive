@@ -21,13 +21,13 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|7th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
-> Characters | [[King Marius Noren]]<br>[[Ayana Wynne]] |
+> Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]] |
 
 ## Summary
 
 As the storm finally breaks over [[Val Noren]], the party wakes to a city celebrating its liberation, though the shadows of the Empire have not fully receded. Between signing autographs for admiring soldiers and winning high-stakes card games, the group unlocks the secrets of a mysterious assassin’s note. By fuelling the parchment with blood, [[Ryo]] briefly contacts the someone on the other side - presumably connected to the [[Eye of the Empire|Eyes of the Empire]].
 
-In the halls of the Keep, [[King Marius Noren]] rewards the heroes with platinum and rare [[Renite Steel]], but the true intrigue unfolds behind closed doors. The King’s advisor, [[Ayana Wynne]], isolates Ryo and shatters his reality by revealing they are both Elves—a race thought lost. She interrogates him about an "Emerald Ceremony," but upon realising he knows nothing of his heritage, she ruthlessly casts *Modify Memory*, wiping the encounter from his mind to protect her secret. Meanwhile, [[Berberis]] interrogates Imperial prisoners, confirming that the Red Priests serve a master darker than the Empress, and releases a captive with a warning message for the Empire to "clean its house."
+In the halls of the Keep, [[King Marius Noren]] rewards the heroes with platinum and rare [[Renite Steel]], but the true intrigue unfolds behind closed doors. The King’s advisor, [[Ayana Syndrosa|Ayana Wynne]], isolates Ryo and shatters his reality by revealing they are both Elves—a race thought lost. She interrogates him about an "Emerald Ceremony," but upon realising he knows nothing of his heritage, she ruthlessly casts *Modify Memory*, wiping the encounter from his mind to protect her secret. Meanwhile, [[Berberis]] interrogates Imperial prisoners, confirming that the Red Priests serve a master darker than the Empress, and releases a captive with a warning message for the Empire to "clean its house."
 
 The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purify the cursed armour of the Dread General, [[Kai]] is pulled into a perilous vision within the Astral Plane. Forced to battle a shadowy reflection of himself, he realises that violence only feeds the curse. Guided by the goddess Selune, Kai chooses redemption over destruction, healing his shadow self to break the corruption. He emerges from the trance with the metal purified, allowing Helda the smith at [[The Ashen Forge]] to craft a legendary, moon-touched shield in a divine fugue state.
 
@@ -44,7 +44,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 ### Audience with the King
 
-* The party is summoned to the keep to meet with [[King Marius Noren]] and his advisor, [[Ayana Wynne]].
+* The party is summoned to the keep to meet with [[King Marius Noren]] and his advisor, [[Ayana Syndrosa|Ayana Wynne]].
 * Marius thanks the party for restoring his family's rule and discusses plans to aid [[Val Miriel]] and negotiate with [[Governor Tarlis Evandron|Tarlis]].
 * [[Berberis]] presents the drawing of the Red Priest’s dragon tattoo. Ayana claims not to recognize it, though [[Kai]] notices a subtle reaction from her.
 * Marius rewards the party with 20,000 gold (converted to platinum), three Greater Healing Potions, and a family heirloom: a [[Renite Steel]] Dagger (+1, critical hit on 19 or 20).
@@ -53,7 +53,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 ### Secrets and Shadows
 
-* [[Ayana Wynne|Ayana]] takes [[Ryo]] aside under the guise of collecting rewards. She magically reveals her pointed ears and forcibly reveals Ryo’s, exposing them both as Elves.
+* [[Ayana Syndrosa|Ayana]] takes [[Ryo]] aside under the guise of collecting rewards. She magically reveals her pointed ears and forcibly reveals Ryo’s, exposing them both as Elves.
 * Ayana interrogates Ryo about his origins and the "[[Emerald Ceremony]]." When Ryo is confused, she realizes he is unaware of his heritage.
 * To protect this secret, Ayana casts *Modify Memory* on Ryo, wiping the conversation from his mind before returning him to the group.
 * Before the party leaves, Ayana teaches [[Dondar]] the *Teleportation Circle* spell, giving him the sigils for [[Val Noren]] and [[Glimmerforge]].

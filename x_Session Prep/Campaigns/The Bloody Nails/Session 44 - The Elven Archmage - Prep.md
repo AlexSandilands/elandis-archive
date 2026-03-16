@@ -37,7 +37,7 @@ tags:
 > - Session will start the next day
 > - Mawbreakers will leave for Val Miriel in 5 days, for initial support
 
-### Ayana (Syndranous)
+### Ayana (Syndrosa)
 
 > [!question] Trigger
 > Ayana will catch the party as they are leaving for a secretive conversation

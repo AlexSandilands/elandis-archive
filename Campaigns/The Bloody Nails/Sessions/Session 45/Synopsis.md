@@ -20,23 +20,23 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|12th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|13th Water, 3rd - 2507]] |
 > Location | [[Faewild]]
-> Characters | [[Ayana Wynne]] |
+> Characters | [[Ayana Syndrosa]] |
 
 ## Summary
 
-Stepping through the planar tear, the party arrived in the vibrant, sensory-overloading [[Faewild]], specifically within the eternal golden hour of the [[Gossamer Woods]]. Their guide, [[Ayana Wynne|Ayana]], warned them of the realm's unpredictable nature, a caution that proved immediately relevant when [[Kai]] befriended a local pixie. In a protective panic, Ayana intervened, absorbing a face full of "[[Gossamer Dust]]" from the fleeing fey. The ancient elven mage rapidly de-aged into a giggling, spell-slinging eight-year-old child, leaving the party to babysit their only guide to [[Sumara, The Shining City]]. 
+Stepping through the planar tear, the party arrived in the vibrant, sensory-overloading [[Faewild]], specifically within the eternal golden hour of the [[Gossamer Woods]]. Their guide, [[Ayana Syndrosa|Ayana]], warned them of the realm's unpredictable nature, a caution that proved immediately relevant when [[Kai]] befriended a local pixie. In a protective panic, Ayana intervened, absorbing a face full of "[[Gossamer Dust]]" from the fleeing fey. The ancient elven mage rapidly de-aged into a giggling, spell-slinging eight-year-old child, leaving the party to babysit their only guide to [[Sumara, The Shining City]]. 
 
 Forced to navigate the tricky environment on their own, the group soon found themselves trapped in a Mobius Thicket, endlessly looping around a glowing stump where ripples flowed backward. Thanks to [[Dondar]]'s arcane insight, they realised the area reversed spatial and temporal rules, successfully escaping by simply walking backward. Facing a massive chasm, they chose to camp for the night before delving into the [[Briarshade]] - a monochromatic, grayscale forest. Inside, [[Kai]] attempted to illuminate the unnatural darkness with a *Light* spell, inadvertently causing the party's shadows to detach and attack them, sapping their strength until the light was extinguished and the shades were defeated.
 
 Deeper in the grayscale woods, the party was halted by [[Grinn, The Pale]], top-hat-wearing fey who demanded a toll of "colour" to pass. Because physical colour did not exist in the [[Briarshade]], Grinn clarified he wanted a colorful, happy memory. [[Kai]] volunteered, sacrificing the hilarious memory of wild-shaping into a dog and leaving a mess in [[Neros]]'s bed. The memory was permanently erased from Kai's mind, but Grinn honoured the deal. He rewarded them with a "Briar Light" - a piece of enchanted black sap that illuminated the forest without casting shadows, allowing them to traverse the rest of the dangerous woods in total safety.
 
-Emerging from the [[Briarshade]], the party reached the [[Shimmering Peaks]], bordered by the treacherous [[Liar's River]]. The only crossing was a stone bridge guarded by a massive, black-cloaked entity known as [[Grumble, The Anniahilator]]. Grumble forced the party into the "ancient rites" to cross: a deadly, life-sized game of D&D-rules chess where the characters became the pieces. Against javelin-throwing pawns, a teleporting blink dog, and a laser-beaming queen, the party utilised their own magic - including well-placed fireballs from [[Dondar]] and a barrage from [[Ryo]] - to checkmate the enemy king. Defeated, Grumble revealed himself not as a soul-stealing monster, but as a jovial obsidian-skinned troll who simply wanted to have some fun. Laughing off the threats, Grumble granted them safe passage to the mountains, assuring them that a cure for [[Ayana Wynne|Ayana]]'s condition awaited them in the elven city ahead.
+Emerging from the [[Briarshade]], the party reached the [[Shimmering Peaks]], bordered by the treacherous [[Liar's River]]. The only crossing was a stone bridge guarded by a massive, black-cloaked entity known as [[Grumble, The Anniahilator]]. Grumble forced the party into the "ancient rites" to cross: a deadly, life-sized game of D&D-rules chess where the characters became the pieces. Against javelin-throwing pawns, a teleporting blink dog, and a laser-beaming queen, the party utilised their own magic - including well-placed fireballs from [[Dondar]] and a barrage from [[Ryo]] - to checkmate the enemy king. Defeated, Grumble revealed himself not as a soul-stealing monster, but as a jovial obsidian-skinned troll who simply wanted to have some fun. Laughing off the threats, Grumble granted them safe passage to the mountains, assuring them that a cure for [[Ayana Syndrosa|Ayana]]'s condition awaited them in the elven city ahead.
 
 ## Details
 
 ### The Gossamer Woods & The Pixie
 * The party arrived in the [[Gossamer Woods]], a Faewild forest characterised by massive, colourful flora, bouncy ground, and a perpetual golden hour.
-* [[Kai]] noticed a hidden pixie and waved to it. [[Ayana Wynne|Ayana]] panicked, tackling Kai to protect him, and was struck in the face by the pixie's "[[Gossamer Dust]]."
+* [[Kai]] noticed a hidden pixie and waved to it. [[Ayana Syndrosa|Ayana]] panicked, tackling Kai to protect him, and was struck in the face by the pixie's "[[Gossamer Dust]]."
 * The dust caused Ayana to rapidly de-age into an 8-year-old child. While she retained her magic (accidentally hitting Kai with a *Thunderwave*), she lost her adult mental faculties and focus.
 * To keep her distracted and moving, Kai wild-shaped into a Giant Elk to let her ride him, while [[Berberis]] entertained her with a smoke-familiar.
 
@@ -47,7 +47,7 @@ Emerging from the [[Briarshade]], the party reached the [[Shimmering Peaks]], bo
 * To escape the loop, the party successfully navigated out by walking backward along their own tracks.
 
 ### The Briarshade
-* Reaching a chasm, the party camped for the night inside a *Leomund's Tiny Hut*. The next morning, [[Kai]] attempted to cast *Dispel Magic* on [[Ayana Wynne|Ayana]], but it failed, resulting in another *Thunderwave* to the face.
+* Reaching a chasm, the party camped for the night inside a *Leomund's Tiny Hut*. The next morning, [[Kai]] attempted to cast *Dispel Magic* on [[Ayana Syndrosa|Ayana]], but it failed, resulting in another *Thunderwave* to the face.
 * They chose to enter the left path: a grayscale, thorny forest called the [[Briarshade]]. All colour vanished from their clothing and gear.
 * Frustrated by the darkness, Kai cast a *Light* cantrip. This caused the party's shadows to detach and attack them, dealing necrotic damage and sapping their strength.
 * They quickly realised the light was spawning the shadows. Kai dropped the spell, and [[Ryo]] and the rest of the party used magical attacks to destroy the remaining shades.

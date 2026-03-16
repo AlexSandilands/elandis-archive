@@ -76,7 +76,7 @@ As the fog lifted and the Loyalist army crossed the river, the session culminate
 
 * [[King Marius Noren|Marius Noren]] addressed the troops, declaring that [[Val Noren]] is no longer an Imperial city but the "Shield of the North."
 * [[Kai]] healed Marius's shoulder wound.
-* [[Ayana Wynne]] suggested using the prisoners for repair labor before deciding their ultimate fate.
+* [[Ayana Syndrosa|Ayana Wynne]] suggested using the prisoners for repair labor before deciding their ultimate fate.
 * The party regrouped at the garrison for celebrations. [[Lirien]] tended to [[Barak Stormrider|Barak's]] wounds.
 * Kai cast *Locate Object* to search the city for another Moonstone but detected nothing.
 * The party ended the night resting, now regarded as heroes of the realm.

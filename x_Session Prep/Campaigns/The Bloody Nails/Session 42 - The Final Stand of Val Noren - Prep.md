@@ -93,7 +93,7 @@ tags:
 ## Part 3: The Parley
 
 **Location:** The main stone bridge. Sunset.
-**Attendees:** [[King Marius Noren]], [[Ayana Wynne]], The Party (optional).
+**Attendees:** [[King Marius Noren]], [[Ayana Syndrosa|Ayana Wynne]], The Party (optional).
 **Opponents:** The Imperial Legion (Massed), Led by **Hand of the Empire Talerius** (The Spokesperson).
 
 ### The Standoff
