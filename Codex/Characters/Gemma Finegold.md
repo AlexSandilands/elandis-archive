@@ -92,4 +92,4 @@ Currently, Gemma continues her travels with [[The Finegolds]], grappling with th
 ## Trivia
 
 - Gemma was the first friendly NPC [[The Bloody Nails]] met
-- On a whim during [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]], [[Riv]] decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many [[Dwarven|Dwarves]]. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so [[Riv]] had to practice Scottish accents in order to keep it going.
+- On a whim during [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]], Riv decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many [[Dwarven|Dwarves]]. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so Riv had to practice Scottish accents in order to keep it going.

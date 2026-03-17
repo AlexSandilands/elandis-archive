@@ -1,0 +1,108 @@
+---
+Type: Character
+Creature Type: Humanoid
+Species: Elf
+Gender: Female
+Pronouns: She/Her
+Age: ~700
+Languages: Common, Elvish, Sylvan
+Place: "[[Sumara, The Shining City|Sumara]]"
+Connections:
+  - "[[Circle of the Weave]]"
+  - "[[Illythia Voss]]"
+  - "[[King Marius Noren]]"
+  - "[[The Bloody Nails]]"
+Profession: Archmage, Former Meridian of the Weave
+Importance: Major
+Status: Alive
+NoteIcon: npc
+cssclasses:
+  - hide-header-underline-3
+tags:
+  - character
+aliases:
+  - Ayana
+  - Ayana Wynne
+  - Lady Syndrosa
+---
+
+> [!infobox|wikipedia]
+> # Ayana Syndrosa
+> [![[Codex/Assets/Characters/Ayana_Syndrosa_small.png|cover hsmall]]](Codex/Assets/Characters/Ayana_Syndrosa.png)
+> ###### Basic Information
+> Attribute |  Details |
+> ---|---|
+> Type | Character |
+> ###### Character Information
+> Attribute |  Details |
+> ---|---|
+> Creature Type | Humanoid |
+> Species | Elf |
+> Gender | Female
+> Pronouns | She/Her |
+> Age | ~700 |
+> Languages | Common<br>Elvish<br>Sylvan |
+> Place | [[Sumara, The Shining City\|Sumara]] |
+> Connections | [[Circle of the Weave\|The Weave]]<br>[[Illythia Voss]]<br>[[King Marius Noren\|Marius Noren]]<br>[[The Bloody Nails]] |
+> Profession | Archmage<br>Meridian of the Weave |
+> ###### Status
+> Attribute |  Details |
+> ---|---|
+> Status | Alive |
+
+**Ayana Syndrosa** is an elven archmage and the former Meridian of the [[Circle of the Weave]] in [[Sumara, The Shining City|Sumara]]. For centuries she was one of the most respected figures in the city, guiding the Circle through an era of isolation — until she gave it all up. Forty years ago, she departed through the [[Emerald Ceremony]], leaving behind her position, her home, and the woman she loved, to investigate a growing darkness on the Material Plane.
+
+For decades she lived in secret among humans, adopting the name **Ayana Wynne** and posing as a young advisor to [[King Marius Noren|Marius Noren]] in [[Val Noren]]. It was through Marius that she first crossed paths with [[The Bloody Nails]], and she has travelled alongside them since — eventually returning to Sumara for the first time since her departure.
+
+## Description
+
+#### Appearance
+
+Ayana carries herself with the quiet certainty of someone who has lived through more than most civilisations remember. She is tall and lean, with sharp elven features that soften only rarely — usually when she's amused or caught off guard. Her silver-white hair falls past her shoulders, often pulled loosely back in a way that suggests practicality won out over vanity a long time ago. A pair of half-moon glasses sit perched on her nose, giving her the look of someone perpetually mid-assessment — which, to be fair, she usually is.
+
+Her eyes are the thing most people remember. A deep violet, bright with intelligence, and unsettlingly perceptive. There's a warmth to them when she's among friends, but in serious moments they take on a distant quality — as though she's weighing something far heavier than the conversation at hand.
+
+In Sumara she favours layered robes in deep blues and muted silvers, finely made but not ostentatious. Faint arcane sigils are stitched into the hems and cuffs — easy to miss unless you know to look. As **Ayana Wynne**, she was a different figure entirely — tight-fitting black clothing, her long hair pulled back in a severe ponytail, every line of her appearance designed to read as a sharp, no-nonsense young human advisor. It worked. Most who met her saw exactly what she intended them to see, and nothing more.
+
+#### Personality
+
+Ayana is measured, deliberate, and deeply principled — though not without a dry sense of humour that surfaces at unexpected moments. She listens more than she speaks, and when she does speak, people tend to stop what they're doing and pay attention. This isn't bluster or intimidation — she simply has a way of cutting to the heart of things that makes argument feel redundant.
+
+Beneath the composure is someone who feels things intensely and always has. Her decision to leave Sumara during the Emerald Ceremony cost her everything familiar, and she made it anyway, because she believed it was necessary. That willingness to sacrifice — paired with a refusal to ask anyone else to do the same — defines her. It's also her greatest blind spot. She left [[Illythia Voss]] without a proper farewell because she thought a clean break would be kinder. Forty years later, the slap she received upon her return suggested otherwise.
+
+She is fiercely protective of those she cares about, and since meeting [[The Bloody Nails]], that circle has grown wider than she probably intended.
+
+## Biography
+
+#### Background
+
+Ayana was born in [[Sumara, The Shining City|Sumara]] roughly seven centuries ago, into a family of the [[Circle of Blades]]. Her grandfather had fought in [[The Chaos Wars]], and she grew up on his stories of a world that nearly tore itself apart. Those stories shaped her — not toward martial glory, as her family might have hoped, but toward understanding. She wanted to know *why* the world had broken, and whether it could be prevented from breaking again.
+
+Her aptitude for magic was obvious early. By the standards of the Weave, she was a prodigy — the kind that appears perhaps once in a generation. Her transfer from the Blades to [[Circle of the Weave|the Weave]] raised eyebrows in her family but surprised no one who had seen her work. She rose through the Circle's ranks with a combination of raw talent and a relentless, almost obsessive dedication to her craft. In time, she was named Meridian — the youngest in living memory.
+
+Under her leadership the Circle flourished, but Ayana's attention was never confined to Sumara alone. She travelled frequently to [[Ithilmara]], the Material Plane, and over centuries she developed a genuine affection for its people. When [[The Valtorran Empire]] rose a century ago and began spreading across the continent, the elves withdrew — retreating to Sumara before the Empire could reach their cities. Most were content to close the door and wait it out. Ayana was not. She recognised the patterns from her grandfather's stories. Something was building behind the Empire's rise. Something old.
+
+When the [[Emerald Ceremony]] was called — a rite that would send one hundred elves through to the Material Plane to integrate into Valtorran society, to wait, watch, and help — Ayana volunteered without hesitation. The crossing was potentially one-way, the boundaries between planes too fragile to guarantee a return. She handed leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], and walked through without looking back. She severed contact entirely, believing it would be easier for Illythia to move on than to spend decades waiting for someone who might never come home.
+
+On the Material Plane, she assumed the identity of **Ayana Wynne** — a young, sharp-minded human woman. She found her way to [[Val Noren]], where she recognised in [[King Marius Noren|Marius Noren]] someone who had both the bloodline and the conviction to challenge the Empire. She positioned herself as his advisor and, quietly, began nudging him toward open rebellion. When the city was finally retaken and Marius reclaimed the title of King, Ayana was at his side — though few understood just how long she had been working toward that moment.
+
+It was through Marius that she met [[The Bloody Nails]], and something about the group convinced her that the fight ahead would need more than political manoeuvring. She has travelled with them since, eventually returning to Sumara when circumstances demanded it — a homecoming that was neither simple nor painless.
+
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 45/Synopsis|Session 45 — The Faewild Crossing]]
+
+During the party's crossing through the [[Faewild]], Ayana was struck by [[Gossamer Dust]] while shielding Kai from a pixie's prank. The dust de-aged her into an eight-year-old child — she retained her magical ability but lost much of her adult composure, becoming playful, impulsive, and occasionally dangerous when startled into casting spells reflexively.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46 — The Shining City]]
+
+Ayana was restored to her true form by Elder Pip Glimmermoss upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her return sent shockwaves through the city — most had believed her dead for four decades. [[Warden Caeryn]], her former student, was the first to address her by name. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as heir to the Silmara royal bloodline.
+
+Her reunion with [[Illythia Voss]] was charged. Illythia struck her across the face before a word was spoken — forty years of silence will do that. They have since begun to reconcile, though the damage runs deep.
+
+## Trivia
+
+- Ayana's family were Blades for generations before her. She is the first Syndrosa to serve in the Weave, let alone lead it.
+- While posing as a human, she was careful never to demonstrate magic beyond what a talented young advisor might reasonably know. The restraint, by her own later admission, was maddening.
+- [[Warden Caeryn]] was visibly shaken when she returned — he had spent years believing his mentor was dead.
+- She currently believes the growing threat behind [[The Valtorran Empire]] may be a herald of a second [[The Chaos Wars|Chaos War]].

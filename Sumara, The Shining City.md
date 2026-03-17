@@ -42,7 +42,7 @@ After years of debate, the council authorized a one-time exception: a controlled
 
 They called it the **Emerald Ceremony**.
 
-It cost enormously. The Circle of the Weave committed its finest instruments and artifacts to the ritual. The Diminished Trove has barely restocked since. A small number of volunteers — including [[Ayana Syndrosa|Ayana Syndrosa]], then leader of the Circle of the Weave — crossed through into the Material Plane with instructions to observe and return.
+It cost enormously. The Circle of the Weave committed its finest instruments and artifacts to the ritual. The Diminished Trove has barely restocked since. A small number of volunteers — including [[Ayana Syndrosa|Ayana Syndrosa]], then Meridian of the Weave — crossed through into the Material Plane with instructions to observe and return.
 
 Ayana never came back. Neither, as far as Sumara knows, did most of the others.
 
@@ -90,9 +90,9 @@ The wide civic space surrounding the base of the Citadel's pinnacle. Ancient tre
 
 ## The Seven Cantons
 
-Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a key structure — a **floating building** — capable of lifting from its anchor point and drifting above the city. They dock at fixed anchor points when needed.
+Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a key structure — its **Nexus** — capable of lifting from its anchor point and drifting above the city. They dock at fixed anchor points when needed.
 
-| Circle | Canton | Function | Floating Building | Leader |
+| Circle | Canton | Function | Nexus | Meridian |
 |---|---|---|---|---|
 | The Weave | The Etherean Canton | Arcane magic, wards, research | The Locus Arcanum | Illythia Voss |
 | The Blade | The Ironsward Canton | Military, defence, border patrols | The Palisade Eternal | Commander Kaelen Vayne |
@@ -107,8 +107,8 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Elevation:** Upper — eastern caldera rim
 - **Architecture:** Sky-facing towers on natural stone arches; glass prism spires
 - **Function:** Maintains the city's magical wards, researches planar phenomena, trains arcane casters. Regulates use of high magic.
-- **Leader:** *Illythia Voss.* Brilliant, open-minded archmage. Took over leadership after her predecessor, [[Ayana Syndrosa|Ayana Syndrosa]], abruptly left the city twenty years ago. Precise and composed in public; warm underneath. Ayana's former lover.
-- **Floating Building — The Locus Arcanum:** A perfect sphere of translucent crystal, encircled by golden orrery rings that slowly rotate like an armillary sphere. Interior glows blue-violet. Star charts etched on every surface.
+- **Meridian:** *Illythia Voss.* Brilliant, open-minded archmage. Took over leadership after her predecessor, [[Ayana Syndrosa|Ayana Syndrosa]], abruptly left the city twenty years ago. Precise and composed in public; warm underneath. Ayana's former lover.
+- **Nexus — The Locus Arcanum:** A perfect sphere of translucent crystal, encircled by golden orrery rings that slowly rotate like an armillary sphere. Interior glows blue-violet. Star charts etched on every surface.
 - **Notable locations:** The Diminished Trove *(magic item shop, nearly bare post-Emerald Ceremony)* — run by Arcanist Levvel.
 
 ### The Ironsward Canton — Circle of the Blade
@@ -116,8 +116,8 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Elevation:** Mid — western terraces
 - **Architecture:** Strong angular defensible architecture; the only Canton with visible walls
 - **Function:** The military arm of Sumara. Trains border guards, patrols the inner bridges, maintains elven martial traditions.
-- **Leader:** *Commander Kaelen Vayne.* Stoic, heavily scarred veteran. Politically ambitious; has been the de facto council authority for a decade in the absence of royal leadership. Believes the royal line was a relic. Not evil — a man who has decided the best way to protect people is to control everything.
-- **Floating Building — The Palisade Eternal:** A squat angular fortress tower of dark grey stone, covered in carved battle reliefs. Arrow slits glow faintly red. A giant elven broadsword is mounted vertically on its face.
+- **Meridian:** *Commander Kaelen Vayne.* Stoic, heavily scarred veteran. Politically ambitious; has been the de facto council authority for a decade in the absence of royal leadership. Believes the royal line was a relic. Not evil — a man who has decided the best way to protect people is to control everything.
+- **Nexus — The Palisade Eternal:** A squat angular fortress tower of dark grey stone, covered in carved battle reliefs. Arrow slits glow faintly red. A giant elven broadsword is mounted vertically on its face.
 - **Notable locations:** Torgrun's Curiosia *(curiosity shop)* — run by **Torgrun Brasswick**, a dwarf who came to Sumara with the Exile rather than be separated from his wife, Syriel Brasswick (née Faenwren), an elf of the Root. He has not seen another dwarf in 100 years.
 
 ### The Luminary Canton — Circle of the Dawn
@@ -125,32 +125,32 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Elevation:** Mid — southern slopes, sun-facing
 - **Architecture:** Tiered gardens and greenhouse healing halls; The Shivering Veil crashes through here before being channeled
 - **Function:** Physicians, clerics, and alchemists. Tend to physical and spiritual health; rely heavily on unique Faewild flora.
-- **Leader:** *Elder Silaqui Amastacia.* A deeply empathetic, soft-spoken cleric who rarely leaves the botanical infirmaries. Gentle, open, accessible. Most likely council member to be moved by Ryo's claim.
-- **Floating Building — The Luminarium:** An enormous glass-and-copper conservatory with a domed roof. Living plants erupt from every window. When floating, trailing vines hang beneath it like ribbons. Glows warm amber.
+- **Meridian:** *Elder Silaqui Amastacia.* A deeply empathetic, soft-spoken cleric who rarely leaves the botanical infirmaries. Gentle, open, accessible. Most likely council member to be moved by Ryo's claim.
+- **Nexus — The Luminarium:** An enormous glass-and-copper conservatory with a domed roof. Living plants erupt from every window. When floating, trailing vines hang beneath it like ribbons. Glows warm amber.
 
 ### The Mnemorium Canton — Circle of the Scroll
 
 - **Elevation:** Upper — carved INTO the northern cliff face; half excavated, half above ground
 - **Architecture:** Deep stone halls, high ceilings, perennial dim light
 - **Function:** Archivists and lore-keepers. Maintain the vast libraries of Sumara, preserve the true history of the Material Plane, the Chaos Wars, and the elven lineage.
-- **Leader:** *Archivist Elrohir Gemflower.* Ancient, dry, absent-minded. More comfortable among crumbling tomes than living people. Allied with Kaelen Vayne on pragmatic grounds; will argue his position via historical precedent. Conceded the Verdant Vault test reluctantly.
-- **Floating Building — The Oraculum:** A tiered tower of deep indigo stone that seems to absorb light rather than reflect it. At its peak, a large crystal lens slowly rotates, catching starlight and projecting shifting glyphs across the sky. Windows flicker with the light of a thousand candles. Implies secrets, prophecy, and a thousand years of watching.
+- **Meridian:** *Archivist Elrohir Gemflower.* Ancient, dry, absent-minded. More comfortable among crumbling tomes than living people. Allied with Kaelen Vayne on pragmatic grounds; will argue his position via historical precedent. Conceded the Verdant Vault test reluctantly.
+- **Nexus — The Oraculum:** A tiered tower of deep indigo stone that seems to absorb light rather than reflect it. At its peak, a large crystal lens slowly rotates, catching starlight and projecting shifting glyphs across the sky. Windows flicker with the light of a thousand candles. Implies secrets, prophecy, and a thousand years of watching.
 
 ### The Judicant's Canton — Circle of the Scales
 
 - **Elevation:** Mid — centrally placed near the Commons approach
 - **Architecture:** Balanced, symmetric; has a formal welcome hall
 - **Function:** Judges and diplomats. Resolve internal disputes, regulate resource distribution, theoretically handle diplomacy with independent Fey courts.
-- **Leader:** *Justiciar Naivara Siannodel.* Sharp-tongued, fiercely pragmatic. Rulings are absolute and final. Allied with Kaelen Vayne; operates exclusively on legal arguments.
-- **Floating Building — The Justicium:** Perfectly bisected: one half gleaming white marble, one half polished black stone. A massive set of scales adorns the roofline. Columns on each side are perfectly mirrored.
+- **Meridian:** *Justiciar Naivara Siannodel.* Sharp-tongued, fiercely pragmatic. Rulings are absolute and final. Allied with Kaelen Vayne; operates exclusively on legal arguments.
+- **Nexus — The Justicium:** Perfectly bisected: one half gleaming white marble, one half polished black stone. A massive set of scales adorns the roofline. Columns on each side are perfectly mirrored.
 
 ### The Fundament Canton — Circle of the Loom
 
 - **Elevation:** Lower — where the waterfall reaches the valley floor
 - **Architecture:** Workshops, aqueducts, forge-halls; covered in scaffolding and geometric measurement marks
 - **Function:** Builders and enchanters. Construct and maintain Sumara's physical infrastructure, weaving magic into stone and glass.
-- **Leader:** *Master Artisan Fenian.* A perfectionist who views the entire city as a single ongoing art project. Cautious; watches stronger personalities for cues before committing.
-- **Floating Building — The Architecton:** Covered in permanent decorative scaffolding. Cranes and pulleys frozen mid-air. Geometric patterns and measurement marks cover every surface. Looks like a master architect's greatest unfinished work.
+- **Meridian:** *Master Artisan Fenian.* A perfectionist who views the entire city as a single ongoing art project. Cautious; watches stronger personalities for cues before committing.
+- **Nexus — The Architecton:** Covered in permanent decorative scaffolding. Cranes and pulleys frozen mid-air. Geometric patterns and measurement marks cover every surface. Looks like a master architect's greatest unfinished work.
 - **Notable locations:** The Ironweave *(blacksmith)* — run by Ferethis, a lean, quiet elven smith who works exclusively with Faewild metals (Starfall Iron, Heartwood-Bound, Moon-Quenched Steel).
 
 ### The Greensward Canton — Circle of the Root
@@ -158,16 +158,16 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Elevation:** Lowest — bioluminescent terraced farms and druidic groves
 - **Architecture:** Barely distinguishable from the living landscape; glowing terraces, open groves
 - **Function:** Druids and agriculturalists. Harmonize with the volatile magic of the Faewild to grow food and safely harvest resources.
-- **Leader:** *Warden Sylvaris.* A wilder, less formal elf who spends most of their time in the agricultural terraces. Suspicious of outsiders; deeply isolationist. Values Sumara's protection above all.
-- **Floating Building — The Sanctum Canoporium:** Impossible to tell where the building ends and the living world begins. Trees grow through the floors and out through its roof. Covered entirely in living moss, flowering vines, and luminescent fungi. When floating, soil and trailing roots hang beneath it. The air around it always smells of rain.
+- **Meridian:** *Warden Sylvaris.* A wilder, less formal elf who spends most of their time in the agricultural terraces. Suspicious of outsiders; deeply isolationist. Values Sumara's protection above all.
+- **Nexus — The Sanctum Canoporium:** Impossible to tell where the building ends and the living world begins. Trees grow through the floors and out through its roof. Covered entirely in living moss, flowering vines, and luminescent fungi. When floating, soil and trailing roots hang beneath it. The air around it always smells of rain.
 
 ## The Confluence
 
-The formal gathering of all seven Circle leaders. Called when a matter of city-wide significance must be decided. Only convened a handful of times in Sumara's history.
+The formal gathering of all seven Meridians. Called when a matter of city-wide significance must be decided. Only convened a handful of times in Sumara's history.
 
-**Location:** The seven floating buildings dock together high above the city, joined at the peak of the Royal Citadel — a crystalline platform open to the sky. Bridges of light extend between each building and the central platform. The whole city watches from below.
+**Location:** The seven Nexus Citadels dock together high above the city, joined at the peak of the Royal Citadel — a crystalline platform open to the sky. Bridges of light extend between each Nexus and the central platform. The whole city watches from below.
 
-**How it's called:** Any Circle leader may call a Confluence, but convention holds that it requires a matter of genuine gravity. The last Confluence was called at the Exile.
+**How it's called:** Any Meridian may call a Confluence, but convention holds that it requires a matter of genuine gravity. The last Confluence was called at the Exile.
 
 ## The Verdant Vault
 
@@ -227,14 +227,14 @@ No one has entered in 100 years.
 
 | Name | Role | Canton |
 |---|---|---|
-| [[Ayana Syndrosa\|Ayana Syndrosa]] | Former leader, Circle of the Weave | Etherean (returned) |
-| Illythia Voss | Current leader, Circle of the Weave | Etherean |
-| Kaelen Vayne | Leader, Circle of the Blade; de facto council authority | Ironsward |
-| Elder Silaqui Amastacia | Leader, Circle of the Dawn | Luminary |
-| Archivist Elrohir Gemflower | Leader, Circle of the Scroll | Mnemorium |
-| Justiciar Naivara Siannodel | Leader, Circle of the Scales | Judicant's |
-| Master Artisan Fenian | Leader, Circle of the Loom | Fundament |
-| Warden Sylvaris | Leader, Circle of the Root | Greensward |
+| [[Ayana Syndrosa\|Ayana Syndrosa]] | Former Meridian, Circle of the Weave | Etherean (returned) |
+| Illythia Voss | Meridian, Circle of the Weave | Etherean |
+| Kaelen Vayne | Meridian, Circle of the Blade; de facto council authority | Ironsward |
+| Elder Silaqui Amastacia | Meridian, Circle of the Dawn | Luminary |
+| Archivist Elrohir Gemflower | Meridian, Circle of the Scroll | Mnemorium |
+| Justiciar Naivara Siannodel | Meridian, Circle of the Scales | Judicant's |
+| Master Artisan Fenian | Meridian, Circle of the Loom | Fundament |
+| Warden Sylvaris | Meridian, Circle of the Root | Greensward |
 | Torgrun Brasswick | Curiosity shop owner (dwarf, from Glimmerforge) | Ironsward |
 | Syriel Brasswick | Torgrun's wife, elf of the Root circle | Ironsward/Greensward |
 | Lyris Thornweave | Tavern owner, sylvan | Heartstone Commons |

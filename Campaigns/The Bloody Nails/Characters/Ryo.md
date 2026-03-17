@@ -1,1 +1,1 @@
-Child of [[Ratha]] and [[Rhennaya]] [[Silmara Family|Silmara]]
+Child of [[Ratha Silmara]] and [[Rhennaya Silmara]] [[Silmara Family|Silmara]]

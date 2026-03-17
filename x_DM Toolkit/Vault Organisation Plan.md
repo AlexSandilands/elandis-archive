@@ -528,6 +528,27 @@ tags: [session-prep]
 - Object names → Item
 - Ambiguous → ask user
 
+### 7.5 `codex-audit`
+**Trigger:** `/codex-audit` or "audit <character name>"
+
+Validates that a Character's Campaign appearance sections are accurate against the actual session synopses. Characters accumulate campaign sections over time and it's easy for details to drift, get attributed to the wrong session, or for appearances to be missed entirely.
+
+**Workflow:**
+1. Read the target Character's Codex entry
+2. Extract all Campaign session references (e.g. `Session 45`, `Session 46`)
+3. Read each referenced synopsis and verify:
+   - The character actually appears in that session
+   - The events described in the character's entry match the synopsis
+   - Key details (locations, other characters involved, outcomes) are accurate
+4. Search all synopses for additional appearances not yet listed in the character's entry
+5. Report:
+   - **Confirmed:** Sections that match the synopses
+   - **Discrepancies:** Details that don't match (with quotes from both sources)
+   - **Missing appearances:** Sessions where the character appears but has no entry section
+6. Optionally apply fixes (with user confirmation)
+
+**Scope:** Initially Characters only, but could extend to Locations/Factions tracking their campaign appearances.
+
 ---
 
 ## 8. Existing Skills to Keep
