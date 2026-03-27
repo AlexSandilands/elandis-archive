@@ -1,5 +1,45 @@
 # Elandis Vault Organisation Plan
 
+## Progress Checklist
+
+### Phase 1: Infrastructure
+- [x] Create folder structure (Codex/, Codex/Assets/, Codex - Restricted/ and all subfolders)
+- [x] Create all 7 Codex document templates (Character, City, Region, POI, Faction, Lore, Item, Restricted)
+- [x] `campaign-audit` skill — built and tested on Ayana Syndrosa
+- [x] `shrink-image` skill — built (uses ImageMagick to generate 500px-wide `_small` thumbnails)
+- [x] Warden Caeryn created as Minor character gold standard reference
+- [x] Minor character format established (short opening paragraph + Biography + Campaign section with bullet-per-session)
+- [x] Naming conventions documented (Section 8) — "The" rule, session title convention
+- [ ] Update session prep template (x_Templates/Prep/Prep - Session.md)
+- [ ] `codex` skill — Characters only first, extend to other categories later
+- [ ] `session-prep` skill (redesigned session prep)
+- [ ] `synopsis-cleanup` skill
+- [ ] `migrate-to-codex` skill
+- [ ] Update CLAUDE.md with new folder structure
+
+### Phase 2: Batch Migration — Empty Files
+- [ ] Migrate ~120 empty placeholder files as Minor entries via `migrate-to-codex`
+
+### Phase 3: Content Migration — Non-Empty Files
+- [ ] Major entities (~10-15 files: Empress Morganna, Sumara, Valtorran Empire, Ayana, Kharazoth, The Shattering, etc.)
+- [ ] Minor entities with content (~30-40 files)
+- [ ] Remaining files (~20-30)
+
+### Phase 4: Synopsis Cleanup
+- [ ] Run `synopsis-cleanup` on most recent 5-10 synopses
+
+### Phase 5: Polish & Publish
+- [ ] Name all sessions — add titles to every Synopsis frontmatter (see Section 8: Session Title Convention)
+- [ ] Update `campaign-audit` skill to pull session titles from Synopsis frontmatter and apply them to Campaign section headings
+- [ ] Backfill session titles in all existing Campaign sections (Ayana, future characters)
+- [ ] Audit all wikilinks for broken links
+- [ ] Create Codex.base index (via Obsidian GUI)
+- [ ] Configure Obsidian Publish settings
+- [ ] Final review pass
+- [ ] Go live
+
+---
+
 ## Context
 
 The Elandis Obsidian vault has ~150+ lore files dumped at root level with no consistent structure, frontmatter, or formatting. The vault needs to be organised for publication via Obsidian Publish as a player-facing wiki, while keeping DM-only content private. This plan covers: folder structure, document standards, Claude Code skills for consistent content creation, session prep improvements, synopsis cleanup automation, image prompt generation, and a phased backfill strategy.
@@ -239,13 +279,19 @@ Fun facts, voice notes, behind-the-scenes details.
 ```
 
 ### Character - Minor
+Reference: `Codex/Characters/Warden Caeryn.md`
+
 ```markdown
 > [!infobox|wikipedia]
 > # Name
 > [![[Codex/Assets/Characters/Name_small.png|cover hsmall]]](Codex/Assets/Characters/Name.png)
 > (same table structure, omit unknown fields rather than leaving blank)
 
-Opening paragraph summary (3-5 polished sentences: who they are, what they do, how they fit into the world). Should read as a complete wiki entry, just brief.
+Opening paragraph — 2-3 sentences only. Who they are, their role in the world, one brief physical or personality note. No references to the player characters — this is purely who they are in the world.
+
+## Biography
+
+Concise prose covering their recent actions and how they have intersected with the campaign and the party. Not a full life story — focused on what is known and what has happened. One to three paragraphs.
 ```
 
 ### City - Major
@@ -551,7 +597,34 @@ Validates that a Character's Campaign appearance sections are accurate against t
 
 ---
 
-## 8. Existing Skills to Keep
+## 8. Naming Conventions
+
+### "The" in Document Titles
+
+**Rule:** If "The" is capitalised in natural prose, it is part of the proper name — include it in the filename. If it would be lowercase in a sentence, it is just an article — omit it.
+
+| Category | Convention | Examples |
+|---|---|---|
+| **Events & ceremonies** | Keep "The" — it's part of the name | `The Emerald Ceremony.md`, `The Shattering.md`, `The Chaos Wars.md` |
+| **Locations & structures** | Drop "The" — it's just an article | `Stoneheart.md`, `Liar's River.md`, `Ruby Falls Goldmine.md` |
+| **Factions** | Keep "The" only if it's part of the self-given name | `The Bloody Nails.md` ✓ — `Valtorran Empire.md` (no "The") |
+| **Characters** | N/A — character names don't have leading articles | — |
+
+**In prose:** When linking mid-sentence where lowercase "the" is needed, use the pipe syntax: `[[Stoneheart|the Stoneheart]]`. For names that include "The", it will be capitalised as part of the proper noun: `during [[The Emerald Ceremony]]`.
+
+### Session Title Convention
+
+Campaign section headings use `Session N` only until all sessions have been formally named:
+
+```markdown
+#### [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46]]
+```
+
+Once sessions are named, the title will be stored in each Synopsis's frontmatter and the display text updated to `Session N — Title`. The `campaign-audit` skill will be updated to read from frontmatter and apply titles automatically.
+
+---
+
+## 9. Existing Skills to Keep
 
 - **`whisperx-prompt`** — No changes needed. Works well.
 - **`session-context`** — No changes needed. Works well.
