@@ -11,9 +11,10 @@
 - [x] Minor character format established (short opening paragraph + Biography + Campaign section with bullet-per-session)
 - [x] Naming conventions documented (Section 8) — "The" rule, session title convention
 - [ ] Update session prep template (x_Templates/Prep/Prep - Session.md)
-- [ ] `codex` skill — Characters only first, extend to other categories later
+- [x] `codex` skill — Characters only first, extend to other categories later
 - [ ] `session-prep` skill (redesigned session prep)
 - [ ] `synopsis-cleanup` skill
+- [ ] Extend `codex` skill to other categories (City, Region, POI, Faction, Lore, Item)
 - [ ] `migrate-to-codex` skill
 - [ ] Update CLAUDE.md with new folder structure
 
