@@ -78,7 +78,7 @@ Built on the white stone pinnacle at the caldera's center, accessible only via t
 
 It has been sealed for 100 years. No one enters.
 
-Beneath the Citadel, accessible via a hidden staircase in its lower level, is the entrance to the [[Verdant Vault]].
+Beneath the Citadel, accessible via a hidden staircase in its lower level, is the entrance to the [[Vault of Memories]].
 
 ## The Heartstone Commons
 
@@ -175,7 +175,7 @@ A sealed chamber beneath the Royal Citadel, accessible only to a member of the S
 
 No one has entered in 100 years.
 
-→ *Full detail: [[Verdant Vault]]*
+→ *Full detail: [[Vault of Memories]]*
 
 ## Shops & Locations
 

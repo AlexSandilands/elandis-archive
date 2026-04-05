@@ -1,30 +1,33 @@
 ---
-Type: NPC
+Type: Character
 Creature Type: Humanoid
 Species: Human
 Gender: Female
 Pronouns: She/Her
 Age: 24
 Languages: Common, Dwarvish
-Place: Silverdeep
-Connections: The Finegolds, The Bloody Nails
+Place: "[[Silverdeep]]"
+Connections:
+  - "[[The Finegolds]]"
+  - "[[The Bloody Nails]]"
 Profession: Merchant
+Importance: Major
 Status: Alive
 NoteIcon: npc
-cssclasses: 
+cssclasses:
+  - hide-header-underline-3
 tags:
-  - NPC
-  - todo
+  - character
 aliases:
   - Gemma
 ---
 > [!infobox|wikipedia]
 > # Gemma Finegold
-> [![[Gemma_Finegold_small.png|cover hsmall]]](Gemma_Finegold.png)
+> [![[Codex/Assets/Characters/Gemma_Finegold_small.png|cover hsmall]]](Codex/Assets/Characters/Gemma_Finegold.png)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
-> Type | NPC |
+> Type | Character |
 > ###### Character Information
 > Attribute |  Details |
 > ---|---|
@@ -42,12 +45,9 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-Gemma is a key member of [[The Finegolds]], an independent and well-regarded group of merchants operating in [[Valtorra]]. Though her father, [[Harland Finegold]], served as the group's ostensible leader, it was Gemma who managed the books, oversaw logistics, and devised financial strategies, honing her skills under Harland’s rigorous tutelage since childhood.
-When her father was killed by [[Seraphina]] in the [[Farhaven Forest]], she naturally stepped into the leadership role of the group without question.
+**Gemma Finegold** is the leader of [[The Finegolds]], a respected independent merchant company operating across [[Valtorra]]. Sharp-minded and quietly driven, she spent years as the true engine of the business while her father [[Harland Finegold]] served as its public face — managing the books, overseeing logistics, and devising strategy from behind the scenes. When Harland was murdered by an Imperial assassin in the [[Farhaven Forest]], she assumed command without hesitation. The grief was real. So was the resolve.
 
-Her path crossed with [[The Bloody Nails]] just outside of [[Darmouth]], where she found them stranded after a shipwreck. With a characteristic blend of resourcefulness and generosity, she offered her assistance in helping them reach the city.
-
-This proved to be a very key meeting, as she was currently tasked with a mission to retrieve vital information to be used for an assault on the Imperial project [[Skyreach]], which as fates had decided was the very location [[The Bloody Nails]] were being shipped to as prisoners before escaping.
+Her path crossed with [[The Bloody Nails]] on the road to [[Darmouth]], where she found them stranded and vulnerable after a shipwreck. The meeting appeared accidental. In hindsight, it was anything but — the ragged group she took under her wing as hired guards were the same prisoners who had escaped the ship bound for [[Skyreach]], the very Imperial project she had been tasked to undermine.
 
 ## Description
 
@@ -61,11 +61,11 @@ A light dusting of freckles dances across her nose and cheeks, adding a touch of
 
 #### Personality
 
-Gemma’s personality is a blend of resilience, sharpness, and a touch of sorrow. On most days, she carries a cheerful demeanour, often smiling and quick with a witty remark. However, the loss of both her parents has left a melancholy undertone to her mood, and those close to her can sense the grief lingering beneath her bright exterior. Her sharp mind and perceptive nature make her adept at cutting through lies and spotting deception, a skill honed through years of handling merchant negotiations and strategies.
+Gemma’s default register is warmth — quick to smile, quick with a remark, the kind of person who lightens a room without trying. But the lightness sits atop something heavier. She has lost both parents to Imperial cruelty, one to a public execution when she was nine years old and one to an assassin’s blade years later, and those who know her well can sense where the humour ends and the grief begins. Her sharp mind and perceptive nature make her difficult to deceive; years of merchant negotiations have made her a natural reader of people and a precise judge of character.
 
-She has a deep fondness for [[The Bloody Nails]], as their actions saved both her life and the lives of her friends. Having travelled together for weeks, she feels a strong bond with them and trusts them implicitly, often showing warmth and gratitude in their interactions.
+She has a deep and genuine affection for [[The Bloody Nails]], who saved her life and the lives of everyone she cares about. Weeks of shared road — and one desperate ambush in the Farhaven ruins — have hardened that bond into something she doesn’t question. She trusts them. In Gemma’s world, that is rare.
 
-When it comes to [[The Valtorran Empire|The Empire]], however, Gemma’s usual light-heartedness disappears entirely. She harbours a deep and burning hatred for , blaming them for the deaths of her parents and the suffering inflicted on countless others. Any mention of [[The Valtorran Empire|The Empire]] is guaranteed to stir a rare but intense anger in her, revealing the depths of her pain and her desire for justice—or perhaps vengeance.
+When the conversation turns to [[The Valtorran Empire|The Empire]], the warmth vanishes entirely. Her hatred is quiet and total — less rage than cold, settled conviction. She has spent years working against the Empire from the margins, and her father’s death has only sharpened that purpose. She is not interested in justice in any abstract sense. She wants it dismantled.
 
 ##  Biography
 
@@ -75,19 +75,66 @@ Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a 
 
 The aftermath changed them both forever. Her father, [[Harland Finegold|Harland]], lost his passion for work, becoming increasingly distant and spending more time trying to guide Gemma to becoming who she is today. Gemma, however, channelled her grief and anger into a burning hatred for the Empire, vowing to oppose them and aid anyone crushed under their oppressive rule.
 
-In recent years, Gemma has made a name for herself within [[The Finegolds]]. While her father remained the figurehead, it was Gemma’s sharp mind that kept their merchant operations thriving. Her most notable achievement came when she met [[Barak Stormrider]] while transporting goods for [[The Mawbreakers]]. The two struck up a close friendship, and Barak confided in her his plans to dismantle the Imperial project [[Skyreach]]. Recognizing her unique skills, Barak enlisted her help. As a merchant, Gemma’s legitimate status allowed her to move freely between cities with minimal suspicion, and her expertise in concealing contraband proved invaluable.
+In recent years, Gemma made a name for herself within [[The Finegolds]]. While her father remained the figurehead, it was her sharp mind that kept the merchant operations thriving. Her most significant connection came through a cargo run for [[The Mawbreakers]], where she met [[Barak Stormrider]]. The two struck up a close friendship, and Barak eventually confided in her his plans to dismantle the Imperial project [[Skyreach]]. He recognised her value immediately — a legitimate merchant could move between cities with minimal suspicion, and her expertise in concealing contraband was exactly the kind of skill the network needed.
 
-Her latest mission was to retrieve [[Skyreach]] blueprints from [[The Order of Ravens]] in [[Darmouth]]. While en route, she encountered [[The Bloody Nails]], who had recently escaped captivity after a shipwreck. Seeing their plight, Gemma offered her aid, helping them reach the city safely—a meeting that would soon prove vital to her mission.
+![[Gemma_Finegold_Mourning_small.png|right|261]]
 
-Currently, Gemma continues her travels with [[The Finegolds]], grappling with the profound loss of her father and her growing responsibilities. Despite her grief, she remains fiercely dedicated to her cause: aiding rebellion and undermining [[The Valtorran Empire|The Empire]] at every turn. Her ultimate goal is to see [[The Valtorran Empire|The Empire]] toppled and ensure no one else suffers the same fate her family endured.
+Her first major assignment for Barak took her south to [[Darmouth]], where she was to retrieve [[Skyreach]] blueprints held by [[The Order of Ravens]]. En route, she encountered [[The Bloody Nails]] — recently escaped from Imperial captivity following a shipwreck on the Valtorran coast. Recognising both their plight and their potential, she folded them into the caravan as hired guards, a decision that proved pivotal when their knowledge of [[Skyreach]] dovetailed with her own mission.
 
-### Campaign: [[The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+The cost of that mission came later. A trap laid by the Imperial assassin [[Seraphina]] drew both Gemma and [[The Bloody Nails]] into the [[Farhaven Forest]], where [[Harland Finegold|Harland]] was murdered and the rest of [[The Finegolds]] taken captive. The party arrived in time to fight off Seraphina and free the survivors, but not in time to save her father. Gemma buried him in the ruins of Farhaven and resumed her work the following morning — not because she had processed the grief, but because she refused to let it stop her.
 
-- [ ] Why did they appear in this session
-- [ ] What did they do
-- [ ] How did they interact with the players
+She leads [[The Finegolds]] now. Quietly, competently, and with the same sharp eye her father spent years cultivating in her. She continues to operate as an intelligence asset for the anti-Imperial network, passing information between cells and leveraging her merchant cover to move where soldiers cannot.
+
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis|Session 1]]
+
+The party, freshly escaped from a shipwreck on the Valtorran coast, flagged down [[The Finegolds]]' caravan on the road to [[Darmouth]]. Gemma, travelling alongside healer [[Maeve Greycloud]], recognised the stranded group's vulnerability and struck a deal: the party would serve as hired guards in exchange for safe passage into the city — giving them cover from Imperial suspicion.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 02/Synopsis|Session 2]]
+
+The caravan journey north continued under Gemma's watchful eye. The group settled into the rhythm of the road, with Gemma managing logistics and keeping spirits measured. A tense first-night watch revealed the sound of hyenas tracking the convoy from a distance, though the threat never materialised.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 03/Synopsis|Session 3]]
+
+At the gates of [[Darmouth]], Gemma urged the party to keep their heads down as guards singled out two members for questioning. Later that evening, in a private meeting at [[The Seafarer's Rest]], she broke the pretence entirely — admitting she had known the party were escaped prisoners since the moment they met on the road. She revealed her work with the rebellion, her connection to underground cells pursuing information about the Imperial project [[Skyreach]], and the significance of the operatives [[Ella]] and [[Uric]].
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 04/Synopsis|Session 4]]
+
+After [[The Bloody Nails]] broke [[Ella]] out of Imperial custody, Gemma and [[Uric]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle [[The Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 05/Synopsis|Session 5]]
+
+The party rendezvoused with [[The Finegolds]] on the High Road, narrowly avoiding an Imperial patrol. Gemma confirmed she had secured the "[[Skyreach]] package" and promised to share the full details when the time was right.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 07/Synopsis|Session 7]]
+
+After the party cleared the goblin threat plaguing the road, Gemma agreed to return to [[Darmouth]] on their behalf — submitting the [[The Green Gryphons]] contract and collecting the reward, freeing the party to press on toward [[Camaar]].
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 08/Synopsis|Session 8]]
+
+Gemma and [[Doran Ironfist]] rejoined the convoy, distributing 820 gold from the goblin contract. In a private moment, she showed [[Vaeleran]] a "Wanted" poster bearing a sketch of a scarred older man resembling him — worth 5,000 gold — and, correctly deducing he was an enemy of the Empire, invited him to join her cause. She then led the party to [[The Mawbreakers]]' guildhall at the [[Camaar]] docks to meet [[Barak Stormrider]], where the contents of the Skyreach package — detailed blueprints for a secret bridge spanning the [[Aeolian Chasm]] — were finally revealed.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 09/Synopsis|Session 9]]
+
+After a brutal fight in [[Camaar]], the party retreated to [[The Lion]] inn. Gemma greeted them on their return, noted their injuries with quiet concern, and helped secure lodgings for three nights while they recovered.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 19/Synopsis|Session 19]]
+
+Tragedy struck in the [[Farhaven Forest]], where the party discovered the crude grave of [[Harland Finegold]] — his throat slashed. Tracking deeper into the ruins, they found Gemma and the rest of [[The Finegolds]] held captive by the assassin [[Seraphina]]. After a fierce battle, Seraphina was slain. Gemma, shaken but composed, revealed that the assassin had forced [[Lilliana Featherfoot]] to lure the party into the ambush. Harland was given a proper burial, and Gemma quietly asked [[Vaeleran]] to use his contacts to investigate the name "Corvas."
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 20/Synopsis|Session 20]]
+
+In the aftermath of her father's death, [[Kai]] sought Gemma out and offered what comfort he could. She received it with quiet gratitude, but her grief had already hardened into something resolute — a renewed and burning conviction to fight the Empire whatever the cost.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 21/Synopsis|Session 21]]
+
+Gemma delivered the intelligence [[Vaeleran]] had requested: the name "Korvas" was linked to the former head of the Imperial Garrison in [[Val Noren]], a man who had mysteriously disappeared months prior.
+
+#### [[Campaigns/The Bloody Nails/Sessions/Session 28/Synopsis|Session 28]]
+
+A chance encounter on the streets of [[Val Miriel]] reunited the party with Gemma. [[The Finegolds]] were in the process of securing an Imperial travel licence, likely bound for [[Val Aerie]]. The party, needing to travel light, handed off their cart and horses to her care. Before parting, [[Vaeleran]] warned her of dangerous "walking dead" near [[Val Aran]] and hinted at a potential ally among the clergy at [[Val Aerie]].
 
 ## Trivia
 

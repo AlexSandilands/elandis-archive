@@ -1,3 +1,8 @@
+---
+aliases:
+  - Silmara
+---
+
 Royal Bloodline of the Elves
 "Blessed by Mother" (referring to the World Tree)
 [[Ratha Silmara]] and [[Rhennaya Silmara]] were the last known rulers, parents of [[Ryo]]

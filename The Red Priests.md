@@ -3,8 +3,6 @@ aliases:
   - The Red Priest
   - Red Priest
 ---
-
-
 [[Violeta]]  - F, Death (deceased)
 [[Ordelia]]  - F, Death
 [[Rhazien]] - M, Death
