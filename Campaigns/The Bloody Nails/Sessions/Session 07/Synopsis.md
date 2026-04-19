@@ -20,7 +20,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|4th Water, 1st - 2507]] |
 > Location | [[Goblin Lair]]
-> Characters | [[Grakthor]]<br>[[Lenny]]<br>[[Ellie]]<br>[[Vallania Miriel]] |
+> Characters | [[Grakthor]]<br>[[Lenny]]<br>[[Ellie]]<br>[[Vallania Miriel\|Nia]] |
 
 ## Summary
 
@@ -77,4 +77,8 @@ The session concludes at [[The Finegolds]]' merchant camp. The party reunites [[
 
 ### Goblin Shrine
 
-![[Goblin Shrine.png]]
+![[Goblin_Shrine.png]]
+
+### Goblin Tent City
+
+![[Temple_Landing.jpg]]

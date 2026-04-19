@@ -10,7 +10,7 @@ tags:
 
 - [x] Rat Swarm Fight
 - [x] Prison Break Mechanics (Entering & Escaping)
-- [x] Rescue [[Ella]] & Retrieve Intel
+- [x] Rescue [[Ella Sable]] & Retrieve Intel
 - [x] Post-Breakout Logistics (Safe house/Escape)
 - [x] Temple Scene (Kai's Vision)
 - [x] Uric & Eryndor Interaction
@@ -23,7 +23,7 @@ tags:
 
 > [!Danger] Combat
 > **3x Rat Swarms**
-> *The players start in the sewers under the prison. Their goal is to rescue [[Ella]] who is a member of [[The Order of Ravens]] and had stolen some vital information for the rebellion against the Empire.*
+> *The players start in the sewers under the prison. Their goal is to rescue [[Ella Sable]] who is a member of [[The Order of Ravens]] and had stolen some vital information for the rebellion against the Empire.*
 
 ## Entering The Prison
 
@@ -104,7 +104,7 @@ tags:
 ### Storage Room
 - **Occupant:** Empty.
 - **Contents:** Confiscated prisoner items & Guard uniforms.
-- **Quest Item:** [[Ella]]'s items are here.
+- **Quest Item:** [[Ella Sable]]'s items are here.
 
 ### The Prison Area (Guards & Prisoners)
 
@@ -115,14 +115,14 @@ tags:
 
 **Prisoners:**
 - **[[Garn]]:** Market stall owner (Tax evasion).
-- **[[Ella]]:** Order of Ravens contact.
+- **[[Ella Sable]]:** Order of Ravens contact.
 
 ### Rescue & Intel
-- **If Stealthy:** [[Ella]] says she needs to retrieve her items from **Storage Room** (intel is in her boot).
+- **If Stealthy:** [[Ella Sable]] says she needs to retrieve her items from **Storage Room** (intel is in her boot).
 - **If Alarm Raised:** Intel is stored under the 9th cobblestone curb block north from the lantern on State Street (Military Quarter).
 
 ### The Bluff
-- **Plan:** [[Ella]] wears the **Red Cloak** (Hand of the Empire disguise).
+- **Plan:** [[Ella Sable]] wears the **Red Cloak** (Hand of the Empire disguise).
 - **Mechanics:**
 	- Guard Suspicion: DC 13 Perception.
 	- Player Intimidation: DC 15 (Advantage if players are in uniform).
@@ -152,14 +152,14 @@ tags:
 ## Post-Prison Break
 
 ### Escape Logistics
-- [[Ella]] suggests a safe house to lay low.
-- **Alternative:** If leaving immediately, [[Uric]] whistles and leads them to meet [[Gemma]].
+- [[Ella Sable]] suggests a safe house to lay low.
+- **Alternative:** If leaving immediately, [[Uric Graad]] whistles and leads them to meet [[Gemma]].
 - [[Gemma]] gives **3 Potions of Healing**.
 - **Plan:** [[Gemma]] stays to convince [[The Green Gryphons]] she completed the contract.
-- **Exit:** [[Uric]] and [[Ella]] lead the group to the **Temple**.
+- **Exit:** [[Uric Graad]] and [[Ella Sable]] lead the group to the **Temple**.
 
 ### Uric & Eryndor
-- [[Uric]] pulls [[Eryndor]] aside.
+- [[Uric Graad]] pulls [[Eryndor]] aside.
 - *"Did you want me to try to get word to your father? Or do you think you'll head past Val Miriel yourself at some point?"*
 - Notices magic in [[Eryndor]]'s eyes. Shows him how to use **Mage Hand**.
 
@@ -185,7 +185,7 @@ tags:
 - **Sub-Basement:** Dressed 4 people in uniforms (Ryo wore Red Cloak). Two pretended to be prisoners.
 - **Basement:** Snuck past sleeping guards.
 - **Prison Area:** Intimidated guards [[Daavid]] & [[Erinar]] ("Prisoner Transfer"). Guards opened the cell.
-- **Rescue:** [[Ella]] led them to Storage Room.
+- **Rescue:** [[Ella Sable]] led them to Storage Room.
 - **Conflict:** Guard [[Layla]] heard them, tried to ring the bell, was bound/gagged.
 - **Exit:** Braced main doors, escaped back through the sewer tunnel, covered the hole with crates.
 - **Loot/Rewards:** 2 Potions of Healing (from Gemma), Mage Hand (Eryndor), Holy Symbol (Kai).

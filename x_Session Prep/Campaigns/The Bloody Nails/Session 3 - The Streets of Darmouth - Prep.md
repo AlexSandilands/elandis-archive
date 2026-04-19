@@ -16,7 +16,7 @@ tags:
 - [ ] **Roleplay:** [[Gemma Finegold|Gemma]] reveals she knows about the shipwreck.
 - [x] **Quest Hook:** The Goblin Job ([[The Green Gryphons]]).
 - [x] **Event:** The Eye ([[Seraphina]] sighting).
-- [x] **Event:** Guards in the Alley ([[Ella]] & [[Uric]]).
+- [x] **Event:** Guards in the Alley ([[Ella Sable]] & [[Uric Graad]]).
 
 ## Recap
 
@@ -104,21 +104,21 @@ tags:
 
 >[!summary]+ Scene
 > Someone notices a scuffle in an alleyway.
-> Three guards are chasing a woman in a black cloak ([[Ella]]).
+> Three guards are chasing a woman in a black cloak ([[Ella Sable]]).
 > She calls for help, claiming she hasn't done anything wrong.
 
 > [!question] Trigger
 > Perception Check
 > > [!info]- Action
-> > - **DC 15:** Spot another man in a black cloak ([[Uric]]) climbing the building, stopping to watch.
+> > - **DC 15:** Spot another man in a black cloak ([[Uric Graad]]) climbing the building, stopping to watch.
 
 **Outcomes:**
 1. **Intervene:**
    - Attempt to escape to a hideout.
    - Learn they were trying to break into the **Lawmaster's Office** to get info (failed attempt).
-   - [[Uric]] will show up, recognize [[Eryndor]], and ask for help getting the info.
+   - [[Uric Graad]] will show up, recognize [[Eryndor]], and ask for help getting the info.
 2. **Do Not Intervene:**
-   - [[Uric]] will come by [[The Seafarer's Rest]] that night.
-   - Tries to talk to [[Gemma Finegold|Gemma]]; players overhear about [[Ella]] getting taken.
+   - [[Uric Graad]] will come by [[The Seafarer's Rest]] that night.
+   - Tries to talk to [[Gemma Finegold|Gemma]]; players overhear about [[Ella Sable]] getting taken.
    - **New Quest:** Help break her out to get the important info.
-   - [[Uric]] recognizes [[Eryndor]] but keeps quiet for now.
+   - [[Uric Graad]] recognizes [[Eryndor]] but keeps quiet for now.

@@ -1,6 +1,7 @@
 ---
 aliases:
   - The Gods
+  - Seven Divines
 ---
 
 # Sun:

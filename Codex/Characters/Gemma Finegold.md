@@ -98,11 +98,11 @@ The caravan journey north continued under Gemma's watchful eye. The group settle
 
 #### [[Campaigns/The Bloody Nails/Sessions/Session 03/Synopsis|Session 3]]
 
-At the gates of [[Darmouth]], Gemma urged the party to keep their heads down as guards singled out two members for questioning. Later that evening, in a private meeting at [[The Seafarer's Rest]], she broke the pretence entirely — admitting she had known the party were escaped prisoners since the moment they met on the road. She revealed her work with the rebellion, her connection to underground cells pursuing information about the Imperial project [[Skyreach]], and the significance of the operatives [[Ella]] and [[Uric]].
+At the gates of [[Darmouth]], Gemma urged the party to keep their heads down as guards singled out two members for questioning. Later that evening, in a private meeting at [[The Seafarer's Rest]], she broke the pretence entirely — admitting she had known the party were escaped prisoners since the moment they met on the road. She revealed her work with the rebellion, her connection to underground cells pursuing information about the Imperial project [[Skyreach]], and the significance of the operatives [[Ella Sable]] and [[Uric Graad]].
 
 #### [[Campaigns/The Bloody Nails/Sessions/Session 04/Synopsis|Session 4]]
 
-After [[The Bloody Nails]] broke [[Ella]] out of Imperial custody, Gemma and [[Uric]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle [[The Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
+After [[The Bloody Nails]] broke [[Ella Sable]] out of Imperial custody, Gemma and [[Uric Graad]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle [[The Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
 
 #### [[Campaigns/The Bloody Nails/Sessions/Session 05/Synopsis|Session 5]]
 

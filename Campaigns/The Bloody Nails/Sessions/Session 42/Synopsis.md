@@ -41,7 +41,7 @@ As the fog lifted and the Loyalist army crossed the river, the session culminate
 ### Securing the West Tower
 
 * The party approached the gatehouse through back alleys. [[Kai]] cast *Silence* on the door area, and [[Ryo]] cast *Silence* on the bridge to prevent audio alarms.
-* [[Berberis]] (using *Thorn Whip*) and [[Eryndor]] breached the guard room. Eryndor utilised [[The Emberblade]] and his daggers to lethally dispatch the guards in the initial room.
+* [[Berberis]] (using *Thorn Whip*) and [[Eryndor]] breached the guard room. Eryndor utilised the [[Emberblade]] and his daggers to lethally dispatch the guards in the initial room.
 * Ryo utilised *Sharpshooter* to snipe a fleeing guard through multiple doorways, pinning him to the wall.
 * Once the ground floor was clear, the party moved up the tower. Kai used *Shape Water* to create a frosted ice pane over the window facing the opposite tower, obscuring their movements from the enemy across the river.
 * The group debated splitting up to take the second tower simultaneously.

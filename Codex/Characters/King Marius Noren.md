@@ -17,7 +17,10 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Marius, Marius Noren, The Reclaimer]
+aliases:
+  - Marius
+  - Marius Noren
+  - The Reclaimer
 ---
 > [!infobox|wikipedia]
 > # King Marius Noren

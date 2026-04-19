@@ -7,7 +7,9 @@ Pronouns: He/Him
 Age: Young
 Languages: Common, Elvish
 Place: "[[Sumara, The Shining City|Sumara]]"
-Connections: "[[Ayana Syndrosa]], [[Circle of the Blade]]"
+Connections:
+  - "[[Ayana Syndrosa]]"
+  - "[[Circle of the Blade]]"
 Profession: Vanguard Warden
 Importance: Minor
 Status: Alive

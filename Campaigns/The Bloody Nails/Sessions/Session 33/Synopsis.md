@@ -21,7 +21,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|25th Water, 2nd - 2507]] |
 > Location | [[Point Blackrock]]
-> Characters | [[Lysa]]<br>[[Salla the Brave]]<br>[[Dane]] |
+> Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane]] |
 
 ## Summary
 
@@ -47,7 +47,7 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
 * The Commander offers a deal: Wait one week for reinforcements, and Vaeleran can join the final crossing to the north. Vaeleran bluffs, offering to lead a crossing sooner to aid the war effort.
 * Meanwhile, [[Ryo]] casts *Detect Magic* and senses Abjuration magic in the adjacent tent.
 * [[Eryndor]] uses stealth and invisibility to investigate the neighboring tent. He meets the imprisoned [[The Frostwardens|Frostwarden]] (The Fox Crew):
-    * **[[Salla the Brave]] (Ice Listener):** Can sense vibrations and cracks in the ice.
+    * **[[Sela Ren]] (Ice Listener):** Can sense vibrations and cracks in the ice.
     * **[[Dane]] (Scout):** Expert at finding paths and avoiding monsters.
     * **[[Lysa]] (Pathfinder/Leader):** Knows the Frostway intimately.
 * The Wardens reveal they are being held to guide the army across the ice but plan to escape if a distraction occurs.

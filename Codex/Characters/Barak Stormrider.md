@@ -19,7 +19,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Barak]
+aliases:
+  - Barak
 ---
 > [!infobox|wikipedia]
 > # Barak Stormrider

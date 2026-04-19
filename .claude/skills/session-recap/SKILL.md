@@ -148,6 +148,7 @@ If no YouTube video ID was provided, omit the `# Recording` section from the inf
 - Include specific plot twists, a key quote or two, major rewards, and the cliffhanger/resolution.
 - Only state things that were established in the transcript.
 - Wrap NPC names and major locations in `[[WikiLinks]]` on first mention in each paragraph.
+- **In-world voice only.** Write the Summary as though it were a chronicle written within the world of Elandis. Use only in-world terminology and language — no numerical damage values (say "a devastating blow" not "45 damage"), no real-world game references (no "World of Warcraft raid", "Dexterity save", "Cone of Cold", "Phase 2"), no spell slot talk, no player names, no meta-game language. Describe what happened narratively: magic effects by their appearance, combat by its drama, mechanics by their fictional consequence. Spell names may appear only when they are recognisable as in-world magic (e.g. a moonbeam is a beam of moonlight). Save all mechanical detail, damage numbers, spell names, ability checks, and meta-commentary for the **Details** section.
 
 **Details rules — one line per bullet:**
 - One `###` section per major scene or act.
