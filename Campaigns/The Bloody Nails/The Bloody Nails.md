@@ -33,4 +33,4 @@ This nail was left in the skull of the [[Hand of The Empire]] at [[Skyreach]] af
 
 ## Sessions
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+- [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]

@@ -31,7 +31,8 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 10/Synopsis]]
+- [[Session 10 - The Coastal Cave]]
+- [[Session 10.5 - Diverging Paths]]
 
 ## Missing Alchemist
 

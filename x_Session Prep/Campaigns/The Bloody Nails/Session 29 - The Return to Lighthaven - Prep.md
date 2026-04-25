@@ -43,7 +43,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 28/Synopsis]]
+- [[Session 28 - The Underrun]]
 
 ## Arrival at Lighthaven
 

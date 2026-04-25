@@ -30,7 +30,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 06/Synopsis]]
+[[Session 06 - The Goblin Lair]]
 
 ## Scene: The Handover
 

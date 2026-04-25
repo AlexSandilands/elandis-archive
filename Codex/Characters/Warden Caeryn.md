@@ -53,6 +53,6 @@ Caeryn trained under [[Ayana Syndrosa]] before her disappearance during [[The Em
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46]]
+#### [[Session 46 - The Shining City]]
 
 Led the arrest of the party on their arrival in Sumara; was struck by a deliberate Thunderwave from child-Ayana mid-interrogation; released the party into Ayana's protection following her restoration.

@@ -17,7 +17,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 03/Synopsis]]
+[[Session 03 - The Streets of Darmouth]]
 
 ## Combat: Sewer Entry
 

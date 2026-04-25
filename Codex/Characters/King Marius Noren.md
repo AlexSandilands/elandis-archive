@@ -58,26 +58,26 @@ After the liberation of [[Val Noren]], Marius received the party at court, rewar
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 37/Synopsis|Session 37]]
+#### [[Session 37 - March of the Dead]]
 
 First encountered by the party in the Keep of [[Val Noren]], where he was personally ensuring the safety of displaced civilians. Met with them to discuss the siege and the threat of [[The Red Priests]]. Kidnapped at the session's end when Imperial agents used the undead assault on the barricades as a diversion.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 39/Synopsis|Session 39]]
+#### [[Session 39 - The Stoneheart]]
 
 Discovered bound and under guard in the royal crypt of [[The Stoneheart]], held by a [[The Red Priests|Red Priest]] following interrogation and mental torture. Freed by the party after they fought through the temple's undead defences.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 40/Synopsis|Session 40]]
+#### [[Session 40 - General Blackmarsh]]
 
 Cast *Healing Word* to revive [[Kai]] at a critical moment during the confrontation with [[Dread General Blackmarsh]]. Escaped with the party through the smuggler's tunnels.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 41/Synopsis|Session 41]]
+#### [[Session 41 - Reclaim the Reclaimer]]
 
 Participated in the war council alongside [[Ayana Syndrosa|Ayana Wynne]] and [[Barak Stormrider]], endorsing the two-pronged strategy to break the Imperial siege.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 42/Synopsis|Session 42]]
+#### [[Session 42 - Liberation of Val Noren]]
 
 Led the Loyalist charge across the pontoon bridge. Confronted the Imperial commander personally; took a wound when the commander refused to surrender. Declared [[Val Noren]] the **Shield of the North** in the aftermath of victory.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 43/Synopsis|Session 43]]
+#### [[Session 43 - The Shield of the North]]
 
 Received the party in a formal audience following liberation. Rewarded them with 20,000 gold in platinum, three Greater Healing Potions, and a [[Renite Steel]] Dagger. Discussed aid for [[Val Miriel]] and negotiations with the Imperial governor.

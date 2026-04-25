@@ -24,7 +24,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 17/Synopsis]]
+- [[Session 17 - A New Journey Begins]]
 
 ## Farhaven
 

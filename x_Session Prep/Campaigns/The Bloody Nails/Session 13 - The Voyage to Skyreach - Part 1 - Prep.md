@@ -41,7 +41,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 12/Synopsis]]
+- [[Session 12 - How to Start a Rebellion]]
 
 ## Scenario 1
 

@@ -25,7 +25,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 26/Synopsis]]
+- [[Session 26 - A Midnight Romp]]
 
 ## The Green Gryphons
 

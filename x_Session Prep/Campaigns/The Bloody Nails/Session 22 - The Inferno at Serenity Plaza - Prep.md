@@ -14,7 +14,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 21/Synopsis]]
+- [[Session 21 - The Governor's Daughter]]
 
 ## Val Miriel
 

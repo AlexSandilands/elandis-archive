@@ -38,7 +38,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 14/Synopsis]]
+- [[Session 14 - The Devil's Wish]]
 
 ## Housekeeping
 

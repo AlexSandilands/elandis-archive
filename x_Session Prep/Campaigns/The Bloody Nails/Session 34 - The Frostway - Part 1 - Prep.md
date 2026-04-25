@@ -31,7 +31,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 33/Synopsis]]
+- [[Session 33 - A Camp Alight]]
 
 
 ## Crossing The Frostway

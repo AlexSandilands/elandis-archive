@@ -618,7 +618,7 @@ Validates that a Character's Campaign appearance sections are accurate against t
 Campaign section headings use `Session N` only until all sessions have been formally named:
 
 ```markdown
-#### [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46]]
+#### [[Campaigns/The Bloody Nails/Sessions/Session 46 - The Shining City/Session 46 - The Shining City|Session 46]]
 ```
 
 Once sessions are named, the title will be stored in each Synopsis's frontmatter and the display text updated to `Session N — Title`. The `campaign-audit` skill will be updated to read from frontmatter and apply titles automatically.

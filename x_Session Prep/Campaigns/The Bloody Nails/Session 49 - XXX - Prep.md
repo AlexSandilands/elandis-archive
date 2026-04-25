@@ -16,7 +16,7 @@ tags:
 
 ## Recap
 
-- LINK
+- [[Session 48 - The Vault of Memories]]
 
 ## Scenes
 

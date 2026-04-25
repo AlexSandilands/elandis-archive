@@ -34,7 +34,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 11/Synopsis]]
+- [[Session 11 - The Tale of Salla the Brave]]
 
 ## Cave
 

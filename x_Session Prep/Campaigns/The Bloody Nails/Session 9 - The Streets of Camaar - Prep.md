@@ -18,7 +18,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 08/Synopsis]]
+[[Session 08 - The High Road]]
 
 ## Street Encounter
 

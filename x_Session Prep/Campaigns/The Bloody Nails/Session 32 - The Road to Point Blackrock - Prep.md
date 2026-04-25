@@ -37,7 +37,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 31/Synopsis]]
+- [[Session 31 - The Emberlight Vigil]]
 
 ## Travel North
 

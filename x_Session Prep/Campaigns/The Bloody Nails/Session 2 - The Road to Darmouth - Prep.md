@@ -17,7 +17,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+[[Session 01 - The Rusty Nail]]
 
 ## The Journey
 

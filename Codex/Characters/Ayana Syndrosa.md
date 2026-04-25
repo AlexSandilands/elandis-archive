@@ -43,7 +43,7 @@ aliases:
 > Languages | Common<br>Elvish<br>Sylvan |
 > Place | [[Sumara, The Shining City\|Sumara]] |
 > Connections | [[Circle of the Weave\|The Weave]]<br>[[Illythia Voss]]<br>[[King Marius Noren\|Marius Noren]]<br>[[The Bloody Nails]] |
-> Profession | Archmage<br>Meridian of the Weave |
+> Profession | Archmage<br>Meridian of the Weave (former) |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
@@ -87,15 +87,15 @@ It was through Marius that she met [[The Bloody Nails]], and something about the
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 41/Synopsis|Session 41]]
+#### [[Session 41 - Reclaim the Reclaimer]]
 
 Following the party's assassination of [[Dread General Blackmarsh]] and their escape from [[The Stoneheart]], Ayana participated in the war council at [[Val Noren]] alongside [[King Marius Noren|Marius]] and [[Barak Stormrider]]. Still operating under her disguise as **Ayana Wynne**, she helped assess the military stalemate and devise the two-pronged strategy — a public demand for parley backed by a flanking manoeuvre using a pontoon bridge — to break the Imperial siege.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 43/Synopsis|Session 43]]
+#### [[Session 43 - The Shield of the North]]
 
 With [[Val Noren]] liberated, Ayana pulled [[Ryo]] aside under the pretence of collecting rewards. In private, she dropped her disguise, revealing her pointed ears and forcibly exposing Ryo's — confirming they were both Elves. She interrogated him about the [[The Emerald Ceremony]] and his origins, but when she realised he genuinely knew nothing of his heritage, she cast *Modify Memory* to wipe the entire encounter from his mind, unwilling to risk her secret on someone she did not yet trust. She also taught [[Dondar]] the *Teleportation Circle* spell before the party departed, providing sigils for [[Val Noren]] and [[Glimmerforge]].
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 44/Synopsis|Session 44]]
+#### [[Session 44 - The Elven Archmage]]
 
 Ayana intercepted [[The Bloody Nails]] before they could depart with [[The Mawbreakers]], recognising the tattoo sketch taken from a [[The Red Priests|Red Priestess]]. She led the party to a hidden magical sanctum where [[Kai]] cast *Speak with Dead* on the priestess's severed head, revealing that the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity called [[Kharazoth the Crimson Shadow]]. The name shook Ayana to her core — Kharazoth was a lieutenant from [[The Chaos Wars]], thought long dead.
 
@@ -103,11 +103,11 @@ Shattered by the revelation, Ayana dropped her disguise entirely, revealing hers
 
 Desperate to confirm a theory, Ayana teleported the group across the continent to [[Ithilmara]], the long-abandoned elven city. There, she guided Ryo to a central dais where his ring activated a dormant gateway, proving him a descendant of the Elven Royal bloodline. The party stepped through the portal, leaving the Material Plane and entering the [[Faewild]].
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 45/Synopsis|Session 45]]
+#### [[Session 45 - Pieces on a Board]]
 
 In the [[Gossamer Woods]], Ayana served as the party's guide toward [[Sumara, The Shining City|Sumara]]. When [[Kai]] befriended a local pixie, Ayana panicked and tackled him to shield him from the creature. In the scuffle, the fleeing pixie struck her with [[Gossamer Dust]], rapidly de-aging her into an eight-year-old child. She retained her magical ability — accidentally blasting Kai with *Thunderwave* more than once — but lost her adult mental faculties, leaving the party to navigate the Faewild's trials without their only guide.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46]]
+#### [[Session 46 - The Shining City]]
 
 Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Warden Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
 

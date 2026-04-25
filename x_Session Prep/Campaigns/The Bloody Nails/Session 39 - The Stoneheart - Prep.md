@@ -24,7 +24,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 38/Synopsis]]
+- [[Session 38 - A Trail of Blood]]
 
 ## Scouting the Stoneheart
 

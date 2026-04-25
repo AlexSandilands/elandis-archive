@@ -30,7 +30,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 05/Synopsis]]
+[[Session 05 - The Baited Ambush]]
 
 ## Scene: The Handover
 

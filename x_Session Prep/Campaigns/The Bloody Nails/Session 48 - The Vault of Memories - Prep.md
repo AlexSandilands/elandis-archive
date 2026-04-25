@@ -30,7 +30,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 47/Synopsis|Session 47]]
+- [[Session 47 - Confluence of the Seven]]
 
 ## Scenario 1: The Vault of Memories
 

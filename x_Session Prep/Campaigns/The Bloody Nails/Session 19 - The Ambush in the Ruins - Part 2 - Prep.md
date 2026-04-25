@@ -14,7 +14,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 18/Synopsis]]
+- [[Session 18 - The Old Forest]]
 
 ## Ambush in the Ruins
 

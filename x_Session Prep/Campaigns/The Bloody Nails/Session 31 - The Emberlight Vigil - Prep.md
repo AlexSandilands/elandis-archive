@@ -14,7 +14,7 @@ c
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 30/Synopsis]]
+- [[Session 30 - The Darkwood Ambush]]
 
 ## Lighthaven
 

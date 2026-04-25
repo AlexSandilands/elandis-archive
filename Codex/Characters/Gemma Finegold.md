@@ -88,55 +88,55 @@ She leads [[The Finegolds]] now. Quietly, competently, and with the same sharp e
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis|Session 1]]
+#### [[Session 01 - The Rusty Nail]]
 
 The party, freshly escaped from a shipwreck on the Valtorran coast, flagged down [[The Finegolds]]' caravan on the road to [[Darmouth]]. Gemma, travelling alongside healer [[Maeve Greycloud]], recognised the stranded group's vulnerability and struck a deal: the party would serve as hired guards in exchange for safe passage into the city — giving them cover from Imperial suspicion.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 02/Synopsis|Session 2]]
+#### [[Session 02 - Midnight Fangs]]
 
 The caravan journey north continued under Gemma's watchful eye. The group settled into the rhythm of the road, with Gemma managing logistics and keeping spirits measured. A tense first-night watch revealed the sound of hyenas tracking the convoy from a distance, though the threat never materialised.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 03/Synopsis|Session 3]]
+#### [[Session 03 - The Streets of Darmouth]]
 
 At the gates of [[Darmouth]], Gemma urged the party to keep their heads down as guards singled out two members for questioning. Later that evening, in a private meeting at [[The Seafarer's Rest]], she broke the pretence entirely — admitting she had known the party were escaped prisoners since the moment they met on the road. She revealed her work with the rebellion, her connection to underground cells pursuing information about the Imperial project [[Skyreach]], and the significance of the operatives [[Ella Sable]] and [[Uric Graad]].
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 04/Synopsis|Session 4]]
+#### [[Session 04 - To Free a Raven]]
 
 After [[The Bloody Nails]] broke [[Ella Sable]] out of Imperial custody, Gemma and [[Uric Graad]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle [[The Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 05/Synopsis|Session 5]]
+#### [[Session 05 - The Baited Ambush]]
 
 The party rendezvoused with [[The Finegolds]] on the High Road, narrowly avoiding an Imperial patrol. Gemma confirmed she had secured the "[[Skyreach]] package" and promised to share the full details when the time was right.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 07/Synopsis|Session 7]]
+#### [[Session 07 - Grakthor Falls]]
 
 After the party cleared the goblin threat plaguing the road, Gemma agreed to return to [[Darmouth]] on their behalf — submitting the [[The Green Gryphons]] contract and collecting the reward, freeing the party to press on toward [[Camaar]].
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 08/Synopsis|Session 8]]
+#### [[Session 08 - The High Road]]
 
 Gemma and [[Doran Ironfist]] rejoined the convoy, distributing 820 gold from the goblin contract. In a private moment, she showed [[Vaeleran]] a "Wanted" poster bearing a sketch of a scarred older man resembling him — worth 5,000 gold — and, correctly deducing he was an enemy of the Empire, invited him to join her cause. She then led the party to [[The Mawbreakers]]' guildhall at the [[Camaar]] docks to meet [[Barak Stormrider]], where the contents of the Skyreach package — detailed blueprints for a secret bridge spanning the [[Aeolian Chasm]] — were finally revealed.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 09/Synopsis|Session 9]]
+#### [[Session 09 - The Veiled Den]]
 
 After a brutal fight in [[Camaar]], the party retreated to [[The Lion]] inn. Gemma greeted them on their return, noted their injuries with quiet concern, and helped secure lodgings for three nights while they recovered.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 19/Synopsis|Session 19]]
+#### [[Session 19 - Blood and Sorrow]]
 
 Tragedy struck in the [[Farhaven Forest]], where the party discovered the crude grave of [[Harland Finegold]] — his throat slashed. Tracking deeper into the ruins, they found Gemma and the rest of [[The Finegolds]] held captive by the assassin [[Seraphina]]. After a fierce battle, Seraphina was slain. Gemma, shaken but composed, revealed that the assassin had forced [[Lilliana Featherfoot]] to lure the party into the ambush. Harland was given a proper burial, and Gemma quietly asked [[Vaeleran]] to use his contacts to investigate the name "Corvas."
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 20/Synopsis|Session 20]]
+#### [[Session 20 - The Streets of Val Miriel]]
 
 In the aftermath of her father's death, [[Kai]] sought Gemma out and offered what comfort he could. She received it with quiet gratitude, but her grief had already hardened into something resolute — a renewed and burning conviction to fight the Empire whatever the cost.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 21/Synopsis|Session 21]]
+#### [[Session 21 - The Governor's Daughter]]
 
 Gemma delivered the intelligence [[Vaeleran]] had requested: the name "Korvas" was linked to the former head of the Imperial Garrison in [[Val Noren]], a man who had mysteriously disappeared months prior.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 28/Synopsis|Session 28]]
+#### [[Session 28 - The Underrun]]
 
 A chance encounter on the streets of [[Val Miriel]] reunited the party with Gemma. [[The Finegolds]] were in the process of securing an Imperial travel licence, likely bound for [[Val Aerie]]. The party, needing to travel light, handed off their cart and horses to her care. Before parting, [[Vaeleran]] warned her of dangerous "walking dead" near [[Val Aran]] and hinted at a potential ally among the clergy at [[Val Aerie]].
 
 ## Trivia
 
 - Gemma was the first friendly NPC [[The Bloody Nails]] met
-- On a whim during [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]], Riv decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many [[Dwarven|Dwarves]]. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so Riv had to practice Scottish accents in order to keep it going.
+- On a whim during [[Session 01 - The Rusty Nail]], Riv decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many [[Dwarven|Dwarves]]. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so Riv had to practice Scottish accents in order to keep it going.

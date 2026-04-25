@@ -16,7 +16,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 46/Synopsis|Session 46]]
+- [[Session 46 - The Shining City]]
 
 ---
 

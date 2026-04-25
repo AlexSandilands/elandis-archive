@@ -29,7 +29,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 41/Synopsis]]
+- [[Session 41 - Reclaim the Reclaimer]]
 
 ## Part 1: Securing the Flank (The Heist)
 

@@ -35,7 +35,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 40/Synopsis]]
+- [[Session 40 - General Blackmarsh]]
 
 ## The Return
 

@@ -24,7 +24,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 45/Synopsis|Synopsis]]
+- [[Session 45 - Pieces on a Board]]
 
 ## Scene 1: The Mountain Road
 

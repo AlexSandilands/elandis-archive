@@ -35,7 +35,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 37/Synopsis]]
+- [[Session 37 - March of the Dead]]
 
 ## Item Crafting
 

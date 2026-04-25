@@ -27,7 +27,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 13/Synopsis]]
+- [[Session 13 - Waves, Wings and Sails]]
 
 ## Sailing
 

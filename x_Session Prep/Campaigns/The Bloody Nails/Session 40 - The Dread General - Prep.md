@@ -21,7 +21,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 39/Synopsis]]
+- [[Session 39 - The Stoneheart]]
 
 ## The Stoneheart
 

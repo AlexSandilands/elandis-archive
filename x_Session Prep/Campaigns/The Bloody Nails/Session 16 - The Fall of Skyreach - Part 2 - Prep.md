@@ -38,7 +38,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 15/Synopsis]]
+- [[Session 15 - Operation Skyreach]]
 
 ## Housekeeping
 

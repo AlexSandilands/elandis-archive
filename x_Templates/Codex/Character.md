@@ -62,7 +62,7 @@ Origin, formative events, motivations, and how they arrived at their current rol
 
 ### Campaign: [[The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+#### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
 
 Key interactions with the party during this session.
 

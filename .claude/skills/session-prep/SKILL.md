@@ -138,7 +138,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session N-1/Synopsis|Session N-1]]
+- [[Campaigns/The Bloody Nails/Sessions/Session N-1 - <Title>/Session N-1 - <Title>|Session N-1]]
 
 ## Scenario 1: <Name>
 

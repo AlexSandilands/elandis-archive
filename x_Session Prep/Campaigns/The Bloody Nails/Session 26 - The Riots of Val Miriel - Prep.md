@@ -26,7 +26,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 25/Synopsis]]
+- [[Session 25 - The Chimera]]
 
 ## Green Gryphons
 

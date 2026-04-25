@@ -39,7 +39,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 19/Synopsis]]
+- [[Session 19 - Blood and Sorrow]]
 
 ## Val Miriel
 

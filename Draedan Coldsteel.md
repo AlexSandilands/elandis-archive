@@ -42,7 +42,7 @@ aliases:
 > ---|---|
 > Status | Deceased |
 > Cause of Death | Struck by Lightning |
-> Death Session | [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]] |
+> Death Session | [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]] |
 
 > Write this last
 
@@ -80,7 +80,7 @@ Draedan was a human male in his, mid-40s. He was an imposing figure with a scarr
 
 ### Campaign: [[The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+#### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
 
 - [ ] Why did they appear in this session
 - [ ] What did they do

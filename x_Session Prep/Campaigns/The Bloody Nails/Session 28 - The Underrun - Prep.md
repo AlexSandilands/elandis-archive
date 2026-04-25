@@ -25,7 +25,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 27/Synopsis]]
+- [[Session 27 - The Wanted Dwarf]]
 
 ## Daytime City Travel
 

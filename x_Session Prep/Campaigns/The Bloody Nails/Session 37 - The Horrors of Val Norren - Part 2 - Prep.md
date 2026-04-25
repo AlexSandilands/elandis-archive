@@ -26,7 +26,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 36/Synopsis]]
+- [[Session 36 - General Korvas]]
 
 ## Val Norren
 

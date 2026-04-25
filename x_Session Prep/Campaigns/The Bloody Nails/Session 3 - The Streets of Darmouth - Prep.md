@@ -20,7 +20,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 02/Synopsis]]
+[[Session 02 - Midnight Fangs]]
 
 ## Intro
 

@@ -20,7 +20,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 34/Synopsis]]
+- [[Session 34 - Mourning Bells]]
 
 
 ## Crossing The Frostway

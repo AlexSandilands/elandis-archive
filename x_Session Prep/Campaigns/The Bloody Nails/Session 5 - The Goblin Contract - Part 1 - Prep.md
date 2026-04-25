@@ -30,7 +30,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 04/Synopsis]]
+[[Session 04 - To Free a Raven]]
 
 ## Scene: The Handover
 

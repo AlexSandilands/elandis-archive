@@ -27,7 +27,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 23/Synopsis]]
+- [[Session 23 - Ruby Falls Goldmine]]
 
 ## Sketch
 

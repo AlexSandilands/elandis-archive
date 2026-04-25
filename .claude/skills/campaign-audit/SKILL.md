@@ -18,7 +18,7 @@ Any time you need to verify whether a character's Codex entry accurately reflect
 ## Vault locations
 
 - **Character entries:** `Codex/Characters/<Name>.md`
-- **Session synopses:** `Campaigns/The Bloody Nails/Sessions/Session <N>/Synopsis.md`
+- **Session synopses:** `Campaigns/The Bloody Nails/Sessions/Session <N> - <Title>/Session <N> - <Title>.md`
 - **Session prep (spelling reference):** `x_Session Prep/Campaigns/The Bloody Nails/`
 
 ## Steps
@@ -99,7 +99,7 @@ When writing new session entries, match the style of the existing entries in the
 
 Format session links consistently:
 ```markdown
-#### [[Campaigns/The Bloody Nails/Sessions/Session <N>/Synopsis|Session <N> — <Title>]]
+#### [[Session <N> - <Title>]]
 ```
 
 The title should come from the synopsis or prep file name. If neither provides a clear title, derive one from the session's main event.

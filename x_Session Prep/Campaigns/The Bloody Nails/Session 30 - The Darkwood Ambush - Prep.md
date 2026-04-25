@@ -24,7 +24,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 29/Synopsis]]
+- [[Session 29 - Lighthaven Awaits]]
 
 ## Links
 

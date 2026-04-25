@@ -28,7 +28,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 44/Synopsis|Synopsis]]
+- [[Session 44 - The Elven Archmage]]
 
 ## The Gossamer Woods
 

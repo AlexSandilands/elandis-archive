@@ -50,6 +50,6 @@ He maintains alliances with Justiciar Naivara Siannodel of the Scales and Archiv
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 47/Synopsis|Session 47]]
+#### [[Session 47 - Confluence of the Seven]]
 
 Confronted [[Ayana Syndrosa]]'s return and [[Ryo]]'s claim to the [[Silmara Family\|Silmara]] bloodline before the full Confluence. Delivered a pointed address to the council — *"We built this council to protect the elven people. We needed no king for a hundred years"* — and allied with Naivara and Elrohir to block the motion on legal grounds. When [[Illythia Voss]] invoked Article 12 of the Accords and the vote to open the [[Vault of Memories]] passed five to two, Kaelen walked out across his light-bridge without a word.

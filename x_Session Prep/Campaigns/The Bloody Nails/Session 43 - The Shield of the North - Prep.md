@@ -31,7 +31,7 @@ tags:
 
 ## Recap
 
-- [[Session 42 - The Final Stand of Val Noren - Prep|Session 42 - The Final Stand of Val Noren - Prep]]
+- [[Session 42 - Liberation of Val Noren]]
 
 ## Tying Loose Ends
 

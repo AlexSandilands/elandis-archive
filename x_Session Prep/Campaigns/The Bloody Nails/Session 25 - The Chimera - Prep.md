@@ -14,7 +14,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 24/Synopsis]]
+- [[Session 24 - Nelfandris The Banished]]
 
 ## Mountain Road Combat
 

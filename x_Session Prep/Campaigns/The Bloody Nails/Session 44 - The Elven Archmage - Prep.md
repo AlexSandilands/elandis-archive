@@ -29,7 +29,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 43/Synopsis|Synopsis]]
+- [[Session 43 - The Shield of the North]]
 
 ## Val Noren
 

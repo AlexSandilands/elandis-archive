@@ -79,7 +79,7 @@ A few sentences with a summary of the character including:
 
 ### Campaign: [[The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01/Synopsis]]
+#### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
 
 - [ ] Why did they appear in this session
 - [ ] What did they do

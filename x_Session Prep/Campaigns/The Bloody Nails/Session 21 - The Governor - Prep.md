@@ -26,7 +26,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 20/Synopsis]]
+- [[Session 20 - The Streets of Val Miriel]]
 
 ## River's Watch
 

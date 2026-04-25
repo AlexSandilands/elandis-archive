@@ -24,7 +24,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 23/Synopsis]]
+- [[Session 22 - Inferno at Serenity Plaza]]
 
 ## Sketch
 

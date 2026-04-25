@@ -35,7 +35,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 16/Synopsis]]
+- [[Session 16 - The Fall of Skyreach]]
 
 ## Camaar
 

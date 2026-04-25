@@ -34,7 +34,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 35/Synopsis]]
+- [[Session 35 - The Frostway]]
 
 ## Entering the City
 

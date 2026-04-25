@@ -21,7 +21,7 @@ tags:
 
 ## Recap
 
-- [[Campaigns/The Bloody Nails/Sessions/Session 32/Synopsis]]
+- [[Session 32 - The Road to Point Blackrock]]
 
 ## Arrival at Point Blackrock
 

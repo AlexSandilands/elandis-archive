@@ -78,51 +78,51 @@ He heard later that the Imperial captain responsible had been overseeing the con
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 08/Synopsis|Session 8]]
+#### [[Session 08 - The High Road]]
 
 [[Gemma Finegold|Gemma]] brought the party to the Mawbreakers' guildhall on the docks of [[Camaar]], where they met Barak and his lieutenant [[Ari]] for the first time. The package from [[Darmouth]] contained the [[Skyreach]] blueprints. Barak explained the strategic picture — destroy Skyreach, and the Empire must route supplies through The Maw, where the Mawbreakers hold total naval dominance — and requested two days for his engineer [[Gromdal]] to study the plans. In private, [[Ryo]] revealed his elven heritage to Barak, who noted quietly that he had not seen a native elf in nearly a century.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 12/Synopsis|Session 12]]
+#### [[Session 12 - How to Start a Rebellion]]
 
 Barak welcomed the party into his hidden basement war room and introduced [[Gromdal]], who had found three structural weak points in Skyreach. He laid out the operation: Mawbreakers assault the prison camp to draw Imperial attention while the party infiltrates and plants explosive charges at all three supports.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 13/Synopsis|Session 13]]
+#### [[Session 13 - Waves, Wings and Sails]]
 
 The fleet departed [[Camaar]] with [[The Albatross]] at its head. Barak steered the ship through The Maw at full speed, slingshotting through the whirlpool's edge. The voyage was marked by a harpy ambush in a fog bank, a violent storm, and the sighting of Imperial red sails on the horizon.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 14/Synopsis|Session 14]]
+#### [[Session 14 - The Devil's Wish]]
 
 The red-sailed vessel proved to be *The Devil's Wish*, captained by [[Yarna Coldfist]]. Barak attempted a parley, posing as merchant transport, but the ruse failed and he refused the order to surrender. The resulting sea battle was decisive. He led the funeral rites for eight Mawbreaker sailors lost in the engagement.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 15/Synopsis|Session 15]]
+#### [[Session 15 - Operation Skyreach]]
 
 The night before the assault, Barak gathered the party in his cabin and told them about Baran — the son he lost, the Empire's indifference, the captain responsible now overseeing the very bridge they were about to destroy. He asked each of them why they were fighting. He sent [[Ari]] back to guard the ships over her objections, then addressed his crew for what he knew might be the last time.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 16/Synopsis|Session 16]]
+#### [[Session 16 - The Fall of Skyreach]]
 
 The mission succeeded at great cost. At the extraction point, the party found Barak lying in a pool of blood, near death, cut down by a [[Hand of The Empire]]. They exhausted every resource to stabilise him. He was carried aboard [[The Albatross]] as [[Skyreach]] collapsed behind them. The Mawbreakers had lost thirty men. [[Ari]] presented the party with his reward chest.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 36/Synopsis|Session 36]]
+#### [[Session 36 - General Korvas]]
 
 Months later, with the party on the verge of execution in the streets of [[Val Noren]], a massive warrior in a blue cloak shoulder-charged through the wall — Barak, unrecognisable beneath stolen Imperial armour, leading rebel fighters into the breach. He stabilised the dying party members and pulled them to safety behind the barricades.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 37/Synopsis|Session 37]]
+#### [[Session 37 - March of the Dead]]
 
 The following day Barak escorted the party to the Keep of [[Val Noren]] for their audience with [[King Marius Noren]]. He remained present through the intelligence debrief and the strategy discussion that followed, watching the party with the careful attention of a man who has already decided they are worth believing in.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 38/Synopsis|Session 38]]
+#### [[Session 38 - A Trail of Blood]]
 
 Following the King's kidnapping, Barak regrouped at the Keep and stood alongside [[Captain Erendir Thalos]] as the truth emerged: the kidnappers had worn rebel armour, and witnesses identified the leader as [[General Korvas]] — the man the party had known as [[Vaeleran]]. He backed the decision to pursue immediately rather than wait.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 41/Synopsis|Session 41]]
+#### [[Session 41 - Reclaim the Reclaimer]]
 
 At the war council following the King's rescue, Barak proposed using [[The Albatross]] to cross the river — ruled out by the river gate's low clearance. When [[Berberis]] suggested a pontoon bridge, he saw the angle immediately. He and [[Ari]] were tasked with leading the Mawbreakers to commandeer the boats needed for the crossing.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 42/Synopsis|Session 42]]
+#### [[Session 42 - Liberation of Val Noren]]
 
 Barak arrived at the occupied garrison in full Imperial armour to move the Mawbreaker fleet through the city undetected. With the party securing the river gates and [[Kai]] laying down fog cover, he coordinated the rapid pontoon construction under fire. When the Loyalist army crossed and the battle turned, Barak was in it. [[Lirien]] tended his wounds at the garrison celebration that followed.
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session 44/Synopsis|Session 44]]
+#### [[Session 44 - The Elven Archmage]]
 
 As [[Val Noren]] recovered, the party prepared to sail south with the Mawbreakers to pursue [[General Korvas]]. Their departure was intercepted by [[Ayana Syndrosa|Ayana]], and the mission that followed took the party to the [[Faewild]] — well beyond the reach of any sea captain. Barak's planned voyage did not take place, but his fleet remained at anchor, ready.
 

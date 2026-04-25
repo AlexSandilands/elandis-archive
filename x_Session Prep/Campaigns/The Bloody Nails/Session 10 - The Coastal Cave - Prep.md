@@ -18,7 +18,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 10/Synopsis]]
+[[Session 09 - The Veiled Den]]
 
 ## The Veiled Den
 

@@ -168,7 +168,7 @@ Rules:
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session N/Synopsis|Session N]]
+#### [[Session N - <Title>]]
 
 [Narrative paragraph: the character's key actions, decisions, and moments this session.]
 
@@ -188,7 +188,7 @@ Rules:
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session N/Synopsis|Session N]]
+#### [[Session N - <Title>]]
 
 Brief summary of their appearance in this session — one sentence or a short bullet point.
 ```
@@ -198,7 +198,7 @@ Brief summary of their appearance in this session — one sentence or a short bu
 - The **opening paragraph is world-focused** — describe who this character is in the world of Elandis. The party doesn't exist in the opening paragraph.
 - **No placeholders.** No `???`, no `- [ ]`, no `TODO`. If something is unknown, omit it. Every sentence is real content.
 - **Wikilinks** on first mention of every proper noun (character, place, faction, item).
-- **Session link format:** `#### [[Campaigns/The Bloody Nails/Sessions/Session N/Synopsis|Session N]]`
+- **Session link format:** `#### [[Session N - <Title>]]` — direct basename link, no path, no alias. Each session file's basename is unique vault-wide, so Obsidian resolves it directly.
 - If no campaign appearances were provided, omit the Campaign section entirely.
 - Trivia is Major-only.
 - The public document contains only what the players currently know. If a restricted companion is also being created, any secrets are omitted here and woven into the restricted version instead.
@@ -250,7 +250,7 @@ A `## DM Notes` section at the bottom covers anything that's purely DM-side and 
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### [[Campaigns/The Bloody Nails/Sessions/Session N/Synopsis|Session N]]
+#### [[Session N - <Title>]]
 [Same as public]
 
 ## Trivia

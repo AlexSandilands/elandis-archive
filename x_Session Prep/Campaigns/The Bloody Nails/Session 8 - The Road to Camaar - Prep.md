@@ -31,7 +31,7 @@ tags:
 
 ## Recap
 
-[[Campaigns/The Bloody Nails/Sessions/Session 07/Synopsis]]
+[[Session 07 - Grakthor Falls]]
 
 ## Day 1
 
