@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Warden Caeryn
-> [![[Codex/Assets/Characters/Warden_Caeryn_small.png|cover hsmall]]](Codex/Assets/Characters/Warden_Caeryn.png)
+> [![[Codex/Assets/Characters/Warden_Caeryn_small.webp|cover hsmall]]](Codex/Assets/Characters/Warden_Caeryn.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

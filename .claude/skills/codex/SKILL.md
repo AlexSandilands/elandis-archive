@@ -33,7 +33,7 @@ Before asking for details, check the vault:
 
 1. Does `Codex/Characters/<Name>.md` already exist? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
 2. Does `<Name>.md` exist at the vault root? If so, read it — use its content to inform both the entry and whether a restricted companion is needed (see Stub File Format below).
-3. Glob for image files matching the character name in `x_Assets/Characters/` and `Codex/Assets/Characters/` (patterns: `Name*.png`, `First_Last*.png`). If found, use the real filename in the infobox.
+3. Glob for image files matching the character name in `x_Assets/Characters/` and `Codex/Assets/Characters/` (patterns: `Name*.webp`, `First_Last*.webp` — also check `*.png` in case a source hasn't been converted yet). If found, use the real filename in the infobox.
 
 ### Stub file format
 
@@ -116,7 +116,7 @@ Rules:
 ```markdown
 > [!infobox|wikipedia]
 > # Character Name
-> [![[Codex/Assets/Characters/First_Last_small.png|cover hsmall]]](Codex/Assets/Characters/First_Last.png)
+> [![[Codex/Assets/Characters/First_Last_small.webp|cover hsmall]]](Codex/Assets/Characters/First_Last.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -142,7 +142,7 @@ Rules:
 Rules:
 - Escape pipes inside wikilinks within blockquotes using `\|` — this is an Obsidian rendering requirement
 - Omit rows for unknown values
-- Image filename: underscores, no spaces — `First_Last_small.png` / `First_Last.png`
+- Image filename: underscores, no spaces — `First_Last_small.webp` / `First_Last.webp`
 - If a real image was found in Step 2, use its actual filename; otherwise use the placeholder
 
 ### Body — Major character

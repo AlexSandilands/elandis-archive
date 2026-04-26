@@ -20,7 +20,7 @@ aliases: []
 ---
 > [!infobox|wikipedia]
 > # {{Name}}
-> [![[Codex/Assets/Characters/{{Name}}_small.png|cover hsmall]]](Codex/Assets/Characters/{{Name}}.png)
+> [![[Codex/Assets/Characters/{{Name}}_small.webp|cover hsmall]]](Codex/Assets/Characters/{{Name}}.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

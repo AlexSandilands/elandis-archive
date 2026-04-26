@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gemma Finegold
-> [![[Codex/Assets/Characters/Gemma_Finegold_small.png|cover hsmall]]](Codex/Assets/Characters/Gemma_Finegold.png)
+> [![[Codex/Assets/Characters/Gemma_Finegold_small.webp|cover hsmall]]](Codex/Assets/Characters/Gemma_Finegold.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -77,7 +77,7 @@ The aftermath changed them both forever. Her father, [[Harland Finegold|Harland]
 
 In recent years, Gemma made a name for herself within [[The Finegolds]]. While her father remained the figurehead, it was her sharp mind that kept the merchant operations thriving. Her most significant connection came through a cargo run for [[The Mawbreakers]], where she met [[Barak Stormrider]]. The two struck up a close friendship, and Barak eventually confided in her his plans to dismantle the Imperial project [[Skyreach]]. He recognised her value immediately — a legitimate merchant could move between cities with minimal suspicion, and her expertise in concealing contraband was exactly the kind of skill the network needed.
 
-![[Gemma_Finegold_Mourning_small.png|right|261]]
+![[Gemma_Finegold_Mourning_small.webp|right|261]]
 
 Her first major assignment for Barak took her south to [[Darmouth]], where she was to retrieve [[Skyreach]] blueprints held by [[The Order of Ravens]]. En route, she encountered [[The Bloody Nails]] — recently escaped from Imperial captivity following a shipwreck on the Valtorran coast. Recognising both their plight and their potential, she folded them into the caravan as hired guards, a decision that proved pivotal when their knowledge of [[Skyreach]] dovetailed with her own mission.
 

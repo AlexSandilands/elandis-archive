@@ -16,7 +16,7 @@ aliases: []
 ---
 > [!infobox|wikipedia]
 > # {{Name}}
-> [![[Codex/Assets/Locations/{{Name}}_small.png|cover hsmall]]](Codex/Assets/Locations/{{Name}}.png)
+> [![[Codex/Assets/Locations/{{Name}}_small.webp|cover hsmall]]](Codex/Assets/Locations/{{Name}}.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

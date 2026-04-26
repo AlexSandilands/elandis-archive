@@ -27,7 +27,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ayana Syndrosa
-> [![[Codex/Assets/Characters/Ayana_Syndrosa_small.png|cover hsmall]]](Codex/Assets/Characters/Ayana_Syndrosa.png)
+> [![[Codex/Assets/Characters/Ayana_Syndrosa_small.webp|cover hsmall]]](Codex/Assets/Characters/Ayana_Syndrosa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -79,7 +79,7 @@ Under her leadership the Circle flourished, but Ayana's attention was never conf
 
 When the [[The Emerald Ceremony]] was called — a rite that would send one hundred elves through to the Material Plane to integrate into Valtorran society, to wait, watch, and help — Ayana volunteered without hesitation. The crossing was potentially one-way, the boundaries between planes too fragile to guarantee a return. She handed leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], and walked through without looking back. She severed contact entirely, believing it would be easier for Illythia to move on than to spend decades waiting for someone who might never come home.
 
-![[Ayana_Wynne.png|right|333]]
+![[Ayana_Wynne.webp|right|333]]
 
 On the Material Plane, she assumed the identity of **Ayana Wynne** — a young, sharp-minded human woman. She found her way to [[Val Noren]], where she first served as a quiet advisor to Marius's father, the old lord of the Noren bloodline. She recognised the family's potential early — but the father wasn't the one. So she waited. She watched [[King Marius Noren|Marius]] grow from a boy into a man, and when she saw in him the conviction she'd been looking for, she stepped forward — positioning herself as his advisor and, over years, nudging him toward open rebellion against the Empire. When the city was finally retaken and Marius reclaimed the title of King, Ayana was at his side. Few understood just how long she had been working toward that moment — or that she had been watching before Marius could walk.
 

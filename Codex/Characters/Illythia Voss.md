@@ -25,7 +25,7 @@ aliases:
 
 > [!infobox|wikipedia]
 > # Illythia Voss
-> [![[Codex/Assets/Characters/Illythia_Voss_small.png|cover hsmall]]](Codex/Assets/Characters/Illythia_Voss.png)
+> [![[Codex/Assets/Characters/Illythia_Voss_small.webp|cover hsmall]]](Codex/Assets/Characters/Illythia_Voss.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
