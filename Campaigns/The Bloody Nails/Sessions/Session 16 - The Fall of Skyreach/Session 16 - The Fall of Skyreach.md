@@ -28,7 +28,7 @@ The assault on [[Skyreach]] began in chaos and ended in cataclysm. Amidst the bu
 
 After rigging the explosives and utilising a daring *Feather Fall* manoeuvre to descend, the party landed in a scene of slaughter. The extraction point had been compromised by a [[Hand of the Empire]], an elite warrior who had cut down the [[The Mawbreakers|Mawbreaker]] captain, [[Barak Stormrider]]. The ensuing duel was brutal, pushing the party to their limits. In a moment that stunned the group, the Hand recognized [[Vaeleran]], calling him "Korvas" and referring to him as an "old mentor," before nearly killing him. [[Ryo]] and the party rallied to save their companion, allowing Vaeleran to deliver the killing blow.
 
-In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered a rusty nail - kept from their original prison ship - into the dead Hand's forehead, leaving a brutal message for the [[The Valtorran Empire|Empire]]. As the party fled to [[The Albatross]] with the critically wounded [[Barak Stormrider|Barak]], the fuses burned down. [[Skyreach]] collapsed in a thunderous explosion of rubble and dust, blotting out the moon and dealing a crippling blow to the Empire's infrastructure. While the mission was a success, the cost was high - thirty sailors lost - and the party was left with heavy pockets (10,000 gold pieces) and heavier questions regarding [[Vaeleran]]'s secret past.
+In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered a rusty nail - kept from their original prison ship - into the dead Hand's forehead, leaving a brutal message for the [[Valtorran Empire|Empire]]. As the party fled to [[The Albatross]] with the critically wounded [[Barak Stormrider|Barak]], the fuses burned down. [[Skyreach]] collapsed in a thunderous explosion of rubble and dust, blotting out the moon and dealing a crippling blow to the Empire's infrastructure. While the mission was a success, the cost was high - thirty sailors lost - and the party was left with heavy pockets (10,000 gold pieces) and heavier questions regarding [[Vaeleran]]'s secret past.
 
 ## Details
 
@@ -69,7 +69,7 @@ In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered
 ### Aftermath and Rewards
 
 * **Barak's Survival:** [[Kai]] and the party utilised every resource available (Medicine checks, potions, spells) to barely stabilise [[Barak Stormrider]], who was clinically dead.
-* **Destruction of Skyreach:** As they boarded [[The Albatross]], the charges detonated. The bridge collapsed completely, destroying the [[The Valtorran Empire|Empire]]'s strategic supply line.
+* **Destruction of Skyreach:** As they boarded [[The Albatross]], the charges detonated. The bridge collapsed completely, destroying the [[Valtorran Empire|Empire]]'s strategic supply line.
 * **Casualties:** [[Ari]] reported that roughly 50% of the sailors (30 men) died holding the line to let the slaves escape.
 * **Medical Bay:** [[Illaris Sharin]], the Drow healer, tended to the wounded. [[Kai]] bonded with her over the moon goddess [[Selûne]], performing a ceremony to dedicate Illaris to the goddess for 24 hours.
 * **Lirien:** [[Lirien]] and Kai caught up. She revealed rumors that the missing Elves were taken to the dungeons of [[Val Luminor]]. She also identified [[Ryo]]'s signet ring as the symbol of the [[Ithil Clan]], the ruling class of the lost city [[Ithilmara]].

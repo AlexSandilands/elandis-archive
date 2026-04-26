@@ -36,7 +36,7 @@ Compromised and hunted, the party retreats through the pre-dawn shadows to [[The
 ### The Rift's Corruption
 
 * **Healing Gone Wrong:** [[Ryo]] attempts to cast *Cure Wounds* on the unconscious [[Vaeleran]], but the nearby necromantic [[Riftshard|Rift]] corrupts the spell, stripping away the healing energy and dealing damage instead.
-* **Vaeleran's Madness:** Vaeleran wakes up hallucinating, believing the party are [[The Valtorran Empire|Empire]] soldiers trying to kill him. He attempts to attack [[Kai]] but misses due to his injuries.
+* **Vaeleran's Madness:** Vaeleran wakes up hallucinating, believing the party are [[Valtorran Empire|Empire]] soldiers trying to kill him. He attempts to attack [[Kai]] but misses due to his injuries.
 * **Restraining the Fighter:** [[Dondar]] uses *Hypnotic Gaze* to pause Vaeleran, allowing Kai to cast *Sleep*. They bind him for safety.
 * **Rescue:** The party stabilises [[Teresa]], who is weak but alive. Kai collects the Silver Amulet and the bones of the ghost girl, [[Salla the Brave]]. Kai also harvests poisonous mushrooms for [[Eryndor]].
 * **Escape:** The party uses the *Rope of Climbing* to exit the cave. [[Kai]] Wild Shapes into a panther to carry [[Teresa]] back to [[Faelon]].

@@ -60,7 +60,7 @@ The climax occurred in a glimmering chamber filled with the missing gold and tre
 * **The Treasure Room:** The party found the missing wealth—gold, gems, and weapons—decorating a central chamber.
 * **Nelfandris:** They met [[Nelfandris the Banished]], a hybrid entity with a human torso and a massive spider body. She commanded a legion of spiders but was willing to talk.
 * **The Negotiation:**
-    * The party explained they were third-party contractors for [[The Green Gryphons]], not [[The Valtorran Empire|The Empire]].
+    * The party explained they were third-party contractors for [[The Green Gryphons]], not [[Valtorran Empire|The Empire]].
     * They struck a deal to keep the Empire away from the mine while allowing Nelfandris to remain undisturbed.
     * A formal contract was "signed" to solidify the agreement.
 * **Lore Drop:** Nelfandris revealed she knew of [[Empress Morganna Eventide|Empress Morganna]], describing her as a young girl from a far-off land who brokered a dark deal 100 years ago to entrap her soul and prolong her life.

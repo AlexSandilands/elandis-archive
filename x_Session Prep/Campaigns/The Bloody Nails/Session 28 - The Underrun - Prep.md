@@ -183,4 +183,4 @@ tags:
 - -3 on rapier
 - -1 on armour
 
-- [[Vaeleran]] created Hobgoblin uprising against [[The Valtorran Empire|The Empire]]
+- [[Vaeleran]] created Hobgoblin uprising against [[Valtorran Empire|The Empire]]

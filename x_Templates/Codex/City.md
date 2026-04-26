@@ -58,7 +58,7 @@ Traditions, religions, festivals, and cultural identity.
 
 ### Relations with the Empire
 
-How the city interacts with [[The Valtorran Empire]] — loyalty, resistance, or something in between.
+How the city interacts with [[Valtorran Empire]] — loyalty, resistance, or something in between.
 
 ## Locations
 

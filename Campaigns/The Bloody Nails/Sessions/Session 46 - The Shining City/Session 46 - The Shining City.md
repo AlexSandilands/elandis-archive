@@ -55,7 +55,7 @@ The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining Ci
 
 ### Preparations for the Confluence
 * Ayana explained the governance of [[Sumara, The Shining City|Sumara]], consisting of the Confluence of the Seven Circles: Weave, Blade, Dawn, Scroll, Scales, Loom, and Root.
-* She announced a Confluence would be called at moonrise to discuss the threat of the [[The Valtorran Empire|Crimson Empire]] and [[Ryo]]'s heritage.
+* She announced a Confluence would be called at moonrise to discuss the threat of the [[Valtorran Empire|Crimson Empire]] and [[Ryo]]'s heritage.
 * **Royal Revelation:** [[Ryo]] was confirmed as the son of [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara]]. He is the sole remaining heir to the elven throne.
 * Ayana cast *Seeming* on the party to disguise them as elves, allowing them to travel the city without causing a riot.
 

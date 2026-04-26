@@ -35,7 +35,7 @@ aliases:
 > Age | 45 |
 > Languages | Common |
 > Place | Darmouth |
-> Connections | [[The Valtorran Empire]] |
+> Connections | [[Valtorran Empire]] |
 > Profession | Hand of the Empire |
 > ###### Status
 > Attribute |  Details |

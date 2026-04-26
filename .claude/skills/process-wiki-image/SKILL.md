@@ -1,9 +1,9 @@
 ---
-name: shrink-image
-description: Use this skill when the user asks to "/shrink-image", "process a character image", "convert a new character image", "make WebP versions", or wants to turn a source PNG into the published WebP pair (full + thumbnail) for a Codex asset. Takes a full-size source image, produces a quality-95 full WebP and a quality-85 500px thumbnail WebP, and archives the original PNG outside the vault.
+name: process-wiki-image
+description: Use this skill when the user asks to "/process-wiki-image", "process a character image", "convert a new character image", "make WebP versions", or wants to turn a source PNG into the published WebP pair (full + thumbnail) for a Codex asset. Takes a full-size source image, produces a quality-95 full WebP and a quality-85 500px thumbnail WebP, and archives the original PNG outside the vault.
 ---
 
-# Process Image — Source PNG → Published WebP Pair
+# Process Wiki Image — Source PNG → Published WebP Pair
 
 Convert a freshly generated source image (typically a NanaBanana-style PNG) into the WebP pair used by the published Codex, and archive the original outside the vault.
 
@@ -15,7 +15,7 @@ Every Codex asset has two WebPs published in the vault and one archived original
 - `<Codex/Assets/<Category>/Name_small.webp>` — 500px-wide thumbnail, quality 85 (embedded in the infobox with `cover hsmall`)
 - `<archive root>/<Name>.png` — lossless source PNG, kept outside the vault for reprocessing
 
-**Default archive root for character images:** `/mnt/storage/Misc/DnD/The Bloody Nails/Characters/NPCs/`
+**Default archive root for character images:** `/mnt/storage/Misc/DnD/The Bloody Nails/Art/Characters/NPCs/`
 
 If processing a different asset category (locations, items, etc.), ask the user for the archive root rather than assuming.
 
@@ -60,7 +60,9 @@ mv "<source>" "<archive_root>/"
 
 ### 5. Confirm output
 
-Report the source dimensions (use `identify` on the archive copy), both output paths and sizes, and the archive path:
+Use `identify` (ImageMagick) and `ls -lh` to check dimensions and file sizes — don't reach for Python when shell tools suffice.
+
+Report the source dimensions, both output paths and sizes, and the archive path:
 
 ```
 Done. Warden_Caeryn processed.

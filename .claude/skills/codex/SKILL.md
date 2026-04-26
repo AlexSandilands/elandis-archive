@@ -1,6 +1,6 @@
 ---
 name: codex
-description: Use this skill when the user asks to "/codex", "create a character called X", "add a minor character", "make a new character entry", "add a new codex entry", or wants to create, write, or generate any new character page for the Elandis wiki. ALSO trigger when the user mentions a character that doesn't have a Codex page yet and asks to document, write up, or turn a stub into a proper entry. Characters only for now — other categories (cities, factions, etc.) will be added later. This skill gathers all needed details, checks for existing or root-level files to migrate, and produces a complete, publication-ready Codex entry: YAML frontmatter, infobox callout, prose body, campaign section, and an image generation prompt. When a restricted companion document is needed, it creates both files.
+description: Use this skill when the user asks to "/codex", "create a character called X", "add a minor character", "make a new character entry", "add a new codex entry", or wants to create, write, or generate any new character page for the Elandis wiki. ALSO trigger when the user mentions a character that doesn't have a Codex page yet and asks to document, write up, or turn a stub into a proper entry. ALSO trigger when the user says "migrate [name]", "convert [name] to codex", or wants to move a root-level stub into the Codex folder. Characters only for now — other categories (cities, factions, etc.) will be added later. This skill researches the character in the synopses, presents findings, gathers the DM's notes, and produces a complete, publication-ready Codex entry: YAML frontmatter, infobox callout, prose body, campaign section, and an image generation prompt. When a restricted companion document is needed, it creates both files.
 ---
 
 # Codex Entry Creator — Characters
@@ -27,13 +27,14 @@ If anything is missing, ask for it all in one message — don't ask one field at
 
 ---
 
-## Step 2 — Check for existing files
+## Step 2 — Check for existing files and research the character
 
 Before asking for details, check the vault:
 
 1. Does `Codex/Characters/<Name>.md` already exist? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
 2. Does `<Name>.md` exist at the vault root? If so, read it — use its content to inform both the entry and whether a restricted companion is needed (see Stub File Format below).
-3. Glob for image files matching the character name in `x_Assets/Characters/` and `Codex/Assets/Characters/` (patterns: `Name*.webp`, `First_Last*.webp` — also check `*.png` in case a source hasn't been converted yet). If found, use the real filename in the infobox.
+3. Grep all synopsis files under `Campaigns/The Bloody Nails/Sessions/` for the character's name (and any short-form aliases). Collect every matching snippet with its session number. Ignore hits inside `Transcript.md` files — never read those.
+4. Glob for image files matching the character name in `x_Assets/Characters/` and `Codex/Assets/Characters/` (patterns: `Name*.webp`, `First_Last*.webp` — also check `*.png` in case a source hasn't been converted yet). If found, use the real filename in the infobox.
 
 ### Stub file format
 
@@ -51,9 +52,36 @@ Male elf, mid-30s. Merchant in Darmouth. Seems friendly but evasive.
 
 ---
 
-## Step 3 — Gather character details
+## Step 3 — Present research and gather details
 
-Ask for everything in **one message**. Only ask for what isn't already provided by the user or found in a stub file.
+**If a root stub was found OR synopsis mentions were found (migration mode):**
+
+Present your findings in one message before asking anything:
+
+```
+**Research for [Name]**
+
+Root stub: [content if any, or "empty"]
+
+Synopsis appearances:
+- Session N: [brief quote or summary of the relevant snippet]
+- Session N: [...]
+
+Based on this, I'd suggest: [Major/Minor] — [one sentence reasoning].
+
+What would you like to add before I generate the entry? Drop in any bullet notes —
+species, appearance, background, secrets, anything not in the synopses.
+```
+
+Wait for the user's notes, then proceed to generate. Don't ask a structured question list in migration mode — the user's notes are freeform and that's fine.
+
+If the stub contained a `## Restricted` section, note that you'll create both files and confirm this is still what they want.
+
+---
+
+**If this is a fresh character with no existing files (creation mode):**
+
+Ask for everything in **one message**. Only ask for what isn't already provided by the user.
 
 **Major character** — ask for:
 - Species, gender, pronouns, age
@@ -197,7 +225,9 @@ Brief summary of their appearance in this session — one sentence or a short bu
 
 - The **opening paragraph is world-focused** — describe who this character is in the world of Elandis. The party doesn't exist in the opening paragraph.
 - **No placeholders.** No `???`, no `- [ ]`, no `TODO`. If something is unknown, omit it. Every sentence is real content.
-- **Wikilinks** on first mention of every proper noun (character, place, faction, item).
+- **Wikilinks** on first mention of every proper noun (character, place, faction, item). Before writing a wikilink, verify the exact page name with `find` or `ls` — don't assume the name. A wrong link creates a ghost page in Obsidian.
+- **Alias lookup:** If a term in prose doesn't match any page name directly (e.g. "Empire", "Barak", "Gemma"), grep the vault for it as a frontmatter alias before leaving it unlinked: `grep -rl "  - <Term>" <vault>/ --include="*.md"`. If a match is found, write `[[Full Page Name|Display Term]]` — e.g. `[[Valtorran Empire|Empire]]`. Do this for every proper noun that looks like it might be a short form of a longer title.
+- **Page naming convention:** Vault pages use bare proper nouns without a leading article — `Veiled Cubs`, `Order of Ravens`, `Mawbreakers`. In prose, supply the article *outside* the brackets: `the [[Veiled Cubs]]`, `the [[Order of Ravens]]`. Never include "The" inside a wikilink unless that is literally how the page is named (e.g. `[[The Albatross]]` for the ship).
 - **Session link format:** `#### [[Session N - <Title>]]` — direct basename link, no path, no alias. Each session file's basename is unique vault-wide, so Obsidian resolves it directly.
 - If no campaign appearances were provided, omit the Campaign section entirely.
 - Trivia is Major-only.

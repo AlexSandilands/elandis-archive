@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-The session began with a sombre moment of reflection aboard [[The Albatross]], where Captain [[Barak Stormrider]] revealed the tragic loss of his son to [[The Valtorran Empire|The Crimson Empire]], prompting the party members to share their own driving forces—from [[Vaeleran]]’s targeted amnesia and [[Kai]]’s orphaned past to [[Ryo]]’s persecution as a rare full-blooded elf. Steeled by shared trauma and purpose, the group finalised a high-stakes plan: while the [[The Mawbreakers]] launched a loud frontal assault to distract the garrison and liberate the labour camp, the party would infiltrate [[Skyreach]] stealthily to plant explosives and sever the massive bridge overhead.
+The session began with a sombre moment of reflection aboard [[The Albatross]], where Captain [[Barak Stormrider]] revealed the tragic loss of his son to [[Valtorran Empire|The Crimson Empire]], prompting the party members to share their own driving forces—from [[Vaeleran]]’s targeted amnesia and [[Kai]]’s orphaned past to [[Ryo]]’s persecution as a rare full-blooded elf. Steeled by shared trauma and purpose, the group finalised a high-stakes plan: while the [[The Mawbreakers]] launched a loud frontal assault to distract the garrison and liberate the labour camp, the party would infiltrate [[Skyreach]] stealthily to plant explosives and sever the massive bridge overhead.
 
 Under the biting chill of a winter night, the party navigated the frozen riverbanks. [[Ryo]]’s *Pass Without Trace* proved invaluable, shrouding the group in supernatural silence as they ambushed Imperial scouts and scaled the formidable perimeter wall using magical rope. They executed a ruthless, coordinated takedown of the wall patrol, with [[Vaeleran]] grappling the guard for a silent execution, allowing the team to traverse the battlements undetected toward the central gatehouse.
 
@@ -42,7 +42,7 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
 
 ### The Captain's Table
 
-* **Barak's Motivation:** [[Barak Stormrider]] gathered the party in his cabin to explain his true drive: his son, a young captain, was murdered by the [[The Valtorran Empire|Empire]] for refusing to abuse his crew. Barak is not in this for money, but to burn the Empire down.
+* **Barak's Motivation:** [[Barak Stormrider]] gathered the party in his cabin to explain his true drive: his son, a young captain, was murdered by the [[Valtorran Empire|Empire]] for refusing to abuse his crew. Barak is not in this for money, but to burn the Empire down.
 * **Party Motivations:** Barak asked the party why they fight:
     * **[[Vaeleran]]:** Suffers from amnesia but knows the Empire is specifically hunting him via wanted posters. He fights because they won't let him be.
     * **[[Kai]]:** An orphan whose parents and village were destroyed by the Empire. He seeks vengeance.
@@ -55,7 +55,7 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
 * **Strategy:** The party realised the bridge is 400ft high, making climbing difficult. They devised a split plan:
     * **Team A (Mawbreakers):** Attack the camp loud and fast to draw reinforcements and free slaves.
     * **Team B (The Party):** Infiltrate quietly, open the gates for the army, and then move to the bridge supports to plant gunpowder kegs.
-* **Barak's Speech:** Before docking, [[Barak Stormrider|Barak]] delivered a rousing speech to the crew, declaring this the night they "shatter the bonds" of the [[The Valtorran Empire|Empire]].
+* **Barak's Speech:** Before docking, [[Barak Stormrider|Barak]] delivered a rousing speech to the crew, declaring this the night they "shatter the bonds" of the [[Valtorran Empire|Empire]].
 * **The Scouts:** Upon docking at the river mouth, [[Kai]] spotted two Imperial scouts. [[Ryo]] unleashed a *Dread Ambush*, killing one instantly. The second was turned into a "pincushion" by the [[The Mawbreakers|Mawbreaker]] crew's crossbows.
 * **Farewells:** [[Gromdal]] shared a dwarven salute with [[Dondar]], wishing him strength of stone. [[Ari]] was ordered by Barak to stay behind and guard the ships, much to her dismay.
 

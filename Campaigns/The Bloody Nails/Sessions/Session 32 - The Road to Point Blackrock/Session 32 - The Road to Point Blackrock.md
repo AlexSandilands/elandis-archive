@@ -55,7 +55,7 @@ The tension peaked at a heavily fortified Imperial barricade blocking the road n
 
 ### The Imperial Barricade
 
-* **The Checkpoint:** The group encountered a massive blockade controlled by [[The Valtorran Empire|The Empire]]. Relying on their new disguises, they attempted to pass through.
+* **The Checkpoint:** The group encountered a massive blockade controlled by [[Valtorran Empire|The Empire]]. Relying on their new disguises, they attempted to pass through.
 * **The Hand:** They were stopped by a [[Hand of the Empire]]. The commander recognised [[Vaeleran]]'s face, identifying him as the former [[General Korvas]].
 * **The Bluff:** The Hand questioned Vaeleran intensely regarding his long disappearance and sudden return. Vaeleran successfully maintained the ruse of being a superior officer returning to the fold.
 * **Resolution:** Though clearly harbouring doubts, the Hand did not dare detain a General. The barricade was lifted, and the party was allowed to continue north.

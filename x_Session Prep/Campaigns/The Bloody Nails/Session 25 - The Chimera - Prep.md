@@ -84,4 +84,4 @@ When travelling through the city:
 - Plan to Chat with [[Governor Tarlis Evandron]]
 - [[Kai]] plans Temple Communion
 - [[Eryndor]] will talk with Ravens
-- [[Norak Vara]] will be punished by [[The Valtorran Empire|The Empire]] for not getting the mine under control #todo 
+- [[Norak Vara]] will be punished by [[Valtorran Empire|The Empire]] for not getting the mine under control #todo 

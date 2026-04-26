@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-The journey to [[Farhaven]] began with a chill wind and ominous signs, as the party discovered a farmhouse marked with a symbol of the rebellion. Upon reaching the outskirts of the city, the tension exploded into action when the group witnessed an imperial execution in progress. Acting quickly, [[Vaeleran]] and [[Ryo]] utilised a daring combination of magical disguise and commanding intimidation, posing as high-ranking members of [[The Valtorran Empire|The Empire]] to disperse the guards and rescue a woman named Juliana from the gallows.
+The journey to [[Farhaven]] began with a chill wind and ominous signs, as the party discovered a farmhouse marked with a symbol of the rebellion. Upon reaching the outskirts of the city, the tension exploded into action when the group witnessed an imperial execution in progress. Acting quickly, [[Vaeleran]] and [[Ryo]] utilised a daring combination of magical disguise and commanding intimidation, posing as high-ranking members of [[Valtorran Empire|The Empire]] to disperse the guards and rescue a woman named Juliana from the gallows.
 
 Grateful for her life, Juliana warned the party of a massive Imperial legion locking down the city and provided directions to ancient ruins north of the settlement where [[The Finegolds]] were assumed to be. The party paused only to offer a decent burial to the other victims of the execution before investigating a mysterious, ancient stone obelisk on the coast. Sensing faint, unrecognizable magic, they pushed inland into the dense, suffocating canopy of the forest, where ancient ruins lay arranged in strange concentric circles.
 

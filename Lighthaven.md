@@ -40,7 +40,7 @@ The people of Lighthaven also celebrate a seasonal festival on the Winter Solsti
 
 ### Relations with the Empire
 
-Lighthaven technically falls under the jurisdiction of [[The Valtorran Empire|The Empire]], but the townsfolk largely see the imperial presence as a burden rather than a boon. The local guards, particularly the Duskwardens, handle most of the town’s defense, and the imperial soldiers stationed at the barracks are viewed as ineffectual outsiders. Mayor Valtros openly defies imperial influence, favoring policies that prioritize the well-being of Lighthaven’s residents.
+Lighthaven technically falls under the jurisdiction of [[Valtorran Empire|The Empire]], but the townsfolk largely see the imperial presence as a burden rather than a boon. The local guards, particularly the Duskwardens, handle most of the town’s defense, and the imperial soldiers stationed at the barracks are viewed as ineffectual outsiders. Mayor Valtros openly defies imperial influence, favoring policies that prioritize the well-being of Lighthaven’s residents.
 
 ### Darkwood Attacks
 

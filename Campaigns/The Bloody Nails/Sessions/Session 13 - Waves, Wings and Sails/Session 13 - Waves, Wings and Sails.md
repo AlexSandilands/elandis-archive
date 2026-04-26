@@ -29,7 +29,7 @@ The session began with the party finalising their preparations in [[Camaar]], ga
 
 As the journey continued, a dense fog descended, concealing a deadly ambush by a flock of harpies. Their enchanting songs threw the defence into chaos, charming [[Vaeleran]] and [[Eryndor]] and luring them toward the water. Vaeleran was dragged overboard by a grappler, while Eryndor willingly dove in after the "beautiful" creatures. The party rallied with [[Kai]]'s guidance, [[Ryo]]'s archery, and the crew's crossbow support to slay the beasts and haul their wet, heavy-armoured companions back to the deck.
 
-The following days were a battle against the elements. The party endured bouts of debilitating seasickness and a violent storm that required every hand on deck to keep the ship afloat. Having successfully weathered the natural disasters and repaired the ship's sails, the skies finally cleared on the sixth day. However, the relief was short-lived; on the horizon, the distinctive red sails of a [[The Valtorran Empire|Valtorran Empire]] ship were spotted dead ahead, forcing the party to decide between stealth, diplomacy, or naval warfare.
+The following days were a battle against the elements. The party endured bouts of debilitating seasickness and a violent storm that required every hand on deck to keep the ship afloat. Having successfully weathered the natural disasters and repaired the ship's sails, the skies finally cleared on the sixth day. However, the relief was short-lived; on the horizon, the distinctive red sails of a [[Valtorran Empire|Valtorran Empire]] ship were spotted dead ahead, forcing the party to decide between stealth, diplomacy, or naval warfare.
 
 ## Details
 
@@ -68,7 +68,7 @@ The following days were a battle against the elements. The party endured bouts o
 
 * **Sickness:** Day 3 brought rough swells. [[Eryndor]], [[Kai]], and [[Dondar]] suffered severe seasickness (exhaustion and poisoning).
 * **The Storm:** On Day 5, a massive storm hit. The party participated in a skill challenge to keep the ship safe. Through combined efforts (rolling well), the ship survived without taking damage.
-* **The Reveal:** On Day 6, the weather cleared. [[Prax Shea|Prax]] spotted a ship on the horizon. As they closed the distance, they identified the red sails of the [[The Valtorran Empire|Crimson Empire]].
+* **The Reveal:** On Day 6, the weather cleared. [[Prax Shea|Prax]] spotted a ship on the horizon. As they closed the distance, they identified the red sails of the [[Valtorran Empire|Crimson Empire]].
 * **Cliffhanger:** The session ended with the party and [[Barak Stormrider|Barak]] deliberating on how to handle the enemy vessel—whether to sink it or attempt to bluff their way past.
 
 ## Art

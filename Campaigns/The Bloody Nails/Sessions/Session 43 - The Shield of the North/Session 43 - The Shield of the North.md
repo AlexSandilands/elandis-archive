@@ -66,7 +66,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 ### The Test of Faith
 
-* [[Kai]] and [[Eryndor]] visit [[St. Avelines]] to meet Brother Callum and [[Alyn]].
+* [[Kai]] and [[Eryndor]] visit [[St. Avelines]] to meet Brother Callum and [[Alyn the First]].
 * Kai displays the power of his Twilight Sanctuary. Despite Callum's devotion to [[Torgar Earthshaker]], he is convinced by the display and agrees to let Kai teach his rituals to the acolytes.
 * Kai attempts to purify the Dread General's cursed armour. Upon touching it, he enters a trance and is pulled into a vision of the Astral Plane.
 * Kai faces a shadow reflection of himself in combat, taking levels of exhaustion as physical attacks fail to destroy the entity.
@@ -76,7 +76,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 * Exhausted, [[Kai]] takes the purified metal to Helda at [[The Ashen Forge]].
 * Helda enters a trance, her eyes glowing blue with channeled divine energy. She works the metal with superhuman speed and skill for hours.
-* She forges the **Moonlit Aegis** (+1 Shield). When [[Alyn]] provides a moonstone, it magnetically slots into the shield, unlocking a reaction ability to blind attackers.
+* She forges the **Moonlit Aegis** (+1 Shield). When [[Alyn the First]] provides a moonstone, it magnetically slots into the shield, unlocking a reaction ability to blind attackers.
 * Helda wakes from the trance with no memory of forging the item. Kai leaves 200 gold in payment.
 
 ## Art

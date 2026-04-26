@@ -61,7 +61,7 @@ Just as Korvas prepared to deliver the killing blow to his former companions, th
 * **The Escape:** [[Marcelle the Broken|Marcelle]], realising the tactical disadvantage, grabbed Korvas and teleported them both away via a spatial rift.
 * **The Saviour:** The rescuer revealed himself to be [[Barak Stormrider]] of [[The Mawbreakers]]. He ordered his rebel soldiers to stabilise [[Kai]] and [[Ryo]].
 * **Retreat:** The group fled through the winding streets, fighting off small patrols, until they reached a secure rebel section of the city protected by heavy barricades.
-* **Debrief:** Barak asked what [[The Valtorran Empire|The Empire]] had done to revert [[Vaeleran]] to his old persona, [[General Korvas|Korvas]]. The session ended with the party safe but reeling from the betrayal.
+* **Debrief:** Barak asked what [[Valtorran Empire|The Empire]] had done to revert [[Vaeleran]] to his old persona, [[General Korvas|Korvas]]. The session ended with the party safe but reeling from the betrayal.
 
 ## Art
 

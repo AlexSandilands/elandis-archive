@@ -28,7 +28,7 @@ Recovering from a hallucinogenic haze in the market, the party returns to the [[
 
 At midnight, the group executes a bold plan to enter [[Miriel's Rest]], the royal graveyard. Rather than sneaking, [[Vaeleran]] dons a red cloak and intimidates the guards into opening the gates, citing "classified Imperial business." Inside, they are met by a hooded figure who reveals herself to be [[Vallania Miriel]] (Nia), the governor's daughter and the woman the party previously rescued from the goblin stronghold near [[Darmouth]]. She leads them through a secret passage in her family crypt, descending deep underground to a hidden war room.
 
-There, they meet [[Governor Tarlis Evandron|Tarlis]], the Governor of [[Val Miriel]]. Though initially hostile and paranoid, threatening to execute them to keep his secret, Tarlis is swayed by his daughter's testimony and the party's involvement in toppling [[Skyreach]]. He outlines a desperate strategy: the party must act as independent agents to unite the fractured kingdoms of [[Valtorra]] against [[The Valtorran Empire|The Crimson Empire]]. Armed with magical communication stones and a map of potential allies, the party accepts the mission, effectively opening the world before them.
+There, they meet [[Governor Tarlis Evandron|Tarlis]], the Governor of [[Val Miriel]]. Though initially hostile and paranoid, threatening to execute them to keep his secret, Tarlis is swayed by his daughter's testimony and the party's involvement in toppling [[Skyreach]]. He outlines a desperate strategy: the party must act as independent agents to unite the fractured kingdoms of [[Valtorra]] against [[Valtorran Empire|The Crimson Empire]]. Armed with magical communication stones and a map of potential allies, the party accepts the mission, effectively opening the world before them.
 
 ## Details
 
@@ -54,7 +54,7 @@ There, they meet [[Governor Tarlis Evandron|Tarlis]], the Governor of [[Val Miri
 * The party enters a secret planning room filled with maps and books. Kai detects magic coming from a small chest on a shelf.
 * [[Governor Tarlis Evandron|Tarlis]], the Governor, enters and immediately threatens the party, fearing his seditious plans have been exposed.
 * [[Vallania Miriel|Vallania]] vouches for the group, and Vaeleran reveals their involvement in the destruction of [[Skyreach]], which convinces Tarlis of their anti-Imperial alignment.
-* Tarlis explains his position: he cannot openly rebel without being replaced or executed by [[The Valtorran Empire|The Empire]], so he needs independent agents to travel the continent.
+* Tarlis explains his position: he cannot openly rebel without being replaced or executed by [[Valtorran Empire|The Empire]], so he needs independent agents to travel the continent.
 
 ### The Grand Alliance
 

@@ -10,7 +10,7 @@ cssclasses:
 - **Imperial Presence:** None (until recently)
 - **Local Leader:** None (governed by council)
 - **Defining Trait:** Gateway to [[The Frostway]] — last outpost before the treacherous crossing to [[Val Noren]]
-- **Current Conflicts:** Imperial occupation, forced conscription, rising tensions between residents and [[The Valtorran Empire|The Empire]], several missing [[The Frostwardens|Frostwarden]] crews
+- **Current Conflicts:** Imperial occupation, forced conscription, rising tensions between residents and [[Valtorran Empire|The Empire]], several missing [[The Frostwardens|Frostwarden]] crews
 - **Claim to Fame:** Home of [[The Frostwardens]], legendary guides across [[The Frostway]] — the only reliable land passage to [[Val Noren]] during winter
 
 ### [[Sketch - Point Blackrock|Sketch]]
@@ -23,7 +23,7 @@ Point Blackrock is a rugged frontier settlement located on the north-eastern coa
 
 It serves as the gateway to [[The Frostway]] — a shifting, deadly ice bridge that forms during the height of winter and connects the mainland to the rebellious city of [[Val Noren]]. During these few weeks each year, traders and travellers flock to Point Blackrock, relying on the famed [[The Frostwardens|Frostwardens]] to guide them safely across the ice.
 
-In the winter of 2507, [[The Valtorran Empire]] arrived with force, turning the once-neutral Blackrock into a military staging ground in their effort to retake [[Val Noren]]. Since then, the settlement has been under uneasy occupation.
+In the winter of 2507, [[Valtorran Empire]] arrived with force, turning the once-neutral Blackrock into a military staging ground in their effort to retake [[Val Noren]]. Since then, the settlement has been under uneasy occupation.
 
 ### History
 
@@ -39,7 +39,7 @@ Blackrock’s people are hardy, practical, and well-accustomed to long winters a
 
 The settlement is a melting pot of cultures, with no official religion or governance, and few laws beyond basic survival courtesy. Deals are often made face-to-face and enforced by personal reputation or [[The Frostwardens|Frostwarden]] mediation.
 
-Since the occupation, many locals have become bitter and cautious, their sense of community strained under the boot of [[The Valtorran Empire|The Empire]]. Some have turned collaborator; others prepare for rebellion.
+Since the occupation, many locals have become bitter and cautious, their sense of community strained under the boot of [[Valtorran Empire|The Empire]]. Some have turned collaborator; others prepare for rebellion.
 
 ### Culture and Beliefs
 
@@ -52,9 +52,9 @@ The settlement is traditionally communal during the crossing season — fires sh
 
 ### Relations with the Empire
 
-Usually non-existent, until the year 2507 when [[The Valtorran Empire|The Empire]] invaded [[Val Noren]] and used Point Blackrock as a staging grounds.
+Usually non-existent, until the year 2507 when [[Valtorran Empire|The Empire]] invaded [[Val Noren]] and used Point Blackrock as a staging grounds.
 
-Since then, the relationship has turned hostile and oppressive. [[The Valtorran Empire|The Empire]] has seized part of [[Point Blackrock#The Frosthearth|The Frosthearth]] for command use, imprisoned or conscripted able-bodied civilians, and begun coercing [[The Frostwardens|Frostwardens]] into guiding military crossings. Some  [[The Frostwardens|Frostwarden]] crews have gone missing during crossings — whether dead or captured is unknown.
+Since then, the relationship has turned hostile and oppressive. [[Valtorran Empire|The Empire]] has seized part of [[Point Blackrock#The Frosthearth|The Frosthearth]] for command use, imprisoned or conscripted able-bodied civilians, and begun coercing [[The Frostwardens|Frostwardens]] into guiding military crossings. Some  [[The Frostwardens|Frostwarden]] crews have gone missing during crossings — whether dead or captured is unknown.
 
 The population simmers beneath the surface, torn between fear, survival, and the whispered hope that [[Val Noren]] might yet be freed.
 
@@ -66,7 +66,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 #### The Frosthearth
 
 > [!example]+ Description
-> A long, sturdy stone lodge at the heart of Point Blackrock, once the proud hall of [[The Frostwardens]]. The exterior walls have the sigils of 8 crews placed evenly. The interior walls are etched with crossing records, names of fallen guides, and old sigils. Half of the building has now been seized by [[The Valtorran Empire|The Empire]] and repurposed as their command post. The other half still houses [[The Frostwardens|Frostwarden]] supplies, maps, and elders. Tension crackles in the air — one side burns with purpose, the other chills with occupation.
+> A long, sturdy stone lodge at the heart of Point Blackrock, once the proud hall of [[The Frostwardens]]. The exterior walls have the sigils of 8 crews placed evenly. The interior walls are etched with crossing records, names of fallen guides, and old sigils. Half of the building has now been seized by [[Valtorran Empire|The Empire]] and repurposed as their command post. The other half still houses [[The Frostwardens|Frostwarden]] supplies, maps, and elders. Tension crackles in the air — one side burns with purpose, the other chills with occupation.
 
 ##### **Characters**
 
@@ -127,7 +127,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 
 ##### **Characters**
 
-- **Gerren Vosk** — Lanky, slow-moving stablemaster who deeply resents [[The Valtorran Empire|The Empire's]] "taxation" of his best animals.
+- **Gerren Vosk** — Lanky, slow-moving stablemaster who deeply resents [[Valtorran Empire|The Empire's]] "taxation" of his best animals.
 
 - **Brenn Vosk** — His hot-headed teenage son, ready to punch the next soldier who tries to take their dogs.
 

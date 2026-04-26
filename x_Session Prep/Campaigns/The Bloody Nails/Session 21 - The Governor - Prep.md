@@ -108,7 +108,7 @@ If the group searches through they might find:
 - "Dead seen walking again in the [[Borealus Forest]]??"
 - Report on the stewards of [[Glimmerforge]] (the dwarven capital) and the viability of working with them
 	- [[Thorgar Ummal]] and [[Hilda Ummal]]
-	- They appear very much bought by [[The Valtorran Empire|The Empire]]
+	- They appear very much bought by [[Valtorran Empire|The Empire]]
 - Box with 12 stones
 
 ### Governor Tarlis Miriel
@@ -187,14 +187,14 @@ If the group searches through they might find:
 > 
 > **Val Solis**
 > 
-> - [[Val Solis]] Never fell to [[The Valtorran Empire|The Empire]]
+> - [[Val Solis]] Never fell to [[Valtorran Empire|The Empire]]
 > - Have had their dock and gates closed for nearly 100 years
 > - Agents that have tried to infiltrate have never returned
 > 
 > **Glimmerforge**
 > 
-> - Thorgar and Hilda Ummal, the current stewards in [[Glimmerforge]] of the dwarven kingdom appear entirely bought by [[The Valtorran Empire|The Empire]]
-> - Considering the continued suffering inflicted upon their people by [[The Valtorran Empire|The Empire]], there must be factions within the city that would be sympathetic to our cause
+> - Thorgar and Hilda Ummal, the current stewards in [[Glimmerforge]] of the dwarven kingdom appear entirely bought by [[Valtorran Empire|The Empire]]
+> - Considering the continued suffering inflicted upon their people by [[Valtorran Empire|The Empire]], there must be factions within the city that would be sympathetic to our cause
 > 
 > **The Elves**
 > 

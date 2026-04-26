@@ -46,7 +46,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Barak Stormrider** is a sea captain and the leader of [[The Mawbreakers]], a rebel sailing company operating out of [[Camaar]]. He commands [[The Albatross]] through [[The Maw]] — the treacherous whirlpool guarding the [[Gulf of Miriel]] — and has spent years using that mastery to strangle [[The Valtorran Empire|the Empire]]'s supply lines. His son **Baran** was killed by an Imperial captain for defending his crew. Everything Barak has done since has been aimed, quietly and without apology, at making that matter.
+**Barak Stormrider** is a sea captain and the leader of [[The Mawbreakers]], a rebel sailing company operating out of [[Camaar]]. He commands [[The Albatross]] through [[The Maw]] — the treacherous whirlpool guarding the [[Gulf of Miriel]] — and has spent years using that mastery to strangle [[Valtorran Empire|the Empire]]'s supply lines. His son **Baran** was killed by an Imperial captain for defending his crew. Everything Barak has done since has been aimed, quietly and without apology, at making that matter.
 
 ## Description
 

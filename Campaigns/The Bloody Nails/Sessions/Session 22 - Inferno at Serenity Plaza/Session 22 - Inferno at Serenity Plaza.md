@@ -64,7 +64,7 @@ The session concluded with an explosive climax at [[Serenity Plaza]]. Stumbling 
 * **The Intel:**
     * The mine usually has 10-15 guards and ~30 miners.
     * Two separate Imperial squads were sent to investigate the silence; neither returned.
-    * The [[The Valtorran Empire|The Empire]] has washed its hands of the manpower cost, forcing Norak Vara to hire mercenaries.
+    * The [[Valtorran Empire|The Empire]] has washed its hands of the manpower cost, forcing Norak Vara to hire mercenaries.
 * **Suspicion:** [[Vaeleran]] pressed Norak on the loyalty of Nihilus, but Norak dismissed the concerns.
 
 ### The Plaza Incident

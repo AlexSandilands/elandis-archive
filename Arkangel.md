@@ -1,0 +1,7 @@
+- Flying city, fully autonomous
+- Completely neutral, any conflict will cause powerful automatons to expel the people causing the trouble from the city. The automotons are perfectly designed to fight mages, they are nearly immune to most forms of magic and have the ability to strip magic from the casters
+- The city has centuries of magical knowledge. No one knows where it came from
+- RESTRICTED CODEX ONLY: This city was created during the Chaos Wars as a way to allow the mages to store their knowledge and travel across the world trying to help where required. It's one of the few remaining creations from that time that isn't in ruins.
+- No one permanently lives here. Mages come and go. It's expected that eventually mages should contribute something to the city
+- You cannot be taken here - part of the rite of passage is being able to figure out for yourself how to get to the city
+- It's is expicitely neutral ground for magic users - sworn enemies or political rivals could pass each other in the street and would be expected to nod to each other, or even potentially collaborate. The city has intentionally been left by the ancients in a way so that it can never be abused for gain or power, other than the pursuit and exploration of magic, and the protection of existing knowledge.

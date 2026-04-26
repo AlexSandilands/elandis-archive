@@ -24,7 +24,7 @@ tags:
 > Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane]] |
 
 ## Summary
-The journey across [[The Frostway]] continues under the biting winds of an unrelenting storm. After a brief respite at a cairn shelter, the party faces rising panic among the refugees, some of whom threaten to return to the Imperial-controlled [[Point Blackrock]]. [[Vaeleran]] and the party manage to steel the refugees' resolve, convincing them that the only path to survival lies forward towards [[Val Noren]]. In a moment of spiritual clarity, [[Kai]] performs a ritual that summons a spectral manifestation of the moon goddess [[Selûne]]. She warns of the corrupting influence of her sister and the Empress, while accepting a terrified refugee named [[Alyn]] as a new, devoted acolyte.
+The journey across [[The Frostway]] continues under the biting winds of an unrelenting storm. After a brief respite at a cairn shelter, the party faces rising panic among the refugees, some of whom threaten to return to the Imperial-controlled [[Point Blackrock]]. [[Vaeleran]] and the party manage to steel the refugees' resolve, convincing them that the only path to survival lies forward towards [[Val Noren]]. In a moment of spiritual clarity, [[Kai]] performs a ritual that summons a spectral manifestation of the moon goddess [[Selûne]]. She warns of the corrupting influence of her sister and the Empress, while accepting a terrified refugee named [[Alyn the First]] as a new, devoted acolyte.
 
 As the caravan presses deeper into the ice fields, the environment turns increasingly hostile and strange. Guided by [[The Frostwardens]] - [[Lysa]], [[Sela Ren|Sela]], and [[Dane]] - the party discovers an unnatural gouge in the ice leading to a humid, moss-filled cavern. Inside, they find a large egg and a terrifying dimensional rift warping the air, forcing a hasty retreat. The sense of dread culminates days later when they stumble upon a massacre site containing the frozen, shattered bodies of the missing [[The Frostwarden Crews#Wolf Crew|Wolf Crew]].
 
@@ -36,7 +36,7 @@ Before they can process the loss, the ground erupts. Three Remorhazes (Frost Wor
 
 * The party tends to their wounds after escaping [[Point Blackrock]]. [[Kai]] uses *Mending* and treats injuries, while [[Dondar]] assists with heating metals.
 * A faction of refugees attempts to leave and return south to their families. [[Vaeleran]] and the party intervene, explaining that the Imperial reinforcements are only a week away and returning is a death sentence. The refugees reluctantly agree to press on to [[Val Noren]].
-* **The Ritual:** Kai gathers silver dust and performs a *Ceremony of Dedication* for a refugee named [[Alyn]].
+* **The Ritual:** Kai gathers silver dust and performs a *Ceremony of Dedication* for a refugee named [[Alyn the First]].
     * [[Selûne]] appears in a spectral form, breaking through a barrier in Kai's mind.
     * She warns Kai about her sister's influence and states that [[Empress Morganna Eventide|The Empress]] is "beyond redemption."
     * Alyn, witnessing the miracle, becomes a zealous follower of Selune.

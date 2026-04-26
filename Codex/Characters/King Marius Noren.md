@@ -8,7 +8,7 @@ Place: "[[Val Noren]]"
 Connections:
   - "[[Ayana Syndrosa]]"
   - "[[Torgar Earthshaker]]"
-  - "[[The Valtorran Empire]]"
+  - "[[Valtorran Empire]]"
 Profession: King of Val Noren
 Importance: Minor
 Status: Alive
@@ -37,14 +37,14 @@ aliases:
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[Val Noren]] |
-> Connections | [[Ayana Syndrosa]]<br>[[Torgar Earthshaker]]<br>[[The Valtorran Empire]] |
+> Connections | [[Ayana Syndrosa]]<br>[[Torgar Earthshaker]]<br>[[Valtorran Empire]] |
 > Profession | King of Val Noren |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**King Marius Noren**, known to his people as *The Reclaimer*, is the human ruler of [[Val Noren]] and the figurehead of the first major uprising against [[The Valtorran Empire]] since the Dwarven Rebellion decades prior. Descended from a noble line that governed the city before Imperial occupation, he was never a man who sought power — but a man the moment seemed to choose regardless.
+**King Marius Noren**, known to his people as *The Reclaimer*, is the human ruler of [[Val Noren]] and the figurehead of the first major uprising against [[Valtorran Empire]] since the Dwarven Rebellion decades prior. Descended from a noble line that governed the city before Imperial occupation, he was never a man who sought power — but a man the moment seemed to choose regardless.
 
 ## Biography
 

@@ -24,13 +24,13 @@ tags:
 > Characters | [[Barak Stormrider]]<br>[[Jorund Ironsight]]<br>[[Prax Shea]]<br>[[The Mawbreakers]] |
 ## Summary
 
-As [[The Albatross]] continued its journey towards [[Skyreach]], the horizon was broken by the crimson sails of an Imperial vessel, *The Devil's Wish*. [[Barak Stormrider]] and the party initially attempted a parley, feigning the role of a merchant transport crew. Despite a tense inspection by [[The Valtorran Empire|Empire]] guards - during which [[Kai]] created a magical leak as a distraction and [[Ryo]] disguised himself to hide the ship's armoury - the ruse ultimately failed. The opposing captain, [[Yarna Coldfist]], ordered the [[The Mawbreakers]] to follow them to [[Darmouth]] for detention. Barak refused, and the seas erupted into violence.
+As [[The Albatross]] continued its journey towards [[Skyreach]], the horizon was broken by the crimson sails of an Imperial vessel, *The Devil's Wish*. [[Barak Stormrider]] and the party initially attempted a parley, feigning the role of a merchant transport crew. Despite a tense inspection by [[Valtorran Empire|Empire]] guards - during which [[Kai]] created a magical leak as a distraction and [[Ryo]] disguised himself to hide the ship's armoury - the ruse ultimately failed. The opposing captain, [[Yarna Coldfist]], ordered the [[The Mawbreakers]] to follow them to [[Darmouth]] for detention. Barak refused, and the seas erupted into violence.
 
 The battle was chaotic and explosive. While [[Kai]] blinded the enemy archers with fog, a strike team consisting of [[Vaeleran]], [[Eryndor]], and Kai boarded *The Devil's Wish* to slaughter the crew. Meanwhile, [[Dondar]] provided arcane support from the deck, and [[Ryo]] manned the cannons with [[Jorund Ironsight]]. In a moment of spectacular precision, Ryo utilised "the good powder" to fire a critical shot that punched through the enemy deck, instantly obliterating Captain Yarna Coldfist in her quarters.
 
 The climax arrived when [[Kai]] recklessly ignited a trail of gunpowder leading to the enemy's magazine. As the fuse burned too quickly, the boarding party scrambled to escape. [[Vaeleran]] heroically swapped places with his allies to ensure their safety, but the resulting explosion hurled both him and [[Eryndor]] into the churning sea. [[Dondar]] and Kai dove in to rescue their drowning companions as *The Devil's Wish* was torn asunder.
 
-In the aftermath, the party enacted a "no survivors" policy, picking off the remaining [[The Valtorran Empire|Empire]] soldiers in the water. Before the wreck fully sank, a looting party salvaged a magical set of armour, an enchanted blade, and a mysterious map. The session concluded with a sombre burial at sea for the eight [[The Mawbreakers|Mawbreaker]] sailors lost in the conflict, followed by a moment of respite as the party realised their growing power, achieving level 5.
+In the aftermath, the party enacted a "no survivors" policy, picking off the remaining [[Valtorran Empire|Empire]] soldiers in the water. Before the wreck fully sank, a looting party salvaged a magical set of armour, an enchanted blade, and a mysterious map. The session concluded with a sombre burial at sea for the eight [[The Mawbreakers|Mawbreaker]] sailors lost in the conflict, followed by a moment of respite as the party realised their growing power, achieving level 5.
 
 ## Details
 
@@ -71,7 +71,7 @@ In the aftermath, the party enacted a "no survivors" policy, picking off the rem
     * [[Dondar]] drank a *Potion of Water Breathing* and dove in to save [[Vaeleran]], who was sinking.
     * [[Kai]] dove in to rescue [[Eryndor]]. Both were hauled back aboard [[The Albatross]].
 * **Cleanup:**
-    * The crew executed a "no survivors" plan, eliminating [[The Valtorran Empire|Empire]] soldiers struggling in the water.
+    * The crew executed a "no survivors" plan, eliminating [[Valtorran Empire|Empire]] soldiers struggling in the water.
     * A looting party ([[Kai]], [[Ryo]], [[Dondar]], and [[Ari]]) boarded the sinking wreck of *The Devil's Wish*.
 * **Loot Obtained:**
     * 50 gold pieces per party member.

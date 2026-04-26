@@ -29,7 +29,7 @@ Following the failure of their magical approach due to [[The Emberspire]]'s anti
 
 At midnight, [[The Emberlight Vigil]] began, illuminating [[Lighthaven]] with golden energy. Inside [[Belinda Bubblegum]]'s workshop, Dondar proved to be a prodigy of enchantment. assisting Belinda in siphoning the tower's power. Through a series of flawless decisions, Dondar forged the [[Emberblade]], a stunning gold-and-obsidian rapier with a pommel carved in his own likeness, gifting it to Eryndor. [[Kai]] managed to purchase a *Cloak of Billowing*.
 
-The following morning, the party returned to the forge to confront Dhorik. When Ryo revealed his identity, the blacksmith lashed out, revealing deep-seated hatred for the Elves who he claimed abandoned the Dwarves to the rise of [[The Valtorran Empire|The Crimson Empire]]. The situation escalated rapidly; Kai cast *Hold Person* on both Ryo and Dhorik to prevent a murder, freezing them in place. Vaeleran stepped in to knock the paralysed smith unconscious. In a final act of intimidation, Ryo pinned two swords in an 'X' over the unconscious dwarf's neck before the party fled the town, leaving Dhorik alive but warned.
+The following morning, the party returned to the forge to confront Dhorik. When Ryo revealed his identity, the blacksmith lashed out, revealing deep-seated hatred for the Elves who he claimed abandoned the Dwarves to the rise of [[Valtorran Empire|The Crimson Empire]]. The situation escalated rapidly; Kai cast *Hold Person* on both Ryo and Dhorik to prevent a murder, freezing them in place. Vaeleran stepped in to knock the paralysed smith unconscious. In a final act of intimidation, Ryo pinned two swords in an 'X' over the unconscious dwarf's neck before the party fled the town, leaving Dhorik alive but warned.
 
 ## Details
 
@@ -63,7 +63,7 @@ The following morning, the party returned to the forge to confront Dhorik. When 
 ### The Morning After
 
 * **New Year's Day:** The party decided to confront [[Dhorik]] before leaving town. Finding the shop closed for the holiday, they bluffed their way inside his home.
-* **The Confrontation:** [[Ryo]] revealed his face to Dhorik. Dhorik expressed no regret for turning Ryo over to the soldiers, citing the Elves' abandonment of the Dwarves during the rise of [[The Valtorran Empire|The Crimson Empire]] and the death of his mother in the mines.
+* **The Confrontation:** [[Ryo]] revealed his face to Dhorik. Dhorik expressed no regret for turning Ryo over to the soldiers, citing the Elves' abandonment of the Dwarves during the rise of [[Valtorran Empire|The Crimson Empire]] and the death of his mother in the mines.
 * **PvP Tension:** As tempers flared and weapons were drawn, [[Kai]] cast *Hold Person* at 4th level.
     * *Targets:* Dhorik, Ryo, and [[Dondar]] all failed their saves and were paralyzed.
     * *Resolution:* [[Vaeleran]] pummelled the paralysed Dhorik with the hilt of his sword, knocking him unconscious non-lethally.

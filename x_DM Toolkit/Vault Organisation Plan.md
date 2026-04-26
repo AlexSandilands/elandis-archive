@@ -15,7 +15,7 @@
 - [ ] `session-prep` skill (redesigned session prep)
 - [ ] `synopsis-cleanup` skill
 - [ ] Extend `codex` skill to other categories (City, Region, POI, Faction, Lore, Item)
-- [ ] `migrate-to-codex` skill
+- [x] `migrate-to-codex` skill — folded into `codex` skill (migration mode)
 - [ ] Update CLAUDE.md with new folder structure
 
 ### Phase 2: Batch Migration — Empty Files

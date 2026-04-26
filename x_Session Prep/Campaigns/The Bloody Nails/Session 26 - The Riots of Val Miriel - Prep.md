@@ -47,8 +47,8 @@ tags:
 >[!summary]- What Tarlis is thinking
 > - Suspicious [[The Miriel Bastion|The Bastion]] infiltration and assassination might have been from the [[The Bloody Nails|Nails]]
 > - Questions about the sightings of the Nail symbol after [[Serenity Plaza]]
-> - Cannot actively go against the will of [[The Valtorran Empire|The Empire]], but plans to try to calm the population
-> - Wants to connect with [[Val Noren]] as soon as possible to try form an alliance and take control of [[Val Miriel]] away from [[The Valtorran Empire|The Empire]]
+> - Cannot actively go against the will of [[Valtorran Empire|The Empire]], but plans to try to calm the population
+> - Wants to connect with [[Val Noren]] as soon as possible to try form an alliance and take control of [[Val Miriel]] away from [[Valtorran Empire|The Empire]]
 
 ### Speech
 
@@ -56,7 +56,7 @@ If the players go around town, they may here that [[Governor Tarlis Evandron|Tar
 > [!info]- Action
 > - Times are hard
 > - May seem like I'm not doing anything to help, but I assure you I'm working tirelessly behind the scenes to keep you all protected
-> - It might be hard to see, but [[The Valtorran Empire|The Empire]] provides prosperity and safety against outside forces that seek to destroy us
+> - It might be hard to see, but [[Valtorran Empire|The Empire]] provides prosperity and safety against outside forces that seek to destroy us
 > - This will soon pass, better times are ahead of us, we just need to come together and support one another as we always have here in the great city of [[Val Miriel]]
 
 

@@ -71,7 +71,7 @@ tags:
 
 ### Road to the Ruby Falls Gold Mine
 
-- [[The Valtorran Empire|Imperial]] Soldiers accosting a merchant couple
+- [[Valtorran Empire|Imperial]] Soldiers accosting a merchant couple
 	- They are searching through the caravan
 
 - There is 1 Captain, 6 normal soldiers

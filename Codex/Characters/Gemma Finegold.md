@@ -65,13 +65,13 @@ Gemma’s default register is warmth — quick to smile, quick with a remark, th
 
 She has a deep and genuine affection for [[The Bloody Nails]], who saved her life and the lives of everyone she cares about. Weeks of shared road — and one desperate ambush in the Farhaven ruins — have hardened that bond into something she doesn’t question. She trusts them. In Gemma’s world, that is rare.
 
-When the conversation turns to [[The Valtorran Empire|The Empire]], the warmth vanishes entirely. Her hatred is quiet and total — less rage than cold, settled conviction. She has spent years working against the Empire from the margins, and her father’s death has only sharpened that purpose. She is not interested in justice in any abstract sense. She wants it dismantled.
+When the conversation turns to [[Valtorran Empire|The Empire]], the warmth vanishes entirely. Her hatred is quiet and total — less rage than cold, settled conviction. She has spent years working against the Empire from the margins, and her father’s death has only sharpened that purpose. She is not interested in justice in any abstract sense. She wants it dismantled.
 
 ##  Biography
 
 #### Background
 
-Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a modest but fulfilling life as merchants, trading goods with the nearby [[Dwarven]] cities and always returning to their beloved home. For the first nine years of her life, Gemma’s days were marked by warmth and routine—until tragedy shattered her world. One fateful day, her mother tried to protect a thief who had stolen a loaf of bread. In an act of merciless authority, both her mother and the thief were executed publicly by the [[The Valtorran Empire|Empire]], leaving Gemma and her father devastated.
+Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a modest but fulfilling life as merchants, trading goods with the nearby [[Dwarven]] cities and always returning to their beloved home. For the first nine years of her life, Gemma’s days were marked by warmth and routine—until tragedy shattered her world. One fateful day, her mother tried to protect a thief who had stolen a loaf of bread. In an act of merciless authority, both her mother and the thief were executed publicly by the [[Valtorran Empire|Empire]], leaving Gemma and her father devastated.
 
 The aftermath changed them both forever. Her father, [[Harland Finegold|Harland]], lost his passion for work, becoming increasingly distant and spending more time trying to guide Gemma to becoming who she is today. Gemma, however, channelled her grief and anger into a burning hatred for the Empire, vowing to oppose them and aid anyone crushed under their oppressive rule.
 

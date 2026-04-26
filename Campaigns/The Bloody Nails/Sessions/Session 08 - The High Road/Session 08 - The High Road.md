@@ -42,7 +42,7 @@ The session concluded with a sharp pivot from political intrigue to street justi
 
 ### Campfire Revelations & Anomalies
 
-* **The Bounty:** In a private moment, [[Gemma Finegold|Gemma]] showed [[Vaeleran]] a "Wanted" poster featuring a sketch of an older, scarred man resembling him. The bounty is 5,000 gold. Gemma deduced he is an enemy of the [[The Valtorran Empire|Empire]] and suggested he join her cause.
+* **The Bounty:** In a private moment, [[Gemma Finegold|Gemma]] showed [[Vaeleran]] a "Wanted" poster featuring a sketch of an older, scarred man resembling him. The bounty is 5,000 gold. Gemma deduced he is an enemy of the [[Valtorran Empire|Empire]] and suggested he join her cause.
 * **The Phantom Tower:** On the third day, the party spotted a stone tower in the highlands.
     * **Spatial Loop:** Attempts to walk toward it resulted in the party inexplicably arriving back at the caravan after minutes of travel.
     * **Magical Test:** Ropes tied to the caravan went slack instantly, and arrows fired toward the tower behaved normally, but physical travel was impossible. They abandoned the investigation to beat the incoming storm.
@@ -50,7 +50,7 @@ The session concluded with a sharp pivot from political intrigue to street justi
 ### Arrival in Camaar
 
 * **The City:** [[Camaar]] was described as a haphazard, ancient city of stone, starkly contrasting the ordered colonial style of [[Darmouth]]. The streets were teeming with sailors, merchants, and rumours of rebellion in the north.
-* **Rumors:** Town criers and locals spoke of the [[The Valtorran Empire|Empire]] mobilising troops and [[Val Noren]] expelling Imperial forces to declare independence.
+* **Rumors:** Town criers and locals spoke of the [[Valtorran Empire|Empire]] mobilising troops and [[Val Noren]] expelling Imperial forces to declare independence.
 * **Parting Ways:** [[Vallania Miriel|Nia]] bid the party farewell at the gates, refusing to enter the city and heading north on her own.
 
 ### The Mawbreakers & Skyreach
@@ -58,7 +58,7 @@ The session concluded with a sharp pivot from political intrigue to street justi
 * **Meeting Barak:** [[Gemma Finegold|Gemma]] led the party to [[The Mawbreakers]]' guildhall at the docks to meet [[Barak Stormrider]] (a massive man with a red beard) and [[Ari]] (a half-orc female).
 * **The Schematics:** The package contained blueprints for [[Skyreach]], a secret bridge spanning the [[Aeolian Chasm]].
 * **The Strategy:**
-    * [[The Valtorran Empire|The Empire]] has spent a decade building [[Skyreach]] to bypass the treacherous sea routes.
+    * [[Valtorran Empire|The Empire]] has spent a decade building [[Skyreach]] to bypass the treacherous sea routes.
     * Destroying it will force Imperial supply lines through "[[The Maw]]," where the Mawbreakers hold naval superiority.
     * The party agreed to the mission. Barak requested two days for his engineers to analyse the plans.
 * **Ryo’s Reveal:** In the privacy of the office, [[Ryo]] revealed his true Elven heritage to Barak, who noted he hadn't seen a native Elf in nearly a century. 

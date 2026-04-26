@@ -43,7 +43,7 @@ tags:
 - Massive explosion of fire
 
 - After the fight more soldiers will arrive and question the group
-- [[The Valtorran Empire|The Empire]] appreciates their efforts, may be in touch
+- [[Valtorran Empire|The Empire]] appreciates their efforts, may be in touch
 
 ### Meeting Norak Vara
 
