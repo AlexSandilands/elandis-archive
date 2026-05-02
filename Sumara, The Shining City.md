@@ -44,7 +44,7 @@ They called it the **Emerald Ceremony**.
 
 It cost enormously. The Circle of the Weave committed its finest instruments and artifacts to the ritual. The Diminished Trove has barely restocked since. A small number of volunteers — including [[Ayana Syndrosa|Ayana Syndrosa]], then Meridian of the Weave — crossed through into the Material Plane with instructions to observe and return.
 
-Ayana never came back. Neither, as far as Sumara knows, did most of the others.
+Ayana never came back. Neither, as far as Sumara knows, did any of the others.
 
 The Ceremony is not spoken of as a failure — but it is not celebrated.
 

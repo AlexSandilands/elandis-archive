@@ -44,7 +44,7 @@ In the ruins of Ithilmara, the party suffers psychic damage from ancient wards d
 
 ### The Interrogation and Lore
 * **The Interception:** [[Ayana Syndrosa|Ayana]] stops the party before they leave, asking to see the sketch of [[The Red Priests|The Red Priest]]'s tattoo again.
-* **The Shattering:** Ayana explains the history of [[The Chaos Wars]] and [[The Shattering]] of the planar barriers 2,500 years ago, involving Chromatic Dragons and the introduction of magic to the world.
+* **The Shattering:** Ayana explains the history of [[Chaos Wars]] and [[The Shattering]] of the planar barriers 2,500 years ago, involving Chromatic Dragons and the introduction of magic to the world.
 * **Speak with Dead:** In a private magical sanctum, [[Kai]] casts *Speak with Dead* on the Red Priest's head. The corpse reveals:
     * **Allegiance:** She was doing work for [[Empress Morganna Eventide]].
     * **Base of Operations:** A location called [[Valfyria]] (identified as the volcano in the center of the continent).

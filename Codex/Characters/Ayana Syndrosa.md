@@ -71,7 +71,7 @@ Beneath the composure is someone who feels things intensely. Her decision to lea
 
 #### Background
 
-Ayana was born in [[Sumara, The Shining City|Sumara]] roughly seven centuries ago, into a family of the [[Circle of Blades]]. Her grandfather had fought in [[The Chaos Wars]], and she grew up on his stories of a world that nearly tore itself apart. Those stories shaped her — not toward martial glory, as her family might have hoped, but toward understanding. She wanted to know *why* the world had broken, and whether it could be prevented from breaking again.
+Ayana was born in [[Sumara, The Shining City|Sumara]] roughly seven centuries ago, into a family of the [[Circle of Blades]]. Her grandfather had fought in the [[Chaos Wars]], and she grew up on his stories of a world that nearly tore itself apart. Those stories shaped her — not toward martial glory, as her family might have hoped, but toward understanding. She wanted to know *why* the world had broken, and whether it could be prevented from breaking again.
 
 Her aptitude for magic was obvious early. By the standards of the Weave, she was a prodigy — the kind that appears perhaps once in a generation. Her transfer from the Blades to [[Circle of the Weave|the Weave]] raised eyebrows in her family but surprised no one who had seen her work. She rose through the Circle's ranks with a combination of raw talent and a relentless, almost obsessive dedication to her craft. In time, she was named Meridian — the youngest in living memory.
 
@@ -97,7 +97,7 @@ With [[Val Noren]] liberated, Ayana pulled [[Ryo]] aside under the pretence of c
 
 #### [[Session 44 - The Elven Archmage]]
 
-Ayana intercepted [[The Bloody Nails]] before they could depart with [[The Mawbreakers]], recognising the tattoo sketch taken from a [[The Red Priests|Red Priestess]]. She led the party to a hidden magical sanctum where [[Kai]] cast *Speak with Dead* on the priestess's severed head, revealing that the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity called [[Kharazoth the Crimson Shadow]]. The name shook Ayana to her core — Kharazoth was a lieutenant from [[The Chaos Wars]], thought long dead.
+Ayana intercepted [[The Bloody Nails]] before they could depart with [[The Mawbreakers]], recognising the tattoo sketch taken from a [[The Red Priests|Red Priestess]]. She led the party to a hidden magical sanctum where [[Kai]] cast *Speak with Dead* on the priestess's severed head, revealing that the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity called [[Kharazoth the Crimson Shadow]]. The name shook Ayana to her core — Kharazoth was a lieutenant from the [[Chaos Wars]], thought long dead.
 
 Shattered by the revelation, Ayana dropped her disguise entirely, revealing herself as an Elf to the whole party. When she then recognised the ring [[Ryo]] had always worn, she lost control — accusing him of being a spy, telekinetically pinning him to a wall, and teleporting the rest of the party thousands of feet into the air above [[Val Noren]]. Only after Ryo convinced her of his honesty did she cast *Feather Fall* to catch the others moments before impact.
 
