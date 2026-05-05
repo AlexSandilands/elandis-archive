@@ -73,7 +73,7 @@ After a long pause, the dragon called Ryo back to the dais one last time and sho
 * Praetor turned the conversation: *"What is it that you all want?"*
 * [[Berberis]]: end the dead walking the north — the necromancer in the ruins of [[Val Noren]].
 * [[Ryo]]: undecided; only days into knowing his heritage; not ready to commit to a throne.
-* [[Eryndor]]: rescue his mother [[Eirieneth]] from the Empress's tower in [[Val Luminor]]; admitted he had given up hope before today.
+* [[Eryndor]]: rescue his mother [[Eirieneth Silmara|Eirieneth]] from the Empress's tower in [[Val Luminor]]; admitted he had given up hope before today.
 * [[Dondar]]: liberate his people. *"The Empire have taken our holy city. I would like it back. And the traitors within."* — the first time he had spoken aloud of [[Glimmerforge]] to the party.
 * **Character Moment:** [[Kai]] noted this was the first time [[Dondar]] had ever revealed any of this. *"No one ever asked,"* the dwarf replied.
 
@@ -103,7 +103,7 @@ After a long pause, the dragon called Ryo back to the dais one last time and sho
 * **Vision — Ryo's surrender:** Two cloaked figures handed an infant Ryo to a gnomish man. *"His name is Ryordan. You should probably just call him Ryo. Save the anonymity."* The shorter figure — his mother — patted his head and walked away.
 * **Major Reveal — his true name:** *"Your mother called you Ryordan."*
 * **Vision — Ryordan Silmara, First of His Name:** An elven soldier standing among vast blue-skinned, winged celestial entities at a cosmic battle, a great root piercing earth and sky. Praetor named him as the Silmara who bound his people to the sundered root of the world tree and held the cosmos in balance.
-* **Vision — the death of his parents:** Replayed from the vision in Session 47 — his father [[Ratha Silmara|Ratha]] holding his wounded mother [[Rhennaya Silmara|Rhennaya]], [[Dread General Blackmarsh]] stepping in with the Dread Sword and running both through with a single thrust. **Confirmed:** Blackmarsh was their killer.
+* **Vision — the death of his parents:** Replayed from the vision in Session 47 — his father [[Ratha Silmara|Ratha]] holding his wounded mother [[Rhennaya Silmara|Rhennaya]], [[Dread General Gerard Blackmarsh]] stepping in with the Dread Sword and running both through with a single thrust. **Confirmed:** Blackmarsh was their killer.
 * **Character Moment:** *"At least we got their killer."*
 
 ### Hvedra, Moonstones, and Time

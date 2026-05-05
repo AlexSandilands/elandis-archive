@@ -77,7 +77,7 @@ tags:
 #### Faelon
 - Small town about half a day's ride inland (west) of [[Camaar]]
 - The inn is called [[The Red Leaf]] (forest nearby has a lot of beautiful red trees)
-	- [[Dammond]] and [[Ania]] run the place
+	- Dammond and Ania run the place
 	- 2s per room per night
 
 #### Folk Tale: Salla the Brave
@@ -108,7 +108,7 @@ tags:
 - Some of their crew didn't return from storing some supplies and when investigating heard terrifying sounds
 - Clear the cave of danger
 - They are docked on a boat called [[The Kraken]]
-	- Captain's name is [[Erin Nayla]]
+	- Captain's name is Erin Nayla
 	- Half Orc, very serious, scar across one eye that is white
 	- Person who came back from the cave was [[Olly]] - topman of the ship - skittery fast speaking nervous fellow
 - **Reward:** 150g per person

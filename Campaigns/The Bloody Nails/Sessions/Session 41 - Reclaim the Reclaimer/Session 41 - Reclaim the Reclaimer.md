@@ -21,11 +21,11 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|6th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
-> Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]]<br>[[Barak Stormrider]]<br>[[Dread General Blackmarsh]] |
+> Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]]<br>[[Barak Stormrider]]<br>[[Dread General Gerard Blackmarsh]] |
 
 ## Summary
 
-Following the desperate battle against [[Dread General Blackmarsh]] within [[The Stoneheart]], the party scrambled to recover before the Imperial forces outside realised their leader had fallen. After looting the General’s chaotic, heavy armour and severing his head, the group attempted a bold exit through the main doors. [[Berberis]] rolled the General's head down the stairs while [[Kai]] used thaumaturgy to flare the torches green, attempting to break the morale of the twenty-five soldiers waiting in the snow. While some wavered, the Imperial Captain rallied his troops, unleashing a volley of crossbow fire that nearly felled [[Ryo]]. Realising a direct assault was suicide, the party retreated inside, magically sealing the doors with ice and stone before executing a stealthy escape through the building's west wing. aided by *Pass Without Trace* and a clever decoy by Kai's raven, they slipped through the blockade unseen.
+Following the desperate battle against [[Dread General Gerard Blackmarsh]] within [[The Stoneheart]], the party scrambled to recover before the Imperial forces outside realised their leader had fallen. After looting the General’s chaotic, heavy armour and severing his head, the group attempted a bold exit through the main doors. [[Berberis]] rolled the General's head down the stairs while [[Kai]] used thaumaturgy to flare the torches green, attempting to break the morale of the twenty-five soldiers waiting in the snow. While some wavered, the Imperial Captain rallied his troops, unleashing a volley of crossbow fire that nearly felled [[Ryo]]. Realising a direct assault was suicide, the party retreated inside, magically sealing the doors with ice and stone before executing a stealthy escape through the building's west wing. aided by *Pass Without Trace* and a clever decoy by Kai's raven, they slipped through the blockade unseen.
 
 The group navigated the tunnels back to The Keep of [[Val Noren]], collapsing their escape route behind them to prevent pursuit. Upon returning to the Keep, a relieved [[King Marius Noren|Marius Noren]] granted them sanctuary. The following morning revealed the spoils of war to be both powerful and ominous; specifically, Blackmarsh’s greatsword, *Dread’s Hunger*, was identified as an evil blade that consumes the wielder's life force to fuel necrotic strikes and reanimate the dead. The party chose to stow the malevolent weapon away.
 
@@ -35,7 +35,7 @@ The session culminated in a war council with Marius, [[Ayana Syndrosa|Ayana Wynn
 
 ### The Escape from the Stoneheart
 
-* **Looting the General:** [[Kai]] managed to strip the heavy, evil-feeling plate armor from [[Dread General Blackmarsh]] by cutting the straps, while the party took his head as proof of death.
+* **Looting the General:** [[Kai]] managed to strip the heavy, evil-feeling plate armor from [[Dread General Gerard Blackmarsh]] by cutting the straps, while the party took his head as proof of death.
 * **The Standoff:** The party opened the main doors to confront the 25 soldiers outside. [[Berberis]] rolled the General's head to the Captain's feet, and Kai turned the torches green. Despite a strong intimidation attempt, the Captain rallied his troops.
 * **The Retreat:**
     * A volley of crossbow bolts struck [[Ryo]] for massive damage (31 HP), nearly dropping him.

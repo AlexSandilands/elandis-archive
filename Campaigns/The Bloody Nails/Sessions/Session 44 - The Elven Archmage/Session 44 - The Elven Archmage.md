@@ -36,7 +36,7 @@ In the ruins of Ithilmara, the party suffers psychic damage from ancient wards d
 ## Details
 
 ### Downtime in Val Noren
-* **Kai:** Visits [[Illaris Sharin]] to check his wound from [[Dread General Blackmarsh|General Blackmarsh]], which is healing well. He spends the rest of his time at the Cathedral of St. Avalines, teaching [[Alyn the First]] and other clerics about the Moon Goddess, [[Selûne]]. He also shows Helda the completed Moonlight Shield, inspiring her with new crafting techniques.
+* **Kai:** Visits [[Illaris Sharin]] to check his wound from [[Dread General Gerard Blackmarsh|General Blackmarsh]], which is healing well. He spends the rest of his time at the Cathedral of St. Avalines, teaching [[Alyn the First]] and other clerics about the Moon Goddess, [[Selûne]]. He also shows Helda the completed Moonlight Shield, inspiring her with new crafting techniques.
 * **Ryo:** Casts *Plant Growth* on the farmlands outside the city, an 8-hour ritual that enriches the crops for a full year to help feed the recovering populace.
 * **Eryndor:** Investigates the local graveyard and discovers an abandoned "nest" previously used by [[The Order of Ravens]], confirming their past presence in the city.
 * **Berberis:** Scours the former Imperial camp for information on the Red Priests but finds that they left no trace behind.

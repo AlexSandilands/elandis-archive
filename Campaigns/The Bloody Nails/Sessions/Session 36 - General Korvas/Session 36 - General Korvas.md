@@ -20,11 +20,11 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|4th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
-> Characters | [[Dread General Blackmarsh]]<br>[[Marcelle the Broken]]<br>[[Barak Stormrider]] |
+> Characters | [[Dread General Gerard Blackmarsh]]<br>[[Marcelle the Broken]]<br>[[Barak Stormrider]] |
 
 ## Summary
 
-The session began with the party preparing for a high-stakes infiltration of the besieged city of [[Val Noren]]. After crafting new equipment from the spoils of [[The Frostway]], the group utilized magical means to sprint across the semi-frozen ocean, flanking the Imperial blockade and scaling the city walls. They dispatched a sentry with lethal efficiency and descended into the shadowed, rubble-strewn streets. However, the quiet infiltration was shattered when they were discovered by a formidable Imperial leader, the [[Dread General Blackmarsh]], who destroyed their cover with a single gesture.
+The session began with the party preparing for a high-stakes infiltration of the besieged city of [[Val Noren]]. After crafting new equipment from the spoils of the [[Frostway]], the group utilized magical means to sprint across the semi-frozen ocean, flanking the Imperial blockade and scaling the city walls. They dispatched a sentry with lethal efficiency and descended into the shadowed, rubble-strewn streets. However, the quiet infiltration was shattered when they were discovered by a formidable Imperial leader, the [[Dread General Gerard Blackmarsh]], who destroyed their cover with a single gesture.
 
 In a devastating plot twist, the Dread General recognised [[Vaeleran]] not as a rebel, but as a lost asset. Crushing a purple jewel, the General released a wave of magical energy that seemly restored [[Vaeleran]]'s lost memories and motives. The soldier was instantly consumed by his past identity: [[General Korvas]], a loyal servant of the Empire. The Dread General departed, ordering Korvas and an elven mage named [[Marcelle the Broken]] to execute the party. A brutal fight ensued, with the party forced to battle their former ally. Korvas proved nearly invincible in combat, dropping both [[Ryo]] and [[Kai]] while shrugging off the party’s desperate attacks.
 
@@ -42,7 +42,7 @@ Just as Korvas prepared to deliver the killing blow to his former companions, th
 ### The Streets of Val Noren
 
 * **Navigating Hazards:** The city showed signs of a long siege, with rubble and abandoned homes. [[Ryo]] successfully identified a pit trap hidden under floorboards in an abandoned house but narrowly dodged a crossbow trap in a subsequent building.
-* **The Encounter:** While hiding in a building, the party observed a towering man in black armour, [[Dread General Blackmarsh]], and a runner discussing a breach in the barricades.
+* **The Encounter:** While hiding in a building, the party observed a towering man in black armour, [[Dread General Gerard Blackmarsh]], and a runner discussing a breach in the barricades.
 * **Discovery:** The Dread General sensed the party's presence. He pointed at their hiding spot, causing the wall to explode and collapsing the floor, sending the party tumbling into the street.
 
 ### The Betrayal

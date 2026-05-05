@@ -3,3 +3,9 @@ aliases:
   - Lucius Draegor
   - Captain Draegor
 ---
+- Minor Character
+- (Human, Male): The imperial captain, Lucius is a stern, arrogant man in his 40s with short black hair shaved around the sides of his head. His armour is always too clean. He is resented for his dismissive attitude toward Lighthaven's struggles.
+- Commands the imperial garrison in Lighthaven - occupies the Shadowguard Barracks, clashes with the Duskwardens
+- Townsfolk respect the Duskwardens, not the imperial soldiers
+- Has been trying to turn townsfolk to his side to become informants - was successful with Hugor, he was a young lad who thought it sounded exciting
+- Killed by The Bloody Nails in their ambush after questioning hugor

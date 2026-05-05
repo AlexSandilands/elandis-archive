@@ -35,7 +35,7 @@ tags:
 
 ### Jerek
 
-- An old man will meet them at some point, this is [[Jerek]]
+- An old man will meet them at some point, this is [[Jarek]]
 > [!example]- Description
 > - Late 90s, Very hunched over, leaning heavily on a cane, Jaunty black cap worn at an angle. Heavy grey wool cloak with black doublet  
 > - Scar on the neck and hands/arms shows a life led with some danger perhaps

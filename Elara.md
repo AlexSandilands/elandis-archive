@@ -1,0 +1,5 @@
+- human female mage
+- Owner of The Gilded Grimoire in Camaar
+- A studious mage who runs the store and often provides magical consultations.
+- Blond hair, usually tied up with a red ribbon
+- Quirky, often acting in ways that seem strange to other yet perfectly normal to her, for example she was pondering a problem and was sure that she would figure it out if she were flying up near the ceiling, this is how The Bloody Nails found her one time and she picked up a conversation with them without even realising how odd it was for them

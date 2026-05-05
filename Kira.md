@@ -1,0 +1,6 @@
+- Female, Halfling
+- Niece of [[Gaara]]
+- Young, late teens, helps Gaara in The Fur and Fang
+- Is being trained by her uncle
+- Passionate about the outdoors, wants doesn't like being kept in the city working for too long
+- Invent a simple backstory, make sure it aligns with Gaara

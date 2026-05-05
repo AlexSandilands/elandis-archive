@@ -55,8 +55,8 @@ tags:
 
 ### Jerek
 
-- Same man ([[Trak Aeris]]) that was with [[Jerek]] at [[Rivers Watch]] signals the group
-- Lets them know that [[Jerek]] is unwell, and [[Eryndor]] may want to come
+- Same man ([[Trak Aeris]]) that was with [[Jarek]] at [[Rivers Watch]] signals the group
+- Lets them know that [[Jarek]] is unwell, and [[Eryndor]] may want to come
 - Probably not best for the whole group to come
 
 >[!summary]+ Ravens Nest Details
@@ -65,7 +65,7 @@ tags:
 > - Below in the cellar, there is a set of large kegs with a lever underneath that when triggered will slide the kegs back and open a hidden door behind
 
 - [[Lia]] will notice [[Eryndor]] and tackle him, giving a big hug
-- [[Jerek]] is unconscious, barely breathing
+- [[Jarek]] is unconscious, barely breathing
 
 - Remember to explain how to get back inside: "Order one of the sharpest drinks on the menu"
 
@@ -75,11 +75,11 @@ tags:
 	- They are searching through the caravan
 
 - There is 1 Captain, 6 normal soldiers
-- [[Captain Tresh]]
+- Captain Tresh
 	- Much more slender than usual soldiers
 	- Narrow face, eyes that dart around almost suspiciously at everything  
 
-- [[Captain Tresh|Tresh]] will pull aside [[Vaeleran]]
+- Captain Tresh will pull aside [[Vaeleran]]
 > [!info]- Action
 > - "All right [[General Korvas]], what the hell is going on?"
 > - "I'm our here accosting random merchants for no apparent reason, you haven't been seen in months, and now here you are, posing with a random group of merchants"

@@ -1,0 +1,8 @@
+- Minor character
+- The blacksmith in [[Lighthaven]]
+- Dwarven male, grim face, no nonsense, hagged, greying beard
+- Was responsible for alerting the imperial captain [[Captain Lucius Draegor|Lucius Draegor]] about [[Ryo]], causing him to be captured and sent on the prison ship
+- Hates elves - believes that they are cowards for fleeing and not fighting the Empire
+- His mother died in the mines of the Silver Mountains after the Empire subjugated the dwarven people, this has caused him to be bitter
+- He left the dwarven tunnels after his mandatory service in the mines, sickened by what the empire has turned it into
+- Dreams of a time when his people can rise up and fight back against the empire

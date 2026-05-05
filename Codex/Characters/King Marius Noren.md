@@ -68,7 +68,7 @@ Discovered bound and under guard in the royal crypt of [[The Stoneheart]], held 
 
 #### [[Session 40 - General Blackmarsh]]
 
-Cast *Healing Word* to revive [[Kai]] at a critical moment during the confrontation with [[Dread General Blackmarsh]]. Escaped with the party through the smuggler's tunnels.
+Cast *Healing Word* to revive [[Kai]] at a critical moment during the confrontation with [[Dread General Gerard Blackmarsh]]. Escaped with the party through the smuggler's tunnels.
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 

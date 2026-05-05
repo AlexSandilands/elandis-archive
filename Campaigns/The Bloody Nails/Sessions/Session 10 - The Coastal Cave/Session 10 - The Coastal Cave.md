@@ -61,7 +61,7 @@ The climax of the session takes place within the damp, echoing confines of the c
 
 ### The Kraken Contract
 
-* The party heads to the [[Drunken Quay]] and meets Captain [[Erin Nayla]] (Half-orc) and her runner, [[Olly]].
+* The party heads to the [[Drunken Quay]] and meets Captain Erin Nayla (Half-orc) and her runner, Olly.
 * **The Job:** Clear out a coastal cave used for smuggling. A previous crew went in and never returned; Olly reported screams and the smell of rot.
 * **Payment:** 150g per person (half paid upfront).
 * **The Mawbreakers:** The party briefly visits [[Ari]] to check travel times to [[Val Miriel]] (confirmed as 2–3 days by boat) and inform them of their temporary absence.

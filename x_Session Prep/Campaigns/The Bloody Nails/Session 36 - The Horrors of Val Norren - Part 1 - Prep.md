@@ -86,12 +86,12 @@ tags:
 ## The General
 
 >[!summary]+ Details
-> - [[Dread General Blackmarsh]] and [[Marcelle the Broken]] are travelling back to camp
+> - [[Dread General Gerard Blackmarsh]] and [[Marcelle the Broken]] are travelling back to camp
 > - A runner will meet them delivering news that scouts had found a way through the barricade
 
 ### Caught
 
-- [[Dread General Blackmarsh]] will sense the life of [[The Bloody Nails]] and destroy the wall of the building they are in, causing them to tumble to the streets
+- [[Dread General Gerard Blackmarsh]] will sense the life of [[The Bloody Nails]] and destroy the wall of the building they are in, causing them to tumble to the streets
 
 > [!info]+ Action
 > - DC 10 dex, d6 damage and prone

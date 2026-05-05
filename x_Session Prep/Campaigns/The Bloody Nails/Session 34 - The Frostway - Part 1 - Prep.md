@@ -87,10 +87,10 @@ tags:
 
 ### Havens
 
-- [[The Frostway#Rest Spots "Havens of the Frostway"|Blackrock Shelters]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|Old Cairns]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|The Singing Arch]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|The Hallow Isle]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|Blackrock Shelters]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|Old Cairns]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|The Singing Arch]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|The Hallow Isle]]
 
 ### Discovery: Broken Cave
 
@@ -120,7 +120,7 @@ tags:
 
 ### Encounter: The Shattered Fields
 
-[[The Frostway#Nature of the Frostway|The Shattered Fields]]
+[[Frostway#Nature of the Frostway|The Shattered Fields]]
 
 - Large Sheet of ice, fractured near the middle
 - Crevasses are seen with increasing frequency
@@ -131,7 +131,7 @@ tags:
 
 ### Encounter: The Veiled Rift
 
-[[The Frostway#Nature of the Frostway|The Veiled Rift]]
+[[Frostway#Nature of the Frostway|The Veiled Rift]]
 
 - Deceptive ice sheet
 
@@ -141,7 +141,7 @@ tags:
 
 ### Encounter: The Howling Narrows
 
-[[The Frostway#Nature of the Frostway|The Howling Narrows]]
+[[Frostway#Nature of the Frostway|The Howling Narrows]]
 
 - Avalanche
 

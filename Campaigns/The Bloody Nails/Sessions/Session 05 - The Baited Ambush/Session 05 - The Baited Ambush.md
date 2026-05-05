@@ -28,7 +28,7 @@ The journey began on the treacherous High Road to [[Camaar]], where the party mo
 
 While the merchants and the party camped separately to avoid drawing unwanted attention, the night was far from quiet. [[Ryo]] and the scout [[Valen Leafwhisper|Valen]] ventured into the wilds to provide for the group, returning with a perfectly equal haul after a competitive hunt. Meanwhile, [[Vaeleran]] sought the counsel of the healer [[Maeve Greycloud|Maeve]] regarding his recurring injuries and fractured memories. Though Maeve suggested his condition was likely the result of severe trauma, [[Vaeleran]] was later gripped by a series of vivid, disturbing flashes while staring into the campfire. He saw a slender white hand clutching a glowing purple orb, heard the distant screams of a woman, and watched rows of faceless soldiers in grey drilling in hauntingly perfect unison.
 
-The following day, the party shifted from prey to predator. They orchestrated a daring "caravan breakdown" on the road to bait a local goblin raiding party into the open. The ambush was a bloody success, though it nearly went too far when [[Eryndor]] accidentally dealt a lethal blow to a hobgoblin leader with his signature "rusty nail" tactic. The party managed to spare one survivor—a terrified goblin named [[Lenny]]. Under heavy intimidation, Lenny divulged the location of his tribe's lair: an ancient temple hidden within the nearby cliffs.
+The following day, the party shifted from prey to predator. They orchestrated a daring "caravan breakdown" on the road to bait a local goblin raiding party into the open. The ambush was a bloody success, though it nearly went too far when [[Eryndor]] accidentally dealt a lethal blow to a hobgoblin leader with his signature "rusty nail" tactic. The party managed to spare one survivor—a terrified goblin named [[Lenny the Goblin]]. Under heavy intimidation, Lenny divulged the location of his tribe's lair: an ancient temple hidden within the nearby cliffs.
 
 The session concluded as the party arrived at the mouth of the goblin cave. After a brief short rest to recover from the road, [[Eryndor]] attempted to scout the entrance in silence. However, a stray noise alerted the sentries, drawing a warning arrow from the darkness. Realizing that the element of surprise had been compromised, the group abandoned their subtle approach. With weapons drawn and spells prepared, they committed to a full frontal assault on the lair, charging into the tunnels to face whatever waited in the depths.
 
@@ -54,12 +54,12 @@ The session concluded as the party arrived at the mouth of the goblin cave. Afte
 
 * The party faked a wagon breakdown to lure the goblin raiders into an ambush.
 * All but two enemies were eliminated. [[Eryndor]] accidentally killed the hobgoblin during the chaos of the fight.
-* **The Prisoner:** The party captured [[Lenny]] the goblin. 
+* **The Prisoner:** The party captured [[Lenny the Goblin]] the goblin. 
 * Through intimidation, Lenny revealed the location of the goblin cave and confirmed they were holding prisoners.
 
 ### Arrival at the Lair
 
-* The group travelled to the cave coordinates provided by [[Lenny]] and took a short rest to prepare for the infiltration.
+* The group travelled to the cave coordinates provided by [[Lenny the Goblin]] and took a short rest to prepare for the infiltration.
 * **The Failed Scout:** [[Eryndor]] attempted to sneak toward the entrance but was heard by the guards. 
 * The goblins fired a single arrow at the noise but did not leave their cover.
 * **The Decision:** Rejecting further stealth, the party decided to launch a direct frontal assault on the entrance.

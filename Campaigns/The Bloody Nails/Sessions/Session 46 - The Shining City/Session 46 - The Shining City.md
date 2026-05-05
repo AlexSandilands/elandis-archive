@@ -30,7 +30,7 @@ The situation escalated rapidly when [[Warden Caeryn]] and his riders descended 
 
 The tension finally broke with the arrival of [[Elder Pip Glimmermoss]], an ancient pixie healer from the [[Circle of the Dawn]]. With a specialised concoction, she neutralised the [[Gossamer Dust]], and the party watched as the child grew and shifted back into the formidable [[Ayana Syndrosa]]. The revelation of her identity left Warden Caeryn ashen-faced and apologetic. Recognising the urgency of the party’s mission, Ayana called for a Confluence of the Seven—a rare gathering where the floating capital buildings of each Circle dock above the central citadel. She revealed the staggering truth of [[Ryo]]'s heritage: he is the last heir to the [[Silmara Family|Silmara]] royal bloodline, the child of [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara]], and the key to the elves' potential return to [[Elandis]].
 
-The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining City#Heartstone Commons|Heartstone Commons]], where the party sought a moment of respite before the political storm. There, [[Dondar]] shared a poignant drink with Torgrun Brasswick, a dwarven exile from [[Glimmerforge]]. However, the most earth-shaking revelation came from Ayana herself. As she spoke of Ryo's family, she realised a connection previously hidden: [[Eryndor]]'s mother, [[Eirieneth]], was the sister of Ryo's mother. In a stunning twist of fate, Ryo and Eryndor discovered they are first cousins, both carrying the blood of elven royalty.
+The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining City#Heartstone Commons|Heartstone Commons]], where the party sought a moment of respite before the political storm. There, [[Dondar]] shared a poignant drink with Torgrun Brasswick, a dwarven exile from [[Glimmerforge]]. However, the most earth-shaking revelation came from Ayana herself. As she spoke of Ryo's family, she realised a connection previously hidden: [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], was the sister of Ryo's mother. In a stunning twist of fate, Ryo and Eryndor discovered they are first cousins, both carrying the blood of elven royalty.
 
 ## Details
 
@@ -70,8 +70,8 @@ The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining Ci
 ### The Fading Stars and the Bloodline Reveal
 * The party visited The Fading Stars Tavern, run by a dwarf named Torgrun Brasswick and his elven wife, Syriel.
 * Torgrun, originally from [[Glimmerforge]], shared a nostalgic and somber moment with [[Dondar]] regarding the state of their homeland.
-* **Major Plot Twist:** Ayana revealed that [[Rhennaya Silmara]] (Ryo's mother) had a sister, [[Eirieneth]], who fell in love with a human and stayed behind during the exodus.
-* **The Revelation:** Ayana confirmed that [[Eirieneth]] is [[Eryndor]]'s mother. [[Ryo]] and [[Eryndor]] are first cousins and both members of the [[Silmara Family|Silmara]] royal family.
+* **Major Plot Twist:** Ayana revealed that [[Rhennaya Silmara]] (Ryo's mother) had a sister, [[Eirieneth Silmara|Eirieneth]], who fell in love with a human and stayed behind during the exodus.
+* **The Revelation:** Ayana confirmed that [[Eirieneth Silmara|Eirieneth]] is [[Eryndor]]'s mother. [[Ryo]] and [[Eryndor]] are first cousins and both members of the [[Silmara Family|Silmara]] royal family.
 
 ## Art
 

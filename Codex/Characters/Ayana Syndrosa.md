@@ -89,7 +89,7 @@ It was through Marius that she met [[The Bloody Nails]], and something about the
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 
-Following the party's assassination of [[Dread General Blackmarsh]] and their escape from [[The Stoneheart]], Ayana participated in the war council at [[Val Noren]] alongside [[King Marius Noren|Marius]] and [[Barak Stormrider]]. Still operating under her disguise as **Ayana Wynne**, she helped assess the military stalemate and devise the two-pronged strategy — a public demand for parley backed by a flanking manoeuvre using a pontoon bridge — to break the Imperial siege.
+Following the party's assassination of [[Dread General Gerard Blackmarsh]] and their escape from [[The Stoneheart]], Ayana participated in the war council at [[Val Noren]] alongside [[King Marius Noren|Marius]] and [[Barak Stormrider]]. Still operating under her disguise as **Ayana Wynne**, she helped assess the military stalemate and devise the two-pronged strategy — a public demand for parley backed by a flanking manoeuvre using a pontoon bridge — to break the Imperial siege.
 
 #### [[Session 43 - The Shield of the North]]
 
@@ -109,7 +109,7 @@ In the [[Gossamer Woods]], Ayana served as the party's guide toward [[Sumara, Th
 
 #### [[Session 46 - The Shining City]]
 
-Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Warden Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
+Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Warden Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
 
 ## Trivia
 

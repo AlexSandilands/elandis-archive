@@ -1,0 +1,6 @@
+- Minor
+- Male, Halfling
+- Uncle of [[Kira]]
+- Owner of The Fur and Fang
+- Rustic looking, middle aged halfling, friendly, good natured, passionate
+- Invent a simple backstory for him and his niece

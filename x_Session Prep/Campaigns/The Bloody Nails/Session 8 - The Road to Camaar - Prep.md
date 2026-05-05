@@ -38,7 +38,7 @@ tags:
 ### Leaving Camp
 
 - Wake to the sound of [[Gemma]] and [[Doran]] leaving first thing in the morning
-- Two goblins are still tied up, [[Ellie]] has her head resting on [[Lenny]]
+- Two goblins are still tied up, [[Ellie the Goblin|Ellie]] has her head resting on [[Lenny the Goblin|Lenny]]
 - [[Maeve]] is pottering about prepping breakfast
 - Prisoner Girl chatting with [[Valen]], getting new gear, still covered in dirt
 

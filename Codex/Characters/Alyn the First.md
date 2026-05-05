@@ -41,11 +41,11 @@ tags:
 > ---|---|
 > Status | Alive |
 
-Alyn the First is a human acolyte of [[Selûne]] and the first soul to formally pledge herself to the moon goddess's renewed worship in [[Val Noren]]. A cloth merchant by trade who once made the winter crossing of [[The Frostway]] to trade at [[Point Blackrock]], she was drawn — almost accidentally — into something far larger than herself on one such crossing, and found she could not turn away from it.
+Alyn the First is a human acolyte of [[Selûne]] and the first soul to formally pledge herself to the moon goddess's renewed worship in [[Val Noren]]. A cloth merchant by trade who once made the winter crossing of the [[Frostway]] to trade at [[Point Blackrock]], she was drawn — almost accidentally — into something far larger than herself on one such crossing, and found she could not turn away from it.
 
 ## Biography
 
-Alyn was an unremarkable seller of garments from the outer quarters of Val Noren, known more for her easy good nature and relentless curiosity than any particular faith. Each winter, when [[The Frostway]] froze solid across the spine of islands between the mainland and Noren Island, she would make the week-long crossing to Point Blackrock to trade garments with merchants and travellers, staying through the cold season before the thaw drove her home. When Imperial forces tightened their grip on Point Blackrock and refugees flooded the Frostway, she was simply one more person trying to get back to Val Noren.
+Alyn was an unremarkable seller of garments from the outer quarters of Val Noren, known more for her easy good nature and relentless curiosity than any particular faith. Each winter, when the [[Frostway]] froze solid across the spine of islands between the mainland and Noren Island, she would make the week-long crossing to Point Blackrock to trade garments with merchants and travellers, staying through the cold season before the thaw drove her home. When Imperial forces tightened their grip on Point Blackrock and refugees flooded the Frostway, she was simply one more person trying to get back to Val Noren.
 
 It was there, in the teeth of a storm, that a cleric named [[Kai]] gathered the refugees and called for anyone who would attend a ceremony of dedication to the moon goddess. Most kept walking. Alyn stopped. She was the only one who did, and she witnessed a spectral manifestation of [[Selûne]] herself descend to receive her. Overwhelmed and frightened, she pledged herself without fully understanding what she was pledging. By her own later admission, she understood it perfectly. She now lives and studies at [[St. Avelines]] in Val Noren, one of the first acolytes in a faith being quietly rebuilt from nothing.
 

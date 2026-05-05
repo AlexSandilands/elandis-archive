@@ -63,7 +63,7 @@ tags:
 - He knows that [[General Korvas|Korvas]] is a wanted man
 - After some brief pleasantries will speak quietly with Kathryn, then send the rest of the group with her to [[Point Blackrock#The Press Yards|The Press Yards]], asking for a moment with [[General Korvas|Korvas]]
 - Tries to learn more what he has been up to
-- Is excited to be able to deliver him to [[Dread General Blackmarsh]]
+- Is excited to be able to deliver him to [[Dread General Gerard Blackmarsh]]
 
 - As they arrive at [[Point Blackrock#The Press Yards|The Press Yards]] more soldiers will be gathering around and following
 
@@ -74,7 +74,7 @@ tags:
 ## The Press Yards
 
 >[!summary]+ Details
-> - There have been 4 crossings of [[The Frostway]] recently, taking nearly 10000 soldiers across in groups
+> - There have been 4 crossings of the [[Frostway]] recently, taking nearly 10000 soldiers across in groups
 > - The most recent group left about 1 week ago
 > - Only 2 of [[The Frostwarden Crews]] have returned so far
 > - Their gear is being searched nearby in the commander's tents
@@ -133,14 +133,14 @@ tags:
 
 ### Havens
 
-- [[The Frostway#Rest Spots "Havens of the Frostway"|Blackrock Shelters]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|Old Cairns]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|The Singing Arch]]
-- [[The Frostway#Rest Spots "Havens of the Frostway"|The Hallow Isle]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|Blackrock Shelters]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|Old Cairns]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|The Singing Arch]]
+- [[Frostway#Rest Spots "Havens of the Frostway"|The Hallow Isle]]
 
 ### Encounter: The Shattered Fields
 
-[[The Frostway#Nature of the Frostway|The Shattered Fields]]
+[[Frostway#Nature of the Frostway|The Shattered Fields]]
 
 - Large Sheet of ice, fractured near the middle
 - Crevasses are seen with increasing frequency
@@ -149,14 +149,14 @@ tags:
 
 ### Encounter: The Veiled Rift
 
-[[The Frostway#Nature of the Frostway|The Veiled Rift]]
+[[Frostway#Nature of the Frostway|The Veiled Rift]]
 
 - Deceptive ice sheet
 - DC 15 Dex saves, or start sliding towards the edge, 300ft drop to the water
 
 ### Encounter: The Howling Narrows
 
-[[The Frostway#Nature of the Frostway|The Howling Narrows]]
+[[Frostway#Nature of the Frostway|The Howling Narrows]]
 
 
 ## Notes

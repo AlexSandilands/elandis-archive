@@ -9,9 +9,9 @@ cssclasses:
 - **Population:** ~1,000 permanent residents (plus 2,000+ seasonal visitors during peak Frostway crossings)
 - **Imperial Presence:** None (until recently)
 - **Local Leader:** None (governed by council)
-- **Defining Trait:** Gateway to [[The Frostway]] — last outpost before the treacherous crossing to [[Val Noren]]
+- **Defining Trait:** Gateway to the [[Frostway]] — last outpost before the treacherous crossing to [[Val Noren]]
 - **Current Conflicts:** Imperial occupation, forced conscription, rising tensions between residents and [[Valtorran Empire|The Empire]], several missing [[The Frostwardens|Frostwarden]] crews
-- **Claim to Fame:** Home of [[The Frostwardens]], legendary guides across [[The Frostway]] — the only reliable land passage to [[Val Noren]] during winter
+- **Claim to Fame:** Home of [[The Frostwardens]], legendary guides across the [[Frostway]] — the only reliable land passage to [[Val Noren]] during winter
 
 ### [[Sketch - Point Blackrock|Sketch]]
 
@@ -21,15 +21,15 @@ cssclasses:
 
 Point Blackrock is a rugged frontier settlement located on the north-eastern coast of [[Valtorra]], perched on the edge of the sea where the massive, jagged black spires of stone rise out of the waves. Though originally little more than a winter staging area for merchants, the settlement has grown into a semi-permanent hub of trade, survival, and crossing preparations.
 
-It serves as the gateway to [[The Frostway]] — a shifting, deadly ice bridge that forms during the height of winter and connects the mainland to the rebellious city of [[Val Noren]]. During these few weeks each year, traders and travellers flock to Point Blackrock, relying on the famed [[The Frostwardens|Frostwardens]] to guide them safely across the ice.
+It serves as the gateway to the [[Frostway]] — a shifting, deadly ice bridge that forms during the height of winter and connects the mainland to the rebellious city of [[Val Noren]]. During these few weeks each year, traders and travellers flock to Point Blackrock, relying on the famed [[The Frostwardens|Frostwardens]] to guide them safely across the ice.
 
 In the winter of 2507, [[Valtorran Empire]] arrived with force, turning the once-neutral Blackrock into a military staging ground in their effort to retake [[Val Noren]]. Since then, the settlement has been under uneasy occupation.
 
 ### History
 
-Point Blackrock began as little more than a cluster of merchant tents and supply caches, forming each year near the onset of winter. As [[The Frostway]] grew in prominence, a handful of families, survivalists, and tradespeople stayed behind year-round, building the foundation of a permanent settlement.
+Point Blackrock began as little more than a cluster of merchant tents and supply caches, forming each year near the onset of winter. As the [[Frostway]] grew in prominence, a handful of families, survivalists, and tradespeople stayed behind year-round, building the foundation of a permanent settlement.
 
-[[The Frostwardens]] — originally former members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] — were among the first to settle permanently. Over time, they became the essential guardians of [[The Frostway]], guiding groups of travelers, charting the ever-shifting terrain, and defending the route from beasts and worse.
+[[The Frostwardens]] — originally former members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] — were among the first to settle permanently. Over time, they became the essential guardians of the [[Frostway]], guiding groups of travelers, charting the ever-shifting terrain, and defending the route from beasts and worse.
 
 The settlement was traditionally ruled by a council of senior merchants and [[The Frostwardens|Frostwarden]] representatives, loosely organized and fiercely independent. That independence would be tested when the Empire arrived in 2507.
 
@@ -43,9 +43,9 @@ Since the occupation, many locals have become bitter and cautious, their sense o
 
 ### Culture and Beliefs
 
-The culture of Point Blackrock is shaped by winter, respect for the Frost, and deference to [[The Frostwardens]]. Folklore and half-remembered stories speak of [[The Frostway]] as a living thing — a path that punishes the arrogant and protects the careful.
+The culture of Point Blackrock is shaped by winter, respect for the Frost, and deference to [[The Frostwardens]]. Folklore and half-remembered stories speak of the [[Frostway]] as a living thing — a path that punishes the arrogant and protects the careful.
 
-Many carry small charms or trinkets believed to ward off accidents on the ice. It is considered grave bad luck to speak loudly about death while on [[The Frostway]], or to mock a [[The Frostwardens|Frostwarden]].
+Many carry small charms or trinkets believed to ward off accidents on the ice. It is considered grave bad luck to speak loudly about death while on the [[Frostway]], or to mock a [[The Frostwardens|Frostwarden]].
 
 The settlement is traditionally communal during the crossing season — fires shared, supplies traded, and disputes postponed. Songs, drinks, and stories flourish during stormy nights, even among strangers.
 
@@ -72,7 +72,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 
 - **Warden-Master Harren Vol** — Aging leader of [[The Frostwardens]], walking a tightrope between diplomacy and rebellion. Burly, grey-bearded, and stubborn as stone.
 
-- **Commander Varik Surne** — Imperial military governor, occupying half the Frosthearth. Cold, calculating, and under pressure from above. Second in command of the Imperial forces and reports directly to [[Dread General Blackmarsh]]
+- **Commander Varik Surne** — Imperial military governor, occupying half the Frosthearth. Cold, calculating, and under pressure from above. Second in command of the Imperial forces and reports directly to [[Dread General Gerard Blackmarsh]]
 
 #### The Press Yards
 
@@ -94,7 +94,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 
 ##### **Characters**
 
-- **Tallo Varren** — Elderly spice seller who once travelled [[The Frostway]] herself. She keeps her head low, but she notices everything.
+- **Tallo Varren** — Elderly spice seller who once travelled the [[Frostway]] herself. She keeps her head low, but she notices everything.
 
 - **Leah Tredden** — A former tailor-turned-scavenger, now selling cobbled-together winter gear to anyone with coin. Fiercely protective of the local children.
 
@@ -112,7 +112,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 #### Pell's Goods (General Goods)
 
 > [!example]+ Description
-> A long wooden trading hall packed with essentials for [[The Frostway|Frostway]] travel: preserved food, tarps, rope, furs, snowshoes, and lamp oil. Much of the better-quality stock has been seized, leaving only scraps and overpriced leftovers.
+> A long wooden trading hall packed with essentials for [[Frostway|Frostway]] travel: preserved food, tarps, rope, furs, snowshoes, and lamp oil. Much of the better-quality stock has been seized, leaving only scraps and overpriced leftovers.
 
 ##### **Characters**
 
@@ -134,7 +134,7 @@ The population simmers beneath the surface, torn between fear, survival, and the
 #### Frostflask Alchemy (Potions, Supplies and medical)
 
 > [!example]+ Description
-> A sagging two-story shack reeking of herbs and chemicals. Sells potions of resistance (cold), basic healing, salves for frostbite, and rare alchemical flares useful for signalling across [[The Frostway]].
+> A sagging two-story shack reeking of herbs and chemicals. Sells potions of resistance (cold), basic healing, salves for frostbite, and rare alchemical flares useful for signalling across the [[Frostway]].
 
 ##### **Characters**
 

@@ -66,7 +66,7 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 * The next morning, the party is flagged down in the tavern by a man in a black cloak.
 * The contact is revealed to be [[Gideon Blackthorn]], a member of [[The Order of Ravens]] and an old acquaintance of [[Eryndor]].
 * [[Lia]] is successfully handed over to the Order.
-* Gideon reveals to Eryndor that his father, [[Jerek]] is alive and currently in [[Val Miriel]].
+* Gideon reveals to Eryndor that his father, [[Jarek]] is alive and currently in [[Val Miriel]].
 
 ## Art
 

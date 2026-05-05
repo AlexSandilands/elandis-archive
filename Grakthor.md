@@ -1,0 +1,6 @@
+- Minor
+- Male hobgoblin captain
+- Towering beast of a hobgoblin, huge greatsword
+- Has a pet warg named garron
+- Led his tribe to the temple underground to set up
+- Raids the high road between camaar and darmouth, until killed by the Bloody nails on a contract from the Green Gryphons

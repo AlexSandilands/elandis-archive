@@ -10,5 +10,5 @@ Royal Bloodline of the Elves
 Stayed behind to ensure all remaining elves were safely transported to Sumara
 Were ambushed and hunted by agents of the Empire, fled, Rhennaya was pregnant unknown to most, she had the baby on the road, left in Lighthaven with the gnome [[Jek]], before leading agents away but ultimately being assassinated.
 
-Killed by [[Dread General Blackmarsh]] near [[Lighthaven]]
+Killed by [[Dread General Gerard Blackmarsh]] near [[Lighthaven]]
 

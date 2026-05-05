@@ -21,7 +21,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|25th Water, 2nd - 2507]] |
 > Location | [[Point Blackrock]]
-> Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane]] |
+> Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane Verric]] |
 
 ## Summary
 
@@ -43,12 +43,12 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
 ### The Commander and the Wardens
 
 * [[Vaeleran]] is escorted to the only stone building in town to meet the Imperial Commander.
-* The Commander recognises Vaeleran as [[General Korvas|Korvas]] and is amused by his memory loss. He reveals that "[[Dread General Blackmarsh|General Gerard]]" is leading the assault on [[Val Noren]] and would be eager to see Korvas.
+* The Commander recognises Vaeleran as [[General Korvas|Korvas]] and is amused by his memory loss. He reveals that "[[Dread General Gerard Blackmarsh|General Gerard]]" is leading the assault on [[Val Noren]] and would be eager to see Korvas.
 * The Commander offers a deal: Wait one week for reinforcements, and Vaeleran can join the final crossing to the north. Vaeleran bluffs, offering to lead a crossing sooner to aid the war effort.
 * Meanwhile, [[Ryo]] casts *Detect Magic* and senses Abjuration magic in the adjacent tent.
 * [[Eryndor]] uses stealth and invisibility to investigate the neighboring tent. He meets the imprisoned [[The Frostwardens|Frostwarden]] (The Fox Crew):
     * **[[Sela Ren]] (Ice Listener):** Can sense vibrations and cracks in the ice.
-    * **[[Dane]] (Scout):** Expert at finding paths and avoiding monsters.
+    * **[[Dane Verric]] (Scout):** Expert at finding paths and avoiding monsters.
     * **[[Lysa]] (Pathfinder/Leader):** Knows the Frostway intimately.
 * The Wardens reveal they are being held to guide the army across the ice but plan to escape if a distraction occurs.
 
@@ -71,7 +71,7 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
     * [[The Frostwardens]] take charge of the civilians, leading a stampede north towards the ice.
 * Imperial soldiers rush south to fight the phantom "rebel attack," taking heavy casualties from the magic, while the prisoners escape with minimal resistance.
 * Kai (as the elk) and Dondar outrun the retaliatory crossbow fire—though Kai takes a few bolts to the flank—and loop back north.
-* The party successfully reunites on the edge of [[The Frostway]]. Vaeleran introduces the group to the bewildered Wardens as "The Bloody Nails."
+* The party successfully reunites on the edge of the [[Frostway]]. Vaeleran introduces the group to the bewildered Wardens as "The Bloody Nails."
 
 ## Art
 

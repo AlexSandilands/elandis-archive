@@ -13,7 +13,7 @@ aliases:
 
 - These individuals believed their skills were wasted patrolling the misty forests. Drawn by tales of the northern wilds, they left [[Lighthaven]] to seek a new frontier where their talents might matter more.
 
-- They migrated to [[Point Blackrock]] centuries ago, becoming some of the first consistent guides of the newly-forming [[The Frostway|Frostway]] crossings.
+- They migrated to [[Point Blackrock]] centuries ago, becoming some of the first consistent guides of the newly-forming the [[Frostway]] crossings.
 
 - Over generations, their descendants evolved into a new order: The Frostwardens, taking their predecessors' vigilance and adapting it to the merciless cold and unpredictable dangers of the frozen sea.
 
@@ -27,9 +27,9 @@ aliases:
 
 - **Frostmarks**: Upon earning full Frostwarden status, a scout receives a mark of passage — often a tattoo or scarification that aligns with the [[The Frostwarden Crews|Crew]] they joined.
 
-- **Trial of Silence**: Initiates must survive one night alone on [[The Frostway]] without fire, speaking no words, relying only on their instincts and the sounds of the ice.
+- **Trial of Silence**: Initiates must survive one night alone on the [[Frostway]] without fire, speaking no words, relying only on their instincts and the sounds of the ice.
 
-- **The Mourning Bell**: When a Warden dies on [[The Frostway]], surviving Frostwardens hang a small iron bell on the rocks nearest where they fell. Wind through the rocks often makes the bells sing eerily during storms.
+- **The Mourning Bell**: When a Warden dies on the [[Frostway]], surviving Frostwardens hang a small iron bell on the rocks nearest where they fell. Wind through the rocks often makes the bells sing eerily during storms.
 
 
 ## Structure

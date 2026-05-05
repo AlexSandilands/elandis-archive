@@ -20,11 +20,11 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|5th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|7th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]<br>[[The Ruby Falls Goldmine]]
-> Characters | [[Jerek]]<br>[[Thaddeus Karr]]<br>[[Trak Aeris]] |
+> Characters | [[Jarek]]<br>[[Thaddeus Karr]]<br>[[Trak Aeris]] |
 
 ## Summary
 
-The session began in the chaotic aftermath of the explosion at [[Serenity Plaza]]. Under the cover of [[Kai]]’s fog cloud and a floating illusion of a mercury nail, the party fled the scene, racing back to [[River's Watch]] to retrieve their wagon. While the main group bluffed their way through the eastern gates of [[Val Miriel]] just before lockdown, [[Eryndor]] was pulled aside by the mysterious [[Trak Aeris]]. This detour led him deep into the hidden sanctuary of [[The Order of Ravens]], where he held a sombre vigil at the bedside of his dying father, [[Jerek]]. Securing new contacts and a signet from the Nest father, [[Thaddeus Karr]], Eryndor rode hard to reunite with his companions on the road north.
+The session began in the chaotic aftermath of the explosion at [[Serenity Plaza]]. Under the cover of [[Kai]]’s fog cloud and a floating illusion of a mercury nail, the party fled the scene, racing back to [[River's Watch]] to retrieve their wagon. While the main group bluffed their way through the eastern gates of [[Val Miriel]] just before lockdown, [[Eryndor]] was pulled aside by the mysterious [[Trak Aeris]]. This detour led him deep into the hidden sanctuary of [[The Order of Ravens]], where he held a sombre vigil at the bedside of his dying father, [[Jarek]]. Securing new contacts and a signet from the Nest father, [[Thaddeus Karr]], Eryndor rode hard to reunite with his companions on the road north.
 
 The journey to the mountains was fraught with tension but devoid of combat. [[Vaeleran]] utilised his imposing presence - and his past identity as [[General Korvas]] - to intervene in a roadside harassment of some merchants by Imperial soldiers, allowing the party to pass without bloodshed. Upon arriving at [[The Ruby Falls Goldmine]], the party found an unsettling silence. The worker huts were abandoned, devoid of bodies but marked by strange, deep scratches and overturned furniture.
 
@@ -41,7 +41,7 @@ Venturing into the mine, the investigation turned from mystery to horror. The pa
 ### The Raven's Nest (Eryndor's Arc)
 
 * **The Hideout:** [[Trak Aeris|Trak]] led [[Eryndor]] through [[The Artisan Way]] and into a luxurious, gold-trimmed tavern called [[The Gilded Crow]]. A secret entrance behind a keg led to The Nest, a massive underground base with a river running through its centre. 
-* **Jerek:** Eryndor was taken to his father, [[Jerek]], who had collapsed from exhaustion. They shared a brief, emotional conversation where Jerek revealed a lead on Eryndor’s mother: a Raven named Jema in [[Val Luminor]] believes Elves are being held in the dungeons there.
+* **Jerek:** Eryndor was taken to his father, [[Jarek]], who had collapsed from exhaustion. They shared a brief, emotional conversation where Jerek revealed a lead on Eryndor’s mother: a Raven named Jema in [[Val Luminor]] believes Elves are being held in the dungeons there.
 * **The Nestfather:** Eryndor met with [[Thaddeus Karr]], the Nestfather. Thaddeus provided a Raven brooch and agreed to send word to the Nest in [[Val Aran]] to expect "[[The Bloody Nails]]."
 * **Departure:** Eryndor briefly saw the young girl [[Lia]] training with a rapier before securing a horse from Lady Marielle at The Gilded Crow to rush back to the party.
 

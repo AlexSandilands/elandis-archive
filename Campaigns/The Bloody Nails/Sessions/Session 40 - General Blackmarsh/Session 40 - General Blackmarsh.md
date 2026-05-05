@@ -21,11 +21,11 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|6th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
-> Characters | [[King Marius Noren]]<br>[[Dread General Blackmarsh]]<br>[[Marcelle the Broken]] |
+> Characters | [[King Marius Noren]]<br>[[Dread General Gerard Blackmarsh]]<br>[[Marcelle the Broken]] |
 
 ## Summary
 
-The session opens with high tension as the party bursts from the crypts beneath [[The Stoneheart]] only to find [[Dread General Blackmarsh]] waiting for them in the main cathedral chamber. Alongside him stands the red cloaked elven mage [[Marcelle the Broken]] and a host of undead hidden within the pews. The battle erupts instantly; [[Ryo]] acts as the primary striker, raining precision arrows upon the enemy, while [[Kai]] summons a Twilight Sanctuary to bolster the party's defences against the General's terrifying aura of dread.
+The session opens with high tension as the party bursts from the crypts beneath [[The Stoneheart]] only to find [[Dread General Gerard Blackmarsh]] waiting for them in the main cathedral chamber. Alongside him stands the red cloaked elven mage [[Marcelle the Broken]] and a host of undead hidden within the pews. The battle erupts instantly; [[Ryo]] acts as the primary striker, raining precision arrows upon the enemy, while [[Kai]] summons a Twilight Sanctuary to bolster the party's defences against the General's terrifying aura of dread.
 
 The combat is brutal and chaotic. Marcelle attempts to take a strategic position on the high balcony, raining arcane bursts down on the party, but she is swiftly neutralised by a combination of [[Berberis]]'s mobility and Ryo's deadly aim. However, General Blackmarsh proves to be a juggernaut, unleashing a destructive wave of energy that nearly wipes the party, knocking several members unconscious. In a turning point, [[King Marius Noren]] overcomes his trauma to heal Kai, who in turn revives Ryo, keeping the team in the fight. Berberis summons a giant badger which proves surprisingly effective at distracting the General.
 
@@ -36,7 +36,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 ### The Ambush at the Altar
 
 * The party emerges from the crypts into the main chamber of [[The Stoneheart]].
-* [[Dread General Blackmarsh]] mocks their arrival, stating he expected them.
+* [[Dread General Gerard Blackmarsh]] mocks their arrival, stating he expected them.
 * [[Ryo]] opens hostilities immediately, utilising Sharpshooter and Hunter's Mark to deal massive damage to [[Marcelle the Broken]].
 * Zombies burst from sarcophagi around the room, attempting to swarm the party.
 * [[Kai]] activates Twilight Sanctuary to provide temporary hit points to the group, mitigating the necrotic chill radiating from Blackmarsh.
@@ -50,7 +50,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 
 ### The General's Wrath
 
-* [[Dread General Blackmarsh|Blackmarsh]] retaliates with devastating power, slamming his sword into the ground to create a shock-wave (Destructive Wave).
+* [[Dread General Gerard Blackmarsh|Blackmarsh]] retaliates with devastating power, slamming his sword into the ground to create a shock-wave (Destructive Wave).
 * The shock-wave knocks [[Kai]], [[Berberis]], and [[Eryndor]] prone and deals massive radiant/necrotic damage.
 * Kai and [[Ryo]] are knocked unconscious multiple times during the exchange.
 * [[King Marius Noren]], shaking off his stupor, uses *Healing Word* to revive Kai, who then heals Ryo.
@@ -60,7 +60,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 
 * More zombies emerge from the lower levels; one manages to paralyze [[Eryndor]].
 * Despite being battered and bloodied, the party focuses all fire on the General.
-* [[Dondar]] casts a level 3 *Magic Missile*, aiming for the General's exposed joints. The force severs [[Dread General Blackmarsh|Blackmarsh]]'s arm, killing him instantly.
+* [[Dondar]] casts a level 3 *Magic Missile*, aiming for the General's exposed joints. The force severs [[Dread General Gerard Blackmarsh|Blackmarsh]]'s arm, killing him instantly.
 * Blackmarsh dies with a curse: "She will come for you all. Your lands will wither."
 * Upon his death, all active zombies in the cathedral instantly collapse.
 
@@ -68,7 +68,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 
 * [[King Marius Noren|Marius]] thanks the party for their bravery and saving the city.
 * **Loot Obtained:**
-    * **From Blackmarsh:** A magical Greatsword (radiating evil/undeath), Plate Gauntlets, and Boots. [[Ryo]] cuts off [[Dread General Blackmarsh|Blackmarsh]]'s head and stores it in the Bag of Holding.
+    * **From Blackmarsh:** A magical Greatsword (radiating evil/undeath), Plate Gauntlets, and Boots. [[Ryo]] cuts off [[Dread General Gerard Blackmarsh|Blackmarsh]]'s head and stores it in the Bag of Holding.
     * **From Marcel:** A pouch containing three magical white feathers.
 * **Investigation:** [[Kai]] investigates [[The Red Priests|The Red Priest]]'s body and finds scarification tattoos on her back depicting a serpentine, fire-breathing beast (a dragon). Kai uses calligraphy tools to draw a perfect copy of the symbol.
 * [[Berberis]] uses his owl familiar to scout the exterior.
