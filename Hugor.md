@@ -1,0 +1,5 @@
+- Minor character
+- Teenage male halfling, short hair, kept it cropped in fashion of the imperial soldiers in Lighthaven
+- Worked in the apothecary in Lighthaven - the verdant rose
+- Was aspiring to join the imperials until the bloody nail encountered him
+- Went missing after the group left

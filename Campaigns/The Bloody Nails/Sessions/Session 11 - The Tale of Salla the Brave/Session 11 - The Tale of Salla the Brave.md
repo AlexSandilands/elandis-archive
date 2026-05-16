@@ -20,7 +20,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|9th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|10th Water, 1st - 2507]] |
 > Location | [[Faelon]]
-> Characters | [[Tara]]<br>[[Teresa]] |
+> Characters | [[Tara]] |
 
 ## Summary
 

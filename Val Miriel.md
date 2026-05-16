@@ -34,7 +34,7 @@ River's Watch  
     
 - NPC 1: Owner Aric Laris - Aric is a tall, handsome man in his late thirties, with dark hair neatly tied back and a perpetual warm smile. He is known for his impeccable manners and keen sense of hospitality. Aric inherited the tavern from his parents and has worked tirelessly to make it one of the most esteemed establishments in Val Miriel. He takes pride in knowing his regulars by name and always goes the extra mile to ensure his guests feel at home. Aric is also a good listener and often provides a sympathetic ear and wise advice to those who need it. 
     
-- NPC 2: Barmaid Lila Spring - Lila is a spirited and quick-witted young woman who has worked at River's Watch for several years. She is known for her sharp tongue and warm heart, often mediating disputes and keeping the peace among the patrons. Lila dreams of one day owning her own tavern and works tirelessly to save up for her future. 
+- NPC 2: Barmaid [[Lila Spring]] - Lila is a spirited and quick-witted young woman who has worked at River's Watch for several years. She is known for her sharp tongue and warm heart, often mediating disputes and keeping the peace among the patrons. Lila dreams of one day owning her own tavern and works tirelessly to save up for her future. 
     
 - NPC3: Chef Isolde - Isolde is a middle-aged woman with a round, cheerful face framed by curly auburn hair. Her passion for cooking is evident in every dish she creates, blending traditional recipes with her own innovative twists. Isolde's meals are both comforting and exquisite, making River's Watch a favored dining spot. She is known for her hearty laughter and friendly demeanor, often seen chatting with patrons who come to compliment her cuisine. Isolde's kitchen is a place of warmth and camaraderie, where she treats her staff like family. 
     
@@ -113,7 +113,7 @@ Fur and Fang 
 
 Nest Father: Thaddeus "Ravenwing" Karr 
 
-Role: Nest Father of the Camaar Nest 
+Role: Nest Father of the Val Miriel Nest 
 
 Appearance: Thaddeus is a tall, wiry man in his early 50s with sharp features and a perpetual air of calm. His hair, once jet black, is streaked with silver, and he often keeps it tied back. His piercing grey eyes are always on alert, missing nothing. 
 

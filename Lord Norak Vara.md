@@ -1,0 +1,4 @@
+- Minor character
+- Male, human, 40s
+- Minor noble, tries hard to be important. Dresses a bit over the top to compensate
+- Gave the Bloody Nails their Ruby Falls Goldmine contract through the Green Gryphons

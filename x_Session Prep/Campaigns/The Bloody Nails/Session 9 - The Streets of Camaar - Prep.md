@@ -126,5 +126,5 @@ tags:
 - They are docked on a boat called [[The Kraken]]
 	- Captain's name is Erin Nayla
 	- Half Orc, very serious, scar across one eye that is white
-	- Person who came back from the cave was [[Olly]] - topman of the ship - skittery fast speaking nervous fellow
+	- Person who came back from the cave was Olly - topman of the ship - skittery fast speaking nervous fellow
 - **Reward:** 150g per person

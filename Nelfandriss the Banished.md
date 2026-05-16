@@ -1,91 +1,14 @@
----
-Type: NPC
-Creature Type: ???
-Species: ???
-Gender: Female
-Pronouns: She/Her
-Age: 0
-Languages: ???
-Place: ???
-Connections: ???
-Profession: ???
-Status: ???
-NoteIcon: npc
-cssclasses: 
-tags:
-  - NPC
-aliases:
-  - Nelfandriss
-  - The Banished
----
-> [!infobox|wikipedia]
-> # NAME
-> [![[NPCs/NPC_Placeholder_Female_small.png]]](NPCs/NPC_Placeholder_Female.png)
-> ###### Basic Information
-> Attribute |  Details |
-> ---|---|
-> Type | NPC |
-> ###### Character Information
-> Attribute |  Details |
-> ---|---|
-> Creature Type | ??? |
-> Species | ??? |
-> Gender | Female
-> Pronouns | She/Her |
-> Age | ??? |
-> Languages | ??? |
-> Place | ??? |
-> Connections | ??? |
-> Profession | ??? |
-> ###### Status
-> Attribute |  Details |
-> ---|---|
-> Status | ??? |
-> Cause of Death | ??? |
-> Death Session | ??? |
+- Major character
+- Female Drider, ancient, human part appears ~30s
+- Nude, but long black hair that covers
+- Left her home from "below"
+- She is the daughter of a spider queen below (Lolth - but we shouldn't put this in the main doc, leave ambiguous for now)
 
-> Write this last
-
-A few sentences with a summary of the character including:
-- [ ] A brief visual description
-- [ ] What they do
-- [ ] How have they interacted with the players
-
-## Description
-
-#### Appearance
-
-- [ ] Race
-- [ ] Gender
-- [ ] Age
-- [ ] Clothes
-- [ ] 3 notable features about the person
-
-#### Personality
-
-- [ ] Attitude towards the players
-- [ ] Attitude towards The Empire
-- [ ] General mood on an average day
-
-##  Biography
-
-#### Background
-
-- [ ] Where are they from
-- [ ] What have they done in the past few years leading up to now
-- [ ] What do they do currently
-- [ ] Do they have any goals
-
-### Campaign: [[The Bloody Nails]]
-
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
-
-- [ ] Why did they appear in this session
-- [ ] What did they do
-- [ ] How did they interact with the players
-
-## Trivia
-
-- Something something
-- Something else
-- Something else again
+[[Nelfandriss the Banished|Nelfandriss]] lived in the underworld hundreds of years ago, she is the daughter of a spider queen deep below.
+- She experimented with dark magic, wanting to be able to be able to communicate more freely with other peoples
+- She transformed herself into what you see - the first of the Driders, but in doing so was banished by her mother
+- She had many children and now the driders are naturally occuring below
+- She climbed up out of the depths, hoping to find new lands, but was unable to go out in sunlight, and so was trapped in this middle area, not deep enough to be part of [[The Underdark]] societies, but not able to go out into the overland above.
+- She loves stories, pretty things and trinkets
+- She stole her mother's amulet when she left  
+- Willing to make a deal that would save her children from being disturbed or attacked by people

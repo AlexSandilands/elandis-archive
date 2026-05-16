@@ -1,0 +1,4 @@
+- Minor character
+- RESTRICTED
+- Part of [[Berberis]] backstory
+- [[Quercus Robur]], (Oak) Head Druid- the wise old man, the reliable and unshakeable. Took him in a lost ranger (both literal and figurative) and game him a place and purpose. 

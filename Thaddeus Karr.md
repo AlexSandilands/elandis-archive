@@ -1,92 +1,14 @@
----
-Type: NPC
-Creature Type: ???
-Species: ???
-Gender: Male
-Pronouns: He/Him
-Age: 0
-Languages: ???
-Place: ???
-Connections: The Order of Ravens
-Profession: Nest Father
-Status: ???
-NoteIcon: npc
-cssclasses: 
-tags:
-  - NPC
-aliases:
-  - Thaddeus
----
-> [!infobox|wikipedia]
-> # NAME
-> [![[NPCs/NPC_Placeholder_Male_small.png]]](NPCs/NPC_Placeholder_Male.png)
-> ###### Basic Information
-> Attribute |  Details |
-> ---|---|
-> Type | NPC |
-> ###### Character Information
-> Attribute |  Details |
-> ---|---|
-> Creature Type | ??? |
-> Species | ??? |
-> Gender | Male
-> Pronouns | He/Him |
-> Age | ??? |
-> Languages | ??? |
-> Place | ??? |
-> Connections | ??? |
-> Profession | ??? |
-> ###### Status
-> Attribute |  Details |
-> ---|---|
-> Status | ??? |
-> Cause of Death | ??? |
-> Death Session | ??? |
 
-> Write this last
+- Minor character
+- Val Miriel Nest Father of the Order of Ravens
+Nest Father: Thaddeus "Ravenwing" Karr 
 
-Alias: "Ravenwing"??
+Role: Nest Father of the Val Miriel Nest 
 
-A few sentences with a summary of the character including:
-- [ ] A brief visual description
-- [ ] What they do
-- [ ] How have they interacted with the players
+Appearance: Thaddeus is a tall, wiry man in his early 50s with sharp features and a perpetual air of calm. His hair, once jet black, is streaked with silver, and he often keeps it tied back. His piercing grey eyes are always on alert, missing nothing. 
 
-## Description
+Background: Thaddeus grew up in the underbelly of Valtorra, learning the arts of stealth and subterfuge from a young age. He rose through the ranks due to his cunning and unyielding dedication to the Order. As Nest Father, he is both respected and feared, known for his strategic mind and ruthless enforcement of the Order’s code. 
 
-#### Appearance
+Personality: Thaddeus is a master manipulator with a deep understanding of human nature. He is patient, preferring to play the long game in his dealings. Despite his ruthless exterior, he has a strong sense of loyalty to those within the Order and sees them as his family. 
 
-- [ ] Race
-- [ ] Gender
-- [ ] Age
-- [ ] Clothes
-- [ ] 3 notable features about the person
-
-#### Personality
-
-- [ ] Attitude towards the players
-- [ ] Attitude towards The Empire
-- [ ] General mood on an average day
-
-##  Biography
-
-#### Background
-
-- [ ] Where are they from
-- [ ] What have they done in the past few years leading up to now
-- [ ] What do they do currently
-- [ ] Do they have any goals
-
-### Campaign: [[The Bloody Nails]]
-
-#### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
-
-- [ ] Why did they appear in this session
-- [ ] What did they do
-- [ ] How did they interact with the players
-
-## Trivia
-
-- Something something
-- Something else
-- Something else again
+Special Skills: Expert in strategy, stealth, and hand-to-hand combat. Fluent in several languages and adept at blending into any crowd. 

@@ -72,7 +72,7 @@ In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered
 * **Destruction of Skyreach:** As they boarded [[The Albatross]], the charges detonated. The bridge collapsed completely, destroying the [[Valtorran Empire|Empire]]'s strategic supply line.
 * **Casualties:** [[Ari]] reported that roughly 50% of the sailors (30 men) died holding the line to let the slaves escape.
 * **Medical Bay:** [[Illaris Sharin]], the Drow healer, tended to the wounded. [[Kai]] bonded with her over the moon goddess [[Selûne]], performing a ceremony to dedicate Illaris to the goddess for 24 hours.
-* **Lirien:** [[Lirien]] and Kai caught up. She revealed rumors that the missing Elves were taken to the dungeons of [[Val Luminor]]. She also identified [[Ryo]]'s signet ring as the symbol of the [[Ithil Clan]], the ruling class of the lost city [[Ithilmara]].
+* **Lirien:** [[Lirien]] and Kai caught up. She revealed rumors that the missing Elves were taken to the dungeons of [[Val Luminor]]. She also identified [[Ryo]]'s signet ring as the symbol of the [[Silmara Family]], the ruling class of the lost city [[Ithilmara]].
 * **The Reward:** Ari presented the party with a chest from Barak containing **1,000 Platinum Pieces** (10,000 Gold).
 * **Next Steps:** The party is sailing toward [[Camaar]] to drop off refugees before heading toward [[Val Noren]].
 

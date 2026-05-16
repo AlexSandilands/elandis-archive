@@ -69,7 +69,7 @@ tags:
 
 >[!summary]+ Details
 > - Missing Person, not returned from the forest near [[Faelon]]
-> - Wife of the [[Cobblestone Alchemists|Cobblestone Apothecary]] ([[Teresa]])
+> - Wife of the [[Cobblestone Alchemists|Cobblestone Apothecary]] (Teresa)
 > - Usually searching for rare herbs and mushrooms
 > - Had mentioned seeing spirits in the woods, but never taken seriously
 > - **Reward:** Gold, or potions, or combination
@@ -88,7 +88,7 @@ tags:
 - [[Tarra]] will mention that [[Salla]] always used to wear a locket around her neck with a drawing of their parents who died young - [[Salla]] loved it more than anything
 
 #### The Cave
-- [[Teresa]] ran from spirits, fell into the cave through some openings on a hill. She has been cowering there for a couple of days, terrified, not sure how to get out.
+- Teresa ran from spirits, fell into the cave through some openings on a hill. She has been cowering there for a couple of days, terrified, not sure how to get out.
 
 > [!question] Trigger
 > Players search for tracks (DC 15 Survival)
@@ -110,7 +110,7 @@ tags:
 - They are docked on a boat called [[The Kraken]]
 	- Captain's name is Erin Nayla
 	- Half Orc, very serious, scar across one eye that is white
-	- Person who came back from the cave was [[Olly]] - topman of the ship - skittery fast speaking nervous fellow
+	- Person who came back from the cave was Olly - topman of the ship - skittery fast speaking nervous fellow
 - **Reward:** 150g per person
 
 #### The Cave

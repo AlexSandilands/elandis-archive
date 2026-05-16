@@ -27,7 +27,7 @@ The session began with high-octane tension deep within [[The Ruby Falls Goldmine
 
 Venturing deeper, the party traversed a surreal, bio-luminescent fungal cavern inhabited by small, shy mushroom folk. Navigating environmental hazards - exploding red fungi and hallucinogenic spores that turned allies into demons in Kai's eyes - they eventually communicated with the locals using mime and spider fangs, learning that the "eight-legged ones" resided further in. A detour led them to a mysterious [[Pool of Reflection]]. Here, [[Vaeleran]] offered his own blood to the water, receiving a cryptic revelation regarding his amnesia: a magical block exists in his mind that only powerful restoration magic can break.
 
-The climax occurred in a glimmering chamber filled with the missing gold and treasures. Here they encountered [[Nelfandris the Banished]], an immense and ancient Drider-like being. Rather than engaging in a deadly battle, the party chose diplomacy. Nelfandris revealed she was merely defending her home from the Empire’s intrusion. Vaeleran and Kai successfully negotiated a treaty: the party would report the mine as inaccessible to the Empire, while Nelfandris would allow the party's specific allies to mine quietly in exchange for privacy. As a token of this alliance, she gifted them the *[[Amulet of the Arachnid Queen]]* and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]] - revealing the ruler to be a century-old teenager sustained by a dark pact.
+The climax occurred in a glimmering chamber filled with the missing gold and treasures. Here they encountered [[Nelfandriss the Banished]], an immense and ancient Drider-like being. Rather than engaging in a deadly battle, the party chose diplomacy. Nelfandris revealed she was merely defending her home from the Empire’s intrusion. Vaeleran and Kai successfully negotiated a treaty: the party would report the mine as inaccessible to the Empire, while Nelfandris would allow the party's specific allies to mine quietly in exchange for privacy. As a token of this alliance, she gifted them the *[[Amulet of the Arachnid Queen]]* and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]] - revealing the ruler to be a century-old teenager sustained by a dark pact.
 
 ## Details
 
@@ -58,7 +58,7 @@ The climax occurred in a glimmering chamber filled with the missing gold and tre
 ### The Court of the Banished
 
 * **The Treasure Room:** The party found the missing wealth—gold, gems, and weapons—decorating a central chamber.
-* **Nelfandris:** They met [[Nelfandris the Banished]], a hybrid entity with a human torso and a massive spider body. She commanded a legion of spiders but was willing to talk.
+* **Nelfandris:** They met [[Nelfandriss the Banished]], a hybrid entity with a human torso and a massive spider body. She commanded a legion of spiders but was willing to talk.
 * **The Negotiation:**
     * The party explained they were third-party contractors for [[The Green Gryphons]], not [[Valtorran Empire|The Empire]].
     * They struck a deal to keep the Empire away from the mine while allowing Nelfandris to remain undisturbed.

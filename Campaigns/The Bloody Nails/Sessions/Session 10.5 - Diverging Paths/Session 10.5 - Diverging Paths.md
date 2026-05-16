@@ -53,6 +53,6 @@ The trail leads them north to the mining town of [[Faelon]], arriving as the sun
 
 ### The Sister's Plea
 * **The Offering:** [[Kai]] buys tomato soup and a fresh loaf of sourdough bread as a peace offering.
-* **Meeting Tara:** The group visits a dilapidated house. [[Tara]], a young woman living in poverty, cautiously accepts the food and invites them in.
+* **Meeting Tara:** The group visits a dilapidated house. [[Tara]], an old woman living in poverty, cautiously accepts the food and invites them in.
 * **The Clue:** Tara speaks of her lost sister and suggests the party look for her at [[Tumbler's Crag]]. She implies that retrieving her sister's body would bring her peace.
 * **Rest:** The party returns to the inn to sleep, preparing for the climb the following morning.

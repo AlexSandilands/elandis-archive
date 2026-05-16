@@ -2,3 +2,4 @@
 aliases:
   - Uric
 ---
+- Minor character

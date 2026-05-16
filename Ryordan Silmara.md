@@ -1,0 +1,5 @@
+- Minor character
+- Mythological status from the distant past
+- Was a hero during a cosmic calamity, was able to save the World tree by sundering it, leaving the root still piercing the faewild that is now the Heartstone in the centre of Sumara. The sundering of the root ultimately saved the world tree, and he bound his bloodline to it, forever tying his decendents to it's life and magic
+- Backstory intentionally left vague for now
+- Sometimes referred to as "Ryordan Silmara, First of his Name"

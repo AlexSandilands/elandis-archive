@@ -1,0 +1,5 @@
+- Minor character
+- Twin sister of [[Salla the Brave]]
+- Very old lady now
+- Still lives in Faelon the mining town, can't let go of her past and her missing sister
+- Bloody nails retrieved the locket from the skeleton of Salla, hoping to bring Tara some peace

@@ -2,3 +2,12 @@
 aliases:
   - Ratha
 ---
+- Minor character
+- Male Elf, mid 300s at time of death, blondy/brown hair, shoulder length. Favoured dark green colors, cloak, blue eyes
+- Father of Ryo
+- Married [[Rhennaya Silmara]] who was of the [[Silmara Family]], royal bloodline of the elves
+- Used to be a high ranking member of The Circle of the Blade, which he left behind when marrying Rhennaya as per custom (rules cannot be a member of a circle)
+- Was a decent and well respected ruler alongside Rhennaya. She was well respected and he never felt put out or overshadowed by her since she was the Silmara - he always was happy for her to have the spotlight and supported her however she needed.
+- Was not fully in favour of of the Elves leaving Valtorra during the rise of the Empire, but was convinced by Rhennaya that it would save the most lives and allow them to regroup and come at it more strategically.
+- He did argue to remain behind until all elves had left - TBD a backstory for why they remained, when Ryo was born and how the Empire caught up with them
+- Killed by [[Dread General Gerard Blackmarsh]]

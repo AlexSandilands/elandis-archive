@@ -10,7 +10,7 @@ cssclasses:
 
 ## Overview
 
-Hidden in the exact center of the [[Shimmering Peaks]], Sumara — known as The Shining City — is the last great bastion of ancient elven civilization. Built into and upon the luminous white stone of a vast natural caldera, the city is a masterpiece of magical architecture. Rather than a flat disc, it is deeply vertical — cascading tiers of alabaster and glass built into the caldera's interior walls, connected by arching bridges of solidified light. Spires refract the Faewild sky into prisms. A great waterfall, The Shivering Veil, crashes silver from the southern rim and is channeled through the city below.
+Hidden in the exact centre of the [[Shimmering Peaks]], Sumara — known as The Shining City — is the last great bastion of ancient elven civilization. Built into and upon the luminous white stone of a vast natural caldera, the city is a masterpiece of magical architecture. Rather than a flat disc, it is deeply vertical — cascading tiers of alabaster and glass built into the caldera's interior walls, connected by arching bridges of solidified light. Spires refract the Faewild sky into prisms. A great waterfall, The Shivering Veil, crashes silver from the southern rim and is channeled through the city below.
 
 The city exists in a state of perfectly curated harmony, standing in stark contrast to the chaotic wilds of the Faewild that surround its protective mountain ring. It has been sealed from the Material Plane for 100 years.
 
@@ -169,7 +169,7 @@ The formal gathering of all seven Meridians. Called when a matter of city-wide s
 
 **How it's called:** Any Meridian may call a Confluence, but convention holds that it requires a matter of genuine gravity. The last Confluence was called at the Exile.
 
-## The Verdant Vault
+## The Vault of Memories
 
 A sealed chamber beneath the Royal Citadel, accessible only to a member of the Silmara royal bloodline. The entrance is a pair of enormous stone doors carved with the World Tree. The interior is a vast spherical void left by a World Tree root — a place of primordial, unpredictable magic.
 
