@@ -14,9 +14,9 @@ tags:
 - [ ] Update Calendar
 - [x] Sync DnD Beyond
 - [x] Bastions
-- [ ] Generate image of city from Royal Citadel
+- [x] Generate image of city from Royal Citadel
 - [ ] Items
-	- [ ] Dondar items
+	- [x] Dondar items
 	- [ ] Double Check custom items are all in foundry
 	- [ ] Flying Cuffs
 - [ ] Refresh Sumara
@@ -26,65 +26,68 @@ tags:
 	- [ ] Random table of NPC and Location names
 - [ ] Leaving for Vale of Eternal Night
 	- [ ] Paths to take
-	- [ ] Combat encounters
-	- [ ] Random Encounters
+	- [x] Cuffs of Gliding
+	- [x] Combat encounters
+		- [x] Centaurs
+		- [x] Roc
+	- [x] Random Hazards
+- [x] Flesh out the Vale of Eternal Night
+	- [x] Motivations
+	- [x] Conflicts with Sumara?
+	- [x] Kaelen's Son
+	- [x] Soulstone
 
 ## Recap
 
 - [[Session 49 - The Silver Sage]]
 
-## Scenario 1
+## Sumara
 
->[!summary]- XX Details
-> - Some Text
+### Dondar's Items to Retrieve
 
-### Scene 1
+- Fae Metal Headband
+- Package (Fae Metal Hairpin, with the name Hvedra inscribed)
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+### Shopping
 
-### Scene 2
+- [Random Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items)
+- [Equipment](https://www.dndbeyond.com/sources/dnd/phb-2014/equipment#Equipment)
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+### BASTIONS
 
-## Scenario 2
+- Ayana will suggest
 
->[!summary]- XX Details
-> - Some Text
+### How to get to the Vale
 
-### Scene 1
+- Cuffs of Gliding
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+## Vale of the Eternal Night
 
-### Scene 2
+See [[Vale of Eternal Night]] for general details
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+### Asha Vayne
 
-## Scenario 3
+- Was assumed killed in a skirmish ~60 years ago
+- Some believe still alive
 
->[!summary]- XX Details
-> - Some Text
+### Hazards
 
-### Scene 1
+- Nightshroud Fungus (reflavor of Fireball Fungus)
+- Darkness pits (reflavor of Quicksand pits hazard)
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+### Combat - Roc
 
-### Scene 2
+- While travelling to the Vale they might get chased by a roc
 
-- What is happening
-- Who is there
-- Any triggers or encounters?
+### Combat - Hunted
 
-## Notes
+As the party enters the vale they need to start making checks if they want to be stealthy otherwise may start being hunted
 
-- A Note
-- Another note
+- 1x Dire Worg
+- 1x Centaur Warden
+- 5x Centaur Trooper
+
+
+### Soulstone Anchor
+
+- Kept in the most secure vault in the Citadel of Caer Nystral

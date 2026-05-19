@@ -1,7 +1,9 @@
 - Major character
-- Daughter of Tarlis and Vallarra Miriel, descended from the royal Miriel line 
+- Daughter of [[Governor Tarlis Evandron|Tarlis]] and [[Vallarra Miriel]], descended from the royal Miriel line 
 - Long straight blond hair 
 - Blue eyes 
 - Faint freckles 
 - Slight frame after her father, but a lean strength due to many adventures 
 - Trains with a bow and daggers, general athletics and acrobatics
+- Rescued by The Bloody Nails from the Goblins on the High Road between Camaar and Darmouth
+- She has felt a bit trapped as her father is extremely protective of her since Vallarra died in child birth, so she has been rebelling a bit, training with dangerous weapons, and going on small adventures (i.e. she heard rumors about the goblins and went to try solve the problem herself with a group, she was the only survivor)

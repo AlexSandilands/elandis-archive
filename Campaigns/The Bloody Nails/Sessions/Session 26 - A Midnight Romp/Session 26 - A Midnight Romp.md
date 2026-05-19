@@ -34,7 +34,7 @@ The session concluded with a massive lore revelation. Oldir recounted the prophe
 ### Downtime at the Green Griffins
 
 * The party regrouped at [[The Green Gryphons]] hall. [[Vaeleran]] attempted to use a Sending Stone to contact [[Governor Tarlis Evandron|Governor Tarlis]], sending a concise update ("Shit show"), but received no reply.
-* The group socialised with guild members, including [[Vira Loris]] and Rina Talon, who expressed frustration with [[Valtorran Empire|The Empire]]'s tightening restrictions on the city.
+* The group socialised with guild members, including Vira Loris and Rina Talon, who expressed frustration with [[Valtorran Empire|The Empire]]'s tightening restrictions on the city.
 * Vaeleran showed a looted sword to the guild members; it was identified as Northern royalty make, potentially belonging to the ruling family of [[Val Aran]].
 * [[Kai]] and [[Dondar]] decided to head to [[The High Sept]] despite the strict night curfew. [[Ryo]] and Vaeleran opted to stay behind, drinking and practicing archery.
 

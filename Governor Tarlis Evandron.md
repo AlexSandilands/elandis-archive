@@ -9,7 +9,7 @@ aliases:
 - Moustache and goatee trimmed to perfection
 - Wearing comfortable evening clothes, but still very tidy, wouldn't be out of place in court
 - Amulet around the neck with a large red ruby in the centre
-- Married Vallarra Miriel, who was the only daughter the Miriel line. Vallara died during child birth while having [[Vallania Miriel]].
+- Married Vallarra Miriel, who was the only current hier of the Miriel line. Vallara died during child birth while having [[Vallania Miriel]].
 - Tarlis was new to command, found awkward, people didn't not respect him, eveyone waiting for his daughter to come of age
 - Eventually won some people over due to his passion for the people, being fair to them while threading a fine line and not overstepping and angering the empire
 - Some people think he doesn't do enough, but he is constantly trying to balance keeping the empire off the backs of the people while keeping them appeased

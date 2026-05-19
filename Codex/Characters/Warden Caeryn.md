@@ -45,7 +45,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-eWarden Caeryn is a young elven soldier of [[Sumara, The Shining City|Sumara]]'s Ironsward, serving as a Vanguard Warden under the [[Circle of the Blade]]. Disciplined and earnest, he cuts a composed figure in his silver-and-grey armour — though those who look closely will notice the tells of a man who is very much still finding his footing.
+Warden Caeryn is a young elven soldier of [[Sumara, The Shining City|Sumara]]'s Ironsward, serving as a Vanguard Warden under the [[Circle of the Blade]]. Disciplined and earnest, he cuts a composed figure in his silver-and-grey armour — though those who look closely will notice the tells of a man who is very much still finding his footing.
 
 ## Biography
 

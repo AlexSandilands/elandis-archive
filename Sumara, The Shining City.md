@@ -86,7 +86,7 @@ The wide civic space surrounding the base of the Citadel's pinnacle. Ancient tre
 
 **Notable locations:**
 - **Petal & Provision** — Faewild herbs, alchemical supplies, dried rations. Run by **Sporryn**, an enthusiastic fungral with a pale-cream mushroom cap.
-- **The Fading Stars** *(Tavern)* — run by **Lyris Thornweave**, a sylvan woman with silver-grey bark-textured skin and no-nonsense warmth. Frequented by all circles. Good for gossip.
+- **The Fading Stars** *(Tavern — key for Dondar)* — run by **Torgrun Brasswick**, a dwarf who came to Sumara with the Exile rather than be separated from his elven wife **Syriel** (née Faenwren, Circle of the Root). He has not seen another dwarf in 100 years. Frequented by all circles. Good for gossip.
 
 ## The Seven Cantons
 
@@ -118,7 +118,7 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Function:** The military arm of Sumara. Trains border guards, patrols the inner bridges, maintains elven martial traditions.
 - **Meridian:** *Commander Kaelen Vayne.* Stoic, heavily scarred veteran. Politically ambitious; has been the de facto council authority for a decade in the absence of royal leadership. Believes the royal line was a relic. Not evil — a man who has decided the best way to protect people is to control everything.
 - **Nexus — The Palisade Eternal:** A squat angular fortress tower of dark grey stone, covered in carved battle reliefs. Arrow slits glow faintly red. A giant elven broadsword is mounted vertically on its face.
-- **Notable locations:** Torgrun's Curiosia *(curiosity shop)* — run by **Torgrun Brasswick**, a dwarf who came to Sumara with the Exile rather than be separated from his wife, Syriel Brasswick (née Faenwren), an elf of the Root. He has not seen another dwarf in 100 years.
+- **Notable locations:** Thornweave's Curiosia *(curiosity shop)* — run by **Lyris Thornweave**, a sylvan woman with silver-grey bark-textured skin and no-nonsense warmth.
 
 ### The Luminary Canton — Circle of the Dawn
 
@@ -186,10 +186,12 @@ No one has entered in 100 years.
 - Faewild herbs, alchemical supplies, dried mushroom rations, simple rope and tools
 - Has never seen a dwarf in person
 
-**The Fading Stars** *(Tavern)*
-- **Proprietor:** Lyris Thornweave (sylvan, silver-grey bark-textured skin, no-nonsense warmth)
-- Frequented by all circles — the one place where Sumara fully mixes
-- Good source of city gossip; Lyris hears everything
+**The Fading Stars** *(Tavern — key for Dondar)*
+- **Proprietors:** Torgrun Brasswick (dwarf, 180 years old, ruddy-faced, beard braided with Faewild flowers his wife puts there each morning) and Syriel Brasswick née Faenwren (elf, Circle of the Root, graceful, warm, deeply fond of him)
+- Torgrun came to Sumara with the Exile rather than be separated from Syriel. He has not seen another dwarf in a century. Syriel has never seen the Material Plane.
+- Frequented by all circles — the one place where Sumara fully mixes. Torgrun hears everything from the bar.
+- When Torgrun sees Dondar, he goes completely still. Then: *"Well. I'll be the deep roots of the mountain."* He pours two drinks and waits.
+- He will ask about [[Glimmerforge]] specifically. That's where he's from. His voice won't crack until he does.
 
 ---
 
@@ -205,12 +207,10 @@ No one has entered in 100 years.
 
 ### The Ironsward Canton
 
-**Torgrun's Curiosia** *(Curiosity shop — key for Dondar)*
-- **Proprietors:** Torgrun Brasswick (dwarf, 180 years old, ruddy-faced, beard braided with Faewild flowers his wife puts there each morning) and Syriel Brasswick née Faenwren (elf, Circle of the Root, graceful, warm, deeply fond of him)
-- Torgrun came to Sumara with the Exile rather than be separated from Syriel. He has not seen another dwarf in a century. Syriel has never seen the Material Plane.
-- The shop: heirlooms from the Exile, Faewild oddities, maps that no longer lead anywhere, tools with no known purpose
-- When Torgrun sees Dondar, he goes completely still. Then: *"Well. I'll be the deep roots of the mountain."* He pours two drinks and waits.
-- He will ask about [[Glimmerforge]] specifically. That's where he's from. His voice won't crack until he does.
+**Thornweave's Curiosia** *(Curiosity shop)*
+- **Proprietor:** Lyris Thornweave (sylvan, silver-grey bark-textured skin, no-nonsense warmth)
+- Shop stock: heirlooms from the Exile, Faewild oddities, maps that no longer lead anywhere, tools with no known purpose
+- Lyris has a long memory for faces and a good ear for gossip — she'll know if anyone has been asking after the party.
 
 ---
 
@@ -235,9 +235,9 @@ No one has entered in 100 years.
 | Justiciar Naivara Siannodel | Meridian, Circle of the Scales | Judicant's |
 | Master Artisan Fenian | Meridian, Circle of the Loom | Fundament |
 | Warden Sylvaris | Meridian, Circle of the Root | Greensward |
-| Torgrun Brasswick | Curiosity shop owner (dwarf, from Glimmerforge) | Ironsward |
-| Syriel Brasswick | Torgrun's wife, elf of the Root circle | Ironsward/Greensward |
-| Lyris Thornweave | Tavern owner, sylvan | Heartstone Commons |
+| Torgrun Brasswick | Tavern owner (dwarf, from Glimmerforge) | Heartstone Commons |
+| Syriel Brasswick | Torgrun's wife, elf of the Root circle | Heartstone Commons / Greensward |
+| Lyris Thornweave | Curiosity shop owner, sylvan | Ironsward |
 | Sporryn | Herbalist/supplies, fungral | Heartstone Commons |
 | Ferethis | Blacksmith, Faewild metals | Fundament |
 | Arcanist Levvel | Magic item shop (sparse) | Etherean |
@@ -249,3 +249,57 @@ Sumara is not exclusively elven. Over 100 years of isolation, a diverse Faewild 
 - **Pixies** — dart between market stalls; plentiful in the Commons and Greensward
 - **Sylvans** — taller than elves, bark-textured skin, hair like leaves; fully integrated into city life
 - **Fungrals** — small, cheerful, mushroom-capped folk; do much of the physical labour in the Fundament and Greensward cantons; roll barrels, carry baskets, enthusiastic talkers
+
+## Random Tables
+
+> [!info]+ Quick rolls for unnamed NPCs and shops the party encounters in passing. Mix freely — a sylvan named on column 2 can run a shop rolled on the second table; a fungral can be a passing pedestrian. Surnames are optional for sylvans; fungrals and pixies go by a single name.
+
+### NPC Names (d20)
+
+| d20 | Elven | Sylvan | Fungral | Pixie |
+|---|---|---|---|---|
+| 1 | Aelindra Moonshade | Birchen Hollowoak | Bopkin | Aester |
+| 2 | Caelfior Sylvelis | Cael Bramblevein | Cremm | Briol |
+| 3 | Daevandros Aerithel | Dappen Mosswright | Drimble | Cintha |
+| 4 | Faelyn Quenari | Elspen Greenrime | Frothy | Dewlin |
+| 5 | Galanthor Mithralein | Fern Witherborn | Gilliboll | Eveth |
+| 6 | Halariel Stardrop | Greyrune Leafshorn | Hopskin | Fyx |
+| 7 | Iliana Vesserin | Hessian Thornbrace | Jirry | Glimmer |
+| 8 | Jeryndor Calithil | Iris Silverbark | Krumkin | Hesper |
+| 9 | Kaelorin Tirelias | Jorvenn Briarbloom | Mossy | Iridel |
+| 10 | Lasriel Faengloss | Kine Vellumvine | Nubbin | Jessel |
+| 11 | Mirelle Sirannas | Liss Quietleaf | Puffin | Kithy |
+| 12 | Naerithil Solendra | Mire Stonewillow | Quim | Lilliven |
+| 13 | Olethriel Vaelandriss | Nettle Ravenmist | Sopwick | Mintheas |
+| 14 | Pheriel Astarion | Olm Coppershade | Trumple | Niven |
+| 15 | Quennedhel Yllariel | Pell Driftroot | Vesper | Orelle |
+| 16 | Rinariel Thelendra | Quenn Hawthorn | Wibbet | Petalin |
+| 17 | Sarethiel Lonnariel | Reedlin Brackenfall | Yorrick | Quenny |
+| 18 | Thessarian Vorelle | Sallow Glasswood | Sporvi | Rinwen |
+| 19 | Uriendel Saelvath | Thiren Foxglove | Tuffin | Sythlin |
+| 20 | Yvenari Ithlinael | Vellow Yewstrand | Polper | Thistle |
+
+### Shops (d20)
+
+| d20 | Name                  | Type                                                  |
+| --- | --------------------- | ----------------------------------------------------- |
+| 1   | The Moonglass Atelier | Glassblower — prismatic ware, lensed instruments      |
+| 2   | The Silver Spool      | Tailor — silks woven with starlight thread            |
+| 3   | Quintessence & Cord   | Bookbinder — vellums, scrolls, ink                    |
+| 4   | The Whispered Page    | Scribe — translations, fae dialects included          |
+| 5   | Veil & Thorn          | Florist — cut blooms that do not wilt                 |
+| 6   | The Half-Lit Lamp     | Lampwright — magical luminance for all elevations     |
+| 7   | Thornleaf Apothecary  | Apothecary — rare Faewild herbs and tinctures         |
+| 8   | Pell's Hour           | Clockmaker — chronometers that drift with the Faewild |
+| 9   | The Hollow Loom       | Weaver — tapestries that move when not watched        |
+| 10  | Stillwater Provisions | Grocer — preserves, dried roots, bottled springs      |
+| 11  | The Pale Brush        | Calligrapher and sigil engraver                       |
+| 12  | Mistwell Outfitters   | Cloak-and-pack — gear for Faewild paths               |
+| 13  | The Resonant Note     | Luthier — instruments of bone, brass, and wood        |
+| 14  | Sunfall Smithy        | Smithy — tools and ornament, not weapons              |
+| 15  | The Glass Garden      | Florist — living crystalline blooms                   |
+| 16  | Knotwood & Filigree   | Jeweller — Faewild gem-setting, no iron               |
+| 17  | The Faded Crown       | Pawnbroker — heirlooms and trinkets from the Exile    |
+| 18  | Driftwood & Down      | Bedding merchant — mattresses, pillows, dream-cloths  |
+| 19  | The Echoing Hearth    | Tea house — herbal infusions and meditation rooms     |
+| 20  | Cinder & Wick         | Chandler — beeswax and faelight candles               |
