@@ -1,6 +1,0 @@
-- Minor character
-- Extremely old human man, curly white hair, short, no beard, cheeky smile, bright eyes
-- He's like kid in an old man's body
-- He grew up as an orphan, and started the [[Veiled Cubs]], a refuge for other orphan children who had been living on the streets in Camaar. Rather than simply struggling, he turned the kids into an operation, with a clear set of rules - no child goes hungry, no violence, never take so much that too much attention would be brought upon the Cubs, always help those smaller than you
-- He's now 90, in a wheel chair, but still caring for the kids. The kids adore him
-- He still enjoys playing games and hearing stories of the city, but rarely is able to leave the Veiled Den anymore

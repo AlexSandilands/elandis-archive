@@ -1,0 +1,74 @@
+```
+[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
+[SUBJECT]: Half-elf woman, late twenties, slender build with an air of mystique. Long curly auburn hair adorned with feathers and small trinkets woven in. Bright emerald eyes with slightly pointed ears. Dressed in colorful layered flowing garments — deep purples and golds — with more feathers and charms along the hem.
+[POSE]: Seated cross-legged on a travel crate beside a campfire, hands open as if mid-story, a knowing smile on her lips.
+[SETTING]: A caravan camp at night — painted wagons visible in the background, lantern-light spilling across worn road-dust.
+[LIGHTING]: Warm amber firelight from below, soft edges fading into deep blue night sky above.
+[FORMAT]: Portrait, 3:4 aspect ratio
+```
+
+---
+Type: Character
+Creature Type: Humanoid
+Species: Half-Elf
+Gender: Female
+Pronouns: She/Her
+Age: Late twenties
+Place: "[[Darmouth]]"
+Connections:
+  - "[[The Finegolds]]"
+  - "[[Eirieneth Silmara]]"
+Profession: Performer and Fortune Teller
+Importance: Minor
+Status: Alive
+NoteIcon: npc
+cssclasses:
+  - hide-header-underline-3
+tags:
+  - character
+aliases: [Lilliana, Lilly]
+---
+> [!infobox|wikipedia]
+> # Lilliana Featherfoot
+> [![[Codex/Assets/Characters/Lilliana_Featherfoot_small.webp|cover hsmall]]](Codex/Assets/Characters/Lilliana_Featherfoot.webp)
+> ###### Basic Information
+> Attribute |  Details |
+> ---|---|
+> Type | Character |
+> ###### Character Information
+> Attribute |  Details |
+> ---|---|
+> Creature Type | Humanoid |
+> Species | Half-Elf |
+> Gender | Female |
+> Pronouns | She/Her |
+> Age | Late twenties |
+> Place | [[Darmouth]] |
+> Connections | [[The Finegolds]]<br>[[Eirieneth Silmara]] |
+> Profession | Performer and Fortune Teller |
+> ###### Status
+> Attribute |  Details |
+> ---|---|
+> Status | Alive |
+
+**Lilliana Featherfoot** is a half-elven bard and fortune teller travelling with [[The Finegolds]], an itinerant troupe of performers. Equal parts entertainer and keeper of old lore, she weaves song and prophecy into a single art — her readings drawing on a gift she claims descended from her elven bloodline.
+
+## Biography
+
+Lilliana was born to a human mother and an elven father, and it is her father's heritage she speaks of most freely — not from sentimentality, but because his death shaped everything that followed. Imperial soldiers killed him in a raid on the [[Whispering Woods]], a massacre that also claimed the family of [[Eirieneth Silmara]]. The loss bound Lilliana's worldview tight around a quiet but enduring hostility toward the Empire, one she channels not through weapons but through words and well-placed intelligence.
+
+She joined [[The Finegolds]] some years later, finding in the troupe both livelihood and cover. As its performer and seer, she uses cards, song, and inherited clerical instincts to divine what she can — part genuine gift, part theatre, and entirely her own.
+
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Session 02 - Midnight Fangs]]
+
+Travelling with [[The Finegolds]] on the road to [[Darmouth]], Lilliana entertained the caravan on its second night with a performance retelling the legend of Elandis — the age before magic, the machines of iron and steam, and the arrival of the Dragon Queen who remade the world with arcane power.
+
+#### [[Session 17 - A New Journey Begins]]
+
+Lilliana reached out to [[Eryndor]] by magical *Sending*, urging the party to meet [[The Finegolds]] at ruins outside [[Farhaven]] with intelligence on the Empire — referencing their first meeting in a Darmouth tavern.
+
+#### [[Session 19 - Blood and Sorrow]]
+
+[[The Finegolds]] were found captive in the ruins, taken by assassins who had used Lilliana to send the bait message to the party. [[Gemma Finegold]] revealed that Lilliana had been coerced into delivering the trap.

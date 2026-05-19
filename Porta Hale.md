@@ -1,3 +1,0 @@
-- Minor character
-- Leader of the green gryphons in Val Miriel
--  Captain Porta Hale - Leader of the Val Miriel branch. A burly man in his late 40s with a thick beard, iron-grey hair, and a stern demeanor. Known for his prowess in combat and his no-nonsense leadership style. Wears a set of well-worn plate armor with the emblem of a green griffon on the chest. 

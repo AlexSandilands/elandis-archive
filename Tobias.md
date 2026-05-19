@@ -1,4 +1,0 @@
-- Minor character
-- Owner of the foggy tankard tavern in Lighthaven
-- Tobias Gristle (Human, Male): The jovial barkeep with a belly as big as his laugh. Tobias is a master of spinning tales, often embellishing monster attacks to entertain patrons.
-- Recognised Vaeleran after he returned from the Darkwood, mentioned he was looking a bit distant and confused, wild around the eyes, kept mumbling about "The Lake"

@@ -1,7 +1,0 @@
-- minor character
-- gnomish, male
-- Hunter/Explorer/Adventurer of the Darkwood
-- Retrieves rare materials from the creatures there
-- Hardy fellow, no nonsense, but good natured
-- Little green hat, kind of like a christmas gnome hat
-- Was the one that took in baby Ryo

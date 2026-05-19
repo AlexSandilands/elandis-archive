@@ -1,5 +1,0 @@
-- Minor character
-- Deceased
-- Mother of [[Vallania Miriel]]
-- Died during child birth
-- Only heir at the time of the Miriel family

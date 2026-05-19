@@ -1,8 +1,0 @@
-- Minor character 
-- Male, man, a bit round, jolly on the outside, red hair
-- Father of [[Gemma Finegold]]
-- While appears jolly, deeply broken and mourning his passed wife and Gemma's mother
-- Lost passion and motivation for this business after wife passing
-- Has been training Gemma to take over
-- Knows what Gemma has been doing in terms of trying to find places to resist and impede the Empire, but doesn't have it in him to help, so mostly pretends to look the other way and be the front for the company
-- Was killed by the Eye of the Empire while she was trying to get to Vaeleran

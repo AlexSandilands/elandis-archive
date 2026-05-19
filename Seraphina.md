@@ -1,7 +1,0 @@
-- Minor character
-- Human female, dark black hair, dark eyes, sinister looking
-- Eye of the Empire (Assassin)
-- She was disguised as a Hand of the Empire, escorting Vaeleran on the prison ship to Skyreach
-- Once hte bloody nails escaped she was tryhing to track them down
-- Got to them through the finegolds
-- Was killed during the failed ambush

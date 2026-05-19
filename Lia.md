@@ -1,8 +1,0 @@
-- Major character
-- Age: 11
-- Description: A petite girl with raven-black hair and bright green eyes. Quick on her feet and known for her nimble fingers, she specializes in locks and infiltration.
-- Parents were killed by [[General Varan Brado]] in Camaar for seemingly no reason, making her an orphan and thus joining the [[Veiled Cubs]]
-- Has had a burning hatred of the general and the empire ever since.
-- [[Ellesar]] saw that she might become a problem if she were to stay with the Cubs, as she might bring too much attention to them if she were to do something to an Imperial
-- So where the message came through the grape vine from the Order of Ravens that they needed a small infiltration specialist for a safe job, just needed someone small to get inside a tight vent to open a door, Ellesar decided it would be best for everyone if Lia took this opportunity, with the goal that she would join the ravens and this would be more aligned to what she wanted.
-- Took a liking for [[Eryndor]], sees him as a kind of mentor, quiet, stealthy, deadly

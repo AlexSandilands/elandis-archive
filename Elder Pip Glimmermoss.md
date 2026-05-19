@@ -1,6 +1,0 @@
-- Minor character
-- ancient pixie female living in Sumara
-- Member of the Circle of the Dawn elite healers
-- About half a foot tall, has little glasses, grey hair done up, one of her 4 wings is slightly crooked, causing her to fly a bit unevenly and slow
-- Usually carries a tiny book full of her notes, so small that most people wouldn't be able to read it
-- Has a sharp tongue and speaks her mind to anyone, regardless of their position - she's their for a job, doesn't matter who gets in her way

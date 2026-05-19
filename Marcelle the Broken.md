@@ -1,7 +1,0 @@
-- Minor character
-- Young elf female ~80
-- Taken as a child by the empire
-- "Broken" in the sense that her will was crushed, entirely loyal to Blackmarsh and the empress
-- Trained as a Voice of the empire, now more specialised
-- Bald, elven ears.
-- Killed by the bloody nails

@@ -1,5 +1,0 @@
-- Minor character
-- Male goblin, ambusher of the tribe that was hunting on the high road between camaar and darmouth
-- Captured by the bloody nails, was convinced to show where there lair was in return for his life
-- Has a dream of starting a shop somewhere and selling handmade jewelery, along with Ellie's art
-- Husband of [[Ellie the Goblin]]

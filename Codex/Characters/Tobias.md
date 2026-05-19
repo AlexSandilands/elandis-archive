@@ -1,0 +1,57 @@
+```
+[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
+[SUBJECT]: Middle-aged human man, heavyset build, broad ruddy face, warm brown eyes, close-cropped grey-flecked hair, thick arms, wearing a stained linen apron over a loose shirt, sleeves rolled to the elbows, cheerful grin on his lips
+[POSE]: Leaning both forearms on a worn oak bar counter, head tilted forward as if mid-story, one hand gesturing expressively
+[SETTING]: A dim, cosy tavern interior — low-beamed ceiling, roaring stone hearth in the background, hunting trophies and faded maps on the walls, warm candlelight catching the grain of old wood
+[LIGHTING]: Warm amber firelight from the hearth, soft shadows pooling in the corners, a welcoming glow across the bar
+[FORMAT]: Portrait, 3:4 aspect ratio
+```
+
+---
+Type: Character
+Creature Type: Humanoid
+Species: Human
+Gender: Male
+Pronouns: He/Him
+Place: "[[Lighthaven]]"
+Profession: Innkeeper
+Importance: Minor
+Status: Alive
+NoteIcon: npc
+cssclasses:
+  - hide-header-underline-3
+tags:
+  - character
+aliases: [Tobias Gristle]
+---
+> [!infobox|wikipedia]
+> # Tobias
+> ###### Basic Information
+> Attribute |  Details |
+> ---|---|
+> Type | Character |
+> ###### Character Information
+> Attribute |  Details |
+> ---|---|
+> Creature Type | Humanoid |
+> Species | Human |
+> Gender | Male |
+> Pronouns | He/Him |
+> Place | [[Lighthaven]] |
+> Profession | Innkeeper |
+> ###### Status
+> Attribute |  Details |
+> ---|---|
+> Status | Alive |
+
+**Tobias Gristle** is a human innkeeper of [[Lighthaven]], proprietor of the Foggy Tankard on the town's main road. He is as well known for the booming laugh that greets every patron at the door as for the wild embellishments he adds to any monster story he can get his hands on.
+
+## Biography
+
+Tobias has run the Foggy Tankard for years, becoming a fixture of Lighthaven life in the process. The inn is a warm, cluttered refuge of hearth smoke, spiced stew, and the easy hum of locals trading gossip — and Tobias presides over it all with the easy authority of a man who genuinely enjoys his work. His memory for faces is sharp; travellers who passed through once, even years prior, are liable to be greeted by name on their return.
+
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Session 29 - Lighthaven Awaits]]
+
+Welcomed [[The Bloody Nails]] to the Foggy Tankard on the eve of [[The Emberlight Vigil]]. Recognised [[Vaeleran]] from a visit years before, recounting that the elf had been rambling about a lake deep in [[The Darkwood]] and acting wild-eyed before vanishing from town. Also appeared briefly when [[Belinda Bubblegum]] stormed in demanding hop seeds for one of her experiments.

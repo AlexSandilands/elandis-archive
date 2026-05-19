@@ -1,9 +1,0 @@
-- Minor character
-- Male human middle aged
-- General of the Imperial forces in Val Miriel
-- Defacto Leader of the city, as Tarlis the Governor lets him mostly get what he wants
-- Cruel by nature
-- When he visited Camaar, he executed some people more or less randomly picked, in order to put some fear into the people so they know that Camaar isn't that far. 
-- Two of those people were [[Lia]]'s parents, she became an orphan and joined the Veiled Cubs, with a long term goal of getting the skills to kill Brado
-- Was responsible for increasing the imperial clamp down on the citizenry in Val Miriel, higher taxes, more people arrested for trivial crimes so they could be enlisted or sent to Skyreach
-- He was the one who wrote the letter to the captain of the ship that was taking the bloody nails to skyreach in the first episode of the campaign

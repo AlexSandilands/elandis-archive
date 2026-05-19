@@ -1,9 +1,0 @@
-- Minor character
-- Meridian of the Circle of the Root in [[Sumara, The Shining City]]
-- **Meridian:** *Warden Sylvaris.* A wilder, less formal elf who spends most of their time in the agricultural terraces. Suspicious of outsiders; deeply isolationist. Values Sumara's protection above all.
-- Elven woman, ~700 years old (old for an elf)
-- Dark brown skin, long curly brown hair, usually with leaves caught in it. Dark green clothes
-- Wild, but kind
-- Loyal to the Silmara line
-- Passionate about the plants that sustain the city
-- Experiments with combining Fae flora with material realm flora, to try find ways to get plants from the material realm growing in the Fae realm, I.e. the purple carrots etc

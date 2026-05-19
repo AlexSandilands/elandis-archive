@@ -1,4 +1,0 @@
-- Minor character
-- RESTRICTED
-- Part of [[Berberis]] backstory
-- [[Prunus Serrulata]], (Cherry) a young female druid full of flowers and cheer, that gets through Berberis spiky nature.

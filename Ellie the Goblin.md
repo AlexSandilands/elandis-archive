@@ -1,5 +1,0 @@
-- Minor character
-- Female goblin, short, cute as a button, has ribbons tied in her pig tails, wears a tight leather vest, a little green cape and always carries a satchel full of parchment for sketching and painting
-- She often has paint or pencil or charcoal on her fingers from her art
-- She was found in the temple where the Goblin lair was, the last survivor after the bloody nails cleared out their camp
-- Wife of [[Lenny the Goblin]]

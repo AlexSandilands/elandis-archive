@@ -1,0 +1,95 @@
+```
+[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
+[SUBJECT]: Ancient Drider female, the upper body of a woman appearing to be in her early 30s, long flowing black hair that cascades down to conceal her torso, pale otherworldly skin, enormous compound spider eyes of deep amber, the lower half a vast dark-carapaced spider body easily ten feet across, wearing nothing but the veil of her own hair. An ornate amulet of silver and webbing rests against her chest.
+[POSE]: Seated in the centre of a treasure-strewn cavern, one arm extended gracefully as if offering something, head tilted with ancient curiosity, dozens of smaller spiders crawling across her spider-body.
+[SETTING]: A vast subterranean chamber whose walls glitter with embedded gems and stolen gold. Silk-wrapped cocoons hang from the ceiling like dark lanterns. Bioluminescent fungal growths cast faint blue light across the scattered wealth.
+[LIGHTING]: Cool blue bioluminescent glow from below, with warmer amber catching the edges of her human face — a creature of two worlds rendered in two lights.
+[FORMAT]: Portrait, 3:4 aspect ratio
+```
+
+---
+Type: Character
+Creature Type: Monstrosity
+Species: Drider
+Gender: Female
+Pronouns: She/Her
+Age: Ancient (hundreds of years)
+Place: "[[The Ruby Falls Goldmine]]"
+Connections:
+  - "[[The Bloody Nails]]"
+  - "[[The Green Gryphons]]"
+Profession: Progenitor of the Driders
+Importance: Major
+Status: Alive
+NoteIcon: npc
+cssclasses:
+  - hide-header-underline-3
+tags:
+  - character
+aliases:
+  - Nelfandriss
+  - Nelfandris
+---
+> [!infobox|wikipedia]
+> # Nelfandriss the Banished
+> [![[Codex/Assets/Characters/Nelfandriss_the_Banished_small.webp|cover hsmall]]](Codex/Assets/Characters/Nelfandriss_the_Banished.webp)
+> ###### Basic Information
+> Attribute |  Details |
+> ---|---|
+> Type | Character |
+> ###### Character Information
+> Attribute |  Details |
+> ---|---|
+> Creature Type | Monstrosity |
+> Species | Drider |
+> Gender | Female
+> Pronouns | She/Her |
+> Age | Ancient |
+> Place | [[The Ruby Falls Goldmine]] |
+> Connections | [[The Bloody Nails]]<br>[[The Green Gryphons]] |
+> Profession | Progenitor of the Driders |
+> ###### Status
+> Attribute |  Details |
+> ---|---|
+> Status | Alive |
+
+**Nelfandriss the Banished** is an ancient Drider — and the first of her kind — who has dwelt in the middle depths beneath [[The Ruby Falls Goldmine]] for hundreds of years, neither welcomed in the deep societies of the underdark nor able to endure the sunlit world above. Centuries ago, she transformed herself through dark experimentation and was cast out for it; today she is the solitary matriarch of a vast arachnid brood, a keeper of beautiful things, and an unlikely figure of negotiation for those wise enough not to draw steel.
+
+## Description
+
+#### Appearance
+
+Nelfandriss is an imposing and unsettling sight: the upper body of a woman who appears to be in her early thirties — pale, serene, seemingly timeless — fused at the waist to the enormous dark-plated body of a spider spanning nearly ten feet across. Her long black hair falls unbound past her shoulders and across her torso, the only covering she wears. Her eyes, when they catch the light of the bioluminescent fungi that illuminate her domain, reveal a compound shimmer beneath their human surface — a trace of what she has become. Around her neck she wears an ornate amulet of silver and spider-silk weaving, which she keeps close at all times.
+
+She moves with a strange, considered grace — the spider legs carry her in near-silence across the stone and web of her cavern, while her hands gesture in slow, deliberate arcs that suggest she has spent centuries practising patience.
+
+#### Personality
+
+Nelfandriss is ancient and knows it. She speaks with the measured calm of someone for whom most threats are merely inconvenient, and her curiosity about the surface world — its stories, its trinkets, its peoples — has not dulled with age. She loves beautiful things: gemstones, carved pieces, unusual objects carried by travellers. She will accept them as gifts with genuine warmth.
+
+Beneath that warmth is a mother's ferocity. She has no interest in violence for its own sake, but the safety of her children — the driders who have spread through the depths since her transformation — is not a matter she negotiates lightly. Any arrangement that threatens them will find a different Nelfandriss entirely: ancient, vast, and utterly without mercy.
+
+## Biography
+
+#### Background
+
+Hundreds of years ago, Nelfandriss was born to a spider queen of enormous power deep below the surface world. Chafing against the isolation of the depths and longing to communicate more freely with the peoples of other realms, she turned to dark and experimental magic — a transformation of her own body that merged her with the form of a great spider, creating something new. She became the first Drider.
+
+Her mother considered it a desecration and a transgression, and cast her out. Nelfandriss fled upward through the deep tunnels, carrying with her the amulet she had taken from her mother's collection — a gesture of defiance, or perhaps grief, that she has never entirely explained. She climbed as far as the middle depths, the shadowed caves and abandoned mines that lie between the deep societies below and the open land above. There she stopped: the sunlight at the surface burns her, and the society of the deep will not have her.
+
+In the centuries since, she has raised children of her own. The driders that now occur naturally throughout the depths are, in the end, her descendants. She collects stories and trinkets from the rare travellers who find her domain and survive the encounter, and she has grown into an unexpected custodian of a stretch of the middle depths — neither predator nor guardian, but something in between.
+
+She was living quietly in [[The Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners to exploit the gold seams. The intrusion disturbed her brood, and she responded as any mother would: her spiders killed, cocooned, and stripped the bodies. She had no particular quarrel with the individuals — only with the disruption.
+
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Session 24 - Nelfandris The Banished]]
+
+The party arrived in Nelfandriss's domain at the deepest point of [[The Ruby Falls Goldmine]], following a trail of cocooned miners and a bioluminescent fungal cavern. Rather than attacking, they chose diplomacy. Nelfandriss revealed that she had been defending her home against the Empire's encroachment — she bore no malice toward the miners as people, only toward the intrusion itself.
+
+[[The Bloody Nails]] negotiated a treaty on behalf of [[The Green Gryphons]]: the party would report the mine as inaccessible to the Empire, and in return Nelfandriss would permit the Gryphons' people to mine quietly without interference. The agreement was formally signed. As a gesture of goodwill, she gifted the party the *[[Amulet of the Arachnid Queen]]*, which grants its bearer the ability to climb like a spider or command arachnids. She also shared unsettling intelligence about [[Empress Morganna Eventide|Empress Morganna]] — confirming that the Empress is a century-old girl who brokered a dark deal long ago to trap her own soul and extend her life.
+
+## Trivia
+
+- Nelfandriss's session title — *Nelfandris The Banished* — contains a spelling variation of her name. The vault uses **Nelfandriss** (double-s) as the canonical spelling throughout.
+- Despite commanding a cavern full of lethal spiders and being capable of devastating violence, the party avoided combat entirely in their encounter with her. She is one of very few major figures in the campaign who the party chose purely to talk to.

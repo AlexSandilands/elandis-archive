@@ -1,6 +1,0 @@
-- Minor character
-- Deceased
-- Captain of The Devils Wish ship, Imperial. Patrolling the waters near skyreach to stop other ships accidentally (or intentionally) discovering Skyreach
-- The Captain is Yarna Coldfist
-	- Serious woman with dark eyeshadow, Captains hat with long black hair in a pony tail going down her back, Officers pauldrons
-- Killed by The Bloody Nails when they were travelling to Skyreach with the Mawbreakers
