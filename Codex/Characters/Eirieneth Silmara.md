@@ -59,7 +59,7 @@ aliases: [Eirieneth]
 
 #### Appearance
 
-Eirieneth has long black hair, pale skin, and striking green eyes that tend to fix on whoever she is speaking to with complete attention — a habit that her human neighbours once found unnerving, though they grew to love it. She dressed in the practical clothes of the villages she wandered rather than elven finery, a choice that was never affectation but simple preference: she wanted to belong to the world she had chosen.
+Eirieneth has long black hair, pale skin, and striking green eyes that tend to fix on whoever she is speaking to with complete attention — a habit that her human neighbours once found unnerving, though they grew to love it. Her black hair is not the colour she was born to: by birth it was the classic Silmara silver, and she had it magically altered with the help of [[Ayana Syndrosa]] — a glamour Eirieneth adopted so that she would not stand out so sharply when she went to live among humans. She dressed in the practical clothes of the villages she wandered rather than elven finery, a choice that was never affectation but simple preference: she wanted to belong to the world she had chosen.
 
 #### Personality
 

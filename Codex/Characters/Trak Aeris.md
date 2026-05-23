@@ -1,6 +1,6 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Half-elf male, early forties, lean and muscular. Brown hair streaked heavily with grey, tied back. Deep green eyes shadowed with quiet sadness and resolve. Several faded scars across cheekbones and knuckles. Worn dark travelling clothes, practical and unadorned.
+[SUBJECT]: Half-elf male, early forties, lean and muscular. Brown hair streaked heavily with grey, tied back. Deep green eyes sharp and watchful, alert without expression. Several faded scars across cheekbones and knuckles. Dark cloak and hood of the Order of Ravens, practical and nondescript — the clothes of a man built to disappear.
 [POSE]: Standing in a narrow underground corridor, half-turned back over one shoulder — a guide checking the way is clear, one hand raised in a silent "hold" gesture.
 [SETTING]: The entrance to a lamplit underground sanctuary, ancient stone archway framing the passage, candlelight spilling from within.
 [LIGHTING]: Low warm torchlight from ahead, deep shadow behind, catching the grey in his hair and the hardness in his eyes.

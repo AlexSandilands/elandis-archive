@@ -1,9 +1,9 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven man, mid-300s, blond-brown hair worn to the shoulder, blue eyes, lean and composed. Dark green cloak over understated travelling clothes — no armour, no ceremony. Expression calm and steady, the look of someone who has chosen where he stands.
-[POSE]: Standing slightly apart from a gathered group, arms at his sides, gaze turned to one side — attentive but unassuming, the kind of man who watches before he speaks.
-[SETTING]: A forest clearing at the edge of a great elven city at dusk, torchlight beginning to glow in the treeline behind him.
-[LIGHTING]: Soft amber dusk light, long shadows stretching behind him, warm and fading — the feeling of a world on the cusp of something ending.
+[SUBJECT]: Elven man, mid-300s, blond-brown hair worn to the shoulder. Blue eyes, lean and composed. Wearing Circle of the Blade armor — lightweight elven plate, silver-grey metal with clean engraved lines, fitted close to the body. A long blade rests across his knees, both hands resting on it loosely. No helmet. Expression calm and unhurried, a man entirely at ease with who he is.
+[POSE]: Seated on a low stone step, forearms resting on his knees, sword laid flat across them — not readying for a fight, not cleaning it. Just still. He looks directly at the viewer, relaxed but present.
+[SETTING]: A quiet interior courtyard within Ithilmara — pale stone, a single large tree growing from the centre, roots curling across the ground. Late afternoon, private, the kind of courtyard used for practice that has gone quiet.
+[LIGHTING]: Warm late-afternoon light filtering in from one side, dappled slightly through leaves overhead. Soft contrast — his armor catching the light on one shoulder, the rest of him in comfortable shade.
 [FORMAT]: Portrait, 3:4 aspect ratio
 ```
 

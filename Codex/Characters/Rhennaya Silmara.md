@@ -1,9 +1,9 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven woman, mid-300s, shoulder-length silver hair worn straight with a single narrow braid tucked behind one ear. Bright green eyes, calm and clear. Shorter than most elves. A simple circlet of intertwined silver, green, and brown — shaped to evoke roots and leaves — rests at her brow. Expression serene and resolute, the bearing of someone who has governed through crises and found her footing.
-[POSE]: Seated at a broad council table, one hand resting flat on a spread of documents, the other lifted slightly as if mid-quiet decision. She is still — the stillness of someone who only speaks when it matters.
-[SETTING]: A high-ceilinged chamber in a floating elven citadel, open archways showing the sky and distant Faewild peaks beyond. Soft bioluminescent lanterns line the walls.
-[LIGHTING]: Warm diffused light from above, catching the silver in her hair and the faint gleam of her circlet. Soft shadows beneath, nothing dramatic — the light of a place at peace, for now.
+[SUBJECT]: Elven woman, mid-300s, shoulder-length silver hair worn straight with a single narrow braid tucked behind one ear. Bright green eyes, calm and clear. Shorter than most elves. A long gown of pale silver-white with a grey outer mantle edged in fine black embroidery — no insignia, no Circle colours. A simple circlet of intertwined silver, green, and brown — shaped to evoke roots and leaves — rests at her brow. Expression serene and resolute, the bearing of someone who has governed through crises and found her footing.
+[POSE]: Standing at the edge of a wide open balcony, both hands resting lightly on the stone rail, face turned to look out across the city below — calm, unhurried, the stillness of someone who only speaks when it matters.
+[SETTING]: A high balcony of the Royal Citadel of Sumara, the Shining City stretching below — pale towers, tiered gardens, bridges of white stone. A great waterfall cascades down the cliffside behind and to one side, mist catching the light. The city glitters.
+[LIGHTING]: Bright midday light, soft and diffused through fine mist from the falls — cool whites and silvers, a faint rainbow at the edge of the spray. Her circlet gleams. The city below is luminous.
 [FORMAT]: Portrait, 3:4 aspect ratio
 ```
 

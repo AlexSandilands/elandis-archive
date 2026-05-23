@@ -1,10 +1,10 @@
 ```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Ancient human man, heavily aged, hunched posture, waist-length white beard, deep-set eyes that carry the weight of a secret kept for decades, wearing flowing white ceremonial robes with silver trim
-[POSE]: Seated behind a carved stone altar, hands folded over a leather-bound tome, gazing upward with an expression caught between reverence and barely-contained dread
-[SETTING]: The inner sanctum of a grand temple — vaulted ceilings, moonlit stained glass casting silver and blue light across polished flagstones, candles burning low on iron stands
-[LIGHTING]: Cool silver moonlight through high windows, with warm candlelight at the edges softening the shadows
-[FORMAT]: Portrait, 3:4 aspect ratio
+[STYLE]: Fantasy RPG establishing shot. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
+[SUBJECT]: A lone ancient human high priest standing at the centre of a vast temple stage — heavily aged, hunched, with a waist-length white beard and flowing white ceremonial robes with silver trim, arms slightly raised as he addresses the assembly, a small solitary figure dwarfed by the cavernous space around him
+[SETTING]: The High Sept of Val Miriel — a colossal coliseum-like temple interior. Seven sides of tiered stone pews rise up from the central stage like a heptagonal stadium, each of the seven banks dedicated to one of the seven gods, marked by towering statues, banners and distinct iconography. The seats are filled with rows of worshippers in robes, packed into the rising tiers that loom over the small central platform where the priest stands
+[POSE]: Standing alone at the heart of the central stage, gazing upward and outward across the seven banks of the faithful, an expression caught between reverence and barely-contained dread
+[LIGHTING]: Cool silver light pouring down from a high oculus or stained-glass dome onto the central stage, illuminating the priest, with warm torch and candlelight glowing along the tiered seating and softening the vast shadows
+[FORMAT]: Portrait, 3:4 aspect ratio — low, slightly upward angle emphasising the towering scale of the seven-sided amphitheatre rising around the priest
 ```
 
 ---

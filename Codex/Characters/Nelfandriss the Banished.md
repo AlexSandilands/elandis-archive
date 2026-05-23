@@ -1,9 +1,9 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Ancient Drider female, the upper body of a woman appearing to be in her early 30s, long flowing black hair that cascades down to conceal her torso, pale otherworldly skin, enormous compound spider eyes of deep amber, the lower half a vast dark-carapaced spider body easily ten feet across, wearing nothing but the veil of her own hair. An ornate amulet of silver and webbing rests against her chest.
-[POSE]: Seated in the centre of a treasure-strewn cavern, one arm extended gracefully as if offering something, head tilted with ancient curiosity, dozens of smaller spiders crawling across her spider-body.
-[SETTING]: A vast subterranean chamber whose walls glitter with embedded gems and stolen gold. Silk-wrapped cocoons hang from the ceiling like dark lanterns. Bioluminescent fungal growths cast faint blue light across the scattered wealth.
-[LIGHTING]: Cool blue bioluminescent glow from below, with warmer amber catching the edges of her human face — a creature of two worlds rendered in two lights.
+[SUBJECT]: Ancient Drider female, the alluring upper body of a drow woman appearing to be in her early 30s, beautiful and seductive, smooth greyish-violet drow skin, elegant elven features with delicately pointed ears tracing through long flowing black hair that cascades down to veil her torso, large luminous amber eyes that are unmistakably humanoid and elven, full expression of serene ancient sensuality, the lower half a vast dark-carapaced spider body easily ten feet across. An ornate amulet of silver and webbing rests against her chest.
+[POSE]: Seated gracefully in the centre of her cavern, body turned in a sinuous, inviting curve, one arm extended as if offering something, head tilted with ancient curiosity.
+[SETTING]: A vast subterranean chamber lit by bioluminescent fungal growths, silk-wrapped cocoons hanging from the ceiling like dark lanterns, faint hints of embedded gems glinting in the shadowed walls behind her.
+[LIGHTING]: Cool blue bioluminescent glow from below, with warmer amber catching the edges of her drow face — a creature of two worlds rendered in two lights.
 [FORMAT]: Portrait, 3:4 aspect ratio
 ```
 

@@ -22,7 +22,6 @@ aliases:
   - Illythia
   - Illy
 ---
-
 > [!infobox|wikipedia]
 > # Illythia Voss
 > [![[Codex/Assets/Characters/Illythia_Voss_small.webp|cover hsmall]]](Codex/Assets/Characters/Illythia_Voss.webp)

@@ -56,7 +56,7 @@ Dhorik was born into a dwarven community already under the shadow of Imperial ex
 
 His resentment did not fade in the years that followed. He became quietly certain that the Elves, who vanished from the world a century ago, had simply abandoned their allies to the Empire's advance, leaving other peoples — the Dwarves most of all — to bear the consequences alone. That conviction hardened into something close to hatred.
 
-When [[Ryordan Silmara|Ryo]], an Elf, passed through Lighthaven, Dhorik recognised an opportunity to act on those feelings. He reported Ryo's presence to the local Imperial commander, [[Captain Lucius Draegor]], leading directly to Ryo's capture and dispatch on a prison ship. He expressed no regret when confronted about it — only the same worn-down grievance: that his people had been left to suffer while others fled.
+When [[Ryo]], an Elf, visited Lighthaven, Dhorik recognised an opportunity to act on those feelings. He reported Ryo's presence to the local Imperial commander, [[Captain Lucius Draegor]], leading directly to Ryo's capture and dispatch on a prison ship. He expressed no regret when confronted about it — only the same worn-down grievance: that his people had been left to suffer while others fled.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

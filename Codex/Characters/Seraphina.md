@@ -1,9 +1,9 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, apparent mid-30s, dark black hair pulled back severely, dark eyes with a cold, calculating quality. Dressed in black fitted leather armour with a deep red lining visible beneath the collar. Her expression is controlled — neither cruel nor warm, simply focused.
-[POSE]: Standing in three-quarter profile, one hand resting on the hilt of a dagger at her hip. A smoke bomb hangs from her belt. She looks slightly past the viewer, already watching the exits.
-[SETTING]: The interior of a ruined stone building, crumbling arches framing dim daylight. The floor is littered with old rubble.
-[LIGHTING]: Cold, diffused grey daylight from above, sharp shadows pooling at her feet. A faint red gleam from the cloak lining.
+[SUBJECT]: A woman perched atop crumbling mossy stonework — ancient ruins swallowed by a dense, dark forest. She wears the voluminous robes of the Eye of the Empire: inky lightless black on the outside, a bleed of deep arterial crimson visible at the inner lining where the robe falls open. Her cowl is pushed back just enough to reveal her face — pale skin, dark hair, cold focused eyes. She crouches low, looking down at the forest path far below. Confident. Patient. Already winning.
+[POSE]: Low crouch on the ruined wall, one knee raised, one hand braced on the stone. Her body is angled down and forward, gaze fixed on something below the frame. The robe drapes around her, the red lining catching what little light there is.
+[SETTING]: Overgrown stone ruins in a dense forest at dusk. Twisted trees press close, their canopy blotting out most of the sky. Dead leaves and broken stone litter the ground far below. The path she watches is empty — for now.
+[LIGHTING]: Dim, dying dusk light filters through the canopy in pale shafts, catching her face and the crimson lining. Deep shadows pool in the ruins around her. Cold and still.
 [FORMAT]: Portrait, 3:4 aspect ratio
 ```
 

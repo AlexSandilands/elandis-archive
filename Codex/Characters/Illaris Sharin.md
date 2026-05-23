@@ -1,8 +1,8 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Drow female, mid-20s to early 30s, pale grey skin, large luminous purple eyes, long silver hair bundled under a worn cloth bandana. Dressed in practical healer's clothes — dark linen, leather apron, rolled sleeves. Nimble, fine-boned hands resting on a lute she is absently plucking.
-[POSE]: Seated on a low hammock belowdecks, lute across her lap, head tilted slightly as she listens to something distant — the creak of the ship, the wind in the rigging.
-[SETTING]: A cramped but tidy ship's cabin — lantern-light, hanging herbs, rolled bandages stowed in neat cubbies.
+[SUBJECT]: Drow female, mid-20s to early 30s, pale grey skin, large luminous purple eyes, long silver hair bundled under a worn cloth bandana. Dressed in practical healer's clothes — dark linen, leather apron, rolled sleeves. Nimble, fine-boned hands carefully wrapping a fresh bandage around a wounded sailor's forearm, her expression focused and calm.
+[POSE]: Leaning over a patient laid on a low cot belowdecks, one hand steadying the injured limb while the other works the bandage, head bent in concentration.
+[SETTING]: A cramped but tidy ship's medbay — lantern-light, hanging herbs, rolled bandages and salves stowed in neat cubbies, a basin of water and bloodied cloths nearby.
 [LIGHTING]: Warm amber lamplight, soft and close, casting gentle shadows across her face and silver hair.
 [FORMAT]: Portrait, 3:4 aspect ratio
 ```

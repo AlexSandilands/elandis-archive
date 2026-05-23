@@ -1,7 +1,7 @@
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven woman, ancient by the time of her great deed (~300s), silver-streaked dark hair worn loose, sharp green eyes with an unreadable quality. Dressed in worn leathers over simple robes — a ruler who travels light. Expression resolute, composed beyond calm, as if she has already made peace with whatever comes next.
-[POSE]: Standing at the threshold of a dark treeline, facing into impenetrable shadow, one hand resting on the hilt of a blade at her hip. She does not look back.
+[SUBJECT]: Elven woman, ancient by the time of her great deed (~300s), seen from behind. Long silver hair worn loose, falling unbound to her lower back. Dressed in pristine flowing robes of silver and white — immaculate, almost ceremonial, in stark defiance of the dark she walks toward. Her bearing is resolute and composed, the set of her shoulders that of someone who has already made peace with whatever comes next.
+[POSE]: Walking away from the viewer, her back fully to us, stepping across the threshold of a dark treeline into impenetrable shadow. She does not look back.
 [SETTING]: The boundary between a moonlit elven forest and the lightless tangle of the Vale of Eternal Night — the last moment before she crosses over alone.
 [LIGHTING]: Silver moonlight behind her, casting her silhouette forward into absolute darkness. The contrast is stark and deliberate.
 [FORMAT]: Portrait, 3:4 aspect ratio
