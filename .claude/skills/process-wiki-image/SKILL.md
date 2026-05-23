@@ -1,6 +1,6 @@
 ---
 name: process-wiki-image
-description: Use this skill when the user asks to "/process-wiki-image", "process a character image", "convert a new character image", "make WebP versions", or wants to turn a source PNG into the published WebP pair (full + thumbnail) for a Codex asset. Takes a full-size source image, produces a quality-95 full WebP and a quality-85 500px thumbnail WebP, and archives the original PNG outside the vault.
+description: Use this skill when the user asks to "/process-wiki-image", "process a character image", "convert a new character image", "make WebP versions", or wants to turn a source PNG into the published WebP pair (full + thumbnail) for a Codex asset. Takes a full-size source image, produces a quality-95 full WebP (max 1000px wide) and a quality-85 300px thumbnail WebP, and archives the original PNG outside the vault.
 ---
 
 # Process Wiki Image — Source PNG → Published WebP Pair
@@ -11,8 +11,8 @@ Convert a freshly generated source image (typically a NanaBanana-style PNG) into
 
 Every Codex asset has two WebPs published in the vault and one archived original:
 
-- `<Codex/Assets/<Category>/Name.webp>` — full-size, quality 95, original dimensions (linked from the infobox, opened on click)
-- `<Codex/Assets/<Category>/Name_small.webp>` — 500px-wide thumbnail, quality 85 (embedded in the infobox with `cover hsmall`)
+- `<Codex/Assets/<Category>/Name.webp>` — max 1000px wide, quality 95 (linked from the infobox, opened on click)
+- `<Codex/Assets/<Category>/Name_small.webp>` — 300px-wide thumbnail, quality 85 (embedded in the infobox with `cover hsmall`)
 - `<archive root>/<Name>.png` — lossless source PNG, kept outside the vault for reprocessing
 
 **Default archive root for character images:** `/mnt/storage/Misc/DnD/The Bloody Nails/Art/Characters/NPCs/`
@@ -41,18 +41,22 @@ Given source `Codex/Assets/Characters/Warden_Caeryn.png`:
 - Thumb WebP: `Codex/Assets/Characters/Warden_Caeryn_small.webp`
 - Archive:    `<archive root>/Warden_Caeryn.png`
 
-Before continuing, check that no file already exists at the archive destination — if it does, ask the user how to proceed (overwrite, rename, abort) rather than clobbering silently.
+Before continuing, check that no file already exists at the archive destination — if it does, skip the archive step silently (the source is already safely stored).
 
 ### 3. Generate the WebPs
 
 ```bash
-magick "<source>" -quality 95 "<full_webp>"
-magick "<source>" -resize 500x -quality 85 "<thumb_webp>"
+magick "<source>" -resize 1000x\> -quality 95 "<full_webp>"
+magick "<source>" -resize 300x -quality 85 "<thumb_webp>"
 ```
 
-`-resize 500x` sets width to 500px and calculates height to maintain aspect ratio.
+`-resize 1000x\>` caps width at 1000px but won't upscale images already smaller than that. `-resize 300x` sets width to 300px; both calculate height to maintain aspect ratio.
 
 ### 4. Archive the source PNG
+
+If a file already exists at the archive destination, skip this step — the original is already stored safely.
+
+Otherwise:
 
 ```bash
 mv "<source>" "<archive_root>/"
@@ -67,8 +71,8 @@ Report the source dimensions, both output paths and sizes, and the archive path:
 ```
 Done. Warden_Caeryn processed.
   Source:   1792×2400 PNG, 8.8M  → archived to /mnt/storage/Misc/DnD/The Bloody Nails/Characters/NPCs/Warden_Caeryn.png
-  Full:     1792×2400 WebP q95, 1.4M  → Codex/Assets/Characters/Warden_Caeryn.webp
-  Thumb:    500×670   WebP q85, 56K   → Codex/Assets/Characters/Warden_Caeryn_small.webp
+  Full:     1000×1339 WebP q95, 800K  → Codex/Assets/Characters/Warden_Caeryn.webp
+  Thumb:    300×402   WebP q85, 24K   → Codex/Assets/Characters/Warden_Caeryn_small.webp
 ```
 
 ### 6. Infobox reminder (if relevant)
