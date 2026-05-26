@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young female halfling, late teens, with a quick and observant face, sharp dark eyes, and the lean, capable build of someone more at home in the wilds than behind a counter. Wearing practical layered clothing — linen shirt, leather vest, and travel-worn trousers — with a small knife at her hip and traces of dirt under her fingernails.
-[POSE]: Leaning forward over a wooden counter, quill in hand, studying a handwritten ledger with focused intensity.
-[SETTING]: A busy trapper's shop interior — pelts and antlers hanging from rafters, crates of equipment lining the walls, the smell of dried herbs and leather in the air.
-[LIGHTING]: Warm lantern light from the side, casting soft golden tones across her face and the cluttered counter, with cool shadows filling the back of the shop.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

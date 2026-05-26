@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Half-elf woman, late twenties, wiry build, copper hair tied back loosely, sharp watchful eyes, practical sailor's clothing — worn canvas jacket, rope-callused hands
-[POSE]: perched on the edge of a crow's nest platform, one hand on the rigging, scanning the horizon with a hand shielding her eyes
-[SETTING]: open ocean, high above the deck of a sailing vessel, wind-whipped clouds and pale blue sky
-[LIGHTING]: clear midday sun from above, bright and clean, casting soft shadows across her features
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

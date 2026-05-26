@@ -79,7 +79,7 @@ Today, the [[Valtorran Empire]] is the unchallenged power on [[Valtorra]]. The [
 
 The founding of the [[Valtorran Empire|Crimson Empire]] framed the campaign's opening context — human cities felled, dwarven strongholds extinguished, elven lands found abandoned. The iron rule of Empress Morganna was established as the defining political reality of [[Valtorra]], a century of conquest that had reshaped the entire continent.
 
-#### [[Session 24 - Nelfandris The Banished]]
+#### [[Session 24 - Nelfandriss The Banished]]
 
 Deep in the flooded ruins of the [[The Ruby Falls Goldmine]], [[The Bloody Nails]] encountered [[Nelfandriss the Banished]], an immense and ancient being who had witnessed the Empire's rise firsthand. She shared what she knew of the Empress — describing her as a young girl who arrived from a distant land and brokered a dark deal a century ago to entrap her own soul and extend her life indefinitely.
 

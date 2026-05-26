@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, late thirties, hard-edged and imperious. Dark hair pulled back in a long ponytail, heavy dark eyeshadow, a battered captain's hat set at a slight angle. Imperial naval officer's pauldrons over a deep-navy uniform coat. Jaw set, expression unyielding.
-[POSE]: Standing at the helm of a warship, one hand on the wheel, the other resting on the pommel of a cutlass, scanning the horizon with cold authority.
-[SETTING]: The open sea at late afternoon, crimson sails billowing behind her, the deck of an Imperial warship stretching ahead.
-[LIGHTING]: Harsh orange-gold sunlight from the west, throwing sharp shadows across her face and catching the metal of her pauldrons.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -27,6 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Yarna Coldfist
+> [![[Codex/Assets/Characters/Yarna_Coldfist_small.webp|cover hsmall]]](Codex/Assets/Characters/Yarna_Coldfist.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

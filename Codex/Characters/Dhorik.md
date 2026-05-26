@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Dwarven male, middle-aged, weathered and haggard, a greying beard shot through with old soot, dark-ringed eyes that carry the weight of hard years. Wearing a heavy leather apron over a worn work shirt, hands scarred from decades at the anvil.
-[POSE]: Standing behind a forge counter, arms braced on the stone, jaw set — not welcoming, not hostile, just implacably closed off. A hammer rests within reach.
-[SETTING]: The interior of a cluttered smithy at night, coals glowing amber in a low forge, tools hanging in regimented rows against dark stone walls.
-[LIGHTING]: Warm forge-glow from below, casting deep upward shadows across his face, with a faint cold draught from the street behind him.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, mid-twenties, short and slight, long brown hair tucked beneath a black hood, fair skin, sharp watchful eyes, dressed in the dark cloak and hood of the Order of Ravens
-[POSE]: pressed against a stone wall in a narrow alley, one hand steadying her hood, glancing back over her shoulder into shadow
-[SETTING]: rain-slicked Darmouth backstreet at night, distant lantern light reflecting on wet cobblestones
-[LIGHTING]: cold blue-grey ambient light from above, a single warm lantern glow catching the edge of her cheek
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

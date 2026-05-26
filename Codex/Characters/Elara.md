@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, late twenties to early thirties, blonde hair loosely pinned up with a vivid red ribbon, bright and slightly distracted eyes, dressed in practical but ink-stained mage's robes, a faint shimmer of arcane energy around her fingertips
-[POSE]: levitating cross-legged near the ceiling of a cluttered shop, chin resting in one hand, utterly absorbed in thought, a quill and open tome floating beside her
-[SETTING]: the interior of a well-stocked magical emporium — shelves crammed with potion vials, scroll cases, and glowing curios, warm candlelight below and cool arcane light at ceiling height
-[LIGHTING]: warm amber lantern glow rising from below, casting soft upward shadows on her face, giving her an otherworldly glow against the darker ceiling
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

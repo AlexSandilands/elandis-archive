@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Half-elf male, early forties, lean and muscular. Brown hair streaked heavily with grey, tied back. Deep green eyes sharp and watchful, alert without expression. Several faded scars across cheekbones and knuckles. Dark cloak and hood of the Order of Ravens, practical and nondescript — the clothes of a man built to disappear.
-[POSE]: Standing in a narrow underground corridor, half-turned back over one shoulder — a guide checking the way is clear, one hand raised in a silent "hold" gesture.
-[SETTING]: The entrance to a lamplit underground sanctuary, ancient stone archway framing the passage, candlelight spilling from within.
-[LIGHTING]: Low warm torchlight from ahead, deep shadow behind, catching the grey in his hair and the hardness in his eyes.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -31,6 +22,7 @@ aliases: [Trak, Shadow]
 
 > [!infobox|wikipedia]
 > # Trak Aeris
+> [![[Codex/Assets/Characters/Trak_Aeris_small.webp|cover hsmall]]](Codex/Assets/Characters/Trak_Aeris.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -51,11 +43,13 @@ aliases: [Trak, Shadow]
 > ---|---|
 > Status | Alive |
 
-**Trak Aeris**, known by the field-name *Shadow*, is a half-elf operative of [[The Order of Ravens]] stationed at the Val Miriel Nest. A seasoned tracker and scout of many years' service, he carries the quiet weight of a man who entered the Ravens not for ideology but for a personal grief he has never been able to put down — the disappearance of his wife, a search that has defined and consumed the better part of his adult life.
+**Trak Aeris**, known by the field-name *Shadow*, is a half-elf operative of [[The Order of Ravens]] stationed at the Val Miriel Nest. A seasoned tracker and scout of many years' service, he carries the quiet weight of a man who did not choose the Ravens for ideology — he chose them because there was nothing else left after the [[Valtorran Empire|Empire]] took everything he had built.
 
 ## Biography
 
-Trak joined [[The Order of Ravens]] in the wake of his wife's disappearance, seeking in the Ravens' network the reach and resources that no single person could marshal alone. He never found her. Years in the field hardened him without resolving him; he remained at the rank of operative not from lack of ability but from lack of ambition — his energy poured inward, toward the one question that has never been answered. Despite this singular preoccupation, his skills as a tracker and scout are formidable, and the Val Miriel Nest values him for precisely those qualities. He is a father, and his child has grown up in the Ravens' world alongside him.
+Trak was living quietly with his wife and young child in a small settlement on the edges of Imperial-controlled territory when an Imperial patrol came through looking for Raven sympathizers. His wife was not one. She was in the wrong place at the wrong time, or said the wrong thing, or perhaps the soldiers simply did not distinguish. Trak was not there when it happened. He returned to find the settlement made an example of, and his wife gone from the world.
+
+He joined [[The Order of Ravens]] in the aftermath — not to find answers he did not already have, but because he had a child to feed and keep safe, and nowhere else to go. He proved capable from the first: fast, precise, good at finding things and people who would rather not be found. The Val Miriel Nest kept him on and valued him. He rose no further than operative not from lack of skill but from lack of interest in anything beyond the narrow demands of fieldwork and his child's wellbeing. Ambition would mean caring about the Ravens' broader politics, and that is not what keeps him here. What keeps him here is harder to name — part obligation to the only life his child has ever known, part the inability to put down the purpose he picked up in the ruins of that settlement and has never managed to set aside. He does not speak of his wife. He does not need to.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

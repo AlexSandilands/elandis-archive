@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Large, powerfully built human woman, mid-to-late 30s, thick red hair worn in heavy braids, calloused hands, a face that has seen decades of forge-heat — strong jaw, steady eyes, no-nonsense expression
-[POSE]: Standing with arms folded across a heavy leather apron, leaning slightly against an anvil, one brow arched as if appraising whoever is looking
-[SETTING]: The interior of a cluttered but functional smithy — walls hung with unadorned weapons and practical armour, coals glowing orange in a wide forge behind her
-[LIGHTING]: Warm forge-glow from behind, casting dramatic amber light across her face and arms, deep shadows in the corners
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -27,7 +18,6 @@ tags:
 aliases:
   - Blacksmith Ingrid
 ---
-
 > [!infobox|wikipedia]
 > # Ingrid
 > [![[Codex/Assets/Characters/Ingrid_small.webp|cover hsmall]]](Codex/Assets/Characters/Ingrid.webp)

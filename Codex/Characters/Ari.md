@@ -18,7 +18,6 @@ cssclasses:
 tags:
   - character
 ---
-
 > [!infobox|wikipedia]
 > # Ari
 > [![[Codex/Assets/Characters/Ari_small.webp|cover hsmall]]](Codex/Assets/Characters/Ari.webp)

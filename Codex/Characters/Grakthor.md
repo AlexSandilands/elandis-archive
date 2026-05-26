@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Male hobgoblin, powerfully built, red skin, grey mohawk, mid-to-late years, wearing heavy splint armour scratched from years of raiding, a massive engraved greatsword at his hip, a wolfish snarl on his scarred face
-[POSE]: Standing wide-legged in the entrance of a torchlit underground shrine, one gauntleted hand gripping his greatsword, the other resting on the head of a massive grey warg at his side
-[SETTING]: Ancient crumbling stone shrine, goblin banners hanging between cracked columns, bones and loot strewn across the floor
-[LIGHTING]: Guttering torch-fire from iron wall sconces, casting orange-red light across armour and casting deep shadows behind him
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

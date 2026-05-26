@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman in her thirties, slim and sharp-eyed, with pale freckled skin, a long vivid red scarf wound loosely around her neck and shoulders, and mischievous green eyes that take in everything at once. Dressed in layered cold-weather gear — heavy coat, worn gloves, crossbow slung at her back.
-[POSE]: Half-turned as if catching a sound on the wind, one gloved hand raised slightly, expression alert and faintly amused — a woman who treats danger as a puzzle she already knows she can solve.
-[SETTING]: The open Frostway — cracked blue-white ice stretching to a horizon of low clouds, a faint gouge in the surface visible ahead of her.
-[LIGHTING]: Flat polar daylight from above, cold and bluish-white, with the red of her scarf cutting a vivid streak of warmth through the scene.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -31,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Lysa
-> [![[Codex/Assets/Characters/Lysa_Mornvale_small.webp|cover hsmall]]](Codex/Assets/Characters/Lysa_Mornvale.webp)
+> [![[Codex/Assets/Characters/Lysa_small.webp|cover hsmall]]](Codex/Assets/Characters/Lysa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

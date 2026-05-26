@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Female Tiefling, late 20s, deep purple skin, two short straight horns angled back across her skull, long black hair shaved close on one side. Muscular build, wearing guild colours — leather and cloth in muted greens. A massive greatsword strapped across her back. Expression alert, arms folded, chin raised — the look of someone who has already assessed you and found you wanting.
-[POSE]: Standing in a torchlit guild entrance, one hand resting loosely on the pommel of her greatsword, leaning slightly against the doorframe as she watches two adventurers head out into the dark.
-[SETTING]: Stone archway of a guild hall, warm orange firelight from inside spilling out onto cobblestones slick with rain.
-[LIGHTING]: Warm amber from behind, cool blue city-night from ahead — her face lit from below, catching the hard angles of her horns.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

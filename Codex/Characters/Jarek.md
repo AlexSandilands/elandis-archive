@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Very old human man, late nineties, deeply hunched, leaning on a worn cane. Jaunty black cap tilted at an angle. Heavy grey wool cloak over a black doublet. Scars on his neck and hands hinting at a life spent in danger. Bright, sharp eyes full of dry humour despite the frailty of his body.
-[POSE]: Seated at a tavern table, one hand resting atop the cane, a battered puzzle cube resting on the table in front of him — the hint of a grin on his lips, as if he has just said something he is very pleased with.
-[SETTING]: Dimly lit riverside tavern at night, low candlelight, wooden walls worn smooth by years of use.
-[LIGHTING]: Warm amber candlelight, casting long soft shadows across his weathered face, catching the silver of his stubble.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -28,9 +19,9 @@ cssclasses:
 tags:
   - character
 ---
-
 > [!infobox|wikipedia]
 > # Jarek
+> [![[Codex/Assets/Characters/Jarek_small.webp|cover hsmall]]](Codex/Assets/Characters/Jarek.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -55,7 +46,7 @@ tags:
 
 ## Biography
 
-Jarek lived in the [[Whispering Woods]] with Eirieneth and their young son Eryndor before the Empire's shadow fell across [[Valtorra]]. He was already a member of [[The Order of Ravens]] by that time — a thief and operative of some ability, with the scars to show for it. When Eirieneth was taken by Imperial forces, Jarek searched for her fruitlessly for years, finding nothing. He joined the Ravens more fully after her disappearance, vowing to use every contact and connection the network could offer to track her down.
+Jarek lived in the [[Whispering Woods]] with Eirieneth and their young son Eryndor before the Empire's shadow fell across [[Valtorra]]. When Imperial forces took Eirieneth, he searched for her fruitlessly for years, finding nothing. It was in the aftermath of that loss that he found [[The Order of Ravens]] — or they found him. He joined as a thief and operative, using every contact and connection the network could offer in the hope of tracking her down, and proved able enough that the work left its marks on him.
 
 The second blow came during a heist gone wrong: Jarek was captured by Imperial soldiers, separated from his son and fellow Ravens. He kept his silence under interrogation, gave up nothing, and eventually broke free — only to return to the nest and learn that Eryndor had not come back either. With the bodies of two other Ravens found but no sign of his boy, Jarek spent years watching Imperial garrisons for any hint of his son's fate. None came. Years of grief settled over him like a second cloak. He never gave up, but for a long stretch he had very little hope to sustain him.
 

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, short stature, long black hair, kind brown eyes, gentle expression; dressed in practical forager's clothing — sturdy boots, a canvas satchel slung over one shoulder
-[POSE]: Crouching at the edge of a forest path, carefully examining a cluster of herbs growing between mossy roots, a small smile on her face
-[SETTING]: Sun-dappled forest clearing at the foot of a mountain range, early morning mist clinging to the undergrowth
-[LIGHTING]: Soft diffused daylight filtering through a canopy, warm green-gold tones, gentle and unhurried
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -29,6 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Teresa
+> [![[Codex/Assets/Characters/Teresa_small.webp|cover hsmall]]](Codex/Assets/Characters/Teresa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

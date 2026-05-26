@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Male goblin, wiry and nervous-eyed, with a wide toothy grin and ears that stick out at lopsided angles. He wears a patched leather jacket over a loose shirt, and his fingers are calloused from rough work but show careful attention — short nails, clean hands, the hands of someone who wants to make things. A small pouch of uncut stones hangs at his belt.
-[POSE]: Half-turned, one hand raised in a gesture of nervous explanation, the other clutching the strap of a travel satchel — the posture of someone caught between fleeing and trying to make a deal.
-[SETTING]: Edge of a dirt road at dusk, dark treeline behind him, a faint orange glow from a distant campfire.
-[LIGHTING]: Warm firelight catching the side of his face, with cool blue shadow filling the other half — the light of a moment balanced between danger and relief.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

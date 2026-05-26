@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Female goblin, short and slight, with large amber eyes and dark hair tied up in pigtails fastened with small colourful ribbons. She wears a fitted leather vest over a simple tunic and a little green cape, with a well-worn satchel slung over one shoulder. Her fingers are perpetually smudged with charcoal, pencil, and dried flecks of paint.
-[POSE]: Seated cross-legged on a tree root, sketchbook open across her knees, pencil hovering mid-stroke, glancing up at the viewer with cautious curiosity.
-[SETTING]: Edge of a woodland clearing at golden hour, soft dappled light filtering through the leaves.
-[LIGHTING]: Warm amber and gold, gentle and unhurried — the light of a world that hasn't yet turned hostile again.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

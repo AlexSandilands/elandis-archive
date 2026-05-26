@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Ancient crimson dragon, colossal and ancient, scarlet scales darkened to near-black at the edges, eyes burning with cold violet intelligence, horns swept back like a crown, an aura of dark necrotic energy coiling around his claws
-[POSE]: Rearing up on a ruined battlefield, one claw raised with tendrils of shadow magic spiralling from it, wings half-spread, head turned slightly downward as though regarding something beneath him as beneath notice
-[SETTING]: A desolate sky torn open with a massive magical rift bleeding red light, the silhouettes of a broken city below, ash and embers drifting upward
-[LIGHTING]: Blood-red light from the rift above, cold violet undercurrent from the necrotic magic, deep shadow framing his wings — dramatic and ominous
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Dragon
@@ -30,11 +21,9 @@ aliases:
   - the Crimson Shadow
 ---
 
-> Public entry: [[Kharazoth the Crimson Shadow]]
-
 > [!infobox|wikipedia]
 > # Kharazoth the Crimson Shadow
-> [![[Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow_small.webp|cover hsmall]]](Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow.webp)
+> [![[Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow_Dragon_small.webp|cover hsmall]]](Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow_Dragon.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

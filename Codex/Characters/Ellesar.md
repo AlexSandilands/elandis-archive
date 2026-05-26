@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Extremely old human man, 90s, impossibly short and slight, a wild crown of curly white hair, no beard, a gap-toothed grin that belongs on a schoolboy rather than a nonagenarian, bright sharp eyes full of mischief
-[POSE]: Seated in a worn wooden wheelchair, leaning forward conspiratorially with both hands resting on the wheels, a knowing smile playing at his lips
-[SETTING]: The Veiled Den — a warmly lit underground hall furnished well beyond its humble exterior, children's laughter echoing in the background, lanterns casting a honeyed glow over mismatched rugs and stolen comforts
-[LIGHTING]: Warm amber lantern light from below, soft generous shadows, painting him as both ancient and inexhaustibly alive
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

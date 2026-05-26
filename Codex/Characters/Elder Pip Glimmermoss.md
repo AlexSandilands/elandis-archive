@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Ancient pixie female, barely half a foot tall, with silver-grey hair pinned up in a tidy bun, tiny wire-rimmed spectacles perched on her nose, four iridescent wings — one noticeably crooked — and sharp, watchful eyes that have seen far too much to suffer fools; carrying a minuscule leather-bound notebook
-[POSE]: hovering at eye level with a much taller figure, arms crossed, expression somewhere between impatient and amused — mid-lecture
-[SETTING]: a warmly lit healer's alcove inside a grand elven hall, shelves of small glass vials and bundles of dried herbs in the background
-[LIGHTING]: warm golden lantern light, soft and intimate, catching the iridescent shimmer of her wings
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Fey

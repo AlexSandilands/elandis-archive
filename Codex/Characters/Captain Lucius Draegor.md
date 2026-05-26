@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human man, mid-40s, stern and rigid bearing. Short black hair shaved close on the sides. Imperial plate armour that is almost ostentatiously clean — not a scratch or scuff on it. Cold, dismissive eyes and a thin-lipped sneer.
-[POSE]: Standing with arms clasped behind his back in front of a garrison doorway, head slightly turned as if regarding someone below his station.
-[SETTING]: Stone barracks courtyard in a mist-shrouded frontier town, lantern light flickering on the wall behind him.
-[LIGHTING]: Cool grey ambient light cut with a single warm lantern glow from the left, casting his face half in shadow.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

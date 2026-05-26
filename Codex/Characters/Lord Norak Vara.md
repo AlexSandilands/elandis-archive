@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male, mid-40s, heavy-set with a florid complexion, wearing clothes that are one rank too fine for the occasion — an embroidered doublet in deep burgundy, a heavy gold chain, rings on most fingers, groomed but slightly sweaty
-[POSE]: Seated at the head of an imposing dining table, hands folded, leaning slightly forward with a strained smile that doesn't quite reach his eyes
-[SETTING]: A grand but cluttered manor dining room, candelabras blazing, portraits of ancestors lining the walls, a half-drunk decanter of wine at his elbow
-[LIGHTING]: Warm candlelight from below, casting upward shadows that deepen the tension on his face
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

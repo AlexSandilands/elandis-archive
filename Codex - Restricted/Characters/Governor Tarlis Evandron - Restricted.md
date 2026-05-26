@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male, mid-to-late 40s, slender but solid build, brown hair cropped close on the sides and styled neatly on top, precisely trimmed moustache and goatee, wearing tasteful evening clothes that would not be out of place at an Imperial court, a gold chain bearing a large red ruby amulet at his chest
-[POSE]: Standing at a tall window, one hand resting on the sill, looking out over a lamplit city at night — weight of governance visible in his posture
-[SETTING]: A private study in a stone tower, city lights visible through the window, maps and correspondence on the desk behind him
-[LIGHTING]: Warm candlelight from behind, cool moonlight from the window, his face caught between the two
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -27,8 +18,6 @@ tags:
   - character
 aliases: [Tarlis, Governor Tarlis]
 ---
-
-> Public entry: [[Governor Tarlis Evandron]]
 
 > [!infobox|wikipedia]
 > # Governor Tarlis Evandron

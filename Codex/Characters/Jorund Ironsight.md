@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Stout, heavily muscled human man, bald head, wild untamed beard the colour of flame — fiery red, unkempt, singed at the edges. One eye bright and manic with excitement, the other socket hidden behind a worn leather patch. Hands and forearms permanently stained black with gunpowder. A bandolier of fuses, primers, and small powder flasks crosses his chest over a roughspun shirt.
-[POSE]: Holding up a length of slow-burn fuse to the light with one hand, inspecting it with his single gleaming eye, the faintest grin on his face — the look of a man who is about to do something that probably shouldn't be done.
-[SETTING]: The cannon deck of a sailing ship, the muzzle of a massive gun just visible behind him, wood scorched black around the breach from previous firings.
-[LIGHTING]: Harsh warm light from a hanging lantern, catching the glint in his eye and casting deep shadows across the scarred deck.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

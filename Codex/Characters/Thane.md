@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged human male alchemist, no eyebrows, cropped black hair, neat goatee, warm but tired eyes. Wearing a stained leather apron over practical clothing, small vials and tools hanging from a belt.
-[POSE]: Standing behind a cluttered wooden counter, one hand resting on a mortar and pestle, looking up with a cautious but relieved expression.
-[SETTING]: Dim apothecary interior — shelves packed with coloured bottles, dried herbs bundled overhead, a small brazier casting amber light.
-[LIGHTING]: Warm amber lamplight from below, catching the glass vials and throwing soft shadows across his face.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

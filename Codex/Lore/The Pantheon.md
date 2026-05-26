@@ -22,7 +22,7 @@ Selûne, the Moonmaiden, is the goddess of the moon. She is the goddess of light
 
 ## Selûne's Chosen:
 
-Name: [[Elaris Moonsong]]
+Name: [[Elaris Moonsong - Restricted]]
 
 Description: A silver-haired elf cleric who guided his people through the darkest times with Selûne's wisdom. His calm demeanor and soft-spoken words hid a fierce determination.
 

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elderly half-orc male, grey hair pulled back in a ponytail with two braids framing his weathered face, tusks protruding from his lower lip — the right one chipped and broken. Deeply lined skin, thick arms, apron spotted with the evidence of a morning's work.
-[POSE]: Standing at a ship's galley counter, one hand resting on the edge, watching the door with the flat patience of a man who has seen every sort of trouble and chosen not to care.
-[SETTING]: A cramped, warm ship's galley below decks — hanging copper pots, the smell of salt and broth in the air, lantern light swaying with the swell.
-[LIGHTING]: Warm amber lantern glow from below, casting deep shadows across his face, highlighting the broken tusk and the silver of his hair.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged male gnome, stocky and weathered, with a broad ruddy face, bright sharp eyes, and calloused hands. Wearing practical leather hunting gear layered over a thick wool tunic, with pouches and small trophies hanging from a belt. A tall, floppy bright-green pointed hat sits slightly askew on his head.
-[POSE]: Standing at the treeline of a dense, dark forest, one boot up on a mossy root, a short hunting axe resting on his shoulder — relaxed and assured, surveying the shadows ahead.
-[SETTING]: The edge of a deep ancient forest at dusk — gnarled roots, dense undergrowth, twisted branches filtering the last orange light.
-[LIGHTING]: Warm amber dusk light filtering through the canopy from behind, casting long shadows across a confident, weathered face.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

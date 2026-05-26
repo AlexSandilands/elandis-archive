@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human man, late 40s, portly build, thinning sandy hair, well-groomed moustache, hazel eyes with a warm twinkle. Dressed in vibrant merchant robes adorned with trinkets and small charms. Cheerful expression that doesn't quite reach the eyes — a man performing contentment.
-[POSE]: Seated at the front of a merchant wagon, reins loose in one hand, the other resting on his knee. He is mid-laugh, but his gaze drifts somewhere past the road.
-[SETTING]: A sunlit trade road through open countryside, a caravan of wagons visible behind him.
-[LIGHTING]: Warm golden afternoon light, soft shadows, a gentle haze on the horizon.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -28,6 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Harland Finegold
+> [![[Codex/Assets/Characters/Harland_Finegold_small.webp|cover hsmall]]](Codex/Assets/Characters/Harland_Finegold.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -56,6 +48,8 @@ Harland built [[The Finegolds]] into a reputable operation through a combination
 The death of Gemma's mother shattered him. She was executed publicly by the [[Valtorran Empire|Empire]] when Gemma was nine years old — a casual act of Imperial cruelty that left Harland a changed man. He went through the motions of the merchant trade, maintained the front, kept the wagons rolling, but the passion was gone. What energy remained he invested in Gemma, teaching her everything he knew and trusting her increasingly with the real work of running the company.
 
 He knew what Gemma had been doing in recent years — the resistance contacts, the quiet intelligence work against the Empire. He lacked the will to help. He could not bring himself to act, but he could pretend not to see, and so he served as the caravan's public face while his daughter worked against the regime from behind the ledgers.
+
+Harland was killed by the assassin [[Seraphina]], who targeted [[The Finegolds]] in the ruins of [[Farhaven]]. His body was found buried near the site with his throat cut — a clean, professional kill. He was given a proper burial by [[The Bloody Nails]] before the caravan moved on.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

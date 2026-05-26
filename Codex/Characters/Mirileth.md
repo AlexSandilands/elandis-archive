@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Archfae female, ageless, visually elven but uncannily tall and too-still; eyes that absorb light rather than reflect it; long silvery robes that shift between deep black, silver and pure white as the light changes
-[POSE]: Standing motionless at the edge of a dark throne dais, one hand resting on a carved armrest of pale wood, gaze fixed on something just beyond the viewer — patient as a planet
-[SETTING]: The Dawnless Court of Caer Nystral — a vast hall of bioluminescent stone, starless sky visible through open arches, pale fae-light pooling on the floor below
-[LIGHTING]: Cold spectral blue-white from below and the sides, no warm tones — the light seems to pass through her robes rather than reflecting off them, giving the fabric an inner shimmer
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Fey

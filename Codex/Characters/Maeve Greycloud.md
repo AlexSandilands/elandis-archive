@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human woman, mid-50s, stout and average height, warm brown eyes, greying wavy hair tied up in a practical bun. Dressed in simple clean linen with a well-worn leather healing satchel hanging at her hip.
-[POSE]: Sitting on a wagon step, examining a bandaged forearm with calm focus, a small pot of salve open beside her.
-[SETTING]: Roadside camp at dusk — a merchant wagon to one side, fire smoke drifting into a soft orange sky.
-[LIGHTING]: Warm amber firelight from low to the left, gentle and unhurried, with long soft shadows.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

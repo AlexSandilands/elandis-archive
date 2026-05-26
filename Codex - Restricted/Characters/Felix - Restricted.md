@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male in his apparent mid-forties, with sharp clever eyes and a theatrical bearing. Dressed in silver robes embroidered with small blue stars, topped with a mismatched and slightly absurd wide-brimmed hat adorned with a peacock feather.
-[POSE]: Standing behind a cluttered shop counter, one hand resting on a glass case of glowing trinkets, the other extended theatrically mid-explanation, half-smile on his lips.
-[SETTING]: Interior of a warm, eccentric magic shop — shelves crammed with curios, glass orbs, bundled wands, and labelled vials; soft lanternlight catching the facets of displayed gems.
-[LIGHTING]: Warm amber lamplight from below, casting a flattering glow on the merchandise and a slightly dramatic shadow on Felix's face, emphasising his showmanship.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -26,8 +17,6 @@ cssclasses:
 tags:
   - character
 ---
-
-> Public entry: [[Felix]]
 
 > [!infobox|wikipedia]
 > # Felix

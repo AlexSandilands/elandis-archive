@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Halfling male, middle-aged, slight weathered build with a thin frame, long straight black hair tied back with a strip of leather, small round glasses, a row of small silver earrings climbing one ear, a long scar across his left forearm
-[POSE]: seated at a cramped desk below deck, bent over a spread of maps and ledgers, quill in hand, peering up with sharp green eyes as if interrupted mid-calculation
-[SETTING]: ship's quartermaster cabin, lantern-lit, shelves packed with crates, barrels, and coiled rope, a porthole glowing with grey sea-light
-[LIGHTING]: warm amber lantern glow from the side, soft shadows pooling beneath the desk, contrasting with the cool daylight from the porthole
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

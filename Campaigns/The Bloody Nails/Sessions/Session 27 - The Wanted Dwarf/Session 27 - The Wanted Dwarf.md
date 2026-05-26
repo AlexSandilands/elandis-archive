@@ -42,7 +42,7 @@ Seeking a way out, the party liquidates their monster harvest at [[The Fur and F
 ### The Temple Escape
 
 * **Divine Aftermath:** [[Kai]] wakes up in [[The High Sept]] with burning pain in his arm. A voice whispers, "Such actions do not go unrewarded," as the starry constellations on his skin recede.
-* **Resonance:** While checking the Moonstone near the statue of [[Elaris Moonsong]], Kai feels a magnetic pull between his stone and the other, when held against the display glass.
+* **Resonance:** While checking the Moonstone near the statue of [[Elaris Moonsong - Restricted]], Kai feels a magnetic pull between his stone and the other, when held against the display glass.
 * **Disguise & Departure:** A cleric, Lara provides peasant robes. [[Dondar]] uses a Potion of Invisibility to exit the temple. Once the potion fades, they attempt a combined disguise: Dondar stands on a stool, Kai uses *Shape Water* to create thick ice soles for height, and they wrap themselves in blankets to pass as a tall, hunched figure.
 
 ### Reunion and Commerce

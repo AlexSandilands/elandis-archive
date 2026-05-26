@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Massive human man, middle-aged, black irises, short black beard, encased in imposing horned black plate armour with enormous pauldrons, a long red-and-black embellished cloak, an evil-looking longsword slung over one shoulder. His face is utterly expressionless — not calm, but void.
-[POSE]: Standing in the centre of a ruined cathedral chamber, one gauntleted hand raised as if he has just caused the wall behind him to explode. Debris hangs in the air.
-[SETTING]: The interior of a gothic stone cathedral at night, cracked pillars and shattered pew-wood, cold torchlight flickering at the edges of the frame.
-[LIGHTING]: Sickly green-black necrotic light emanating from the figure itself, casting cold shadows upward across his face. Harsh contrast.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Undead
@@ -34,7 +25,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Dread General Gerard Blackmarsh
-> [![[Codex/Assets/Characters/Gerard_Blackmarsh_small.webp|cover hsmall]]](Codex/Assets/Characters/Gerard_Blackmarsh.webp)
+> [![[Codex/Assets/Characters/Dread_General_Gerard_Blackmarsh_small.webp|cover hsmall]]](Codex/Assets/Characters/Dread_General_Gerard_Blackmarsh.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

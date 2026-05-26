@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Massive obsidian-skinned troll-like fae, male, ancient in bearing, with a broad jovial face and dark glittering eyes that hint at deep amusement. Dressed in a heavy black travelling cloak, partially thrown back to reveal his imposing frame.
-[POSE]: Seated comfortably at a stone chess table on a bridge, leaning forward on one enormous elbow, grinning broadly at the pieces before him — utterly at ease.
-[SETTING]: A wide stone bridge spanning a fast and treacherous river at dusk, mountains looming in the background, mist curling off the water below.
-[LIGHTING]: Deep amber sunset light from behind, casting the figure in dramatic silhouette with warm rim-lighting catching the obsidian sheen of his skin.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Fae
@@ -27,6 +18,7 @@ aliases: [Grumble, Uncle Grumble]
 ---
 > [!infobox|wikipedia]
 > # Grumble, The Anniahilator
+> [![[Codex/Assets/Characters/Grumble_The_Anniahilator_small.webp|cover hsmall]]](Codex/Assets/Characters/Grumble_The_Anniahilator.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

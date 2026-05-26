@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged human man, heavyset and broad-shouldered, with close-cropped iron-grey hair, a hard square jaw, and cold calculating eyes that hold no warmth. Wearing Imperial military dress armour — deep crimson and polished steel — with gold rank insignia at the shoulders.
-[POSE]: Seated at a campaign desk, one armoured gauntlet resting flat on a stack of orders, half-turned as though dismissing a subordinate.
-[SETTING]: A stone office high in a military fortress, arrow-slit windows overlooking a grey city, a map of the region pinned to the wall behind him.
-[LIGHTING]: Harsh midday light through the narrow windows, casting sharp shadows across a severe face.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -14,7 +14,7 @@ tags:
 
 ## Recap
 
-- [[Session 24 - Nelfandris The Banished]]
+- [[Session 24 - Nelfandriss The Banished]]
 
 ## Mountain Road Combat
 

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Half-elf woman, late twenties, slender build with an air of mystique. Long curly auburn hair adorned with feathers and small trinkets woven in. Bright emerald eyes with slightly pointed ears. Dressed in colorful layered flowing garments — deep purples and golds — with more feathers and charms along the hem.
-[POSE]: Seated cross-legged on a travel crate beside a campfire, hands open as if mid-story, a knowing smile on her lips.
-[SETTING]: A caravan camp at night — painted wagons visible in the background, lantern-light spilling across worn road-dust.
-[LIGHTING]: Warm amber firelight from below, soft edges fading into deep blue night sky above.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

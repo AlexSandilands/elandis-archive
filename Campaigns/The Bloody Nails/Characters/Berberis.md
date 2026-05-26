@@ -19,9 +19,9 @@ At his side hangs a grey bag. His expressions seem eternally pissed off at the w
 
 ### Bonds
 
-[[Quercus Robur]], (Oak) Head Druid- the wise old man, the reliable and unshakeable. Took him in a lost ranger (both literal and figurative) and game him a place and purpose. 
+[[Quercus Robur - Restricted]], (Oak) Head Druid- the wise old man, the reliable and unshakeable. Took him in a lost ranger (both literal and figurative) and game him a place and purpose. 
 
-[[Prunus Serrulata]], (Cherry) a young female druid full of flowers and cheer, that gets through Berberis spiky nature.
+[[Prunus Serrulata - Restricted]], (Cherry) a young female druid full of flowers and cheer, that gets through Berberis spiky nature.
 
 [[The Green Lady]]. The tree that stands at the heart of the Druid Grove. An old goddess, ancient nature sprite or just the spirit of the woods noone knows, or really cares. The green lady watches and is watched over in return.
 

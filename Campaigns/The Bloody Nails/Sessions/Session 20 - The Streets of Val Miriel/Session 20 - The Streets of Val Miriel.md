@@ -72,7 +72,7 @@ The session culminates in two significant discoveries. A scouting mission to [[M
 ### Revelation at the High Sept
 
 * [[Kai]] visits [[The High Sept]] alone to investigate the source of his divine magic.
-* He inspects the statue of [[Elaris Moonsong]] and notices a display case inside containing a Moonstone identical to the one in his possession.
+* He inspects the statue of [[Elaris Moonsong - Restricted]] and notices a display case inside containing a Moonstone identical to the one in his possession.
 * Kai is approached by [[High Priest Oldir]]. In a private chamber, Kai reveals the starry markings on his arms.
 * Oldir is terrified and reveals a heresy: The current "Seven Gods" (including Elaris) are not true gods, but ancient champions who were worshipped until the true gods were forgotten.
 * Oldir explains that Kai has been touched by [[Selûne]], the true Goddess of the Moon (Lady of Night).

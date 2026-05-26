@@ -48,7 +48,7 @@ aliases:
 
 ## Biography
 
-Marius was born into the governorship of [[Val Noren]], heir to a family whose royal claim stretched back a century before the Empire swallowed the north. By his own temperament he was a pious, quietly domestic figure: a follower of [[Torgar Earthshaker]] with a modest clerical gift, more likely to be found helping a tradesman clear rubble than sitting in council chambers. It was [[Ayana Syndrosa]], operating under the alias Ayana Wynne, who shaped what he became — guiding him over years from a reluctant governor into the reluctant king the rebellion needed.
+Marius was born into the governorship of [[Val Noren]], heir to a family whose royal claim stretched back centuries before the Empire swallowed the north. By his own temperament he was a pious, quietly domestic figure: a follower of [[Torgar Earthshaker]] with a modest clerical gift, more likely to be found helping a tradesman clear rubble than sitting in council chambers. It was [[Ayana Syndrosa]], operating under the alias Ayana Wynne, who shaped what he became — guiding him over years from a reluctant governor into the reluctant king the rebellion needed.
 
 When the uprising finally came, Marius did not take to its theatrics. He wore plain clothes when protocol permitted, converted the Keep's great hall into a refugee shelter during the Imperial siege, and was still moving among displaced families when [[The Bloody Nails]] were brought before him. What concerned him most in that first meeting was not the military stalemate on the river barricades, but the mention of [[The Red Priests]] — a threat he recognised as something beyond ordinary Imperial cruelty.
 

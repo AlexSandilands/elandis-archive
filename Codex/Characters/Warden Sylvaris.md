@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven woman, approximately 700 years old, dark brown skin, long curly brown hair threaded with caught leaves, wearing deep green robes with moss clinging to the hem, expression warm but watchful
-[POSE]: Crouching beside a root-system in the Greensward, one hand pressed flat against the soil, listening — eyes half-closed, head tilted as if hearing something distant
-[SETTING]: Underground bioluminescent agricultural terraces, warm humid air, glowing spores drifting through the dark, towering fae-flora all around her
-[LIGHTING]: Soft green-gold bioluminescence from below, catching the curves of her face and the sheen of her hair, deep shadows behind
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Silver-haired elven male cleric, ancient but serene in aspect, clad in flowing robes of white and deep indigo threaded with silver moonlight motifs, expression gentle yet resolute, an opalescent teardrop amulet resting at his chest
-[POSE]: Standing with both hands lightly clasped before him, head slightly bowed as if in quiet prayer or deep contemplation, a faint luminescence rising from the amulet
-[SETTING]: Moon-drenched temple sanctuary, stone columns rising into shadow, a crescent window casting pale silver light across tiled floors
-[LIGHTING]: Cool silver moonlight from above, soft and diffuse, with a faint warm glow emanating from the amulet — stillness and reverence
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

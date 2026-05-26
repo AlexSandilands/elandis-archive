@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Half-elf woman in her fifties, weathered but warm-faced, with long silver-streaked hair loosely braided, wearing earth-toned druidic robes layered with woven bark and dried leaves, a gentle resolute expression in her eyes
-[POSE]: Kneeling beside a wounded figure, hands pressed to their side, head slightly bowed in concentration
-[SETTING]: Candlelit stone garrison room, rough walls hung with damp cloaks, the smell of iron and herbs
-[LIGHTING]: Warm amber torchlight, soft flickering shadows casting a protective glow over her
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

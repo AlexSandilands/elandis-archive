@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human girl, 11 years old, petite build, raven-black hair cut short and practical, bright green eyes sharp with focus and old grief. Wearing a dark fitted tunic and leather gloves, a slim dagger at her hip, a locket worn at her neck.
-[POSE]: Crouched low at a half-open door, one hand on a set of lockpicks mid-use, head turned slightly as if listening for footsteps.
-[SETTING]: A dimly lit stone corridor, shadows pooling in the corners, a faint crack of warm light seeping under the door.
-[LIGHTING]: Cool blue ambient light from a distant torch, a thin rim of warm gold from the door crack below, high contrast — hiding her face in shadow.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -31,6 +22,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Lia
+> [![[Codex/Assets/Characters/Lia_small.webp|cover hsmall]]](Codex/Assets/Characters/Lia.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -72,6 +64,12 @@ Lia grew up in [[Camaar]], the younger child of two parents whose names she keep
 Ellesar saw in her his most talented student. He also saw the danger. Lia's hatred for General Brado was not the dull ache of old grief — it was active, and it was looking for an outlet. If she stayed with the Cubs, sooner or later she would do something impulsive against an Imperial, and the blowback would fall on everyone. When word came through the underground that the [[The Order of Ravens]] needed a small infiltration specialist — someone slight enough to thread a tight vent and open a door from the inside — Ellesar recognised the opportunity for what it was. He sent Lia not to be rid of her, but because the Ravens were where her temperament belonged, and because he knew she would thrive under their discipline. He arranged an escort through trusted contacts, and the mission was framed to her as a transfer, not a removal.
 
 Lia accepted. She carried her lockpicks and her locket and said very little about what she thought of the arrangement.
+
+The escort north was [[The Bloody Nails]] — a mercenary company passing through [[Camaar]] who took the contract and gave her a seat in their wagon. She rode in silence for most of it, posing as a travelling relation when Imperial checkpoints required a story. She did not volunteer information about herself, and nobody pushed. On the road through the ruins outside [[Farhaven]], she demonstrated her usefulness without being asked, cracking the lock of a boarded farmhouse before the adults had finished debating how to get inside.
+
+It was [[Eryndor]] she warmed to, though "warmed" is perhaps too generous a word — she became less careful around him. That night by the fire at the ruins, she sought him out and showed him the locket. For a girl who said almost nothing about her parents to anyone, it was a significant gesture. She also, at some point during the journey, lifted his dagger from him without his knowledge — not for its worth, but apparently as a test of herself, or something harder to name. She said nothing about it. She carried it north alongside everything else she was carrying, and kept quiet.
+
+In [[Val Miriel]], she was handed off to [[Gideon Blackthorn]] of [[The Order of Ravens]] and taken into the Nest's training. The wagon ride was over. But the threads she had left in it — the locket, the dagger, the moment by the fire — had a way of persisting.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

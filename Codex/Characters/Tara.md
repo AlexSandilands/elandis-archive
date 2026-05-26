@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elderly human woman, very old, weathered and worn but sharp-eyed. White hair pulled back loosely, deep-set eyes reddened from years of grief. Wrapped in a threadbare shawl, clutching a silver locket to her chest with trembling hands.
-[POSE]: Seated in a dim cottage, shoulders bowed but chin raised — a woman enduring, not defeated.
-[SETTING]: Sparse stone cottage interior, a cracked clay bowl on a rough-hewn table, a single candle guttering in a draft.
-[LIGHTING]: Warm but meagre candlelight from one side, cold grey mountain light through a small window opposite — the tension between warmth and isolation.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young elven woman, approximately 80 (young adult by elven reckoning), completely bald, with long delicate elven ears. She wears a red Imperial cloak over dark mage's robes, her expression one of utter blank compliance — eyes forward, vacant, eerily calm.
-[POSE]: Standing at three-quarters facing, one hand raised mid-cast, arcs of cold violet energy crackling between her fingers. The other hand hangs loose at her side — not ready, not guarded, just absent.
-[SETTING]: The interior of a ruined gothic cathedral, broken stone columns and dark pews receding into shadow behind her.
-[LIGHTING]: Cold violet-blue light from her own arcane energy casting upward shadows across her face, giving her pale skin an unearthly pallor. Flickers of warm torchlight from the edges barely reach her.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

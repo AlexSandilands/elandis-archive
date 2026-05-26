@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: A weathered northern governor in his prime, dressed in heavy fur-trimmed robes of office over leather and steel, an ancestral signet ring on his hand, his bearing one of inherited authority
-[POSE]: Standing at a stone balustrade overlooking his city, one hand resting on the parapet, the other gripping a rolled letter, gaze fixed on the horizon
-[SETTING]: A high terrace of the governor's keep, banners of Val Aran snapping in the wind, the city's rooftops and chimneys spread below under a pale northern sky
-[LIGHTING]: Cold overcast daylight with a low golden break in the clouds, soft shadows, subdued palette of slate, fur, and oxblood
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

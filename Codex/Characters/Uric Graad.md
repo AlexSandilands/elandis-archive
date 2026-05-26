@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male, late 20s to early 30s, tall and lean with short dark hair and sharp, calculating eyes. Wears practical dark clothing suited to moving unseen in a city — long coat, minimal armour.
-[POSE]: Standing at a rooftop's edge, arms loosely folded, scanning the lamplit streets below with quiet authority.
-[SETTING]: Rain-slicked rooftops of a coastal city at night, lantern-light glinting off wet cobblestones far below.
-[LIGHTING]: Cool blue-grey moonlight from above, warm amber from distant streetlamps catching the edges of his coat.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

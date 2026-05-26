@@ -36,7 +36,7 @@ Under the threat of torture and death, Hugor confesses to selling information to
 
 * The party arrives in [[Lighthaven]] at dusk; [[Ryo]] warns the group about the insular nature of the townsfolk and advises they use his alias, "Leo".
 * Ryo reveals his goal: to find the person who sold him out to the Empire and to kill [[Captain Lucius Draegor]].
-* They check into The Foggy Tankard. The innkeeper, [[Tobias]], reveals the town is excited for [[The Emberlight Vigil]] (Winter Solstice) occurring the following night.
+* They check into The Foggy Tankard. The innkeeper, [[Tobias Gristle]], reveals the town is excited for [[The Emberlight Vigil]] (Winter Solstice) occurring the following night.
 * Tobias recognises [[Vaeleran]] from a previous visit years ago, noting that he had been "rambling about a lake in the woods" and acting strange before disappearing.
 * The party witnesses [[Belinda Bubblegum]] storming in to demand hop seeds from Tobias for an experiment.
 

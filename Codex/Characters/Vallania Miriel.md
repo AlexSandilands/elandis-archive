@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human female, early twenties, slight but athletic frame, long straight blond hair, blue eyes, faint freckles across her nose and cheeks, wearing a travel-worn cloak over practical leathers, a shortbow slung across her back and two daggers at her belt
-[POSE]: Standing at the entrance to a stone crypt, hood pushed back, one hand resting on the hilt of a dagger — watchful, composed, clearly accustomed to being underestimated
-[SETTING]: A moonlit graveyard at midnight, weathered Miriel family crypts behind her, overgrown ironwork lanterns casting pools of cold light
-[LIGHTING]: Cold blue moonlight from above, faint warm glow spilling up from an open crypt doorway at her feet — caught between two worlds
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -27,7 +18,6 @@ tags:
   - character
 aliases: [Nia, Vallania]
 ---
-
 > [!infobox|wikipedia]
 > # Vallania Miriel
 > [![[Codex/Assets/Characters/Vallania_Miriel_small.webp|cover hsmall]]](Codex/Assets/Characters/Vallania_Miriel.webp)
@@ -67,6 +57,8 @@ There is a restlessness to Vallania that her father's cautious governance only s
 #### Background
 
 Vallania never knew her mother, [[Vallarra Miriel]], who died in childbirth delivering her — the last of the Miriel bloodline at the time. She grew up in [[Val Miriel]] under the sole care of a father who governed a fractured city by day and spent his evenings quietly terrified of losing her. Tarlis channelled that fear into protectiveness, and Vallania channelled her response to it into independence. She took up the bow and daggers not because anyone approved, but because no one could stop her. She trained in acrobatics and athletics, went on small unsanctioned adventures, and cultivated a network of quiet freedoms her father pretended not to notice.
+
+![[Vallania_Miriel_Forest_small.webp|left]]
 
 She also inherited something he could not give her: the name. The Miriel line runs through her, and in a city named for her family, that is not a small thing. She understands the weight of it even if she wears it lightly — and she understands, with a clarity her father sometimes lacks, that the weight will one day be entirely hers to carry.
 

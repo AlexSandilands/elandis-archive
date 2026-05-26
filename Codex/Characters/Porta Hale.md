@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human man, late 40s, burly build, thick iron-grey beard, short iron-grey hair, stern weathered face. Wearing battered plate armour bearing a green griffon emblem on the chest.
-[POSE]: Standing arms crossed before a heavy wooden door, weight forward, head slightly lowered — the stance of a man blocking passage.
-[SETTING]: Dim guildhall interior, torchlight catching the dents and scratches on his armour, rough stone walls behind him.
-[LIGHTING]: Warm amber torchlight from one side, deep shadow on the other — a man who operates in uncertain light.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

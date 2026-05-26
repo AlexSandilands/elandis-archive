@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged male dwarf, long black hair worn in a topknot, thick black beard tied with a cord, streaks of grey beginning to show at the temples and chin. Stocky, broad-shouldered, wearing a worn canvas shirt and leather work apron. Left leg ends in a wooden prosthetic foot with a simple hinged mechanism. Weathered hands and watchful, calculating eyes.
-[POSE]: Bent over a large engineering schematic spread across a table, one thick finger tracing a structural diagram, head slightly raised as if just looking up from the plans.
-[SETTING]: Dim below-decks chamber on a sailing ship — hammock hooks, rope coils, and the faint sway of lantern light. Blueprints and tools crowd a makeshift worktable.
-[LIGHTING]: Warm amber lantern light from below, casting deep shadows upward across his face, giving him a conspiratorial, secretive air.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -26,8 +17,6 @@ cssclasses:
 tags:
   - character
 ---
-
-> Public entry: [[Gromdal]]
 
 > [!infobox|wikipedia]
 > # Gromdal

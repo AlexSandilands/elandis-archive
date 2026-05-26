@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young human woman, early-to-mid twenties, with dark blond hair pinned up in a tidy braided crown, pale skin lightly flushed from the cold, and calm, focused eyes. Wearing layered cold-weather travelling gear — a heavy wool coat over quilted underlayers, fur-lined collar, and sturdy gloves. She carries a long iron rod, gripping it loosely at her side with easy familiarity.
-[POSE]: Standing still in a listening posture — head tilted slightly, one boot pressed flat against the ice, the tip of the iron rod resting lightly on the surface, eyes half-closed in concentration.
-[SETTING]: The open Frostway — vast blue-white ice under an overcast polar sky, pressure ridges catching faint grey light in the distance.
-[LIGHTING]: Flat, diffuse polar daylight — cold white from above with a faint blue cast, no hard shadows, the world hushed and still around her.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Tall, imposing human man, scarred face, hard-edged military bearing, wearing Imperial general's armour — dark plate with a deep crimson cloak, campaign-worn and bearing old damage. His expression is controlled, assessing, and cold — the look of a commander who has decided the outcome before anyone else has drawn their weapon.
-[POSE]: Standing at ease in a ruined hall, one hand resting on the pommel of a sheathed sword, eyes fixed on something just past the viewer's shoulder — not ignoring them, simply not concerned by them.
-[SETTING]: The interior of a stone fortress at night, frost on the windowsills, a low fire in a distant hearth casting long orange shadows across cracked floor tiles.
-[LIGHTING]: Firelight from below and left, casting one side of the face in warm amber and leaving the scarred cheek in deep shadow. Cold moonlight through a high window cuts across the background.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -59,17 +50,21 @@ aliases:
 
 #### Appearance
 
-Korvas is a tall, broad-shouldered human man with a face that carries the accumulated damage of a military career: old scars, a jaw set permanently against complaint, and eyes that assess rather than observe. As a general he wore the heavy plate and deep crimson cloak of Imperial senior command, though his kit always bore signs of active use — this was not a man who issued orders from a safe distance. When his alternate identity as Vaeleran was in place, his bearing shifted subtly, something in the posture softening, the officer's instinct to dominate a room suppressed into something more wary and lateral.
+Korvas is a tall, broad-shouldered human man with a face that carries the accumulated damage of a military career: old scars, a jaw set permanently against complaint, and a singular good eye that assesses rather than observes. As a general he wore the heavy plate and deep crimson cloak of Imperial senior command, though his kit always bore signs of active use — this was not a man who issued orders from a safe distance. When his alternate identity as Vaeleran was in place, his bearing shifted subtly, something in the posture softening, the officer's instinct to dominate a room suppressed into something more wary and lateral.
 
 #### Personality
 
-As Korvas, he is the distilled product of Imperial military doctrine: obedient to the chain of command, absolute in the execution of orders, and possessed of a tactical intelligence that operates without sentiment. He is not cruel by preference — cruelty wastes energy — but he is entirely capable of it when efficiency demands. His loyalty to the Empire runs deeper than calculation; it appears to be constitutive of who he is, or at least of who Blackmarsh's jewel made him. There is no indication that the Vaeleran persona was fabricated cynically. Whatever the Empire did to him, the division appears to have been genuine and total — two selves with no access to each other, until the moment of restoration.
+The Korvas who was known and respected in [[Val Noren]] was a different man from the one who returned when [[Dread General Gerard Blackmarsh|Blackmarsh]] crushed the jewel. Before his selection as a [[Hand of The Empire]], those who served under him described an officer who led without fear and governed without contempt — someone who understood that a garrison commander in an occupied city either earns grudging trust or breeds the conditions for revolt. That version of Korvas appears to be gone, or at least deeply buried.
+
+What emerged from his conditioning is the distilled product of Hand training: obedient to the chain of command, absolute in the execution of orders, and possessed of a tactical intelligence that operates without sentiment. He is not cruel by preference — cruelty wastes energy — but he is entirely capable of it when efficiency demands. His loyalty to the [[Empress Morganna Eventide|Empress]] and the [[Valtorran Empire|Empire]] runs deeper than calculation; it is structural, not chosen. There is no indication that the Vaeleran persona was fabricated cynically. Whatever the Empire did to him, the division appears to have been genuine and total — two selves with no access to each other, until the moment of restoration.
 
 ## Biography
 
 #### Background
 
-Korvas built his career through the Empire's military apparatus, rising to command the garrison responsible for [[Val Noren]] — a strategically vital city on the northern Valtorran coast. His record as an officer and the respect shown to him by subordinate Hands suggests he was not merely a political appointment; he was regarded as competent and formidable by soldiers who had reason to know the difference. At some point before the campaign's events, he was separated from the Empire's forces and his identity as General Korvas was suppressed, leaving behind only Vaeleran — a man with instincts but no past, who fell in with the rebellion and fought against the very Empire he had served.
+Korvas built his reputation through genuine ability rather than Imperial politics. As commander of the [[Val Noren]] garrison, he was the kind of officer soldiers trusted and civilians didn't fear — rare enough in an occupying force to be noticed. He maintained order without cruelty, earned loyalty from subordinates who had reason to distinguish a real leader from a political appointment, and was regarded well by the city's people at large. His name carried weight in Val Noren long after he left it.
+
+That promise was what drew the Empire's attention upward. He was selected for training as a [[Hand of The Empire]] — the [[Empress Morganna Eventide|Empress]]'s elite, bound to her will through conditioning that transforms capable officers into instruments of absolute loyalty. The man who emerged retained Korvas's tactical intelligence and military bearing, but whatever warmth and civic judgment had defined him before was subordinated to something colder and more certain. At some point before the campaign's events, he was separated from Imperial forces under circumstances that remain unclear, and his conditioning broke or was disrupted — leaving behind only Vaeleran, a man with instincts but no past, who fell in with the rebellion and fought against the very Empire he had been remade to serve.
 
 [[Dread General Gerard Blackmarsh]] retained an interest in recovering him, describing his restoration as a priority. When the opportunity arose in [[Val Noren]], Blackmarsh deployed a purple jewel whose magical discharge apparently restored the suppressed identity completely. The Korvas who emerged from that wave of energy turned on his companions without hesitation, suggesting that the suppression had not been self-imposed — and that whatever Vaeleran had come to value in the intervening months had no purchase on the general underneath.
 

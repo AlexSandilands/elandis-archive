@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young half-elf man in his mid-20s, slender build, sandy brown hair, nondescript features with a prominent scar running from left ear to chin. Dressed in nondescript traveller's clothes — practical, forgettable, easy to disappear in.
-[POSE]: Leaning against a shadowed alley wall, arms loosely crossed, eyes scanning the street with calm watchfulness — the posture of someone who's always counting exits.
-[SETTING]: Lamplit city street at night, cobblestones glistening after rain, a distant torch reflected in a puddle.
-[LIGHTING]: Warm amber from a single wall-mounted lantern, casting long shadows to his right, leaving half his face in darkness.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

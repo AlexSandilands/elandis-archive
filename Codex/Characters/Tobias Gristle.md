@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged human man, heavyset build, broad ruddy face, warm brown eyes, close-cropped grey-flecked hair, thick arms, wearing a stained linen apron over a loose shirt, sleeves rolled to the elbows, cheerful grin on his lips
-[POSE]: Leaning both forearms on a worn oak bar counter, head tilted forward as if mid-story, one hand gesturing expressively
-[SETTING]: A dim, cosy tavern interior — low-beamed ceiling, roaring stone hearth in the background, hunting trophies and faded maps on the walls, warm candlelight catching the grain of old wood
-[LIGHTING]: Warm amber firelight from the hearth, soft shadows pooling in the corners, a welcoming glow across the bar
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -26,6 +17,7 @@ aliases: [Tobias Gristle]
 ---
 > [!infobox|wikipedia]
 > # Tobias
+> [![[Codex/Assets/Characters/Tobias_small.webp|cover hsmall]]](Codex/Assets/Characters/Tobias.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

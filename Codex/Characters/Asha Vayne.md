@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young adult elven male, silver-streaked dark hair, lean and soldier-built, wearing Sumaran military leathers with a fae-frontier travelling cloak — the gear of someone who was not expecting to disappear
-[POSE]: Standing at the edge of a treeline, one hand resting on a sword hilt, looking back over his shoulder as if hearing something in the dark behind him
-[SETTING]: The border between the Shimmering Peaks and the Vale of Eternal Night — ancient pines giving way to starless shadow, bioluminescent undergrowth just visible in the dark beyond
-[LIGHTING]: Pale fae dusk light from behind, cold blue-black pressing in from the Vale ahead — the figure caught exactly between them
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

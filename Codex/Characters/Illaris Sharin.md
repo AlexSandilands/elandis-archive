@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Drow female, mid-20s to early 30s, pale grey skin, large luminous purple eyes, long silver hair bundled under a worn cloth bandana. Dressed in practical healer's clothes — dark linen, leather apron, rolled sleeves. Nimble, fine-boned hands carefully wrapping a fresh bandage around a wounded sailor's forearm, her expression focused and calm.
-[POSE]: Leaning over a patient laid on a low cot belowdecks, one hand steadying the injured limb while the other works the bandage, head bent in concentration.
-[SETTING]: A cramped but tidy ship's medbay — lantern-light, hanging herbs, rolled bandages and salves stowed in neat cubbies, a basin of water and bloodied cloths nearby.
-[LIGHTING]: Warm amber lamplight, soft and close, casting gentle shadows across her face and silver hair.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -57,6 +48,8 @@ aliases:
 Illaris was born in a drow settlement deep beneath the Silver Mountains, raised within a tribe devoted to Lolth. She grew increasingly uneasy with the tribe's religious fervour — a discomfort that reached a breaking point when the community began offering sacrifices to an unknown creature that had taken up residence nearby. When she began speaking out against the practice and realised her dissent had made her a potential victim, she made the dangerous choice to leave, travelling alone through the Underdark until she surfaced. She never learned what the creature was.
 
 On the surface, Illaris slowly carved out a new life. She joined [[The Mawbreakers]] because they offered something rare: acceptance without interrogation, a ship full of people who had also shed their pasts. Life below the main deck suits her well — the ship's hold keeps the harshest sunlight at bay — and she has found unexpected peace in the rhythm of ocean travel, the stillness of night watches, and the calming sound of her lute on a calm sea. She became the crew's surgeon in that same pragmatic fashion: she had the hands for it, the knowledge, and the care. In her quieter moments she has come to venerate [[Selûne]], drawn to the goddess's association with the night sky that has replaced the cave roof she once knew.
+
+![[Illaris_Sharin_2_small.webp]]
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

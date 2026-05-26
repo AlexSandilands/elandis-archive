@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich, dramatic colour palette — deep violet sky, burning gold light. Epic mythological register. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven man, ancient warrior. Lean and powerfully built. Long dark hair whipped by otherworldly wind. Battle-worn elven plate armour — silver-grey, engraved, cracked and scored from combat. Blade drawn at his side, expression one of absolute grim resolve — a man who has made his choice and is walking toward it.
-[POSE]: Standing in three-quarter view, facing into the light. Small against the vast landscape behind him — deliberately so. He is a single figure at the edge of something incomprehensible. Blue-skinned, many-winged celestial beings can be seen in the far background, enormous shapes barely resolved in the light. The frame has the quality of a fresco — mythic, ancient, slightly blurred at the edges like memory.
-[SETTING]: A cosmic battlefield. Fractured earth and void below. Behind and above the figure, a root of the World Tree rises so vast it is less a root than a geological feature — a column of living wood wider than a mountain range, ascending out of frame and beyond the sky, glowing from within. It is not dramatic scenery. It is simply incomprehensibly large. The scale of the figure against it makes him look like an insect before a cliff face.
-[LIGHTING]: The root behind him suffuses everything with warm golden-green light — alive, immense, indifferent. His armour catches it on one shoulder and along the blade. Shadow falls across most of his face, with one eye lit.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -29,7 +20,6 @@ tags:
   - character
 aliases: [Ryordan the First, First of His Name]
 ---
-
 > [!infobox|wikipedia]
 > # Ryordan Silmara
 > [![[Codex/Assets/Characters/Ryordan_Silmara_small.webp|cover hsmall]]](Codex/Assets/Characters/Ryordan_Silmara.webp)
@@ -52,7 +42,7 @@ aliases: [Ryordan the First, First of His Name]
 > ---|---|
 > Status | Deceased |
 
-**Ryordan Silmara**, known as the First of His Name, was the founding hero of the [[Silmara Family]] — an elven soldier whose name, deeds, and binding sacrifice echo across every generation of his line. He stood alongside vast celestial powers at a cosmic battle at the roots of the [[World Tree]], sundered one of its great roots to save the tree from annihilation, and in doing so tied his bloodline irrevocably to the tree's life and magic for all time. The petrified remnant of that root now lies beneath [[Sumara, The Shining City]] as the [[Heartstone]] — the magical pulse of the city above.
+**Ryordan Silmara**, First of His Name, was the founding hero of the [[Silmara Family]] — an elven soldier whose name, deeds, and binding sacrifice echo across every generation of his line. He stood alongside vast celestial powers at a cosmic battle at the roots of the [[World Tree]], sundered one of its great roots to save the tree from annihilation, and in doing so tied his bloodline irrevocably to the tree's life and magic for all time. The petrified remnant of that root now lies beneath [[Sumara, The Shining City]] as the [[Heartstone]] — the magical pulse of the city above.
 
 ## Biography
 

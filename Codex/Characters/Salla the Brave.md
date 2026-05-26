@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Two young human girls, perhaps eight or nine years old, huddled close together inside a warm silver locket frame — mirror-image twins with dark eyes, windswept hair, and wide innocent smiles
-[POSE]: Side by side, arms around each other, looking up toward the viewer with the easy trust of children who have never been apart
-[SETTING]: The circular interior of an open silver locket, edges worn smooth, faint engraving around the rim
-[LIGHTING]: Warm golden candlelight, soft and intimate, spilling across both faces
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -52,7 +43,7 @@ aliases:
 
 ## Biography
 
-Salla and her twin sister [[Tara]] grew up together in [[Faelon]], the rough-edged mining settlement that clings to the foothills below [[Tumbler's Crag]]. As children, the two were inseparable. At some point, Salla ventured into the caves beneath the crags and never returned. Her skeleton lay undisturbed in a subterranean cavern for years, the silver locket still clutched in her small hand — a planar rift warping the air nearby, thick with necromantic energy.
+Salla and her twin sister [[Tara]] grew up together in [[Faelon]], the rough-edged mining settlement that clings to the foothills below [[Tumbler's Crag]]. As children, the two were inseparable. At some point, Salla ventured up onto the top of [[Tumbler's Crag]], where she fell through a concealed cave opening and plunged into the caverns below, breaking both legs in the fall. Unable to climb out or call for help, she never returned. Her skeleton lay undisturbed in a subterranean cavern for years, the silver locket still clutched in her small hand — a planar rift warping the air nearby, thick with necromantic energy.
 
 Her spirit did not rest easily. When [[The Bloody Nails]] descended into the cave, the act of disturbing the locket roused Salla's ghost in a state of furious grief. She unleashed a devastating psychic wail and fought the party with desperate, inconsolable violence. [[Dondar]] ultimately dispelled her with a bolt of lightning. In the aftermath, [[Kai]] gathered her bones and the locket both, carrying them back to the surface.
 

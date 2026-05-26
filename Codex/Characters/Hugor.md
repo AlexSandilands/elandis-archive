@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Teenage male halfling, slim build, hair cropped close in a militaristic style, wide frightened eyes, wearing an apothecary's work apron over plain clothes.
-[POSE]: Pressed back against a dark tree trunk, clutching his apron with both hands, caught mid-flinch — caught between fleeing and freezing.
-[SETTING]: The edge of a dense, lightless forest at night, underbrush pressing in on either side, a distant glow of town lanterns barely visible through the trees.
-[LIGHTING]: Cold moonlight filtering through a canopy overhead, casting thin pale strips across his terrified face, deep shadow swallowing everything else.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

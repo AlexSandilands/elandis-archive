@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male, mid-40s, scarred face, piercing icy blue eyes, wearing a polished steel helmet with a top crest of dark hair, dark red imperial cloak clasped at the shoulders over plate armour, expression cold and imperious
-[POSE]: Standing at the prow of a ship in a storm, one hand gripping a railing, head turned toward the viewer with a look of contempt
-[SETTING]: The rain-lashed upper deck of a prison ship at night, lightning-split sky, churning black sea beyond the rails
-[LIGHTING]: Harsh white lightning flash from above, casting deep shadows beneath the brim of his helmet, cold blue-grey ambient light from the storm
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Elven woman, approximately 200 years old, long black hair, vivid green eyes, pale skin. Dressed in warm travelling clothes with simple human craftsmanship rather than elven finery — a deliberate choice that suits her. Expression open and warm, a hint of wistfulness behind the eyes.
-[POSE]: Standing at the threshold of a forest village, one hand resting on a worn wooden gatepost, looking outward — as if she has just arrived, or is about to leave.
-[SETTING]: Edge of a dense forest, dappled afternoon light filtering through broad leaves, a small human settlement visible in the middle distance. Wildflowers at her feet.
-[LIGHTING]: Warm amber dappled light through the canopy, soft and golden, gentle shadows that soften her features without obscuring them.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

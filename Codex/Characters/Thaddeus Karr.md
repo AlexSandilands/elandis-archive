@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Human male, early 50s, tall and wiry with sharp angular features. Silver-streaked black hair tied back. Piercing grey eyes, watchful and unreadable. Dressed in dark practical clothing with subtle raven iconography — a brooch, a ring, a small embroidered insignia.
-[POSE]: Leaning back in a high-backed chair, one arm resting across the armrest, fingers loosely curled. He is looking directly at the viewer with calm, appraising eyes — neither welcoming nor hostile.
-[SETTING]: A lamplit underground chamber, low stone ceiling, shelves of ledgers and scrolls behind him. A candle gutters on a worn desk.
-[LIGHTING]: Warm amber candlelight from below, casting dramatic shadows upward across his sharp features. Deep shadow behind him.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

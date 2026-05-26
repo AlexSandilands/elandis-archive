@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Goblin-like fey male, slight and pale-skinned almost to the point of translucency, wearing a battered grey top hat several sizes too large, tattered grey coat, hollow dark eyes with a sly and polite gleam
-[POSE]: Seated cross-legged atop a petrified, thorny log, one hand resting on his knee, the other raised in a delicate gesture — as though making a very reasonable offer
-[SETTING]: Monochromatic grayscale forest, twisted leafless branches overhead, all colour drained from the world except for the faint glow of the figure's eyes
-[LIGHTING]: Flat, sourceless grey ambient light — the colourless light of a world drained of hue — with a faint, unnatural luminescence around the figure
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Fey
@@ -27,6 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Grinn, The Pale
+> [![[Codex/Assets/Characters/Grinn_The_Pale_small.webp|cover hsmall]]](Codex/Assets/Characters/Grinn_The_Pale.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

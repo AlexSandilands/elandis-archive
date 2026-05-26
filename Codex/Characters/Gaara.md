@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Middle-aged male halfling, stocky and weathered, with a broad friendly face, calloused hands, and the look of someone who has spent decades outdoors. Wearing a worn leather apron over practical travelling clothes, pelts and trophy pieces hanging from a belt.
-[POSE]: Standing behind a rough wooden counter, arms folded, grinning warmly at someone just out of frame.
-[SETTING]: A cluttered trapper's shop interior — furs, antlers, and dried herbs hanging from the rafters, crates of equipment stacked against stone walls, warm lantern light.
-[LIGHTING]: Warm amber lantern glow from below, casting soft upward shadows across a good-natured, lived-in face.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

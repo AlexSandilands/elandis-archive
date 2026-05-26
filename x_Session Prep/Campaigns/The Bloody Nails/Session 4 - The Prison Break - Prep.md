@@ -171,7 +171,7 @@ tags:
 ### Kai's Vision
 
 > [!question] Trigger
-> [[Kai]] approaches/touches the statue of [[Elaris Moonsong]]
+> [[Kai]] approaches/touches the statue of [[Elaris Moonsong - Restricted]]
 > > [!info]- Action
 > > - **Voice:** *"Come..."*
 > > - **Vision:** Lifted through ceiling, floating in space.

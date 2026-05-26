@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Young human woman, early twenties, sharp bright eyes, a quick-witted expression caught mid-conversation, dark hair pinned back practically, wearing a tavern barmaid's apron over a simple linen blouse
-[POSE]: Leaning on a polished wooden bar, one hand resting on a tankard, head tilted with an easy half-smile that suggests she's heard every story twice
-[SETTING]: Elegant riverside tavern interior — warm firelight, large windows showing the glimmer of the Luminor River at dusk, soft candlelight on dark polished wood
-[LIGHTING]: Warm amber firelight from the left, gentle cool riverlight through the windows, intimate and welcoming
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

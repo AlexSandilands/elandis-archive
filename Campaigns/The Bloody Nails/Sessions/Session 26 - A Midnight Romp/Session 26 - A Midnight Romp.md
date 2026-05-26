@@ -27,7 +27,7 @@ While [[Vaeleran]] and [[Ryo]] chose to remain within the safety of [[The Green 
 
 After a tense swim and a strategic use of *Misty Step* and *Dust of Disappearance* to navigate the locked-down streets, the pair successfully infiltrated The High Sept using a *Fog Cloud* as cover. Inside, they were met with fear by a cleric named Lara before being confronted by the High Priest, [[High Priest Oldir|Oldir]]. Kai attempted to convince Oldir to allow a ceremony to attune the clerics to [[Selûne]], but Oldir initially refused, citing the danger of heresy and the visible corruption in Kai’s Starry Form, which displayed influence from the "Dark Sister."
 
-The session concluded with a massive lore revelation. Oldir recounted the prophecy of "Selûne's Chosen", who must gather three moonstones to open the Celestial Cavern. When Kai revealed he already possessed one of the moonstones—matching a gem in the altar of [[Elaris Moonsong]] - Oldir’s scepticism turned to shock. Acknowledging Kai as a potential, albeit corrupted, Chosen, Oldir agreed to shelter them for the night, urging Kai to walk the path of light to cleanse the darkness manifesting on his body.
+The session concluded with a massive lore revelation. Oldir recounted the prophecy of "Selûne's Chosen", who must gather three moonstones to open the Celestial Cavern. When Kai revealed he already possessed one of the moonstones—matching a gem in the altar of [[Elaris Moonsong - Restricted]] - Oldir’s scepticism turned to shock. Acknowledging Kai as a potential, albeit corrupted, Chosen, Oldir agreed to shelter them for the night, urging Kai to walk the path of light to cleanse the darkness manifesting on his body.
 
 ## Details
 
@@ -59,7 +59,7 @@ The session concluded with a massive lore revelation. Oldir recounted the prophe
 ### Sanctuary in the High Sept
 
 * Inside the temple, they encountered Lara, a cleric who tried to hide them, fearing Empire reprisals.
-* Lara led them to an alcove dedicated to [[Elaris Moonsong]], where [[Kai]] noticed a gemstone identical to the moonstone he carries.
+* Lara led them to an alcove dedicated to [[Elaris Moonsong - Restricted]], where [[Kai]] noticed a gemstone identical to the moonstone he carries.
 * [[High Priest Oldir]] arrived and questioned their presence. He was sceptical of Kai’s request to perform a redemptive ceremony.
 * Kai activated his Starry Form (Chalice) to prove his connection to the divine. [[High Priest Oldir|Oldir]] noted that half the stars on Kai’s body were black, indicating the influence of the "Dark Sister."
 

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG establishing shot. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: A lone ancient human high priest standing at the centre of a vast temple stage — heavily aged, hunched, with a waist-length white beard and flowing white ceremonial robes with silver trim, arms slightly raised as he addresses the assembly, a small solitary figure dwarfed by the cavernous space around him
-[SETTING]: The High Sept of Val Miriel — a colossal coliseum-like temple interior. Seven sides of tiered stone pews rise up from the central stage like a heptagonal stadium, each of the seven banks dedicated to one of the seven gods, marked by towering statues, banners and distinct iconography. The seats are filled with rows of worshippers in robes, packed into the rising tiers that loom over the small central platform where the priest stands
-[POSE]: Standing alone at the heart of the central stage, gazing upward and outward across the seven banks of the faithful, an expression caught between reverence and barely-contained dread
-[LIGHTING]: Cool silver light pouring down from a high oculus or stained-glass dome onto the central stage, illuminating the priest, with warm torch and candlelight glowing along the tiered seating and softening the vast shadows
-[FORMAT]: Portrait, 3:4 aspect ratio — low, slightly upward angle emphasising the towering scale of the seven-sided amphitheatre rising around the priest
-```
-
 ---
 Type: Character
 Creature Type: Humanoid
@@ -31,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # High Priest Oldir
-> [![[Codex/Assets/Characters/High_Priest_Oldir_small.webp|cover hsmall]]](Codex/Assets/Characters/High_Priest_Oldir.webp)
+> [![[Codex/Assets/Characters/High_Priest_Oldir_2_small.webp|cover hsmall]]](Codex/Assets/Characters/High_Priest_Oldir_2.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -66,7 +57,7 @@ When [[Kai]] visited The High Sept and revealed the starry markings on his arms,
 
 #### [[Session 26 - A Midnight Romp]]
 
-Oldir confronted Kai and his companion after they infiltrated The High Sept under cover of a *Fog Cloud* during the city lockdown. He refused Kai's request to perform a ceremony attuning the temple's clerics to Selûne, troubled by the black stars visible in Kai's Starry Form — a mark he recognised as the influence of the Dark Sister. After Kai produced a moonstone that matched a gem in the altar of [[Elaris Moonsong]], Oldir's scepticism broke. He acknowledged Kai as a potential, if corrupted, Chosen, sheltered the pair for the night, and urged Kai to walk the path of light to purge the darkness taking hold of him.
+Oldir confronted Kai and his companion after they infiltrated The High Sept under cover of a *Fog Cloud* during the city lockdown. He refused Kai's request to perform a ceremony attuning the temple's clerics to Selûne, troubled by the black stars visible in Kai's Starry Form — a mark he recognised as the influence of the Dark Sister. After Kai produced a moonstone that matched a gem in the altar of [[Elaris Moonsong - Restricted]], Oldir's scepticism broke. He acknowledged Kai as a potential, if corrupted, Chosen, sheltered the pair for the night, and urged Kai to walk the path of light to purge the darkness taking hold of him.
 
 #### [[Session 49 - The Silver Sage]]
 

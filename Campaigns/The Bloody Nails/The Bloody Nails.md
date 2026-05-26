@@ -29,6 +29,7 @@ This nail was left in the skull of the [[Hand of The Empire]] at [[Skyreach]] af
 | [[Neros]]    | Half-elf | Druid   | Woop - `(inactive)` |
 | [[Ryo]]      | Elf      | Ranger  | JC                  |
 | [[Vaeleran]] | Human    | Fighter | Vael                |
+| [[Berberis]] | Human    | Druid   | Vael                |
 
 
 ## Sessions
