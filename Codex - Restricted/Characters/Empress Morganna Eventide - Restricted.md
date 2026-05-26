@@ -64,6 +64,8 @@ There is no illusion. She genuinely looks in her early twenties because the orb 
 
 Morganna is not cruel for cruelty's sake. She is a woman who wanted, above all else, to be free — free from family obligation, free from mortality, free from the shape her life had been pressed into before she was old enough to choose otherwise. The irony is that in trading all of that away, she has built a different kind of cage: a century of obligation to [[Kharazoth the Crimson Shadow|Kharazoth]], a continent of subjects who believe in a version of her that is mostly performance, and an empire that requires constant maintenance of controlled minds to stay loyal.
 
+![[Empress_Morganna_Eventide_Haunted_small.webp|right]]
+
 She is highly intelligent and entirely comfortable with manipulation — not because she enjoys it, but because she long ago accepted it as the most efficient tool available to her. The orb's ability to bend wills has shaped how she thinks about people: as vectors of usefulness, to be aligned or removed. Whether anything warmer remains beneath that calculus is a question she may no longer be able to answer herself.
 
 ## Biography
@@ -75,7 +77,7 @@ Morganna was born into one of the ancient noble families descended from pre-Shat
 As a teenager she began exploring ancient ruins in earnest, hunting for the lost history of what her bloodline had once been. It was in those ruins that she first encountered texts detailing the powers unleashed during the [[Chaos Wars]] — and among those powers, necromancy captivated her most. Where others saw death magic as abhorrent, she saw freedom: the possibility of outliving the circumstances she had been born into, of preserving the history she had come to love, of escaping the life her family kept pressing her back into.
 
 In her early twenties, a heated argument with her brother turned fatal. She did not intend to kill him. The magic she was still learning did. Terrified of her family's response, she fled before dawn and did not look back — beginning a period of self-imposed exile in which she pursued forbidden knowledge with nothing left to lose.
-![[Empress_Morganna_Eventide_Ritual_small.webp|right]]
+![[Empress_Morganna_Eventide_Ritual_small.webp|left]]
 
 It was during this exile that [[Kharazoth the Crimson Shadow]] found her. One of the three remaining red dragons still secretly active in the world, Kharazoth approached her in disguise, presenting himself as a mentor who recognised her potential. The disguise was not the only deception. He was not interested in Morganna's wellbeing — he was interested in her usefulness. His ancient goal was to amass enough wealth to fund the ritual that would bring Tiamat into the world, and a power-hungry young necromancer with noble blood and nothing to lose was exactly the instrument he needed.
 
@@ -85,7 +87,7 @@ The price was simple: Morganna would go out into the world, amass power and weal
 
 She accepted, and set sail for [[Valtorra]].
 
-![[Empress_Morganna_Eventide_small.webp|left]]
+![[Empress_Morganna_Eventide_small.webp|right]]
 The conquest that followed was not really a military campaign — it was a demonstration of what a single lich with a soul-binding artefact can accomplish given time. Each city fell the same way: Morganna would appear, speak to the crowds — the orb amplifying her natural charisma into something that bypassed rational thought entirely — and her first true converts, the ones the orb had fully bound, would become the nucleus of loyalty around which the rest of the city organised itself. The [[Hand of The Empire]] were the earliest and most thoroughly controlled of these: the first followers, minds wholly given over to Morganna's will, who then became the template for all who followed. Promising soldiers are still selected from across the kingdoms today, put through rigorous training, and then mind-controlled in a final "graduation" ceremony that the Empire frames as a mark of honour. The orb's touch has always been the last step.
 
 

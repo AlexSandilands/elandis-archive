@@ -56,9 +56,9 @@ There is a restlessness to Vallania that her father's cautious governance only s
 
 #### Background
 
-Vallania never knew her mother, [[Vallarra Miriel]], who died in childbirth delivering her — the last of the Miriel bloodline at the time. She grew up in [[Val Miriel]] under the sole care of a father who governed a fractured city by day and spent his evenings quietly terrified of losing her. Tarlis channelled that fear into protectiveness, and Vallania channelled her response to it into independence. She took up the bow and daggers not because anyone approved, but because no one could stop her. She trained in acrobatics and athletics, went on small unsanctioned adventures, and cultivated a network of quiet freedoms her father pretended not to notice.
+Vallania never knew her mother, [[Vallarra Miriel]], who died in childbirth delivering her — the last of the Miriel bloodline at the time. She grew up in [[Val Miriel]] under the sole care of a father who governed a fractured city by day and spent his evenings quietly terrified of losing her. ![[Vallania_Miriel_Forest_small.webp|left]] Tarlis channelled that fear into protectiveness, and Vallania channelled her response to it into independence. She took up the bow and daggers not because anyone approved, but because no one could stop her. She trained in acrobatics and athletics, went on small unsanctioned adventures, and cultivated a network of quiet freedoms her father pretended not to notice.
 
-![[Vallania_Miriel_Forest_small.webp|left]]
+
 
 She also inherited something he could not give her: the name. The Miriel line runs through her, and in a city named for her family, that is not a small thing. She understands the weight of it even if she wears it lightly — and she understands, with a clarity her father sometimes lacks, that the weight will one day be entirely hers to carry.
 
@@ -69,6 +69,8 @@ When she heard rumours of a goblin problem on the High Road between [[Camaar]] a
 #### [[Session 06 - The Goblin Lair]]
 
 The party discovered Vallania imprisoned in a goblin holding cell beneath the lair, battered and exhausted but fiercely composed — she gave only her nickname, Nia. Unable to travel safely, she was left in the protection of [[Neros]] while the rest of the party pressed deeper into the complex.
+
+![[Vallania_Miriel_Caged_small.webp]]
 
 #### [[Session 07 - Grakthor Falls]]
 
