@@ -7,7 +7,7 @@ Pronouns: She/Her
 Place: "[[Val Miriel]]"
 Connections:
   - "[[Governor Tarlis Evandron]]"
-  - "[[Vallarra Miriel]]"
+  - "[[Vallarra Miriel - Restricted]]"
 Profession: Governor's Daughter
 Importance: Major
 Status: Alive
@@ -16,7 +16,9 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Nia, Vallania]
+aliases:
+  - Nia
+  - Vallania
 ---
 > [!infobox|wikipedia]
 > # Vallania Miriel
@@ -33,7 +35,7 @@ aliases: [Nia, Vallania]
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[Val Miriel]] |
-> Connections | [[Governor Tarlis Evandron\|Tarlis Evandron]]<br>[[Vallarra Miriel]] |
+> Connections | [[Governor Tarlis Evandron\|Tarlis Evandron]]<br>[[Vallarra Miriel - Restricted]] |
 > Profession | Governor's Daughter |
 > ###### Status
 > Attribute |  Details |
@@ -56,7 +58,7 @@ There is a restlessness to Vallania that her father's cautious governance only s
 
 #### Background
 
-Vallania never knew her mother, [[Vallarra Miriel]], who died in childbirth delivering her — the last of the Miriel bloodline at the time. She grew up in [[Val Miriel]] under the sole care of a father who governed a fractured city by day and spent his evenings quietly terrified of losing her. ![[Vallania_Miriel_Forest_small.webp|left]] Tarlis channelled that fear into protectiveness, and Vallania channelled her response to it into independence. She took up the bow and daggers not because anyone approved, but because no one could stop her. She trained in acrobatics and athletics, went on small unsanctioned adventures, and cultivated a network of quiet freedoms her father pretended not to notice.
+Vallania never knew her mother, [[Vallarra Miriel - Restricted]], who died in childbirth delivering her — the last of the Miriel bloodline at the time. She grew up in [[Val Miriel]] under the sole care of a father who governed a fractured city by day and spent his evenings quietly terrified of losing her. ![[Vallania_Miriel_Forest_small.webp|left]] Tarlis channelled that fear into protectiveness, and Vallania channelled her response to it into independence. She took up the bow and daggers not because anyone approved, but because no one could stop her. She trained in acrobatics and athletics, went on small unsanctioned adventures, and cultivated a network of quiet freedoms her father pretended not to notice.
 
 
 

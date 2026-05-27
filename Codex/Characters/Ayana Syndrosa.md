@@ -111,6 +111,18 @@ In the [[Gossamer Woods]], Ayana served as the party's guide toward [[Sumara, Th
 
 Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Warden Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
 
+#### [[Session 48 - The Vault of Memories]]
+
+As the party puzzled over the [[Vault of Memories]]' immortal stone guardian, [[Kai]] reached Ayana by *Sending* to ask whether the construct should be preserved or destroyed. Her reply pointed them toward the answer without giving it away: *"The Heart Stone is very likely testing you. Whatever it is, you need to solve the puzzle to get through."*
+
+#### [[Session 49 - The Silver Sage]]
+
+After the party's long day in the vault with [[Praetor'Varanous]], a soft blue orb unfolded in the [[Royal Citadel of Sumara|Royal Citadel]]'s entry alcove into a flickering image of Ayana, [[Illythia Voss]] waving briefly at her side. She told [[The Bloody Nails]] the council would ask nothing more of them that night — *"I will ask no more of you. Only come when you feel like you're ready. Take the night to yourselves."* In an unusually candid moment she admitted that part of her drive had been selfish: the party had reunited her with someone she cared deeply about, and for that she would be forever thankful.
+
+#### [[Session 50 - A New Morning in Sumara]]
+
+When the party climbed to the [[Locus Arcanum]] seeking a way down into the [[Vale of Eternal Night|Vale]], they found Ayana off-duty for the first time in forty years — reclined in a dressing gown with a glass of wine, her hair brushed loose, [[Illythia Voss]] making breakfast nearby. She joked about raiding the Ironsward for griffins to spite [[Kaelen Vayne]], then sent word to a contact and arranged five sets of *Zephyr Cuffs* for the party's descent into the Vale. [[Kai]] served her prestidigitation-flavoured water as *"wine that won't get you drunk,"* and she approved.
+
 ## Trivia
 
 - Ayana was not originally an elf! She was initially just a very clever young adviser who had indeed been steering [[King Marius Noren|Marius]] in the right direction (without him even really noticing) and there was even a possible love interest there — but she was not a mastermind elf. That came later when Riv saw that this was a good opportunity to introduce the "[[The Emerald Ceremony]]" elves into the story.

@@ -1,12 +1,3 @@
-```
-[STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: Male dwarf, early 50s, stocky and imposing with broad shoulders and soot-stained hands. Fiery red hair and beard, the beard intricately braided with small metallic accents — rings and clasps of worn iron. Weathered, ruddy face with bright, warm eyes and a wide grin. Work clothes smudged with ash and grease, a heavy leather apron over his chest.
-[POSE]: Standing at a forge or beside a wagon wheel, hammer resting on one shoulder, mid-story — gesturing with his free hand as though illustrating some old tale of craftsmanship.
-[SETTING]: A roadside smithy or the back of a merchant caravan, firelight catching the tools and metal fittings around him, open road visible in the background.
-[LIGHTING]: Warm amber forge-light from one side, cool dusk light from the other — a flickering glow that catches the metalwork in his beard.
-[FORMAT]: Portrait, 3:4 aspect ratio
-```
-
 ---
 Type: Character
 Creature Type: Humanoid

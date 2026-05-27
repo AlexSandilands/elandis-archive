@@ -46,7 +46,7 @@ tags:
 	- Plan will be to see what support can be sent
 	- The Mawbreakers have offered to support sending troops
 	- These loyalists now have a lot of skill with city warfare
-	- Will be interesting to see what happens, as Tarlis may not have the same support (he married the heir [[Vallarra Miriel]])
+	- Will be interesting to see what happens, as Tarlis may not have the same support (he married the heir [[Vallarra Miriel - Restricted]])
 
 - What is next for Berberis?
 	- Appreciates that he came searching for answers and support for your people in the northern forest
