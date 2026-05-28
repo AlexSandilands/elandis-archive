@@ -14,7 +14,6 @@ aliases:
   - Runic Focus
   - Dwarven Focus
 ---
-
 > [!infobox|wikipedia]
 > # Rhun'zar
 > [![[Codex/Assets/Items/Rhunzar_small.webp|cover hsmall]]](Codex/Assets/Items/Rhunzar.webp)
