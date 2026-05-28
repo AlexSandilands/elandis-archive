@@ -1,6 +1,6 @@
 ---
 name: codex
-description: Use this skill when the user asks to "/codex", "create a character called X", "add a minor character", "make a new character entry", "add a new codex entry", or wants to create, write, or generate any new character page for the Elandis wiki. ALSO trigger when the user mentions a character that doesn't have a Codex page yet and asks to document, write up, or turn a stub into a proper entry. ALSO trigger when the user says "migrate [name]", "convert [name] to codex", or wants to move a root-level stub into the Codex folder. Characters only for now — other categories (cities, factions, etc.) will be added later. This skill researches the entry in the synopses, presents findings, gathers the DM's notes, and produces a complete, publication-ready Codex entry. When a restricted companion document is needed, it creates both files.
+description: Use this skill when the user asks to "/codex", "create a character called X", "add a minor character", "create a location / point of interest / region called X", "make a new character or location entry", "add a new codex entry", or wants to create, write, or generate any new character or location page for the Elandis wiki. ALSO trigger when the user mentions a character or place (including a forest, gulf, mountain range, or plane) that doesn't have a Codex page yet and asks to document, write up, or turn a stub into a proper entry. ALSO trigger when the user says "migrate [name]", "convert [name] to codex", or wants to move a root-level stub into the Codex folder. Supports Characters and Locations (Points of Interest and Regions) — other categories (cities, factions, etc.) will be added later. This skill researches the entry in the synopses, presents findings, gathers the DM's notes, and produces a complete, publication-ready Codex entry. When a restricted companion document is needed, it creates both files.
 ---
 
 # Codex Entry Creator
@@ -16,14 +16,17 @@ From the user's message, determine which kind of entry is being created.
 | Category | Trigger phrases | Reference |
 |---|---|---|
 | Character | "character", "NPC", "minor/major character", a person's name, migrating a person stub | `references/character.md` |
+| Location | "location", "point of interest", "POI", "region", "place", a ruin/landmark/site/natural feature, a forest/gulf/mountain range/plane, migrating a place stub | `references/location.md` |
 
-**Currently supported:** Characters only. If the user asks for any other category (location, city, faction, item, deity, etc.), tell them that category isn't supported yet and ask if they'd like to create a character entry instead, or skip the skill.
+**Currently supported:** Characters, and Locations of subtype **Point of Interest** and **Region**. The Location reference also covers the City subtype's routing, but it isn't wired in yet — if the user wants a City, the reference explains how to redirect them. If the user asks for any other category (faction, item, lore, deity, etc.), tell them that category isn't supported yet and ask if they'd like a character, point-of-interest, or region entry instead, or skip the skill.
 
 If the category is ambiguous from the message, ask the user to confirm before loading a reference.
 
 ## Step 2 — Load the category reference
 
 Read the reference file from the table above. It contains the full workflow for that category: vault paths, research steps, question lists, frontmatter schema, infobox layout, body templates, restricted-companion handling, image prompt format, and gold-standard examples to match.
+
+**Locations are split to save context:** `references/location.md` is a slim shared base (workflow, research, restricted/image/write steps, universal rules). It routes to a per-subtype doc under `references/locations/` (`poi.md`, `region.md`) that holds that subtype's questions, frontmatter, infobox, and body templates. Read the base first, then the one subtype doc it points you to — never load both subtype docs.
 
 Follow the steps in the reference end-to-end. Do not improvise the format — match the reference exactly.
 
