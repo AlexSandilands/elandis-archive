@@ -52,7 +52,7 @@ tags:
 > The main street, a perfectly straight stretch of paved cobblestone, connects the gate to the docks a mile or two away. Weathered colonial looking wooden buildings line the road, dimly lit by occasional lantern posts as night falls. Townsfolk rush back and forth to complete their day's work, and you can see, lying directly between the gates and the docks the central square of the city, seemly a large marketplace and a hive of activity.
 > 
 > On a hill to the east, a sturdy temple stands out, its elegant spires breaking the city's skyline.
-> As you start heading down onto the main road, you notice streets branching off at right angles, creating a grid-like pattern. This city’s layout, unlike the haphazard, more organically growing streets of the Voltarran cities of old, suggests the designers had more of a military design ethos. Lots of straight lines, very practical, but not particularly imaginative.
+> As you start heading down onto the main road, you notice streets branching off at right angles, creating a grid-like pattern. This city’s layout, unlike the haphazard, more organically growing streets of the Valtorran cities of old, suggests the designers had more of a military design ethos. Lots of straight lines, very practical, but not particularly imaginative.
 > 
 > Welcome to Darmouth.
 
