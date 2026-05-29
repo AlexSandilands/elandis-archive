@@ -43,7 +43,15 @@ The amulet is a spider wrought in dark, antique gold, poised above a large glowi
 
 Those who have worn the amulet describe its gifts plainly. While it is worn, the bearer can move up, down, and across vertical surfaces and along ceilings without using their hands, climbing as swiftly as they walk. They can also exchange simple, basic messages with ordinary spiders. Once a day, the wearer can call on a deeper power: for an hour, lesser arachnids in the area will heed and obey their commands.
 
-> *In-game item text:* passive Climb Speed equal to your Speed (hands free) and the ability to communicate basic messages to spiders; once per day, command lesser arachnids for 1 hour.
+> [!example] ***In Game Item Text:***
+> An amulet shaped in the form of a spider.
+>
+> Provides the following passive benefits:
+> - You can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free. You have a Climb Speed equal to your Speed.
+> - Can communicate basic messages to spiders
+> 
+> Can be activated once per day to gain one of the following benefits:
+> - Command lesser arachnids for 1 hour
 
 ## History
 

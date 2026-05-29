@@ -1,10 +1,3 @@
-```
-[STYLE]: Fantasy RPG heraldic emblem. Bold painterly strokes, visible brushwork, digital painting aesthetic, rich but restrained colour palette. NOT photorealistic, NOT a flat vector logo — stylized like a guild crest in official D&D 5e module artwork.
-[SUBJECT]: a single black raven displayed heraldically — facing forward, wings spread wide and raised in symmetry, head turned in sharp profile, talons clutching a short bare branch; carved in shallow relief into a square slab of dark grey stone that FILLS the entire frame edge to edge as a flat emblem — a symbol, not an object in a room. Tarnished silver leaf picks the raven out against the stone, with faint smaller raven marks chiselled around the border.
-[MOOD]: secretive, watchful, ancient — a mark made to be recognised, not flaunted
-[LIGHTING]: flat, even, ambient illumination — no directional light source, no cast shadows, no candle, no props, no background scene; the relief reads through carved depth alone
-[FORMAT]: 1:1 square, the carved stone surface fills the frame as a centered emblem
-```
 ---
 Type: Faction
 Category: Criminal & Intelligence Network
