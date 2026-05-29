@@ -86,7 +86,7 @@ Rules:
 ```markdown
 > [!infobox|wikipedia]
 > # Region Name
-> [![[Codex/Assets/Locations/Region_Name_small.webp|cover hsmall]]](Codex/Assets/Locations/Region_Name.webp)
+> [![[Codex/Assets/Locations/Regions/Region_Name_small.webp|cover hsmall]]](Codex/Assets/Locations/Regions/Region_Name.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

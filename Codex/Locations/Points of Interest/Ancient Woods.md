@@ -16,7 +16,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ancient Woods
-> [![[Codex/Assets/Locations/Ancient_Woods_small.webp|cover hsmall]]](Codex/Assets/Locations/Ancient_Woods.webp)
+> [![[Ancient_Woods_small.webp|cover hsmall]]](Codex/Assets/Locations/Points_of_Interest/Ancient_Woods.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

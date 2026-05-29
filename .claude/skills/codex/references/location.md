@@ -20,7 +20,7 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 | Region | `Codex/Locations/Regions/<Name>.md` | `Codex - Restricted/Locations/Regions/<Name> - Restricted.md` |
 
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
-- **Image assets:** `Codex/Assets/Locations/` (published) and `x_Assets/Locations/` (working)
+- **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Points_of_Interest/` for POIs, `Codex/Assets/Locations/Regions/` for Regions (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
 
 ---
 
@@ -46,7 +46,7 @@ Before asking for details, check the vault:
 2. Does `<Name>.md` exist at the vault root? If so, read it — its content informs the entry and whether a restricted companion is needed (see Stub File Format below). Root location stubs are often already well-researched DM notes; treat their geography and lore as canon unless the synopses contradict them.
 3. Grep all synopsis files under `Campaigns/The Bloody Nails/Sessions/` for the location's name (and any short-form aliases or the names of structures within it). Collect every matching snippet with its session number. Ignore hits inside `Transcript.md` files — never read those.
 4. **Reconcile session attributions.** A root stub may cite session numbers from memory; the synopses are the source of truth. If the stub says an event happened in Session N but the synopses place it elsewhere, trust the synopses, correct it in the entry, and flag the discrepancy to the user.
-5. Glob for image files matching the location name in `x_Assets/Locations/` and `Codex/Assets/Locations/` (patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`). If found, use the real filename in the infobox.
+5. Glob for image files matching the location name in `x_Assets/Locations/` and the subtype subfolder `Codex/Assets/Locations/Points_of_Interest/` or `Codex/Assets/Locations/Regions/` (patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`). If found, use the real filename **and its subtype subfolder** in the infobox path.
 
 **Region** adds a hub-discovery research step (finding the child Cities/POIs to link) — see `references/locations/region.md`.
 
@@ -97,7 +97,7 @@ Assemble the **frontmatter, infobox, and body** from the templates in the subtyp
 
 - Escape pipes inside wikilinks within blockquotes using `\|` — Obsidian rendering requirement.
 - Omit rows for unknown values — but **always keep the parent row** (`Location` for a POI, `Continent`/`Plane` for a Region); it's the reader's map reference.
-- Image filename: underscores, no spaces — `Location_Name_small.webp` / `Location_Name.webp`.
+- Image path: underscores, no spaces, in **both the filename and the subtype subfolder** — `Codex/Assets/Locations/Points_of_Interest/Location_Name_small.webp` / `Codex/Assets/Locations/Points_of_Interest/Location_Name.webp` for a POI, and `Codex/Assets/Locations/Regions/...` for a Region. Never point the link at the bare `Codex/Assets/Locations/` folder.
 - If a real image was found in Step 2, use its actual filename; otherwise use the placeholder (the user generates art from the prompt later).
 
 ### Rules that apply to all locations

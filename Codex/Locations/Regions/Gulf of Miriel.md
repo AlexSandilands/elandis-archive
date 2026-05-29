@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gulf of Miriel
-> [![[Codex/Assets/Locations/Gulf_of_Miriel_small.webp|cover hsmall]]](Codex/Assets/Locations/Gulf_of_Miriel.webp)
+> [![[Codex/Assets/Locations/Regions/Gulf_of_Miriel_small.webp|cover hsmall]]](Codex/Assets/Locations/Regions/Gulf_of_Miriel.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|
@@ -43,6 +43,8 @@ The gulf's politics reflect that geography. The Empire holds the *law* of these 
 The Gulf of Miriel indents the south-eastern coast of [[Valtorra]], a broad, deep basin reaching inland for many days' sail and closed at its eastern mouth by [[The Maw]]. Its inner shore is sheltered and fertile; its outer approaches are not. The gulf is bordered, clockwise from the south, by [[Camaar]] on the southern shore, [[Farhaven]] on the western shore, [[Val Miriel]] in the north-west where the [[Luminor River]] empties into it, and [[Sabine]] on the northern shore. A single large island — the [[Isle of Solenne]] — sits in the gulf's centre, splitting the open water between the western cities and the eastern mouth.
 
 The climate is warm and wet. Storms boil up across the gulf in the late-year gales, and autumn mornings come in under thick fog that can sit on the water until midday. Rich fishing banks line the sheltered inner shore — the same shoals that have fed [[Camaar]] and [[Sabine]] for centuries — while the seaward approach to the Maw is crowded with sea-stacks and reefs, black basalt spires the locals call **the Teeth**, on whose ledges harpies nest in numbers no patrol has ever managed to cull.
+
+![[Gulf_of_Miriel_Location_small.webp|left]]
 
 The [[Luminor River]] is the gulf's most important geographical feature after the Maw itself: it runs from [[Val Miriel]] north through the central plains of [[Valtorra]] all the way to the capital, [[Val Luminor]]. Goods and orders flow both ways along it. The gulf is, in effect, the saltwater end of the Empire's spine.
 

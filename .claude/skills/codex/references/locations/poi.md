@@ -65,7 +65,7 @@ Rules:
 ```markdown
 > [!infobox|wikipedia]
 > # Location Name
-> [![[Codex/Assets/Locations/Location_Name_small.webp|cover hsmall]]](Codex/Assets/Locations/Location_Name.webp)
+> [![[Codex/Assets/Locations/Points_of_Interest/Location_Name_small.webp|cover hsmall]]](Codex/Assets/Locations/Points_of_Interest/Location_Name.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|
