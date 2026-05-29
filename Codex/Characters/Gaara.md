@@ -54,7 +54,7 @@ The party visited [[The Fur and Fang]] seeking a hunting contract. [[Kai]] chall
 
 #### [[Session 25 - The Chimera]]
 
-The party returned to [[The Fur and Fang]] with the Chimera corpse in tow. Gaara and [[Kira]] negotiated the purchase of the remains for approximately 2,200 gold, with [[Ryo]] additionally commissioning a cloak from a pristine tiger pelt. Gaara also shared troubling news: [[The Order of Ravens]] had broken into the Bastion, stolen documents, and possibly attempted to assassinate the General — information that had set the city on edge.
+The party returned to [[The Fur and Fang]] with the Chimera corpse in tow. Gaara and [[Kira]] negotiated the purchase of the remains for approximately 2,200 gold, with [[Ryo]] additionally commissioning a cloak from a pristine tiger pelt. Gaara also shared troubling news: the [[Order of Ravens]] had broken into the Bastion, stolen documents, and possibly attempted to assassinate the General — information that had set the city on edge.
 
 #### [[Session 27 - The Wanted Dwarf]]
 

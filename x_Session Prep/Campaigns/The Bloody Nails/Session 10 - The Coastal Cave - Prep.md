@@ -44,15 +44,15 @@ tags:
 ### Quest: Veiled Cubs Part 2
 
 - He wants them to take a package to [[Val Miriel]]
-- The package is [[Lia]], who is being contracted out to the [[The Order of Ravens|OOR]] in [[Val Miriel]] for a job that requires a tiny person
+- The package is [[Lia]], who is being contracted out to the [[Order of Ravens|OOR]] in [[Val Miriel]] for a job that requires a tiny person
 
 >[!summary]+ The Mission
 > - The job is to break into [[General Varan Brado]]'s garrison and find information about the ramp up in arrests etc
 > - [[General Varan Brado]] is the military leader of the gulf of Miriel
 > - This will be spread around the public to attempt to rile up the population
 > - Publicly deface the building and leave feather iconography
-> - **Why Lia?** [[Lia]] is required because the [[The Order of Ravens|OOR]] have found no way to safely get inside; there are anti-magic zones and none of their members are large enough to get through a single entry point (a ventilation shaft barely a foot wide). 
-> - Lia will get inside, open the locks to the doors and get out, while the [[The Order of Ravens|OOR]] go inside.
+> - **Why Lia?** [[Lia]] is required because the [[Order of Ravens|OOR]] have found no way to safely get inside; there are anti-magic zones and none of their members are large enough to get through a single entry point (a ventilation shaft barely a foot wide). 
+> - Lia will get inside, open the locks to the doors and get out, while the [[Order of Ravens|OOR]] go inside.
 
 **Rewards:**
 - Magic item (Pick one):

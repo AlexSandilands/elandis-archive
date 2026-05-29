@@ -164,8 +164,8 @@ If discussing with [[Thaddeus Karr|Thaddeus]]:
 > - She was supposed to assist them by breaking into [[The Miriel Bastion|The Bastion]] and opening the way for the rest of their infiltrators, and then leave
 > - She climbed a very small garbage disposal shoot, reached the roof, dropped a rope, which allowed the ravens to quickly ascend in between patrol timings by the guards
 > - Lia was nowhere to be found, as she snuck through the halls and tried to kill [[General Varan Brado]]
-> - [[The Order of Ravens|Ravens]] usually stay with the order until they die or retire, so as to keep their secrets secure
-> - In some cases a [[The Order of Ravens|Raven]] might need to be executed if they become dangerous to the order  
+> - [[Order of Ravens|Ravens]] usually stay with the order until they die or retire, so as to keep their secrets secure
+> - In some cases a [[Order of Ravens|Raven]] might need to be executed if they become dangerous to the order  
 > - [[Lia]] is now very difficult to trust if she apparently cannot follow orders
 > - [[Thaddeus Karr|Thaddeus]] is conflicted because he doesn't want to kill an 11 year girl, but she already knows too much about their operations in [[Val Miriel]].
 > - Does [[Eryndor]] / [[The Bloody Nails]] have an idea for a solution?

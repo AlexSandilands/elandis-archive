@@ -88,7 +88,7 @@ tags:
 
 - One of the nights a kid will enter through a window and say that [[Elesar]] wants to talk to them.
 - He wants them to take a package to [[Val Miriel]]
-- The package is [[Lia]], who is being contracted out to the [[The Order of Ravens|OOR]] in [[Val Miriel]] for a job that requires a tiny person
+- The package is [[Lia]], who is being contracted out to the [[Order of Ravens|OOR]] in [[Val Miriel]] for a job that requires a tiny person
 
 **Rewards:**
 - Magic item (Pick one):

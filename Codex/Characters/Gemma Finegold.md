@@ -79,7 +79,7 @@ In recent years, Gemma made a name for herself within [[The Finegolds]]. While h
 
 ![[Gemma_Finegold_Mourning_small.webp|right]]
 
-Her first major assignment for Barak took her south to [[Darmouth]], where she was to retrieve [[Skyreach]] blueprints held by [[The Order of Ravens]]. En route, she encountered [[The Bloody Nails]] — recently escaped from Imperial captivity following a shipwreck on the Valtorran coast. Recognising both their plight and their potential, she folded them into the caravan as hired guards, a decision that proved pivotal when their knowledge of [[Skyreach]] dovetailed with her own mission.
+Her first major assignment for Barak took her south to [[Darmouth]], where she was to retrieve [[Skyreach]] blueprints held by the [[Order of Ravens]]. En route, she encountered [[The Bloody Nails]] — recently escaped from Imperial captivity following a shipwreck on the Valtorran coast. Recognising both their plight and their potential, she folded them into the caravan as hired guards, a decision that proved pivotal when their knowledge of [[Skyreach]] dovetailed with her own mission.
 
 
 The cost of that mission came later. A trap laid by the Imperial assassin [[Seraphina]] drew both Gemma and [[The Bloody Nails]] into the [[Farhaven Forest]], where [[Harland Finegold|Harland]] was murdered and the rest of [[The Finegolds]] taken captive. The party arrived in time to fight off Seraphina and free the survivors, but not in time to save her father. Gemma buried him in the ruins of Farhaven and resumed her work the following morning — not because she had processed the grief, but because she refused to let it stop her.

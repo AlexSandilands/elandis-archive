@@ -1,6 +1,0 @@
----
-aliases:
-  - Ravens
-  - Raven
-  - OOR
----

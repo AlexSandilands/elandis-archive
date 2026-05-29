@@ -79,7 +79,7 @@ The Finegolds: A merchant caravan group. Secretly working to help start the rebe
 
 The Green Gryphons: A mercenary guild. Offers work for adventurers, such as monster hunting or rescue missions.
 
-The Order of Ravens: A thieves/assassins guild. No alignment to any faction. Works to support freedom above all.
+Order of Ravens: A thieves/assassins guild. No alignment to any faction. Works to support freedom above all.
 
 The Elves: Missing since the rise of the empire. No one knows where they went.
 

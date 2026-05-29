@@ -9,7 +9,7 @@ Place: "[[Val Miriel]]"
 Connections:
   - "[[Eirieneth Silmara]]"
   - "[[Eryndor]]"
-  - "[[The Order of Ravens]]"
+  - "[[Order of Ravens]]"
 Profession: Raven operative (retired)
 Importance: Minor
 Status: Alive
@@ -35,18 +35,18 @@ tags:
 > Pronouns | He/Him |
 > Age | Late nineties |
 > Place | [[Val Miriel]] |
-> Connections | [[Eirieneth Silmara]]<br>[[Eryndor]]<br>[[The Order of Ravens]] |
+> Connections | [[Eirieneth Silmara]]<br>[[Eryndor]]<br>[[Order of Ravens]] |
 > Profession | Raven operative (retired) |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Jarek** is an elderly human operative of [[The Order of Ravens]] and the father of [[Eryndor]], who spent the better part of his remaining years searching for the two people he loved most — his wife [[Eirieneth Silmara]], taken by the [[Valtorran Empire|Empire]] decades before, and his son, from whom a botched heist had separated him. Despite advancing age and failing health, he never stopped looking.
+**Jarek** is an elderly human operative of the [[Order of Ravens]] and the father of [[Eryndor]], who spent the better part of his remaining years searching for the two people he loved most — his wife [[Eirieneth Silmara]], taken by the [[Valtorran Empire|Empire]] decades before, and his son, from whom a botched heist had separated him. Despite advancing age and failing health, he never stopped looking.
 
 ## Biography
 
-Jarek lived in the [[Whispering Woods]] with Eirieneth and their young son Eryndor before the Empire's shadow fell across [[Valtorra]]. When Imperial forces took Eirieneth, he searched for her fruitlessly for years, finding nothing. It was in the aftermath of that loss that he found [[The Order of Ravens]] — or they found him. He joined as a thief and operative, using every contact and connection the network could offer in the hope of tracking her down, and proved able enough that the work left its marks on him.
+Jarek lived in the [[Whispering Woods]] with Eirieneth and their young son Eryndor before the Empire's shadow fell across [[Valtorra]]. When Imperial forces took Eirieneth, he searched for her fruitlessly for years, finding nothing. It was in the aftermath of that loss that he found the [[Order of Ravens]] — or they found him. He joined as a thief and operative, using every contact and connection the network could offer in the hope of tracking her down, and proved able enough that the work left its marks on him.
 
 The second blow came during a heist gone wrong: Jarek was captured by Imperial soldiers, separated from his son and fellow Ravens. He kept his silence under interrogation, gave up nothing, and eventually broke free — only to return to the nest and learn that Eryndor had not come back either. With the bodies of two other Ravens found but no sign of his boy, Jarek spent years watching Imperial garrisons for any hint of his son's fate. None came. Years of grief settled over him like a second cloak. He never gave up, but for a long stretch he had very little hope to sustain him.
 

@@ -29,7 +29,7 @@ The party’s investigation into the [[Ancient Woods]] outside [[Farhaven]] culm
 
 With the immediate threat neutralised and the captives secured, the party tends to the wounded and gives Harland Finegold a proper burial before joining the merchant convoy on the journey to [[Val Miriel]]. The travel is marked by internal strife and supernatural omens for Kai. He attempts a clandestine healing ritual on Vaeleran's eye using a sleep spell, resulting in a tense confrontation when the fighter awakes. Furthermore, Kai is haunted by vivid dreams pulling him between a celestial entity urging patience and a dark, purple-eyed goddess tempting him with vengeance, leaving physical corruption spreading up his arm.
 
-Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Governor Tarlis Evandron]] and his daughter, [[Vallania Miriel]]. The city is a powder keg of mixed loyalties, with some citizens cheering and others jeering the Imperial leadership. After settling into the [[River's Watch]] tavern, the party receives a cryptic message delivered via an arrow through their window. The following morning they were met by [[Gideon Blackthorn]] of [[The Order of Ravens]], who takes custody of [[Lia]]. In a shocking twist before departing, Gideon reveals to Eryndor that his father is not only alive but present in the city, setting the stage for a personal reunion amidst the brewing rebellion.
+Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Governor Tarlis Evandron]] and his daughter, [[Vallania Miriel]]. The city is a powder keg of mixed loyalties, with some citizens cheering and others jeering the Imperial leadership. After settling into the [[River's Watch]] tavern, the party receives a cryptic message delivered via an arrow through their window. The following morning they were met by [[Gideon Blackthorn]] of the [[Order of Ravens]], who takes custody of [[Lia]]. In a shocking twist before departing, Gideon reveals to Eryndor that his father is not only alive but present in the city, setting the stage for a personal reunion amidst the brewing rebellion.
 
 ## Details
 
@@ -64,7 +64,7 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 ### The Handover
 
 * The next morning, the party is flagged down in the tavern by a man in a black cloak.
-* The contact is revealed to be [[Gideon Blackthorn]], a member of [[The Order of Ravens]] and an old acquaintance of [[Eryndor]].
+* The contact is revealed to be [[Gideon Blackthorn]], a member of the [[Order of Ravens]] and an old acquaintance of [[Eryndor]].
 * [[Lia]] is successfully handed over to the Order.
 * Gideon reveals to Eryndor that his father, [[Jarek]] is alive and currently in [[Val Miriel]].
 

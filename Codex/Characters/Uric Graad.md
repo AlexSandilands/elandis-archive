@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[Darmouth]]"
 Connections:
-  - "[[The Order of Ravens]]"
+  - "[[Order of Ravens]]"
   - "[[Ella Sable]]"
   - "[[Gemma Finegold]]"
 Profession: Organiser
@@ -34,18 +34,18 @@ aliases: [Uric]
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[Darmouth]] |
-> Connections | [[The Order of Ravens]]<br>[[Ella Sable]]<br>[[Gemma Finegold]] |
+> Connections | [[Order of Ravens]]<br>[[Ella Sable]]<br>[[Gemma Finegold]] |
 > Profession | Organiser |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Uric Graad** is a human operative of [[The Order of Ravens]] based in [[Darmouth]], and the brother of [[Ella Sable]]. Tall and lean with short dark hair, he is less an infiltrator than the quiet machinery behind those who are — a planner, coordinator, and orchestrator who keeps the cell's operations running while others take the risks.
+**Uric Graad** is a human operative of the [[Order of Ravens]] based in [[Darmouth]], and the brother of [[Ella Sable]]. Tall and lean with short dark hair, he is less an infiltrator than the quiet machinery behind those who are — a planner, coordinator, and orchestrator who keeps the cell's operations running while others take the risks.
 
 ## Biography
 
-Uric operates within the [[The Order of Ravens|Order of Ravens]]' cell in [[Darmouth]], working alongside his sister [[Ella Sable]] and the merchant [[Gemma Finegold]] in the resistance against the [[Valtorran Empire]]. Where Ella is the blade, Uric is the hand that directs it — organising safe houses, managing contacts, and ensuring operations have the groundwork they need before anyone steps into danger. He carries himself with a composed, watchful authority, the kind that comes from years of keeping secrets under pressure.
+Uric operates within the [[Order of Ravens|Order of Ravens]]' cell in [[Darmouth]], working alongside his sister [[Ella Sable]] and the merchant [[Gemma Finegold]] in the resistance against the [[Valtorran Empire]]. Where Ella is the blade, Uric is the hand that directs it — organising safe houses, managing contacts, and ensuring operations have the groundwork they need before anyone steps into danger. He carries himself with a composed, watchful authority, the kind that comes from years of keeping secrets under pressure.
 
 Uric also possesses some degree of arcane insight; he is perceptive enough to recognise latent magical talent in others, and pragmatic enough to act on it when the moment is right.
 

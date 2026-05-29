@@ -23,7 +23,7 @@ tags:
 
 > [!Danger] Combat
 > **3x Rat Swarms**
-> *The players start in the sewers under the prison. Their goal is to rescue [[Ella Sable]] who is a member of [[The Order of Ravens]] and had stolen some vital information for the rebellion against the Empire.*
+> *The players start in the sewers under the prison. Their goal is to rescue [[Ella Sable]] who is a member of the [[Order of Ravens]] and had stolen some vital information for the rebellion against the Empire.*
 
 ## Entering The Prison
 

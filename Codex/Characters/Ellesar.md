@@ -50,7 +50,7 @@ Ellesar grew up an orphan on the streets of [[Camaar]], and what he built from t
 
 Now ninety, Ellesar no longer leaves [[The Veiled Den]]. His world has contracted to the warmth of that underground sanctuary: the clatter of children, the petitions of his lieutenants, the occasional game played at a low table. He moves by wheelchair but his mind is as quick as any he has met, and the children he has raised adore him without reservation — for good reason. He delights in stories from the city outside, plays games with the same competitive glee as any eight-year-old, and manages his small empire with the quiet, firm authority of a man who has been doing it long enough that no one questions him.
 
-When the situation calls for it, Ellesar is not above testing people. He arranged for one of his Cubs, Brom, to be deliberately captured by the party to gauge their skill and intentions — and was satisfied enough with what he learned to offer them work. He also recognised that [[Lia]], his most gifted protégé, had a hatred of the Empire that would eventually make her a liability inside the Cubs. Rather than let that fire burn down his den, he arranged for her to be placed with [[The Order of Ravens]], ensuring she found an outlet that suited her abilities without endangering the children in his care.
+When the situation calls for it, Ellesar is not above testing people. He arranged for one of his Cubs, Brom, to be deliberately captured by the party to gauge their skill and intentions — and was satisfied enough with what he learned to offer them work. He also recognised that [[Lia]], his most gifted protégé, had a hatred of the Empire that would eventually make her a liability inside the Cubs. Rather than let that fire burn down his den, he arranged for her to be placed with the [[Order of Ravens]], ensuring she found an outlet that suited her abilities without endangering the children in his care.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -64,4 +64,4 @@ Ellesar offered the party a contract: return their stolen gold (plus twenty gold
 
 #### [[Session 17 - A New Journey Begins]]
 
-With Imperial pressure mounting and [[Camaar]] on the verge of lockdown, Ellesar confirmed that the situation had grown too dangerous to delay. He formally entrusted [[Lia]] to the party's care and directed them to deliver her to [[The Order of Ravens]] in [[Val Miriel]]. [[Ryo]] won the choice of magic item reward with a natural twenty in a roll-off.
+With Imperial pressure mounting and [[Camaar]] on the verge of lockdown, Ellesar confirmed that the situation had grown too dangerous to delay. He formally entrusted [[Lia]] to the party's care and directed them to deliver her to the [[Order of Ravens]] in [[Val Miriel]]. [[Ryo]] won the choice of magic item reward with a natural twenty in a roll-off.

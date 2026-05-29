@@ -56,7 +56,7 @@ Back in Val Miriel, Brado operates from [[The Bastion]], the Imperial military h
 
 #### [[Session 27 - The Wanted Dwarf]]
 
-Brado survived an assassination attempt at [[The Bastion]] — an unsanctioned solo strike by [[Lia]], who slipped away from the party during a heist and tried to cut his throat. [[The Order of Ravens]] detained her immediately after, debating what to do with a young operative who had gone dangerously rogue. Governor Tarlis sent a message to the party demanding answers; they denied involvement.
+Brado survived an assassination attempt at [[The Bastion]] — an unsanctioned solo strike by [[Lia]], who slipped away from the party during a heist and tried to cut his throat. the [[Order of Ravens]] detained her immediately after, debating what to do with a young operative who had gone dangerously rogue. Governor Tarlis sent a message to the party demanding answers; they denied involvement.
 
 #### [[Session 28 - The Underrun]]
 

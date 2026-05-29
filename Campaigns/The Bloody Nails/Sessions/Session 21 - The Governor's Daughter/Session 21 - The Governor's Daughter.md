@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-Recovering from a hallucinogenic haze in the market, the party returns to the [[River's Watch]] tavern to regroup. The evening takes a sharp turn when an elderly man approaches their table, cheerfully ignoring a botched attempt by [[Kai]] to spike his drink. The stranger reveals himself to be [[Jarek]], the long-lost father of [[Eryndor]] and a veteran of [[The Order of Ravens]]. In a tense but poignant reunion by the river, Jerek reveals he has spent decades searching for Eryndor’s mother, hinting she may be held within the dungeons of [[Val Luminor]]. He warns the party of the "[[Eye of the Empire|Eyes of the Empire]]" before vanishing into the night, leaving Eryndor with a renewed, albeit grim, sense of purpose.
+Recovering from a hallucinogenic haze in the market, the party returns to the [[River's Watch]] tavern to regroup. The evening takes a sharp turn when an elderly man approaches their table, cheerfully ignoring a botched attempt by [[Kai]] to spike his drink. The stranger reveals himself to be [[Jarek]], the long-lost father of [[Eryndor]] and a veteran of the [[Order of Ravens]]. In a tense but poignant reunion by the river, Jerek reveals he has spent decades searching for Eryndor’s mother, hinting she may be held within the dungeons of [[Val Luminor]]. He warns the party of the "[[Eye of the Empire|Eyes of the Empire]]" before vanishing into the night, leaving Eryndor with a renewed, albeit grim, sense of purpose.
 
 At midnight, the group executes a bold plan to enter [[Miriel's Rest]], the royal graveyard. Rather than sneaking, [[Vaeleran]] dons a red cloak and intimidates the guards into opening the gates, citing "classified Imperial business." Inside, they are met by a hooded figure who reveals herself to be [[Vallania Miriel]] (Nia), the governor's daughter and the woman the party previously rescued from the goblin stronghold near [[Darmouth]]. She leads them through a secret passage in her family crypt, descending deep underground to a hidden war room.
 
@@ -37,7 +37,7 @@ There, they meet [[Governor Tarlis Evandron|Tarlis]], the Governor of [[Val Miri
 * The party returns to the [[River's Watch]] after recovering from a drug-induced trip in the market.
 * [[Gemma Finegold]] informs [[Vaeleran]] that the name "Korvas" is associated with the former head of the Imperial Garrison in [[Val Noren]], who has been missing for months.
 * An elderly man approaches the party's table, making small talk. [[Kai]] attempts to slip a poisonous mushroom into the man's drink, but fails to hide the action; the man notices but feigns ignorance.
-* The man throws a puzzle cube at [[Eryndor]], revealing himself to be [[Jarek]], Eryndor's father and a member of [[The Order of Ravens]].
+* The man throws a puzzle cube at [[Eryndor]], revealing himself to be [[Jarek]], Eryndor's father and a member of the [[Order of Ravens]].
 * Jerek and Eryndor speak privately by the river. Jerek reveals he was captured years ago during a heist but escaped. He believes Eryndor's mother, [[Eirieneth Silmara|Eirieneth]], may be a prisoner in [[Val Luminor]].
 * Upon leaving, Jerek warns Kai that trying to poison a Raven is foolish and dangerous.
 

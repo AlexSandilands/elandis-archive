@@ -66,12 +66,12 @@ tags:
 
 The Job:
 
-- Transport [[Lia]], who is being contracted out to [[The Order of Ravens]] in [[Val Miriel]] for a job that requires a tiny infiltration specialist
+- Transport [[Lia]], who is being contracted out to the [[Order of Ravens]] in [[Val Miriel]] for a job that requires a tiny infiltration specialist
 	- The job is to break into [[General Varan Brado|General Varan Brado's]] garrison and find information about the ramp up in arrests etc
 	- This will be spread around the public to attempt to rile up the population
 	- Publicly deface the building and leave feather iconography
-	- [[Lia]] is required because the [[The Order of Ravens|Ravens]] have found no way to safely get inside, there are anti magic zones and none of their members are large enough to get through a single entry point, and ventilation shaft barely a foot wide. [[Lia]] will get inside, open the locks to the doors and get out, while the [[The Order of Ravens|Ravens]] go inside
-	- [[Lia]] wishes to join [[The Order of Ravens]] in [[Val Miriel]], so return transport will not be necessary
+	- [[Lia]] is required because the [[Order of Ravens|Ravens]] have found no way to safely get inside, there are anti magic zones and none of their members are large enough to get through a single entry point, and ventilation shaft barely a foot wide. [[Lia]] will get inside, open the locks to the doors and get out, while the [[Order of Ravens|Ravens]] go inside
+	- [[Lia]] wishes to join the [[Order of Ravens]] in [[Val Miriel]], so return transport will not be necessary
 
 - Reward: Magic item (Pearl of Power, Gloves of missile snaring, Cloak of protection)
 

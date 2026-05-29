@@ -7,7 +7,7 @@ Pronouns: He/Him
 Age: Early forties
 Place: "[[Val Miriel]]"
 Connections:
-  - "[[The Order of Ravens]]"
+  - "[[Order of Ravens]]"
   - "[[Eryndor]]"
 Profession: Raven operative
 Importance: Minor
@@ -36,20 +36,20 @@ aliases: [Trak, Shadow]
 > Pronouns | He/Him |
 > Age | Early forties |
 > Place | [[Val Miriel]] |
-> Connections | [[The Order of Ravens]]<br>[[Eryndor]] |
+> Connections | [[Order of Ravens]]<br>[[Eryndor]] |
 > Profession | Raven operative |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Trak Aeris**, known by the field-name *Shadow*, is a half-elf operative of [[The Order of Ravens]] stationed at the Val Miriel Nest. A seasoned tracker and scout of many years' service, he carries the quiet weight of a man who did not choose the Ravens for ideology — he chose them because there was nothing else left after the [[Valtorran Empire|Empire]] took everything he had built.
+**Trak Aeris**, known by the field-name *Shadow*, is a half-elf operative of the [[Order of Ravens]] stationed at the Val Miriel Nest. A seasoned tracker and scout of many years' service, he carries the quiet weight of a man who did not choose the Ravens for ideology — he chose them because there was nothing else left after the [[Valtorran Empire|Empire]] took everything he had built.
 
 ## Biography
 
 Trak was living quietly with his wife and young child in a small settlement on the edges of Imperial-controlled territory when an Imperial patrol came through looking for Raven sympathizers. His wife was not one. She was in the wrong place at the wrong time, or said the wrong thing, or perhaps the soldiers simply did not distinguish. Trak was not there when it happened. He returned to find the settlement made an example of, and his wife gone from the world.
 
-He joined [[The Order of Ravens]] in the aftermath — not to find answers he did not already have, but because he had a child to feed and keep safe, and nowhere else to go. He proved capable from the first: fast, precise, good at finding things and people who would rather not be found. The Val Miriel Nest kept him on and valued him. He rose no further than operative not from lack of skill but from lack of interest in anything beyond the narrow demands of fieldwork and his child's wellbeing. Ambition would mean caring about the Ravens' broader politics, and that is not what keeps him here. What keeps him here is harder to name — part obligation to the only life his child has ever known, part the inability to put down the purpose he picked up in the ruins of that settlement and has never managed to set aside. He does not speak of his wife. He does not need to.
+He joined the [[Order of Ravens]] in the aftermath — not to find answers he did not already have, but because he had a child to feed and keep safe, and nowhere else to go. He proved capable from the first: fast, precise, good at finding things and people who would rather not be found. The Val Miriel Nest kept him on and valued him. He rose no further than operative not from lack of skill but from lack of interest in anything beyond the narrow demands of fieldwork and his child's wellbeing. Ambition would mean caring about the Ravens' broader politics, and that is not what keeps him here. What keeps him here is harder to name — part obligation to the only life his child has ever known, part the inability to put down the purpose he picked up in the ruins of that settlement and has never managed to set aside. He does not speak of his wife. He does not need to.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

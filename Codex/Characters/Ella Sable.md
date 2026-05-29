@@ -7,7 +7,7 @@ Pronouns: She/Her
 Place: "[[Darmouth]]"
 Connections:
   - "[[Uric Graad]]"
-  - "[[The Order of Ravens]]"
+  - "[[Order of Ravens]]"
 Profession: Infiltrator
 Importance: Minor
 Status: Alive
@@ -34,18 +34,18 @@ aliases:
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[Darmouth]] |
-> Connections | [[Uric Graad]]<br>[[The Order of Ravens]] |
+> Connections | [[Uric Graad]]<br>[[Order of Ravens]] |
 > Profession | Infiltrator |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Ella Sable** is a human infiltrator of [[Darmouth]] and a member of the [[The Order of Ravens|Order of Ravens]] cell operating within the city. Sister to [[Uric Graad]], she shares his commitment to the rebellion against the [[Valtorran Empire]] — though where Uric works in the open, Ella moves through shadows, slipping past guards and locked doors with practiced ease.
+**Ella Sable** is a human infiltrator of [[Darmouth]] and a member of the [[Order of Ravens|Order of Ravens]] cell operating within the city. Sister to [[Uric Graad]], she shares his commitment to the rebellion against the [[Valtorran Empire]] — though where Uric works in the open, Ella moves through shadows, slipping past guards and locked doors with practiced ease.
 
 ## Biography
 
-Ella and her brother [[Uric Graad]] grew up in Darmouth, a port city long squeezed under Imperial occupation. Where other residents learned to keep their heads down, the Graad siblings were drawn into the resistance — eventually finding their place within the [[The Order of Ravens|Order of Ravens]], a clandestine network dedicated to undermining Imperial control. Ella's natural talent for stealth and deception made her an ideal field operative, and she took on missions that required a light touch and a cool nerve. She wears the black cloak and hood of the Order, and knows [[Darmouth]]'s alleys and rooftops as well as any guardsman knows his patrol route.
+Ella and her brother [[Uric Graad]] grew up in Darmouth, a port city long squeezed under Imperial occupation. Where other residents learned to keep their heads down, the Graad siblings were drawn into the resistance — eventually finding their place within the [[Order of Ravens|Order of Ravens]], a clandestine network dedicated to undermining Imperial control. Ella's natural talent for stealth and deception made her an ideal field operative, and she took on missions that required a light touch and a cool nerve. She wears the black cloak and hood of the Order, and knows [[Darmouth]]'s alleys and rooftops as well as any guardsman knows his patrol route.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 

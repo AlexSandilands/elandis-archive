@@ -63,7 +63,7 @@ For each file in a session:
 - [ ] **Write the 5 skill references** (mirror `.claude/skills/codex/references/character.md`):
   - [ ] `references/locations.md` (cities, regions, points of interest — one ref, sub-types inside)
   - [ ] `references/factions.md`
-  - [ ] `references/items.md`
+  - [x] `references/items.md`
   - [ ] `references/lore.md` (deities, events, cosmology, culture)
   - [ ] `references/continents.md`
 - [ ] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
@@ -138,7 +138,7 @@ Reformat (have content):
 - [ ] Circle of the Weave
 - [ ] Circle of Blades *(canonical after Day 1 merge)*
 - [ ] Valtorran Empire *(nation/faction)*
-- [ ] The Order of Ravens
+- [ ] [[Order of Ravens]]
 - [ ] The Green Gryphons
 - [ ] The Emberlight Vigil
 - [ ] Hand of The Empire

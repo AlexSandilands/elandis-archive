@@ -28,7 +28,7 @@ The morning breaks over [[Val Miriel]] with tension thick in the air. At [[The G
 
 Meanwhile, at [[The High Sept]], [[Kai]] and [[Dondar]] awake to the aftermath of their chaotic night. Kai suffers a searing pain in his arm, accompanied by a mysterious whisper promising reward for his actions, as the starry markings on his skin fade. Aided by the cleric Lara, they attempt a desperate and somewhat comical escape through the lockdown; Dondar utilises invisibility and later a precarious disguise involving a stool and ice-platform shoes created by Kai’s magic. They eventually reunite with the rest of the party, though their "old man" disguise fails to fool their companions, leading to Dondar being unceremoniously hidden beneath sacks in their damaged cart.
 
-Seeking a way out, the party liquidates their monster harvest at [[The Fur and Fang]], securing a massive payout for the Chimera parts. Eryndor seeks counsel from [[Thaddeus Karr]] at the [[The Raven's Nest of Val Miriel]], learning a shocking truth: the young girl, [[Lia]], did not just hide during the Bastion heist, but attempted to assassinate General Brado, violating [[The Order of Ravens]]' orders. With the city gates heavily guarded and the walls patrolled by [[Valtorran Empire|The Crimson Empire]], the party weighs their escape options. Ultimately, they decide against the risk of the open walls and choose to brave "[[The Underrun]]"—the dark, monster-infested sewers beneath the city.
+Seeking a way out, the party liquidates their monster harvest at [[The Fur and Fang]], securing a massive payout for the Chimera parts. Eryndor seeks counsel from [[Thaddeus Karr]] at the [[The Raven's Nest of Val Miriel]], learning a shocking truth: the young girl, [[Lia]], did not just hide during the Bastion heist, but attempted to assassinate General Brado, violating the [[Order of Ravens]]' orders. With the city gates heavily guarded and the walls patrolled by [[Valtorran Empire|The Crimson Empire]], the party weighs their escape options. Ultimately, they decide against the risk of the open walls and choose to brave "[[The Underrun]]"—the dark, monster-infested sewers beneath the city.
 
 ## Details
 
@@ -54,7 +54,7 @@ Seeking a way out, the party liquidates their monster harvest at [[The Fur and F
 
 ### The Ravens and the Exit Strategy
 
-* **The Safehouse:** [[Eryndor]] uses the passphrase ("I'll have one of your sharpest drinks") to enter [[The Order of Ravens]] [[Raven's Nest|Nest]] beneath the [[The Gilded Crow]].
+* **The Safehouse:** [[Eryndor]] uses the passphrase ("I'll have one of your sharpest drinks") to enter the [[Order of Ravens]] [[Raven's Nest|Nest]] beneath the [[The Gilded Crow]].
 * **Leah's Betrayal:** [[Thaddeus Karr]] reveals that [[Lia]] went rogue during the heist. Instead of escaping, she tried to cut [[General Varan Brado]]'s throat. She is now detained by the Ravens as a security risk, and Thaddeus is debating whether she can be allowed to live.
 * **Escape Options:** Thaddeus outlines three ways out of the locked-down city:
     * **The Fisherman:** A smuggler named Holdar at the docks (expensive).

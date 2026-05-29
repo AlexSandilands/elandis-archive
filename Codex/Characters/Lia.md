@@ -8,7 +8,7 @@ Age: 11
 Place: "[[Camaar]]"
 Connections:
   - "[[Veiled Cubs]]"
-  - "[[The Order of Ravens]]"
+  - "[[Order of Ravens]]"
   - "[[Ellesar]]"
   - "[[Eryndor]]"
 Profession: Assassin-in-Training
@@ -36,7 +36,7 @@ tags:
 > Pronouns | She/Her |
 > Age | 11 |
 > Place | [[Camaar]] |
-> Connections | [[Veiled Cubs]]<br>[[The Order of Ravens]]<br>[[Ellesar]]<br>[[Eryndor]] |
+> Connections | [[Veiled Cubs]]<br>[[Order of Ravens]]<br>[[Ellesar]]<br>[[Eryndor]] |
 > Profession | Assassin-in-Training |
 > ###### Status
 > Attribute |  Details |
@@ -61,7 +61,7 @@ Lia speaks rarely and directly. She is not cold, exactly, but she is serious in 
 
 Lia grew up in [[Camaar]], the younger child of two parents whose names she keeps close and says rarely. They were killed by [[General Varan Brado]] — executed in the city, seemingly without cause or warning — leaving Lia an orphan and the [[Valtorran Empire]] a permanent enemy. She found her way into the [[Veiled Cubs]], the network of orphaned street thieves operating under [[Ellesar]]'s quiet protection, and quickly distinguished herself. She had quick hands, a quiet step, and an instinct for locks and tight spaces that set her apart from the others.
 
-Ellesar saw in her his most talented student. He also saw the danger. Lia's hatred for General Brado was not the dull ache of old grief — it was active, and it was looking for an outlet. If she stayed with the Cubs, sooner or later she would do something impulsive against an Imperial, and the blowback would fall on everyone. When word came through the underground that the [[The Order of Ravens]] needed a small infiltration specialist — someone slight enough to thread a tight vent and open a door from the inside — Ellesar recognised the opportunity for what it was. He sent Lia not to be rid of her, but because the Ravens were where her temperament belonged, and because he knew she would thrive under their discipline. He arranged an escort through trusted contacts, and the mission was framed to her as a transfer, not a removal.
+Ellesar saw in her his most talented student. He also saw the danger. Lia's hatred for General Brado was not the dull ache of old grief — it was active, and it was looking for an outlet. If she stayed with the Cubs, sooner or later she would do something impulsive against an Imperial, and the blowback would fall on everyone. When word came through the underground that the [[Order of Ravens]] needed a small infiltration specialist — someone slight enough to thread a tight vent and open a door from the inside — Ellesar recognised the opportunity for what it was. He sent Lia not to be rid of her, but because the Ravens were where her temperament belonged, and because he knew she would thrive under their discipline. He arranged an escort through trusted contacts, and the mission was framed to her as a transfer, not a removal.
 
 Lia accepted. She carried her lockpicks and her locket and said very little about what she thought of the arrangement.
 
@@ -69,7 +69,7 @@ The escort north was [[The Bloody Nails]] — a mercenary company passing throug
 
 It was [[Eryndor]] she warmed to, though "warmed" is perhaps too generous a word — she became less careful around him. That night by the fire at the ruins, she sought him out and showed him the locket. For a girl who said almost nothing about her parents to anyone, it was a significant gesture. She also, at some point during the journey, lifted his dagger from him without his knowledge — not for its worth, but apparently as a test of herself, or something harder to name. She said nothing about it. She carried it north alongside everything else she was carrying, and kept quiet.
 
-In [[Val Miriel]], she was handed off to [[Gideon Blackthorn]] of [[The Order of Ravens]] and taken into the Nest's training. The wagon ride was over. But the threads she had left in it — the locket, the dagger, the moment by the fire — had a way of persisting.
+In [[Val Miriel]], she was handed off to [[Gideon Blackthorn]] of the [[Order of Ravens]] and taken into the Nest's training. The wagon ride was over. But the threads she had left in it — the locket, the dagger, the moment by the fire — had a way of persisting.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -87,11 +87,11 @@ On the road through the outskirts of [[Farhaven]], Lia put her skills to use —
 
 #### [[Session 19 - Blood and Sorrow]]
 
-Upon reaching [[Val Miriel]], the handover was completed with quiet efficiency. [[Gideon Blackthorn]], an operative of [[The Order of Ravens]] and an old contact of [[Eryndor]]'s, met the party at the [[River's Watch]] tavern the following morning and took custody of Lia, bringing her into the Nest's protection and training.
+Upon reaching [[Val Miriel]], the handover was completed with quiet efficiency. [[Gideon Blackthorn]], an operative of the [[Order of Ravens]] and an old contact of [[Eryndor]]'s, met the party at the [[River's Watch]] tavern the following morning and took custody of Lia, bringing her into the Nest's protection and training.
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 
-When [[Eryndor]] passed through [[The Order of Ravens]]' headquarters beneath the [[The Raven's Nest of Val Miriel|The Gilded Crow]] on personal business, he caught a brief glimpse of Lia in the training hall — moving through rapier drills with focused intensity, already beginning to grow into the operative she intended to become.
+When [[Eryndor]] passed through the [[Order of Ravens]]' headquarters beneath the [[The Raven's Nest of Val Miriel|The Gilded Crow]] on personal business, he caught a brief glimpse of Lia in the training hall — moving through rapier drills with focused intensity, already beginning to grow into the operative she intended to become.
 
 #### [[Session 27 - The Wanted Dwarf]]
 
@@ -107,5 +107,5 @@ In a distant memory surfacing during [[Eryndor]]'s reflections, it was revealed 
 
 ## Trivia
 
-- Lia's transfer to the [[The Order of Ravens]] was engineered by [[Ellesar]] as much for her protection as for the mission it was attached to. He knew she would eventually act against the Empire if she stayed in [[Camaar]], and he wanted her in an organisation that could channel that drive rather than be destroyed by it.
+- Lia's transfer to the [[Order of Ravens]] was engineered by [[Ellesar]] as much for her protection as for the mission it was attached to. He knew she would eventually act against the Empire if she stayed in [[Camaar]], and he wanted her in an organisation that could channel that drive rather than be destroyed by it.
 - The dagger she returned — or had returned to her — in Session 28 became one of the small recurring threads in [[Eryndor]]'s arc. She had taken it from him on the wagon north, and neither had mentioned it until the last moment before the Underrun.

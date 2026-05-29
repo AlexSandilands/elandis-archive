@@ -28,7 +28,7 @@ The journey from [[Darmouth]] to [[Camaar]] proved to be as perilous as it was r
 
 Upon arriving in the sprawling, chaotic port city of [[Camaar]], the atmosphere was thick with rumours of war and uprising in the north. The party was ushered to the headquarters of [[The Mawbreakers]], where they met Captain [[Barak Stormrider]] and his lieutenant, [[Ari]]. The stolen package from [[Darmouth]] was revealed to contain the schematics for [[Skyreach]] - a massive, secret Imperial viaduct being built over the [[Aeolian Chasm]]. Barak proposed a daring mission: use the plans to identify the structure's weak points and destroy it. This would sever the Empire's supply lines to the capital and force them to navigate "[[The Maw]]," a treacherous stretch of ocean controlled by the Mawbreakers, effectively crippling their ability to wage war on the rebellious city of [[Val Noren]].
 
-The session concluded with a sharp pivot from political intrigue to street justice. After checking into [[The Lion]] Inn, the party realised they had been pick-pocketed of their gold and magic items during the bustle of the city. A visit to the local chapter of [[The Order of Ravens]] pointed them toward a network of street urchins. Attempting to bait the thieves, [[Ryo]] disguised himself as a wealthy drunkard while [[Kai]] provided magical vision to the group. However, their ambush plans were interrupted when they were cornered in a dark alley by thugs demanding a toll. The tension snapped instantly as [[Dondar]], foregoing diplomacy, launched a *Magic Missile* into the leader’s face, plunging the group into initiative.
+The session concluded with a sharp pivot from political intrigue to street justice. After checking into [[The Lion]] Inn, the party realised they had been pick-pocketed of their gold and magic items during the bustle of the city. A visit to the local chapter of the [[Order of Ravens]] pointed them toward a network of street urchins. Attempting to bait the thieves, [[Ryo]] disguised himself as a wealthy drunkard while [[Kai]] provided magical vision to the group. However, their ambush plans were interrupted when they were cornered in a dark alley by thugs demanding a toll. The tension snapped instantly as [[Dondar]], foregoing diplomacy, launched a *Magic Missile* into the leader’s face, plunging the group into initiative.
 
 ## Details
 
@@ -66,7 +66,7 @@ The session concluded with a sharp pivot from political intrigue to street justi
 ### The Theft and The Trap
 
 * **The Robbery:** Upon checking into [[The Lion]] Inn, the party discovered their coin purses and several magic items (including the [[Moonstone]]) had been stolen.
-* **The Order of Ravens:** [[Eryndor]] led the group to a hidden thieves' guild location. They denied involvement but directed the party toward freelance street urchins near the main gate.
+* **Order of Ravens:** [[Eryndor]] led the group to a hidden thieves' guild location. They denied involvement but directed the party toward freelance street urchins near the main gate.
 * **The Sting Operation:**
     * **The Plan:** [[Ryo]] used *Disguise Self* to appear as a wealthy, stumbling noble to act as bait. [[Kai]] shared *Eyes of the Night* (Darkvision) with the party to track the thieves in the dark.
     * **The Confrontation:** While setting up the trap in a dark alley, two thugs intercepted them, demanding a toll.

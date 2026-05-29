@@ -72,9 +72,9 @@ In practice, the open water answers to the [[The Mawbreakers|Mawbreakers]], a co
 
 The gulf's oldest working people. They are loyal to whoever lets them work, which — out on the water — is mostly the Mawbreakers.
 
-### The Order of Ravens
+### Order of Ravens
 
-The [[The Order of Ravens|Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operating in the quiet space between the two powers.
+The [[Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operating in the quiet space between the two powers.
 
 ## Settlements & Sites
 

@@ -54,8 +54,8 @@ tags:
 
 ### Getting There
 
-- Require help from the [[The Order of Ravens|Ravens]]
-- In order for the whole group to enter through the [[The Gilded Crow|Tavern]] they'll need to wait for 15 minutes or so for two noble looking people (a man and a woman) to leave. These are nobles in the city not currently under the payroll or influence of the [[The Order of Ravens|Ravens]], so a bit more subtlety would be required.
+- Require help from the [[Order of Ravens|Ravens]]
+- In order for the whole group to enter through the [[The Gilded Crow|Tavern]] they'll need to wait for 15 minutes or so for two noble looking people (a man and a woman) to leave. These are nobles in the city not currently under the payroll or influence of the [[Order of Ravens|Ravens]], so a bit more subtlety would be required.
 
 ### In the Nest
 
@@ -66,7 +66,7 @@ tags:
 > - She wants to kill [[General Varan Brado]], after that will do whatever people want from her.  
 - Turns out the [[Raven's Nest|Nest]] is actually built into part of [[The Underrun]], so the architecture is similar.
 - There is a secret entrance in one of the side chambers, where a wall will slide back and open to the main [[The Underrun|Underrun]].
-- There are a couple of eyeholes so a [[The Order of Ravens|Raven]] can look out to check no one is on the other side.
+- There are a couple of eyeholes so a [[Order of Ravens|Raven]] can look out to check no one is on the other side.
 
 ### Travelling Through the Underrun
 
