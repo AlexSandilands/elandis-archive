@@ -4,7 +4,7 @@ Creature Type: Fey
 Species: Archfae
 Gender: Female
 Pronouns: She/Her
-Place: "[[Caer Nystral]]"
+Place: "[[Caer Nystral, The Dawnless City]]"
 Connections:
   - "[[Vale of Eternal Night]]"
   - "[[Ellesandra Silmara]]"
@@ -16,7 +16,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [The Star-Veiled Queen]
+aliases:
+  - The Star-Veiled Queen
 ---
 
 > [!infobox|wikipedia]
@@ -33,7 +34,7 @@ aliases: [The Star-Veiled Queen]
 > Species | Archfae |
 > Gender | Female |
 > Pronouns | She/Her |
-> Place | [[Caer Nystral\|Caer Nystral]] |
+> Place | [[Caer Nystral, The Dawnless City\|Caer Nystral]] |
 > Connections | [[Vale of Eternal Night\|The Vale]]<br>[[Ellesandra Silmara]] |
 > Profession | Ruler of the Vale |
 > ###### Status
@@ -41,7 +42,7 @@ aliases: [The Star-Veiled Queen]
 > ---|---|
 > Status | Alive |
 
-**Mirileth**, styled the **Star-Veiled Queen**, is the archfae who rules the [[Vale of Eternal Night]] from the Dawnless City of [[Caer Nystral]]. She has held her court and the tenuous peace on Sumara's border for two thousand years — long enough that the details of how she came to power have faded from all but the most careful memory.
+**Mirileth**, styled the **Star-Veiled Queen**, is the archfae who rules the [[Vale of Eternal Night]] from the Dawnless City of [[Caer Nystral, The Dawnless City|Caer Nystral]]. She has held her court and the tenuous peace on Sumara's border for two thousand years — long enough that the details of how she came to power have faded from all but the most careful memory.
 
 ## Biography
 

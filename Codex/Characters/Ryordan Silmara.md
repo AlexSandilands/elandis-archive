@@ -66,6 +66,10 @@ The [[Silmara Family]] takes its name, its mandate, and much of its identity fro
 
 [[Praetor'Varanous]] showed [[Ryo]] a vision of the first Ryordan within the [[Vault of Memories]] — an elven soldier standing among vast blue-skinned, winged celestial entities at a cosmic battle, a great root piercing earth and sky. The dragon named him as the Silmara who bound his people to the sundered root of the [[World Tree]] and held the cosmos in balance.
 
+#### [[Session 51 - The Last Light - Sonnet]]
+
+The party researched Ryordan in the restricted archives of the [[Circle of the Scroll]] in [[Sumara, The Shining City|Sumara]], assembling a fuller picture of the Sundering from fragmentary and often contradictory historical accounts. The records confirmed his common origins and his rallying of divine and celestial powers. They also established the consequence the Codex of Sumara's own records had not: when the World Tree's roots shattered, a section of sky fell on the northern Vale, carving the crater in which [[Caer Nystral, The Dawnless City]] now stands and sealing those lands under eternal darkness.
+
 ## Trivia
 
 - The binding he forged means every living Silmara is a literal custodian of the World Tree's root — the tie runs in both directions: the bloodline to the tree, and the tree's residual magic to the bloodline.

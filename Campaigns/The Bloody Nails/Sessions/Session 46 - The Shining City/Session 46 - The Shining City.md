@@ -20,13 +20,13 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|12th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|13th Water, 3rd - 2507]] |
 > Location | [[Sumara, The Shining City\|Sumara]]
-> Characters | [[Ayana Syndrosa]]<br>[[Warden Caeryn]]<br>[[Elder Pip Glimmermoss]] |
+> Characters | [[Ayana Syndrosa]]<br>[[Skyguard Caeryn]]<br>[[Elder Pip Glimmermoss]] |
 
 ## Summary
 
 As the party ascended the winding roads of the [[Shimmering Peaks]], the whimsical trials of the Feywild gave way to the breathtaking majesty of [[Sumara, The Shining City]]. Before reaching the gates, they encountered an elven road-worker meticulously carving a statue of the [[World Tree]]. The meeting served as a brief moment of lore-sharing, as [[Dondar]] and [[Eryndor]] recalled the ancient truth that the World Tree transcends all planes, binding existence together. However, the peace was short-lived. Upon entering the [[Sumara, The Shining City#The Luminary Canton — Circle of the Dawn|Luminary Canton]], the party’s presence caused an immediate stir. The sight of humans and a dwarf—unseen in the city for a century—drew the attention of the [[Vanguard Wardens]].
 
-The situation escalated rapidly when [[Warden Caeryn]] and his riders descended on silvery wyverns, demanding the party surrender. When [[Kai]] attempted to cast a minor illusion to explain the situation, a warden’s spear pierced his shoulder, and the party was forcefully bound in enchanted steel cuffs. They were marched to the [[Sumara, The Shining City#The Ironsward Canton — Circle of the Blade|Ironsward Canton]] for interrogation within the severe halls of the [[Circle of the Blade]]. There, the child-version of Ayana proved her power by blasting the suspicious Warden Caeryn across the room with a focused wave of thunderous force, asserting her dominance even in her diminished state.
+The situation escalated rapidly when [[Skyguard Caeryn]] and his riders descended on silvery wyverns, demanding the party surrender. When [[Kai]] attempted to cast a minor illusion to explain the situation, a warden’s spear pierced his shoulder, and the party was forcefully bound in enchanted steel cuffs. They were marched to the [[Sumara, The Shining City#The Ironsward Canton — Circle of the Blade|Ironsward Canton]] for interrogation within the severe halls of the [[Circle of the Blade]]. There, the child-version of Ayana proved her power by blasting the suspicious Warden Caeryn across the room with a focused wave of thunderous force, asserting her dominance even in her diminished state.
 
 The tension finally broke with the arrival of [[Elder Pip Glimmermoss]], an ancient pixie healer from the [[Circle of the Dawn]]. With a specialised concoction, she neutralised the [[Gossamer Dust]], and the party watched as the child grew and shifted back into the formidable [[Ayana Syndrosa]]. The revelation of her identity left Warden Caeryn ashen-faced and apologetic. Recognising the urgency of the party’s mission, Ayana called for a Confluence of the Seven—a rare gathering where the floating capital buildings of each Circle dock above the central citadel. She revealed the staggering truth of [[Ryo]]'s heritage: he is the last heir to the [[Silmara Family|Silmara]] royal bloodline, the child of [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara]], and the key to the elves' potential return to [[Elandis]].
 
@@ -43,7 +43,7 @@ The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining Ci
 ### Arrival and Arrest
 * The party entered the city through the [[Sumara, The Shining City#The Luminary Canton — Circle of the Dawn|Luminary Canton]] (Circle of the Dawn). 
 * Initial reactions from elven citizens were a mix of shock and fear, as non-elves have not been seen in the city for nearly a century.
-* [[Warden Caeryn]] and the Vanguard Wardens surrounded the party. 
+* [[Skyguard Caeryn]] and the Vanguard Wardens surrounded the party. 
 * **Climax:** [[Kai]] was struck by a warden's spear while attempting to cast *Prestidigitation*. The party was placed in enchanted cuffs and taken to a secure hall in the [[Sumara, The Shining City#The Ironsward Canton — Circle of the Blade|Ironsward Canton]].
 * During interrogation, child-Ayana used a high-level *Thunderwave* to blast Caeryn against a wall, though she intentionally spared him from serious injury.
 

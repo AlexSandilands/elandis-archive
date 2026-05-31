@@ -49,4 +49,4 @@ Asha was lost in one of the border engagements that have long marked the uneasy 
 
 #### [[Session 50 - A New Morning in Sumara]]
 
-Named by [[Warden Sylvaris]] during her account of the Long Hunt's history. Sylvaris noted that Kaelen's son had vanished on the borders of [[Caer Nystral]] sixty years ago, and expressed doubt that [[Mirileth]]'s style would have permitted a straightforward disappearance — suggesting the truth of what happened to Asha may still lie within the Vale.
+Named by [[Warden Sylvaris]] during her account of the Long Hunt's history. Sylvaris noted that Kaelen's son had vanished on the borders of the [[Vale of Eternal Night]] sixty years ago, and expressed doubt that [[Mirileth]]'s style would have permitted a straightforward disappearance — suggesting the truth of what happened to Asha may still lie within the Vale.

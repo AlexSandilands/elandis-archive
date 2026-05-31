@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Warden Caeryn
-> [![[Codex/Assets/Characters/Warden_Caeryn_small.webp|cover hsmall]]](Codex/Assets/Characters/Warden_Caeryn.webp)
+> [![[Codex/Assets/Characters/Skyguard_Caeryn_small.webp|cover hsmall]]](Codex/Assets/Characters/Skyguard_Caeryn.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -56,3 +56,7 @@ Caeryn trained under [[Ayana Syndrosa]] before her disappearance during [[The Em
 #### [[Session 46 - The Shining City]]
 
 Led the arrest of the party on their arrival in Sumara; was struck by a deliberate Thunderwave from child-Ayana mid-interrogation; released the party into Ayana's protection following her restoration.
+
+#### [[Session 51 - The Last Light - Sonnet]]
+
+Called in a favour owed to [[Ayana Syndrosa]] and lent the party five sets of Zephyr Cuffs from Circle of the Blade stock for their crossing to the [[Vale of Eternal Night]]; provided the party with the clearest account yet of the border skirmish sixty years ago in which [[Asha Vayne]] vanished — bodies on both sides, a significant Hunt figure among the dead, and no trace of Asha.

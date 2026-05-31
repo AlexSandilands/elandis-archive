@@ -178,7 +178,7 @@ As they near the Vale proper, the air shifts. A breeze carries voices.
 ## Scenario 3: The Vale
 
 > [!summary]- Details
-> - Where: Outer [[Vale of Eternal Night]], north toward [[Caer Nystral]]
+> - Where: Outer [[Vale of Eternal Night]], north toward [[Caer Nystral, The Dawnless City]]
 > - When: After the party crosses the threshold
 > - Key NPCs: The Hunt — Centaur Warden, Centaur Troopers, Dire Worg
 
@@ -229,7 +229,7 @@ If the party wins, they have a window. Bands rotate; another will find them even
 
 - Bodies, gear, the Warden's **signal-horn** on the field. Horn could be forged into a Hunt signal later.
 - The Worg's collar bears the Queen's mark: a stylised antler over a downturned crescent.
-- **Soft hook for next session:** [[Caer Nystral]], *The Dawnless*, lies further north. The soulstone anchor is held in the most secure vault of its Citadel.
+- **Soft hook for next session:** [[Caer Nystral, The Dawnless City]], *The Dawnless*, lies further north. The soulstone anchor is held in the most secure vault of its Citadel.
 
 > [!info]- Pacing
 > If the Hunt fight runs long and the party is bloodied, **end the session here** — they hold the ground, the next horn has not yet sounded, the Vale presses in. If there's still time, push forward into the deep forest and let the size of the land they're in start to land.

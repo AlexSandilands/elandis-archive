@@ -3,7 +3,7 @@ Type: Region
 Plane: Faewild
 Defining Feature: Eternal Night
 Ruling Court: The Unseelie Court
-Capital: "[[Caer Nystral]]"
+Capital: "[[Caer Nystral, The Dawnless City]]"
 Connections:
   - "[[Mirileth]]"
   - "[[Sumara, The Shining City]]"
@@ -32,14 +32,14 @@ aliases:
 > Plane | [[Faewild]] |
 > Defining Feature | Eternal night |
 > Ruling Court | The Unseelie Court |
-> Capital | [[Caer Nystral]] |
+> Capital | [[Caer Nystral, The Dawnless City]] |
 > Connections | [[Mirileth]] (Star-Veiled Queen)<br>[[Sumara, The Shining City\|Sumara]] (rival neighbour) |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Active |
 
-**The Vale of Eternal Night** is a sunless region of the [[Faewild]] and the seat of the Unseelie Court. No moon turns above it; no dawn breaks across it. Its rivers run black under skies the colour of bruised iron, and its forests grow only the things that thrive without the sun — phosphor-fungi, blackthorn, and *silverleaf* that gives no light despite its name. The Vale is ruled from the dark city of [[Caer Nystral]] by the archfae known as the [[Mirileth|Star-Veiled Queen]], and its riding-bands — *The Hunt* — are the visible face of the Court across the wilds.
+**The Vale of Eternal Night** is a sunless region of the [[Faewild]] and the seat of the Unseelie Court. No sun has ever risen over it and no dawn breaks across it; its only moon is the strange, anchored *dark moon* the [[Mirileth|Star-Veiled Queen]] hung above [[Caer Nystral, The Dawnless City]]. Its rivers run black under skies the colour of bruised iron, and its forests grow only the things that thrive without the sun — phosphor-fungi, blackthorn, and *silverleaf* that gives no light despite its name. The Vale is ruled from the dark city of [[Caer Nystral, The Dawnless City|Caer Nystral]] by the archfae known as the [[Mirileth|Star-Veiled Queen]], and its riding-bands — *The Hunt* — are the visible face of the Court across the wilds.
 
 The denizens of the Vale almost universally hold the [[Sumara, The Shining City|Sumaran]] elves responsible for the darkness that fell across their home, a grievance tracing back to the Sundering of the World Tree. Open war has not erupted in two thousand years, but the peace is shallow, and every century has worn it thinner.
 
@@ -50,6 +50,12 @@ The Vale lies in permanent darkness. The denizens have, over generations, come t
 Its plant life is the dark-flora common to sunless biomes: phosphor-fungi that glow faintly green and blue along the trails, blackthorn thickets that spread without season, and silverleaf trees whose foliage takes its name from its colour rather than any luminance it gives off. Game is hunted by sound and scent. The few clearings hold standing stones older than the Court itself.
 
 The air carries a constant low hush, broken occasionally by the distant horns of [[#The Unseelie Court|The Hunt]].
+
+## The Dark Moon
+
+Though no true moon crosses the Vale, a single light hangs over it. From the peak of the Veiled Citadel in [[Caer Nystral, The Dawnless City|Caer Nystral]] rises a **lunar spire** — a pale beam that climbs into the sky and anchors there a **dark moon**: a black orb glowing with the cold white light of an eclipse. It never moves, fixed forever above the Dawnless City, yet it still turns through the familiar lunar phases, from a full orb glowing on every side to a thin crescent lit along a single edge. It is visible from most of the Vale, and for many of the Court's scattered denizens it is the one light they hold in common.
+
+The dark moon is the work of [[Mirileth|the Star-Veiled Queen]], who anchored it not long after she took the throne some two thousand years ago. In a land of feuding covens, quarrelsome riding-bands, and lesser archfae who each keep their own counsel, she meant it as a unifying thing — a single shared light over a divided people, hung where all of them could see it.
 
 ## History and Lore
 

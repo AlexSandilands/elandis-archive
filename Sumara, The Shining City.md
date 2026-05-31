@@ -136,6 +136,8 @@ Each of the Seven Circles occupies a dedicated Canton. Each Canton contains a ke
 - **Meridian:** *Archivist Elrohir Gemflower.* Ancient, dry, absent-minded. More comfortable among crumbling tomes than living people. Allied with Kaelen Vayne on pragmatic grounds; will argue his position via historical precedent. Conceded the Verdant Vault test reluctantly.
 - **Nexus — The Oraculum:** A tiered tower of deep indigo stone that seems to absorb light rather than reflect it. At its peak, a large crystal lens slowly rotates, catching starlight and projecting shifting glyphs across the sky. Windows flicker with the light of a thousand candles. Implies secrets, prophecy, and a thousand years of watching.
 
+- Aaroun the head librarian
+
 ### The Judicant's Canton — Circle of the Scales
 
 - **Elevation:** Mid — centrally placed near the Commons approach
