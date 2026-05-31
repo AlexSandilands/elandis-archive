@@ -11,15 +11,23 @@ Generate a lightweight, scene-based session prep document from the DM's draft pr
 
 The goal is a prep doc you can scan in two minutes before going live — a skeleton that gives you enough structure to avoid blank-spots while leaving room to improvise. Not a script. Session 46 was over-prepared: full NPC bios embedded, scripted dialogue blocks, exhaustive lore dumps. Session 44 is the gold standard: short bullet flows per scene, NPCs described in one line, detailed lore lives in linked Codex docs, cheat sheet tables appear *inside* the scene they belong to.
 
-The draft prep file has two distinct input sections:
-- **`## To Do`** — mechanical and admin tasks only (stream setup, Foundry asset creation, calendar, etc.). These are preserved as-is in the output.
-- **`## Scenes`** — the DM's planning notes about what scenes to build. These are the source of intent for generating the scene content.
+### Where the draft comes from
+
+The draft is usually the hand-off from `/brainstorm` (Mode B — session-prep brainstorming), which sits with the DM, decides what the session needs, and writes it into the draft. Understand its sections so you preserve the right things:
+
+- **`## To Do`** — admin/mechanical tasks (stream setup, Foundry asset creation, calendar) **plus** a grouped, scene-tagged prep checklist the brainstorm produced, under bold sub-headings like **Maps**, **Monsters / Encounters**, **Lore to have ready**, **NPCs**, **Props** — each item tagged to the scene it serves. This whole section is the DM's actionable list — **preserve it verbatim**, sub-headings and scene tags intact.
+- **`## Scenes`** — the DM's planning notes / decided intent for each scene (one `###` per scene). The source of intent for generating scene content.
+- **`## Codex To-Do`** — a checklist of codex entries the brainstorm decided need writing *before* the session (lore the players will interrogate that has no page yet). **Preserve this verbatim as its own section** — don't drop it, and don't fold it into the scene content. It carries through so the DM can clear it with `/codex` (see Step 8).
+- **`## Notes`** — DM seeds and loose threads from the brainstorm, often DM-only secrets that pay off later. Preserve these and merge them into the output `## Notes`.
+
+If one of these sections is absent, the draft predates the brainstorm flow — just work with what's there.
 
 The synopses are the source of truth for what actually happened. Never trust the previous prep's narrative notes as fact — always verify against the synopsis.
 
 ## Vault locations
 
-- **Prep files:** `x_Session Prep/Campaigns/The Bloody Nails/Session <N> - <Title> - Prep.md`
+- **Brainstorm draft (input):** `x_Session Prep/Campaigns/The Bloody Nails/Session <N> - <Title> - Brainstorm.md` — the hand-off from `/brainstorm`. Read it; never overwrite it.
+- **Prep doc (output):** `x_Session Prep/Campaigns/The Bloody Nails/Session <N> - <Title> - Prep.md` — the polished table doc you write.
 - **Synopses:** `Campaigns/The Bloody Nails/Sessions/Session <N>/Synopsis.md`
 - **Codex characters:** `Codex/Characters/<Name>.md`
 - **Codex locations:** `Codex/Locations/**/<Name>.md`
@@ -29,12 +37,15 @@ The synopses are the source of truth for what actually happened. Never trust the
 
 ### 1. Read the draft prep file
 
-Glob for `Session <N> - * - Prep.md` in `x_Session Prep/Campaigns/The Bloody Nails/`. Read it.
+Glob for the brainstorm draft `Session <N> - * - Brainstorm.md` in `x_Session Prep/Campaigns/The Bloody Nails/` and read it — that's the `/brainstorm` hand-off. If there's no `- Brainstorm.md` (a legacy or hand-written draft), fall back to `Session <N> - * - Prep.md`.
 
-- **`## To Do`** contains mechanical and admin tasks only — preserve these verbatim in the output.
-- **`## Scenes`** contains the DM's planning notes: scene names, sub-scenes, and any thoughts or intentions they've jotted down. These are the source of intent for generating scene content.
+Identify the sections described in *Where the draft comes from* above:
+- **`## To Do`** — admin tasks **plus** the grouped, scene-tagged prep checklist (Maps / Monsters / Lore / NPCs / Props). Preserve verbatim.
+- **`## Scenes`** — planning notes / decided intent. The source for scene content.
+- **`## Codex To-Do`** *(if present)* — the codex-entry backlog. Preserve verbatim as its own section; feed it into Step 8.
+- **`## Notes`** *(if present)* — brainstorm seeds and loose threads. Merge into the output `## Notes`.
 
-If there is no draft file, ask the user for the session number and a brief description of what they want to cover. Create the file from scratch using the standard frontmatter. When creating from scratch, include an empty `## To Do` and an empty `## Scenes` section for the DM to fill in.
+If there is no draft file, ask the user for the session number and a brief description of what they want to cover. Create the file from scratch using the standard frontmatter, with an empty `## To Do` and `## Scenes` for the DM to fill in.
 
 ### 2. Read recent synopses — and cross-reference against the previous prep
 
@@ -107,13 +118,15 @@ Write the prep in the sparse format below. The guiding question for each scene i
 
 ### 7. Write the file
 
-Write to `x_Session Prep/Campaigns/The Bloody Nails/Session <N> - <Title> - Prep.md`. If the file already exists (the TODO source), overwrite it — the TODO items will be preserved in the `## To Do` section of the new doc.
+Write the polished doc to `x_Session Prep/Campaigns/The Bloody Nails/Session <N> - <Title> - Prep.md` — a **separate file from the brainstorm draft**.
+
+**Never modify or delete the `- Brainstorm.md` draft** — it's the DM's working notes and DM-only seeds, and they want it kept. If a `- Prep.md` already exists (a prior run, or a legacy in-place draft), overwriting *that* is fine; just don't touch the `- Brainstorm.md`.
 
 Derive the session title from the primary scenario if not already in the filename. Use title case.
 
 ### 8. Offer Codex creation
 
-After writing, list any NPCs or locations that need Codex pages. Offer to create them one at a time using `/codex`. Creating them now means all `[[wikilinks]]` in the prep will resolve correctly.
+The `## Codex To-Do` section carried through from the brainstorm is the authoritative list of entries that need writing before the session — start there. Add to it any *new* NPCs or locations you found in the scenes that have no Codex page and no inline context. Then offer to create them one at a time using `/codex`. Writing them now means all `[[wikilinks]]` in the prep resolve, and the lore the players will interrogate actually exists at the table. Leave the `## Codex To-Do` checkboxes in the doc so the DM can track what's still outstanding.
 
 ---
 
@@ -134,7 +147,16 @@ tags:
 - [ ] Set Session Date in Frontmatter
 - [ ] Intro/Recap
 - [ ] Update Calendar
-[all items from the DM's ## To Do section preserved exactly as written]
+[all admin items AND the grouped, scene-tagged prep checklist from the DM's
+## To Do — Maps / Monsters / Lore / NPCs / Props — preserved exactly as written]
+
+## Codex To-Do
+
+[preserved verbatim from the draft — the entries that need a /codex pass before
+the session; omit this heading only if the draft had none]
+
+- [ ] **[[Subject]]** *(new + Restricted)* — what it needs
+- [ ] **[[Subject]]** *(update)* — what changed
 
 ## Recap
 
