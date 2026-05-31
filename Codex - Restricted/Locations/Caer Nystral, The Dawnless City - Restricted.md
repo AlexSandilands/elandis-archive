@@ -26,7 +26,7 @@ aliases:
   - The Dawnless
 ---
 
-> Public entry: [[Caer Nystral, The Dawnless City]]
+> [!abstract] Public Entry: *[[Caer Nystral, The Dawnless City]]*
 
 > [!infobox|wikipedia]
 > # Caer Nystral

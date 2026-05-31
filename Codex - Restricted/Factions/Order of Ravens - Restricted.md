@@ -13,7 +13,7 @@ tags:
   - faction
 aliases: [The Order of Ravens, Ravens, Raven, OOR]
 ---
-> Public entry: [[Order of Ravens]]
+> [!abstract] Public Entry: *[[Order of Ravens]]*
 
 > [!infobox|wikipedia]
 > # Order of Ravens

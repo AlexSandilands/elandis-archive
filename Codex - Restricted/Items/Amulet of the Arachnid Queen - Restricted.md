@@ -16,8 +16,7 @@ tags:
   - item
 aliases: [Arachnid Queen's Amulet, Spider Amulet]
 ---
-
-> Public entry: [[Amulet of the Arachnid Queen]]
+> [!abstract] Public Entry: *[[Amulet of the Arachnid Queen]]*
 
 > [!infobox|wikipedia]
 > # Amulet of the Arachnid Queen

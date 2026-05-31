@@ -125,7 +125,7 @@ Write to the subtype's restricted folder:
 
 ### What the restricted document is
 
-The restricted document is the **full-truth version** of the article — the same structure as the public document for that subtype, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> Public entry:` line and the `## DM Notes` section).
+The restricted document is the **full-truth version** of the article — the same structure as the public document for that subtype, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
 
 ### Restricted document structure
 
@@ -134,7 +134,7 @@ The restricted document is the **full-truth version** of the article — the sam
 
 [full frontmatter — same schema as public, same values]
 
-> Public entry: [[Location Name]]
+> [!abstract] Public Entry: *[[Location Name]]*
 
 [Infobox — identical to public version]
 

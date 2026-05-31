@@ -237,7 +237,7 @@ Write to: `Codex - Restricted/Items/<Name> - Restricted.md` (create the `Codex -
 
 ### What the restricted document is
 
-The restricted document is the **full-truth version** of the item article — the same structure as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed to the players. When that day comes, the DM can replace the public file with this one (removing the `> Public entry:` line and the `## DM Notes` section).
+The restricted document is the **full-truth version** of the item article — the same structure as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed to the players. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
 
 This means:
 - Appearance: includes any hidden aspect — marks that appear in moonlight, a sigil that only shows when the curse deepens.
@@ -253,7 +253,7 @@ A `## DM Notes` section at the bottom covers anything purely DM-side that won't 
 
 [full frontmatter — same schema as public, plus any spoiler fields (true Rarity, Status, Owner) omitted from the public version]
 
-> Public entry: [[Item Name]]
+> [!abstract] Public Entry: *[[Item Name]]*
 
 [Infobox — same as public, with the spoiler rows restored]
 

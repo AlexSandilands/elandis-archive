@@ -211,7 +211,7 @@ Write to: `Codex - Restricted/Factions/<Name> - Restricted.md`
 
 ### What the restricted document is
 
-The restricted document is the **full-truth version** of the article — the same backbone as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> Public entry:` line and the `## DM Notes` section).
+The restricted document is the **full-truth version** of the article — the same backbone as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
 
 For factions the most common secret is **who really leads, and to what end** — a concealed Grand Master, a true allegiance behind a public front, a patron the rank and file never see. Reveal it in `Structure & Leadership` and `History`; set the `Leader` field to the real name.
 
@@ -222,7 +222,7 @@ For factions the most common secret is **who really leads, and to what end** —
 
 [full frontmatter — same schema as public, but with the true Leader and any other revealed fields]
 
-> Public entry: [[Faction Name]]
+> [!abstract] Public Entry: *[[Faction Name]]*
 
 [Infobox — same as public, but Leader (and any other concealed field) now shows the truth]
 

@@ -234,7 +234,7 @@ Write to: `Codex - Restricted/Characters/<Name> - Restricted.md`
 
 ### What the restricted document is
 
-The restricted document is the **full truth version** of the character article — the same structure as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed to the players. When that day comes, the DM can replace the public file with this one (removing the `> Public entry:` line and the `## DM Notes` section).
+The restricted document is the **full truth version** of the character article — the same structure as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed to the players. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
 
 This means:
 - Appearance/Personality: includes the full picture, not just the public-facing front
@@ -250,7 +250,7 @@ A `## DM Notes` section at the bottom covers anything that's purely DM-side and 
 
 [full frontmatter — same schema as public, same values]
 
-> Public entry: [[Character Name]]
+> [!abstract] Public Entry: *[[Character Name]]*
 
 [Infobox — identical to public version]
 
