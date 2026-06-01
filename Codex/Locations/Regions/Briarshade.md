@@ -1,11 +1,3 @@
-```
-[STYLE]: Fantasy RPG landscape. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: The Briarshade — a vast, colourless Faewild forest drained of all vibrancy. Ancient gnarled leafless trees crowd together, their bark weeping thick black sap that pools at pale, exposed roots. The ground writhes with pale thorny vines. Scattered clusters of bioluminescent fungi cast sickly pale pools of dim light into the darkness. Detached shadows linger at the edge of the light, watching. A narrow path threads between the trees, barely visible.
-[MOOD]: Oppressive, predatory, and hauntingly beautiful — a crystalline stillness that feels wrong, like something is always watching just beyond the reach of the light.
-[LIGHTING]: Near-total darkness broken only by scattered pale bioluminescent fungi, casting dim sickly pools of light that deepen the shadows around them. No warmth anywhere. Everything rendered in deep ash and grey.
-[FORMAT]: 16:9 cinematic landscape
-```
-
 ---
 Type: Region
 Plane: "[[Faewild]]"
@@ -66,19 +58,23 @@ The fey who inhabit the accessible fringe — Boggles, Redcaps, Quicklings, and 
 
 ## Dangers
 
-**The Light Trap.** Any hard shadow cast by a mortal light source — torch, lantern, Light cantrip — detaches from the ground and becomes a hostile Living Shadow. These entities swarm, and attempting to destroy them with directed light only spawns more, creating a self-compounding loop. The shadows drain strength on contact; travellers who persist with mortal light will be weakened until they cannot move.
+### The Light Trap
+Any hard shadow cast by a mortal light source — torch, lantern, Light cantrip — detaches from the ground and becomes a hostile Living Shadow. These entities swarm, and attempting to destroy them with directed light only spawns more, creating a self-compounding loop. The shadows drain strength on contact; travellers who persist with mortal light will be weakened until they cannot move.
 
 The solutions known to locals and the well-prepared: diffusing a light source to produce only soft, unfocused dim light prevents hard shadows from forming; three or more overlapping light sources arranged in a tight geometric formation wash out the shadows between them; or — most reliable — fae-native light. The bioluminescent fungi and the black sap of certain Briarshade trees both provide illumination that the forest does not treat as a provocation. Only some trees produce usable sap; the locals know which ones and how to retrieve it safely.
 
-**The Lure.** The flora and ambient magic work together to mimic familiar voices — loved ones, lost companions, people the traveller has wronged. These sounds call desperately from the darkest parts of the wood, attempting to draw individuals away from safety and into the waiting dark.
+### The Lure
+The flora and ambient magic work together to mimic familiar voices — loved ones, lost companions, people the traveller has wronged. These sounds call desperately from the darkest parts of the wood, attempting to draw individuals away from safety and into the waiting dark.
 
-**Nightmare Inducement.** The Briarshade actively resists restful sleep. The ambient whispers and oppressive atmosphere generate terrifying, hyper-realistic nightmares drawn from the sleeper's deepest fears and past traumas. Travellers who attempt a long rest in the wood rarely wake refreshed; those who linger too long find their judgement and resolve quietly eroding.
+### Nightmare Inducement
+The Briarshade actively resists restful sleep. The ambient whispers and oppressive atmosphere generate terrifying, hyper-realistic nightmares drawn from the sleeper's deepest fears and past traumas. Travellers who attempt a long rest in the wood rarely wake refreshed; those who linger too long find their judgement and resolve quietly eroding.
 
-**Dormant Shadows.** Even without a mortal light source to trigger the swarm, the ambient magic can cause shadows to detach when a traveller lowers their guard. In this dormant form they do not attack outright — they pilfer small shiny objects from packs, or lean close to sleeping travellers to whisper their worst insecurities back at them.
+### Dormant Shadows
+Even without a mortal light source to trigger the swarm, the ambient magic can cause shadows to detach when a traveller lowers their guard. In this dormant form they do not attack outright — they pilfer small shiny objects from packs, or lean close to sleeping travellers to whisper their worst insecurities back at them.
 
 ## Notable
 
-**[[Grinn, The Pale]]** occupies the only clear path through the outer Briarshade, perched on a petrified, thorny log at the threshold. He demands a Toll of Colour from any who wish to pass and be pointed safely through — whether a physical object drained of its vibrancy, or a vivid, joyful memory drawn out and consumed. Those who pay honestly find him a man of his word.
+[[Grinn, The Pale]] occupies the only clear path through the outer Briarshade, perched on a petrified, thorny log at the threshold. He demands a Toll of Colour from any who wish to pass and be pointed safely through — whether a physical object drained of its vibrancy, or a vivid, joyful memory drawn out and consumed. Those who pay honestly find him a man of his word.
 
 The **Briar Light** is a known resource within the wood: enchanted black sap, harvested from specific trees in the Briarshade, that provides diffuse illumination without casting any shadow. It can be gifted, traded, or carefully retrieved from the right trees by those who know where to look.
 

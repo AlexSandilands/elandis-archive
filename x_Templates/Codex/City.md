@@ -1,6 +1,7 @@
 ---
 Type: City
-Region:
+Region: "[[]]"
+Defining Feature:
 Population:
 Government:
 Imperial Presence:
@@ -16,12 +17,13 @@ aliases: []
 ---
 > [!infobox|wikipedia]
 > # {{Name}}
-> [![[Codex/Assets/Locations/{{Name}}_small.webp|cover hsmall]]](Codex/Assets/Locations/{{Name}}.webp)
+> [![[Codex/Assets/Locations/Cities/{{Name}}_small.webp|cover hsmall]]](Codex/Assets/Locations/Cities/{{Name}}.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|
 > Type | City |
 > Region | [[]] |
+> Defining Feature |  |
 > Population |  |
 > Government |  |
 > Imperial Presence |  |
@@ -30,57 +32,59 @@ aliases: []
 > ---|---|
 > Status | Active |
 
-Opening paragraph — what makes this city notable and its role in the world of [[Elandis]].
+Opening paragraph — what this city is, its place within its region and in [[Elandis]], and what makes it matter.
 
-## Details
+## Geography & Layout
 
-- **Population:**
-- **Government:**
-- **Imperial Presence:**
-- **Defining Trait:**
-- **Current Conflicts:**
+Required first section. Place the city on the map (region/continent, setting), then lay out its walls, gates, major roads or causeways, waterways, and how it divides into quarters — the map in prose. This sets up the Districts section.
 
-### Overview
+## History
 
-A broad introduction to the city — its character, atmosphere, and place in the world.
+The city's founding and the major turns that shaped it into what it is today.
 
-### History
+## Government & Imperial Presence
 
-The city's founding, key events, and how it came to be what it is today.
+Who rules and how, and how heavily the [[Valtorran Empire]] leans on the place — the tension between local rule and Imperial control.
 
-### The People
+## The People
 
-Who lives here, what they're like, and what daily life looks like.
+Who lives here, the demographic character, and what daily life looks like.
 
-### Culture and Beliefs
+## Culture & Faith
 
-Traditions, religions, festivals, and cultural identity.
+Religion, festivals, civic traditions, and identity. Subsection a defining civic feature when it warrants it.
 
-### Relations with the Empire
+## Districts
 
-How the city interacts with [[Valtorran Empire]] — loyalty, resistance, or something in between.
+The hub. One subsection per quarter — lead with the district's character, then catalogue its establishments inline. Tier B establishments get a sub-heading and full detail; Tier C are named in the prose. NPCs are described inline, the name linking out to a character page where one exists. A graduated establishment's sub-heading becomes a wikilink; the inline detail stays.
 
-## Locations
+### District Name
 
-### Key Locations
+The district's character in a sentence or two.
 
-#### Location Name
+#### Establishment Name *(type — quality)*
 
 > [!example]+ Description
-> Atmosphere and description of this place.
+> Atmosphere and description of this establishment.
 
-##### Characters
+- **[[NPC Name]]** — their role here and a line of flavour.
 
-- **[[NPC Name]]** — Brief description of their role here.
+## Landmarks
 
-### Factions
+The city's POI map-hub. Wikilink the great structures that have their own Point of Interest pages, each with a one-line gloss on what it is and where in the city it stands.
 
-#### Faction Name
+- **[[The Great Building]]** — what it is, which district it heads, why it matters.
 
-### Merchants
+## Factions
 
-#### Merchant Name
+Factions and organisations operating in the city — wikilink each to its faction page with a one-line note on its presence here. Don't restate rosters.
 
-### Taverns
+### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
-#### Tavern Name
+#### [[Session N - Title]]
+
+What happened in the city during the session, and the party's role in it.
+
+## Trivia
+
+- A worldbuilding aside, a naming note, or a behind-the-scenes detail. (Major only.)
