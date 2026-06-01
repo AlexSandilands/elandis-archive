@@ -81,7 +81,7 @@ The founding of the [[Valtorran Empire|Crimson Empire]] framed the campaign's op
 
 #### [[Session 24 - Nelfandriss The Banished]]
 
-Deep in the flooded ruins of the [[The Ruby Falls Goldmine]], [[The Bloody Nails]] encountered [[Nelfandriss the Banished]], an immense and ancient being who had witnessed the Empire's rise firsthand. She shared what she knew of the Empress — describing her as a young girl who arrived from a distant land and brokered a dark deal a century ago to entrap her own soul and extend her life indefinitely.
+Deep in the flooded ruins of the [[Ruby Falls Goldmine]], [[The Bloody Nails]] encountered [[Nelfandriss the Banished]], an immense and ancient being who had witnessed the Empire's rise firsthand. She shared what she knew of the Empress — describing her as a young girl who arrived from a distant land and brokered a dark deal a century ago to entrap her own soul and extend her life indefinitely.
 
 #### [[Session 34 - Mourning Bells]]
 

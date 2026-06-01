@@ -270,7 +270,7 @@ Landmarks & structures:
 - [ ] The Veiled Den
 - [ ] Blackrock Shelters
 - [ ] Goblin Lair
-- [ ] The Ruby Falls Goldmine
+- [ ] Ruby Falls Goldmine
 
 ---
 

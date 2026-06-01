@@ -91,7 +91,7 @@ tags:
 >[!summary]+ Details
 > - The Road winds up into the mountains
 > - There are tall dark fir trees, that start to diminish the higher up the road they go
-> - Eventually coming to a few smaller buildings (these are huts where the workers lived) which indicates the beginning of [[The Ruby Falls Goldmine]]
+> - Eventually coming to a few smaller buildings (these are huts where the workers lived) which indicates the beginning of the [[Ruby Falls Goldmine]]
 > - Road switches back on itself a few times
 
 - There is the sound of water crashing

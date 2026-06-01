@@ -19,14 +19,14 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|5th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|7th Water, 2nd - 2507]] |
-> Location | [[Val Miriel]]<br>[[The Ruby Falls Goldmine]]
+> Location | [[Val Miriel]]<br>[[Ruby Falls Goldmine]]
 > Characters | [[Jarek]]<br>[[Thaddeus Karr]]<br>[[Trak Aeris]] |
 
 ## Summary
 
 The session began in the chaotic aftermath of the explosion at [[Serenity Plaza]]. Under the cover of [[Kai]]’s fog cloud and a floating illusion of a mercury nail, the party fled the scene, racing back to [[River's Watch]] to retrieve their wagon. While the main group bluffed their way through the eastern gates of [[Val Miriel]] just before lockdown, [[Eryndor]] was pulled aside by the mysterious [[Trak Aeris]]. This detour led him deep into the hidden sanctuary of the [[Order of Ravens]], where he held a sombre vigil at the bedside of his dying father, [[Jarek]]. Securing new contacts and a signet from the Nest father, [[Thaddeus Karr]], Eryndor rode hard to reunite with his companions on the road north.
 
-The journey to the mountains was fraught with tension but devoid of combat. [[Vaeleran]] utilised his imposing presence - and his past identity as [[General Korvas]] - to intervene in a roadside harassment of some merchants by Imperial soldiers, allowing the party to pass without bloodshed. Upon arriving at [[The Ruby Falls Goldmine]], the party found an unsettling silence. The worker huts were abandoned, devoid of bodies but marked by strange, deep scratches and overturned furniture.
+The journey to the mountains was fraught with tension but devoid of combat. [[Vaeleran]] utilised his imposing presence - and his past identity as [[General Korvas]] - to intervene in a roadside harassment of some merchants by Imperial soldiers, allowing the party to pass without bloodshed. Upon arriving at the [[Ruby Falls Goldmine]], the party found an unsettling silence. The worker huts were abandoned, devoid of bodies but marked by strange, deep scratches and overturned furniture.
 
 Venturing into the mine, the investigation turned from mystery to horror. The party explored the dark tunnels, sending a flaming minecart careening down the tracks to illuminate the depths. In a newly excavated tunnel, they discovered a breach into a natural cavern filled with luminescent mushrooms and strange, white stalagmites. Upon closer inspection, Kai realized the "stalagmites" were actually soft, sticky webs containing the preserved corpses of the missing miners. As [[Ryo]] fired a flaming arrow deeper into the cavern to investigate, the silence was shattered by the sound of thousands of skittering legs rushing toward them from the darkness.
 
@@ -50,7 +50,7 @@ Venturing into the mine, the investigation turned from mystery to horror. The pa
 * **Regrouping:** The party camped on the road; [[Dondar]] transcribed spells while [[Kai]] and [[Ryo]] foraged. [[Eryndor]] rejoined them the following afternoon.
 * **The Imperial Encounter:** The group spotted Imperial soldiers harassing a merchant wagon.
 * **The Bluff:** [[Vaeleran]] approached the captain. Utilising *Eagle's Splendor* cast by Kai, Vaeleran successfully intimidated the captain by implying he was on a secret mission as [[General Korvas]]. The soldiers backed down, and Kai bought flour from the relieved merchants.
-* **The Turnoff:** They eventually reached the overgrown, snowy path leading to [[The Ruby Falls Goldmine]].
+* **The Turnoff:** They eventually reached the overgrown, snowy path leading to the [[Ruby Falls Goldmine]].
 
 ### Investigation of Ruby Falls
 

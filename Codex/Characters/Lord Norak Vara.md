@@ -9,7 +9,7 @@ Place: "[[Val Miriel]]"
 Connections:
   - "[[The Green Gryphons]]"
   - "[[Valtorran Empire]]"
-  - "[[The Ruby Falls Goldmine]]"
+  - "[[Ruby Falls Goldmine]]"
 Profession: Minor Noble
 Importance: Minor
 Status: Alive
@@ -38,7 +38,7 @@ aliases:
 > Pronouns | He/Him |
 > Age | Middle-aged |
 > Place | [[Val Miriel]] |
-> Connections | [[The Green Gryphons]]<br>[[Valtorran Empire]]<br>[[The Ruby Falls Goldmine]] |
+> Connections | [[The Green Gryphons]]<br>[[Valtorran Empire]]<br>[[Ruby Falls Goldmine]] |
 > Profession | Minor Noble |
 > ###### Status
 > Attribute |  Details |
@@ -49,7 +49,7 @@ aliases:
 
 ## Biography
 
-Norak Vara owns the [[The Ruby Falls Goldmine]] in the foothills north of [[Val Miriel]], a profitable holding that grants him both wealth and a precarious foothold in the city's merchant-noble class. He operates through the [[The Green Gryphons]] guild, using their connections to contract out security and labour rather than maintaining his own household forces. When contact with the mine was severed and his contracted investigators began disappearing, Vara turned to the guild again — this time engaging a mercenary company to find out what had gone wrong. The [[Valtorran Empire]] had already dispatched two separate squads of soldiers to investigate the silence; neither returned, and the Empire quietly withdrew its interest, leaving Vara to absorb the cost and the risk alone.
+Norak Vara owns the [[Ruby Falls Goldmine]] in the foothills north of [[Val Miriel]], a profitable holding that grants him both wealth and a precarious foothold in the city's merchant-noble class. He operates through the [[The Green Gryphons]] guild, using their connections to contract out security and labour rather than maintaining his own household forces. When contact with the mine was severed and his contracted investigators began disappearing, Vara turned to the guild again — this time engaging a mercenary company to find out what had gone wrong. The [[Valtorran Empire]] had already dispatched two separate squads of soldiers to investigate the silence; neither returned, and the Empire quietly withdrew its interest, leaving Vara to absorb the cost and the risk alone.
 
 His manor sits on [[The Royal Way]], staffed by a small household including his haughty butler Nihilus. Vara is not a man who inspires confidence — he is quick to dismiss concerns he finds inconvenient and slow to acknowledge threats that might reflect badly on his own judgement.
 
@@ -57,7 +57,7 @@ His manor sits on [[The Royal Way]], staffed by a small household including his 
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-Named as the client behind the [[The Ruby Falls Goldmine]] contract, which had gone silent; the party learned that investigators sent to the mine had vanished without a trace.
+Named as the client behind the [[Ruby Falls Goldmine]] contract, which had gone silent; the party learned that investigators sent to the mine had vanished without a trace.
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 

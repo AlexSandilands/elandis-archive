@@ -19,11 +19,11 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|7th Water, 2nd - 2507]] |
-> Location | [[The Ruby Falls Goldmine]]
+> Location | [[Ruby Falls Goldmine]]
 > Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]] |
 ## Summary
 
-The session began with high-octane tension deep within [[The Ruby Falls Goldmine]], as the party found themselves pursued by a swarm of arachnids. Utilising a combination of [[Dondar]]'s explosive *Fireball* and [[Kai]]'s strategic *Moonbeam*, the group decimated the initial wave of spiders, forcing the survivors to retreat into the shadows. Upon investigating the aftermath, the party discovered cocoons containing dead miners and soldiers, notably stripped of all weapons and gold, deepening the mystery of the mine’s abandonment. A brief investigation yielded a magical keepsake amulet from a fallen miner, identified by [[Dondar]] as a moving portrait of a loved one.
+The session began with high-octane tension deep within the [[Ruby Falls Goldmine]], as the party found themselves pursued by a swarm of arachnids. Utilising a combination of [[Dondar]]'s explosive *Fireball* and [[Kai]]'s strategic *Moonbeam*, the group decimated the initial wave of spiders, forcing the survivors to retreat into the shadows. Upon investigating the aftermath, the party discovered cocoons containing dead miners and soldiers, notably stripped of all weapons and gold, deepening the mystery of the mine’s abandonment. A brief investigation yielded a magical keepsake amulet from a fallen miner, identified by [[Dondar]] as a moving portrait of a loved one.
 
 Venturing deeper, the party traversed a surreal, bio-luminescent fungal cavern inhabited by small, shy mushroom folk. Navigating environmental hazards - exploding red fungi and hallucinogenic spores that turned allies into demons in Kai's eyes - they eventually communicated with the locals using mime and spider fangs, learning that the "eight-legged ones" resided further in. A detour led them to a mysterious [[Pool of Reflection]]. Here, [[Vaeleran]] offered his own blood to the water, receiving a cryptic revelation regarding his amnesia: a magical block exists in his mind that only powerful restoration magic can break.
 

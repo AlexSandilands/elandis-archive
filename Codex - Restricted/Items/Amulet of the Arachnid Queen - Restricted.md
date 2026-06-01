@@ -57,7 +57,7 @@ These are its honest gifts. Beneath them runs a second enchantment, Nelfandriss'
 
 The amulet was stolen from Lolth's own collection. When Nelfandriss was banished from the Underdark, she took it on her way out — an act of pure spite against the mother who cast her down — and held onto it for a very long time, long enough for that spite to find a purpose.
 
-That purpose arrived with [[The Bloody Nails]]. Before parting with the amulet, Nelfandriss wove her hidden enchantment into it, then handed it over beneath [[The Ruby Falls Goldmine]] under the cover of a genuine treaty. The bargain over the mine was real; so was the intelligence she shared about [[Empress Morganna Eventide|Empress Morganna]]. But the "gift" was something else again — she had armed a courier and pointed them at the deep, where her war is fought. She gets eyes and a hand in the Underdark; the party gets a useful trinket. She considers it a fair-enough trade, and she does not much care what it ultimately costs them. Both things are true at once.
+That purpose arrived with [[The Bloody Nails]]. Before parting with the amulet, Nelfandriss wove her hidden enchantment into it, then handed it over beneath the [[Ruby Falls Goldmine]] under the cover of a genuine treaty. The bargain over the mine was real; so was the intelligence she shared about [[Empress Morganna Eventide|Empress Morganna]]. But the "gift" was something else again — she had armed a courier and pointed them at the deep, where her war is fought. She gets eyes and a hand in the Underdark; the party gets a useful trinket. She considers it a fair-enough trade, and she does not much care what it ultimately costs them. Both things are true at once.
 
 ## Current Owner
 
@@ -67,7 +67,7 @@ The amulet belongs to [[The Bloody Nails]], who carry it as one of their most re
 
 #### [[Session 24 - Nelfandriss The Banished]]
 
-Deep beneath [[The Ruby Falls Goldmine]], rather than fight the immense, ancient drider they found guarding the depths, the party chose diplomacy. [[Nelfandriss the Banished]] revealed she was only defending her home from the [[Empress Morganna Eventide|Empire's]] intrusion, and a treaty was struck. As a token of the alliance — and, unknown to them, as the delivery of her hidden weapon — Nelfandriss gifted them the amulet and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]].
+Deep beneath the [[Ruby Falls Goldmine]], rather than fight the immense, ancient drider they found guarding the depths, the party chose diplomacy. [[Nelfandriss the Banished]] revealed she was only defending her home from the [[Empress Morganna Eventide|Empire's]] intrusion, and a treaty was struck. As a token of the alliance — and, unknown to them, as the delivery of her hidden weapon — Nelfandriss gifted them the amulet and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]].
 
 #### [[Session 28 - The Underrun]]
 

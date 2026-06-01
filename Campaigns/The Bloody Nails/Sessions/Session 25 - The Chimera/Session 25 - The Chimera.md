@@ -19,11 +19,11 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|8th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|9th Water, 2nd - 2507]] |
-> Location | [[The Ruby Falls Goldmine]]<br>[[Val Miriel]]
+> Location | [[Ruby Falls Goldmine]]<br>[[Val Miriel]]
 > Characters | [[Gaara]]<br>[[Kira]] |
 ## Summary
 
-Leaving the depths of the earth behind, the party secures the legacy of [[The Ruby Falls Goldmine]] mine by collapsing its main entrance, ensuring the secrets within remain buried. Their descent from the mountain is interrupted by a ferocious ambush; what begins as a skirmish with a pack of sabertooth tigers quickly escalates when a massive, three-headed Chimera descends upon the fray. In a display of chaotic prowess, [[Dondar]] unleashes reckless fire, while [[Kai]] manages to ride the beast mid-flight. [[Eryndor]] delivers the killing shot, felling the monstrosity, which the party then stuffs into their modified wagon to haul back to civilisation.
+Leaving the depths of the earth behind, the party secures the legacy of the [[Ruby Falls Goldmine]] mine by collapsing its main entrance, ensuring the secrets within remain buried. Their descent from the mountain is interrupted by a ferocious ambush; what begins as a skirmish with a pack of sabertooth tigers quickly escalates when a massive, three-headed Chimera descends upon the fray. In a display of chaotic prowess, [[Dondar]] unleashes reckless fire, while [[Kai]] manages to ride the beast mid-flight. [[Eryndor]] delivers the killing shot, felling the monstrosity, which the party then stuffs into their modified wagon to haul back to civilisation.
 
 Upon arriving at [[Val Miriel]], the group finds the city transformed into a dystopian police state. The gates are barred, martial law is in effect, and the streets are scarred by recent riots. Through a combination of quick thinking and [[Vaeleran]]'s smooth talking, utilizing their [[The Green Gryphons]] credentials, they bypass the blockade. Inside, they discover a city on edge, plastered with revolutionary propaganda detailing [[Valtorran Empire|The Empire]]'s draconian new taxes and conscription laws—documents stolen during a daring heist on [[The Bastion]].
 

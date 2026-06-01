@@ -57,7 +57,7 @@ Those who have worn the amulet describe its gifts plainly. While it is worn, the
 
 The amulet's origins are visibly ancient and bound up with the Underdark, the lightless world beneath Elandis. When the party brought it before Archivist Elrohir at the Confluence of the Seven, he recognised it on sight as old Underdark construction, the work of some spider-revering power of the deep — though nothing has yet confirmed who made it, and the piece keeps its secrets close.
 
-How such a relic came to rest in the depths beneath [[The Ruby Falls Goldmine]], in the keeping of the ancient drider [[Nelfandriss the Banished]], is unknown. She held it for a very long time before it ever passed to mortal hands.
+How such a relic came to rest in the depths beneath the [[Ruby Falls Goldmine]], in the keeping of the ancient drider [[Nelfandriss the Banished]], is unknown. She held it for a very long time before it ever passed to mortal hands.
 
 ## Current Owner
 
@@ -67,7 +67,7 @@ The amulet now belongs to [[The Bloody Nails]]. It was given to them by [[Nelfan
 
 #### [[Session 24 - Nelfandriss The Banished]]
 
-Deep beneath [[The Ruby Falls Goldmine]], rather than fight the immense, ancient drider they found guarding the depths, the party chose diplomacy. [[Nelfandriss the Banished]] revealed she was only defending her home from the [[Empress Morganna Eventide|Empire's]] intrusion, and a treaty was struck: the party would report the mine inaccessible, and she would let their allies work it quietly. As a token of the alliance, Nelfandriss gifted them the amulet and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]].
+Deep beneath the [[Ruby Falls Goldmine]], rather than fight the immense, ancient drider they found guarding the depths, the party chose diplomacy. [[Nelfandriss the Banished]] revealed she was only defending her home from the [[Empress Morganna Eventide|Empire's]] intrusion, and a treaty was struck: the party would report the mine inaccessible, and she would let their allies work it quietly. As a token of the alliance, Nelfandriss gifted them the amulet and shared disturbing lore about [[Empress Morganna Eventide|Empress Morganna]].
 
 #### [[Session 28 - The Underrun]]
 

@@ -5,7 +5,7 @@ Species: Drider
 Gender: Female
 Pronouns: She/Her
 Age: Ancient (hundreds of years)
-Place: "[[The Ruby Falls Goldmine]]"
+Place: "[[Ruby Falls Goldmine]]"
 Connections:
   - "[[The Bloody Nails]]"
   - "[[The Green Gryphons]]"
@@ -36,7 +36,7 @@ aliases:
 > Gender | Female
 > Pronouns | She/Her |
 > Age | Ancient |
-> Place | [[The Ruby Falls Goldmine]] |
+> Place | [[Ruby Falls Goldmine]] |
 > Connections | [[The Bloody Nails]]<br>[[The Green Gryphons]] |
 > Profession | Progenitor of the Driders |
 > ###### Status
@@ -44,7 +44,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Nelfandriss the Banished** is an ancient Drider — and the first of her kind — who has dwelt in the middle depths beneath [[The Ruby Falls Goldmine]] for hundreds of years, beyond the reach of the sunlit world above. She is the solitary matriarch of a vast arachnid brood, a keeper of beautiful things, and an unlikely figure of negotiation for those wise enough not to draw steel.
+**Nelfandriss the Banished** is an ancient Drider — and the first of her kind — who has dwelt in the middle depths beneath the [[Ruby Falls Goldmine]] for hundreds of years, beyond the reach of the sunlit world above. She is the solitary matriarch of a vast arachnid brood, a keeper of beautiful things, and an unlikely figure of negotiation for those wise enough not to draw steel.
 
 ## Description
 
@@ -68,13 +68,13 @@ Little is known of Nelfandriss's origins. She has dwelt in the middle depths for
 
 The driders that now occur naturally throughout the depths are, in the end, her descendants. She speaks of them only as her children.
 
-She was living quietly in [[The Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners to exploit the gold seams. The intrusion disturbed her brood, and she responded as any mother would: her spiders killed, cocooned, and stripped the bodies. She had no particular quarrel with the individuals — only with the disruption.
+She was living quietly in the [[Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners to exploit the gold seams. The intrusion disturbed her brood, and she responded as any mother would: her spiders killed, cocooned, and stripped the bodies. She had no particular quarrel with the individuals — only with the disruption.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 
-The party arrived in Nelfandriss's domain at the deepest point of [[The Ruby Falls Goldmine]], following a trail of cocooned miners and a bioluminescent fungal cavern. Rather than attacking, they chose diplomacy. Nelfandriss revealed that she had been defending her home against the Empire's encroachment — she bore no malice toward the miners as people, only toward the intrusion itself.
+The party arrived in Nelfandriss's domain at the deepest point of the [[Ruby Falls Goldmine]], following a trail of cocooned miners and a bioluminescent fungal cavern. Rather than attacking, they chose diplomacy. Nelfandriss revealed that she had been defending her home against the Empire's encroachment — she bore no malice toward the miners as people, only toward the intrusion itself.
 
 [[The Bloody Nails]] negotiated a treaty on behalf of [[The Green Gryphons]]: the party would report the mine as inaccessible to the Empire, and in return Nelfandriss would permit the Gryphons' people to mine quietly without interference. The agreement was formally signed. As a gesture of goodwill, she gifted the party the *[[Amulet of the Arachnid Queen]]*, which grants its bearer the ability to climb like a spider or command arachnids. She also shared unsettling intelligence about [[Empress Morganna Eventide|Empress Morganna]] — confirming that the Empress is a century-old girl who brokered a dark deal long ago to trap her own soul and extend her life.
 

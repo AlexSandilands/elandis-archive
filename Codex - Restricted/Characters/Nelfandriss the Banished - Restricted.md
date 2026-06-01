@@ -5,7 +5,7 @@ Species: Drider
 Gender: Female
 Pronouns: She/Her
 Age: Ancient (hundreds of years)
-Place: "[[The Ruby Falls Goldmine]]"
+Place: "[[Ruby Falls Goldmine]]"
 Connections:
   - "[[The Bloody Nails]]"
   - "[[The Green Gryphons]]"
@@ -36,7 +36,7 @@ aliases:
 > Gender | Female
 > Pronouns | She/Her |
 > Age | Ancient |
-> Place | [[The Ruby Falls Goldmine]] |
+> Place | [[Ruby Falls Goldmine]] |
 > Connections | [[The Bloody Nails]]<br>[[The Green Gryphons]] |
 > Profession | Progenitor of the Driders |
 > ###### Status
@@ -44,7 +44,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Nelfandriss the Banished** is an ancient Drider — and the first of her kind — who has dwelt in the middle depths beneath [[The Ruby Falls Goldmine]] for hundreds of years, neither welcomed in the deep societies of the underdark nor able to endure the sunlit world above. Centuries ago, she transformed herself through dark experimentation and was cast out for it; today she is the solitary matriarch of a vast arachnid brood, a keeper of beautiful things, and an unlikely figure of negotiation for those wise enough not to draw steel.
+**Nelfandriss the Banished** is an ancient Drider — and the first of her kind — who has dwelt in the middle depths beneath the [[Ruby Falls Goldmine]] for hundreds of years, neither welcomed in the deep societies of the underdark nor able to endure the sunlit world above. Centuries ago, she transformed herself through dark experimentation and was cast out for it; today she is the solitary matriarch of a vast arachnid brood, a keeper of beautiful things, and an unlikely figure of negotiation for those wise enough not to draw steel.
 
 ## Description
 
@@ -70,13 +70,13 @@ She turned to dark magic and transformed herself: merging her own form with that
 
 Before she fled, Nelfandriss stole her mother's amulet — a powerful artefact of spider command. Whether it was revenge, leverage, or simply love for a beautiful thing, she has never said. She climbed upward through the tunnels, stopped when the sunlight began to burn her skin at the surface threshold, and made her home in the middle depths. In the centuries that followed, she raised children of her own. The driders that now occur naturally throughout the underdark are, in the end, her descendants.
 
-She was living quietly in [[The Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners into the gold seams. The intrusion disturbed her brood, and she responded as any mother would.
+She was living quietly in the [[Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners into the gold seams. The intrusion disturbed her brood, and she responded as any mother would.
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 
-The party arrived in Nelfandriss's domain at the deepest point of [[The Ruby Falls Goldmine]], following a trail of cocooned miners and a bioluminescent fungal cavern. Rather than attacking, they chose diplomacy. Nelfandriss revealed that she had been defending her home against the Empire's encroachment — she bore no malice toward the miners as people, only toward the intrusion itself.
+The party arrived in Nelfandriss's domain at the deepest point of the [[Ruby Falls Goldmine]], following a trail of cocooned miners and a bioluminescent fungal cavern. Rather than attacking, they chose diplomacy. Nelfandriss revealed that she had been defending her home against the Empire's encroachment — she bore no malice toward the miners as people, only toward the intrusion itself.
 
 [[The Bloody Nails]] negotiated a treaty on behalf of [[The Green Gryphons]]: the party would report the mine as inaccessible to the Empire, and in return Nelfandriss would permit the Gryphons' people to mine quietly without interference. The agreement was formally signed. As a gesture of goodwill, she gifted the party the *[[Amulet of the Arachnid Queen]]* — the amulet she stole from her mother's court — which grants its bearer the ability to climb like a spider or command arachnids. She also shared unsettling intelligence about [[Empress Morganna Eventide|Empress Morganna]], confirming that the Empress is a century-old girl who brokered a dark deal long ago to trap her own soul and extend her life.
 
