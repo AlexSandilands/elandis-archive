@@ -35,7 +35,7 @@ aliases:
 > Species | Human |
 > Gender | Female
 > Pronouns | She/Her |
-> Age | 24 |
+> Age | 28 |
 > Languages | Common<br>Dwarvish |
 > Place | [[Silverdeep]] |
 > Connections | [[The Finegolds]]<br>[[The Bloody Nails]] |
@@ -53,7 +53,7 @@ Her path crossed with [[The Bloody Nails]] on the road to [[Darmouth]], where sh
 
 #### Appearance
 
-Gemma is a young human woman in her early 20s, standing at an average height with a slim and agile build. Her long, bright red hair, vibrant and fiery in hue, is typically tied back into a practical ponytail while traveling, keeping it out of her way. Her sharp green eyes, alive with intelligence and curiosity, often seem to be assessing the world around her with a discerning gaze.
+Gemma is a young human woman in her late 20s, standing at an average height with a slim and agile build. Her long, bright red hair, vibrant and fiery in hue, is typically tied back into a practical ponytail while traveling, keeping it out of her way. Her sharp green eyes, alive with intelligence and curiosity, often seem to be assessing the world around her with a discerning gaze.
 
 Unlike her father’s more ostentatious attire, Gemma opts for practical clothing suited to her lifestyle. She favours earthy tones of brown and green, which complement her striking eyes and hint at her grounded nature.
 

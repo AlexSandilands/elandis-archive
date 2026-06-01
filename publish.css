@@ -9433,6 +9433,42 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
   margin-bottom: 2px;
 }
 
+/* ============================================================
+   Mobile (Obsidian Publish) — unfloat infoboxes & |left/|right images
+   The theme's built-in mobile rules key off the `.is-mobile` body class,
+   which only exists inside the Obsidian app — never on the published site.
+   On Publish, "mobile" is just a narrow viewport, so we replicate the same
+   intent with a width-based media query. Desktop behaviour is untouched.
+   ============================================================ */
+@media (max-width: 750px) {
+  /* 1. Infoboxes: stop floating to the right (which squeezes body text into
+     a tiny column on phones). Render as a normal full-width box in flow,
+     so it sits at the top of its section with text above/below it. */
+  .callout.callout[data-callout~=infobox] {
+    float: none !important;
+    max-width: 100% !important;
+    width: auto !important;
+    --callout-margin: 0 0 1em 0 !important;
+    margin: 0 0 1em 0 !important;
+  }
+
+  /* 2. |left / |right images: stop floating so body text no longer wraps in
+     a sliver beside them. Image becomes a centred full-width block with the
+     text flowing above and below instead. */
+  .markdown-rendered img:is([alt*=left], [alt*=locl]),
+  .markdown-rendered img:is([src*="#left"], [src*="#locl"]),
+  .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]),
+  .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]),
+  .markdown-rendered img:is([alt*=right], [alt*=locr]),
+  .markdown-rendered img:is([src*="#right"], [src*="#locr"]),
+  .markdown-rendered .image-embed:is([alt*=right], [alt*=locr]),
+  .markdown-rendered .image-embed:is([src*="#right"], [src*="#locr"]) {
+    float: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
 @media print {
   .callout[data-callout~=infobox] {
     max-width: 400px;

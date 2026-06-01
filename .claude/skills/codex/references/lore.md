@@ -6,9 +6,9 @@ Shared lore workflow for the codex skill. Read this when creating any lore entry
 |---|---|---|---|
 | **Event** | A discrete historical or cosmological happening with a place in time — a cataclysm, war, founding, pact, or turning point | `references/lore/event.md` | **Supported** |
 | **Cosmology / Concept** | A timeless feature of how the world *is* — a cosmic structure, plane, force, phenomenon, or tradition | `references/lore/concept.md` | **Supported** |
-| Deity | A god or divine being | *(not yet written)* | Not yet supported |
+| **Deity** | A god or divine being — a power that is worshipped, prayed to, or reckoned divine | `references/lore/deity.md` | **Supported** |
 
-**Telling the subtypes apart:** if it *happened* (it has a *when* — you could place it on a timeline), it is an **Event**; if it *exists* (timeless — it is a thing the world is built from or contains), it is a **Cosmology / Concept**. A god or divine being is a **Deity** — that subtype isn't wired in yet; if the user wants one, tell them so and offer to write it as a Concept for now, or to hand-write it from `x_Templates/Codex/Lore.md`. (When Deity is added, write `references/lore/deity.md` mirroring the two existing subtype docs.)
+**Telling the subtypes apart:** if it *happened* (it has a *when* — you could place it on a timeline), it is an **Event**; if it *exists* (timeless — it is a thing the world is built from or contains), it is a **Cosmology / Concept**; if it is a *being* that is worshipped or reckoned divine (a god, a goddess, a member of the pantheon), it is a **Deity**. The line between a Concept and a Deity is *being vs. structure* — the [[World Tree]] is a Concept (a cosmic structure, even though the elves revere it); Selûne is a Deity (a god with a will and a portfolio). When in doubt, ask.
 
 **The Timeline is not a Lore entry.** `Timeline.md` is an index/chronology page that links *to* lore entries — it is not a templated lore article and is not produced by this skill. If the user wants to work on the Timeline, say so and treat it as a plain index page, not a codex entry.
 
@@ -27,13 +27,13 @@ Both subtypes share one folder; the subtype is captured in the `Category` frontm
 
 Extract from the user's message whatever they've already provided:
 - Lore **name**
-- **Subtype:** Event or Cosmology / Concept (Deity is not yet supported). Infer from the subject — something that *happened* is an Event; something that *exists* timelessly is a Concept. Confirm if it's ambiguous.
+- **Subtype:** Event, Cosmology / Concept, or Deity. Infer from the subject — something that *happened* is an Event; something that *exists* timelessly is a Concept; a *worshipped or divine being* is a Deity. Confirm if it's ambiguous.
 - **Importance:** Major or Minor
 - Whether a **restricted companion document** is also needed
 
 If anything is missing, ask for it all in one message — don't ask one field at a time. Name, subtype, and importance are required before proceeding. If you're unsure whether something is an Event versus a Concept, say so and confirm — *the Sundering* (the act) is an Event; *the World Tree* (the thing) is a Concept; they often pair, and a single page usually covers the thing with its defining event summarised inside it (see the subtype docs on scope).
 
-**Once the subtype is settled, read its reference doc now** (`references/lore/event.md` or `references/lore/concept.md`) and keep this base doc for the shared steps below.
+**Once the subtype is settled, read its reference doc now** (`references/lore/event.md`, `references/lore/concept.md`, or `references/lore/deity.md`) and keep this base doc for the shared steps below.
 
 ---
 
@@ -78,7 +78,7 @@ Synopsis appearances:
 [Any reconciled attributions, and the public/restricted line you read from the
 reveal scenes — "the party learned X on-screen in Session N, but Y is still secret."]
 
-Based on this, I'd suggest: [Major/Minor], Category: [Event / Cosmology] — [one sentence reasoning].
+Based on this, I'd suggest: [Major/Minor], Category: [Event / Cosmology / Deity] — [one sentence reasoning].
 
 What would you like to add before I generate the entry? Drop in any bullet notes —
 what it is or what happened, causes, consequences, how it's remembered, secrets, anything not in the synopses.
@@ -104,7 +104,7 @@ Every lore entry carries this spine; the subtype doc specifies its own `Category
 
 ```yaml
 Type: Lore
-Category: <Event | Cosmology>
+Category: <Event | Cosmology | Deity>
 Era: <when it happened, or its age — see subtype; omit if genuinely timeless and no evocative phrase fits>
 Related:                      # optional — sibling lore pages this connects to
   - "[[World Tree]]"
@@ -115,13 +115,13 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - lore
-  - <lore/event | lore/cosmology>
+  - <lore/event | lore/cosmology | lore/deity>
 aliases: [AltName]
 ---
 ```
 
 - Omit any field whose value is unknown — never write `???` or leave blanks. `Related` and `aliases` are omitted entirely when empty.
-- `Era` is load-bearing for Events (a date or age) and evocative-or-omitted for Concepts. `Related` is the lore-network field — link the other lore pages this one sits beside.
+- `Era` is load-bearing for Events (a date or age), evocative-or-omitted for Concepts, and optional for Deities (which orient on `Pantheon` instead — see `deity.md`). `Related` is the lore-network field — link the other lore pages this one sits beside.
 - **`Related` must not leak secrets on the public page.** List only connections the world (and the players) already know — a `Related` link is a visible cross-reference. A relationship that is itself restricted truth (e.g. the [[World Tree]] connection to [[The Shattering]], which the public page never mentions) belongs only in the *restricted* companion's `Related`, not the public one. The same goes for any in-body wikilink: don't link a page on the public side if the very connection is the secret.
 
 ### Universal infobox rules
@@ -193,7 +193,7 @@ For lore the most common secret is **the truth beneath the myth** — what reall
 
 Place this at the **very top of each file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. Both files (public and restricted) get the same prompt.
 
-Lore uses the **same painterly style as the rest of the wiki**, in a **16:9 landscape** frame (the same `[STYLE]` line as locations). The subject differs by subtype — an Event is a frozen *dramatic moment*, a Concept is a mythic *vista* — and each subtype doc carries the framing note. The shared style block:
+Most Lore uses the **same painterly style as the rest of the wiki**, in a **16:9 landscape** frame (the same `[STYLE]` line as locations). The subject differs by subtype — an Event is a frozen *dramatic moment*, a Concept is a mythic *vista* — and each subtype doc carries the framing note. **The Deity subtype is the exception:** a god is a *figure*, so it uses a Character-style **portrait (3:4)** rather than the landscape block below — see `deity.md` for the deity image block. The shared landscape block (Events and Concepts):
 
 ```
 [STYLE]: Fantasy RPG landscape. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
@@ -203,7 +203,7 @@ Lore uses the **same painterly style as the rest of the wiki**, in a **16:9 land
 [FORMAT]: 16:9 cinematic landscape
 ```
 
-Keep the `[STYLE]` and `[FORMAT]` lines identical across every lore entry; only `[SUBJECT]`, `[MOOD]`, and `[LIGHTING]` change. Make them specific — a good prompt conjures one exact scene, not a generic fantasy backdrop.
+Keep the `[STYLE]` and `[FORMAT]` lines identical across every Event and Concept entry; only `[SUBJECT]`, `[MOOD]`, and `[LIGHTING]` change. Make them specific — a good prompt conjures one exact scene, not a generic fantasy backdrop. (Deities use the portrait block in `deity.md` instead.)
 
 ---
 

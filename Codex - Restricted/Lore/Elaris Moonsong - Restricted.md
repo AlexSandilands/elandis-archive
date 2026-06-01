@@ -1,65 +1,77 @@
 ---
-Type: Character
-Creature Type: Humanoid
-Species: Elf
-Gender: Male
-Pronouns: He/Him
-Place: "[[The Pantheon]]"
-Connections:
-  - "[[The Pantheon]]"
+Type: Lore
+Category: Deity
+Pantheon: The Seven Divines
+Portfolio: The moon, its light, navigation, wanderers, guidance through dark times
+Related:
   - "[[Selûne]]"
-Profession: Cleric, Selûne's Chosen
-Importance: Minor
-Status: Deceased
-NoteIcon: npc
+  - "[[The Pantheon]]"
+  - "[[The Shattering]]"
+Importance: Major
+Status: Worshipped
+NoteIcon: lore
 cssclasses:
   - hide-header-underline-3
 tags:
-  - character
+  - lore
+  - lore/deity
+aliases:
+  - Elaris
+  - The Moon God
+  - The Moonsong
 ---
+> [!abstract] Public Entry: *[[Elaris Moonsong]]*
+
 > [!infobox|wikipedia]
 > # Elaris Moonsong
-> [![[Codex/Assets/Characters/Elaris_Moonsong_small.webp|cover hsmall]]](Codex/Assets/Characters/Elaris_Moonsong.webp)
-> ###### Basic Information
+> [![[Codex/Assets/Lore/Elaris_Moonsong_small.webp|cover hsmall]]](Codex/Assets/Lore/Elaris_Moonsong.webp)
+> ###### Lore Information
 > Attribute |  Details |
 > ---|---|
-> Type | Character |
-> ###### Character Information
-> Attribute |  Details |
-> ---|---|
-> Creature Type | Humanoid |
-> Species | Elf |
-> Gender | Male |
-> Pronouns | He/Him |
-> Connections | [[The Pantheon]]<br>[[Selûne]] |
-> Profession | Cleric, Selûne's Chosen |
+> Type | Lore |
+> Category | Deity |
+> Pantheon | The Seven Divines |
+> Portfolio | The moon, its light, navigation, wanderers |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
-> Status | Deceased |
+> Status | Worshipped |
 
-**Elaris Moonsong** was a silver-haired elven cleric who served as [[Selûne]]'s Chosen during the ancient Chaos Wars, guiding his people through their darkest hours with the Moonmaiden's wisdom and light. Though long dead, he is venerated across Elandis as a god in his own right — one of the Seven Divines of [[The Pantheon]] — his memory preserved in temple statues, sacred alcoves, and the glimmer of the moonstones he left behind.
+**Elaris Moonsong** was a silver-haired elf cleric — the mortal champion of **[[Selûne]]**, a God of Old and the true goddess of the moon. At the end of the [[The Shattering|Shattering]] he joined the other six champions in the working that sealed the breach, was consumed in it, and ascended to the lingering demigodhood the world now worships as a god. The moon that was [[Selûne]]'s before it was ever his remains his sphere to tend; the whole faith the world offers him in her name is a worship she is owed, given unknowingly to the champion she made. See the restricted [[The Pantheon]] for the full tier structure (World Tree ▸ Gods of Old ▸ Seven Divines).
 
-## Biography
+## Overview
 
-Soft-spoken and unhurried by nature, Elaris Moonsong concealed a fierce determination beneath his calm exterior. Selûne blessed him with the Moon's Tear — an opalescent amulet shaped like a teardrop, said to grant visions and divine guidance in the darkest of nights — and through it he helped turn the tide of the Chaos Wars. In the centuries that followed, popular faith elevated him from mortal champion to divine figure, and his name entered the liturgy of the Seven Divines as the Moon God. He is remembered not as a warrior but as a keeper of light: a wanderer who brought hope and healing wherever he walked, fulfilling Selûne's sacred path before gathering his people for the final trial of the Celestial Cavern.
+In mortal life, Elaris was a cleric of [[Selûne]] — calm, unhurried, shaped by a determination that did not advertise itself. He carried the Moon's Tear as a genuine gift of his goddess before it became a holy relic, and through it read the visions she sent. At the Shattering he was raised above any ordinary Chosen to carry her sphere as her arm in a war she could not enter directly; when the breach was sealed, he did not end but persisted as a real demigod, able to pass a thread of power to those who pray to him.
 
-The truth of his nature — that he was a mortal Chosen rather than a true deity — is known only to a handful of scholars and high priests. [[High Priest Oldir]] of [[The High Sept]] in [[Val Miriel]] regards this knowledge as dangerous heresy.
+The holy days the moon faith keeps — Silvernight, the Unshadowed, the Pardon — and the prophecy of the Moon's Chosen are [[Selûne]]'s designs, not inventions of the champion's faith. The Pardon's alignment with the dark moon's absence is her doing. The prophecy is her live mechanism: a standing means by which a God of Old forbidden from acting directly may yet raise a new mortal champion to carry her sphere into a crisis she cannot touch herself. It has been triggered.
+
+## Campaign
 
 ### [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 04 - To Free a Raven]]
 
-A statue of Elaris Moonsong in a temple of the Seven Divines in [[Darmouth]] drew [[Kai]] into a breathtaking celestial vision — he found himself adrift among the stars and was claimed by a divine feminine presence, emerging with a shimmering holy symbol etched upon his hand.
+The vision [[Kai]] received at Elaris Moonsong's statue was not from Elaris — it was [[Selûne]] herself, a God of Old reaching directly through her champion's shrine to claim a new Chosen and mark him with her symbol.
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-Kai visited [[The High Sept]] in Val Miriel and inspected the statue of Elaris Moonsong, where he noticed a display case containing a Moonstone identical to the one in his possession. High Priest Oldir later revealed the heresy that Elaris and the other Seven Divines were never true gods — only ancient champions whose worship displaced memory of the true pantheon.
+[[High Priest Oldir]] named the truth his line has guarded: the Seven are ascended champions, the True Gods stand behind them, and [[Kai]] has been touched by [[Selûne]] — the genuine moon goddess. He also disclosed that [[Selûne]]'s dark sister has taken an interest in Kai.
 
 #### [[Session 26 - A Midnight Romp]]
 
-A moonstone gem housed in the altar of Elaris Moonsong at the High Sept matched the one Kai already carried — a revelation that caused Oldir to acknowledge Kai as a potential, if corrupted, Chosen of [[Selûne]].
+Oldir recounted the full prophecy of the Moon's Chosen; when Kai matched his moonstone to the stone in Elaris Moonsong's altar, Oldir acknowledged him as a potential — if darkly corrupted — Chosen and sheltered them for the night.
 
 #### [[Session 27 - The Wanted Dwarf]]
 
-Kai held his Moonstone near the statue of Elaris Moonsong and felt a magnetic resonance between his stone and the one behind the display glass — a silent confirmation of the sacred connection binding them.
+Kai felt the magnetic pull between his moonstone and the sept's stone — the Stones of the Moon respond to one another, as fragments of [[Selûne]]'s power reduced to physical form for mortal hands.
+
+#### [[Session 49 - The Silver Sage]]
+
+[[Praetor'Varanous]] confirmed that one of the three Stones of the Moon is with [[High Priest Oldir|Oldir]] at the High Sept of [[Val Miriel]], and that the Moonlit Shield will point the way to the third. The prophecy is in motion.
+
+## DM Notes
+
+- **Core secret:** Elaris Moonsong was a mortal elf cleric raised to demigodhood as [[Selûne]]'s champion at the [[The Shattering|Shattering]]. He is a real power but not the first god of the moon — that is [[Selûne]], a God of Old, whose sphere he tends in her absence. Keep consistent with the restricted [[The Pantheon]], [[Selûne]], [[The Shattering]], and [[World Tree]] pages.
+- **The prophecy is live:** three Stones of the Moon exist — one with [[Kai]] (the Moonlit Shield), one with [[High Priest Oldir]] at the High Sept, one not yet located (the shield points the way). The Celestial Cavern and what lies within are open for development.
+- **The contest:** [[Selûne]] is trying to complete Kai as a Chosen of Light; her dark sister is corrupting him toward a dark champion — the black stars in Kai's Starry Form are her mark. The moon faith's rites are the battlefield's staging ground.
+- **Open threads:** what the Celestial Cavern contains; whether completing the Chosen's path transforms or costs Kai something; what Oldir has not yet said; whether Elaris's lingering demigod-self is aware of [[Selûne]]'s move, and whether he would welcome or resist a new Chosen claiming his goddess's prophecy.
