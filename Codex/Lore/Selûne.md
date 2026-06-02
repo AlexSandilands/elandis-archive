@@ -85,7 +85,7 @@ To the world at large, the moon belongs to the Divine **[[Elaris Moonsong]]**, a
 
 What remains of her are contradictions the faith has stopped questioning. The old prophecy speaks of the **Lady** of the Moon raising **her** champion, though the moon god the world prays to is a man. The two moons are called **Sel** and **Sha**, names whose origin no one can any longer explain. And the holiest rite of forgiveness waxes strongest on exactly the nights the darker moon goes blind. Each is a fragment of a forgotten truth, kept in plain sight by a faith that no longer reads it — and, for now, the nearest the world comes to remembering her at all.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 04 - To Free a Raven]]
 
@@ -93,7 +93,7 @@ What remains of her are contradictions the faith has stopped questioning. The ol
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-Seeking to understand his growing starry power, Kai sought a private audience with [[High Priest Oldir]] at [[The High Sept]]. Shaken by what he saw, the old priest named the mark for what it was: the touch of **Selûne**, the long-forgotten goddess of the moon — and named Kai, haltingly, as one she might have chosen.
+Seeking to understand his growing starry power, Kai sought a private audience with [[High Priest Oldir]] at the [[High Sept]]. Shaken by what he saw, the old priest named the mark for what it was: the touch of **Selûne**, the long-forgotten goddess of the moon — and named Kai, haltingly, as one she might have chosen.
 
 #### [[Session 26 - A Midnight Romp]]
 

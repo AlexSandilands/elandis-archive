@@ -7,7 +7,7 @@ Pronouns: He/Him
 Age: Elderly
 Place: "[[Val Miriel]]"
 Connections:
-  - "[[The High Sept]]"
+  - "[[High Sept]]"
   - "[[Selûne]]"
 Profession: High Priest
 Importance: Minor
@@ -36,20 +36,20 @@ aliases:
 > Pronouns | He/Him |
 > Age | Elderly |
 > Place | [[Val Miriel]] |
-> Connections | [[The High Sept]]<br>[[Selûne]] |
+> Connections | [[High Sept]]<br>[[Selûne]] |
 > Profession | High Priest |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**High Priest Oldir** is the aged head of [[The High Sept]] in [[Val Miriel]], the most senior religious authority in the city. Ancient and hunched, with a long white beard and ceremonial white robes, he carries the bearing of a man who has tended the same sacred fire for longer than most can remember — and the quiet burden of a truth that could unravel the faith he has spent his life preserving.
+**High Priest Oldir** is the aged head of the [[High Sept]] in [[Val Miriel]], the most senior religious authority in the city. Ancient and hunched, with a long white beard and ceremonial white robes, he carries the bearing of a man who has tended the same sacred fire for longer than most can remember — and the quiet burden of a truth that could unravel the faith he has spent his life preserving.
 
 ## Biography
 
-Oldir stands at the apex of the official religious hierarchy centred on [[The High Sept]], where the seven gods of the realm's dominant pantheon are venerated and their rites maintained. What sets him apart from the priests below him is a secret passed down through each generation's line of succession: the celebrated Seven Gods are not true gods at all, but ancient mortal champions who ascended and were worshipped until the memory of the real divine faded. The true gods — among them [[Selûne]], Goddess of the Moon — are older and greater, and Oldir has spent his life holding this heresy in careful silence, sharing it with no one, refusing as a matter of strict principle to ever express preference for any of the seven. To do so, he knows, would be to play a part in a lie he can only observe, never endorse.
+Oldir stands at the apex of the official religious hierarchy centred on the [[High Sept]], where the seven gods of the realm's dominant pantheon are venerated and their rites maintained. What sets him apart from the priests below him is a secret passed down through each generation's line of succession: the celebrated Seven Gods are not true gods at all, but ancient mortal champions who ascended and were worshipped until the memory of the real divine faded. The true gods — among them [[Selûne]], Goddess of the Moon — are older and greater, and Oldir has spent his life holding this heresy in careful silence, sharing it with no one, refusing as a matter of strict principle to ever express preference for any of the seven. To do so, he knows, would be to play a part in a lie he can only observe, never endorse.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

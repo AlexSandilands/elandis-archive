@@ -46,11 +46,11 @@ tags:
 
 Lila has spent several years behind the bar at [[River's Watch]], long enough to know the city's rhythms well — its shops, its temples, its social fault lines, and which topics are better left unspoken in polite company. She has a gift for mediating minor disputes before they sour the tavern's refined atmosphere, and her awareness of [[Val Miriel]]'s political undercurrents makes her an unusually useful source of local intelligence for those who know how to ask.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 19 - Blood and Sorrow]]
 
-[[Kai]] tipped Lila a full gold piece in exchange for directions to [[The High Sept]], the city's main temple.
+[[Kai]] tipped Lila a full gold piece in exchange for directions to the [[High Sept]], the city's main temple.
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

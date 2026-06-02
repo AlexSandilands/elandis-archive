@@ -72,7 +72,7 @@ To the common world the Shattering is a campfire legend — a divine Dragon Quee
 
 The gap between the folk tale and the truth is the most important thing about this entry. The world venerates the Seven Divines as eternal gods and never suspects they were mortal heroes of the Shattering, ascended in death; it does not know the True Gods exist behind them, nor why those gods held back; it does not know that the Material Plane was *made* magic-less and that the Shattering was a violation of its very nature; and it does not know that three of Tiamat's dragons still walk the world, finishing her work. The legend is not a lie so much as a mercy — the shape of a truth too large and too dangerous for the world to carry.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 02 - Midnight Fangs]]
 
@@ -80,7 +80,7 @@ On the road to [[Darmouth]], [[Lilliana Featherfoot]] sang the party "the Legend
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-In a private audience at [[The High Sept]], [[High Priest Oldir]] saw [[Kai]]'s starry form and gave a terrified revelation: the celebrated Seven Gods are "merely ascended champions, false idols masking the existence of the True Gods." It was the first crack in the public myth — the hint that the pantheon is not what the world believes, and that something older stands behind it.
+In a private audience at the [[High Sept]], [[High Priest Oldir]] saw [[Kai]]'s starry form and gave a terrified revelation: the celebrated Seven Gods are "merely ascended champions, false idols masking the existence of the True Gods." It was the first crack in the public myth — the hint that the pantheon is not what the world believes, and that something older stands behind it.
 
 #### [[Session 44 - The Elven Archmage]]
 

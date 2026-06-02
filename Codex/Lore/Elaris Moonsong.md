@@ -61,7 +61,7 @@ Four times a year, on the nights when Sel is full while Sha is entirely dark. Th
 
 To the world, Elaris Moonsong has simply always been the god of the moon. His faith is woven into the calendar, the landscape, and the ordinary rhythms of life. Beyond the holy days and the standing prophecy, little is formally recorded of his history; the faith's own deepest clergy hold that the roots of the moon faith run further back than any living priest can trace.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 04 - To Free a Raven]]
 
@@ -69,7 +69,7 @@ At a temple of the Seven Divines in [[Darmouth]], [[Kai]] was drawn to a statue 
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-At [[The High Sept]] in [[Val Miriel]], Kai noticed a moonstone in Elaris Moonsong's display case that matched one he carried; in a private audience, [[High Priest Oldir]] acknowledged that Kai had been touched by a divine power connected to the moon faith, and that the faith's roots ran deeper than its public face.
+At the [[High Sept]] in [[Val Miriel]], Kai noticed a moonstone in Elaris Moonsong's display case that matched one he carried; in a private audience, [[High Priest Oldir]] acknowledged that Kai had been touched by a divine power connected to the moon faith, and that the faith's roots ran deeper than its public face.
 
 #### [[Session 26 - A Midnight Romp]]
 

@@ -58,7 +58,7 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 * The party arrives at [[Val Miriel]], a massive city bisected by the [[Luminor River]].
 * They encounter a military parade featuring [[Governor Tarlis Evandron]], wearing a large red gem amulet, and his daughter [[Vallania Miriel]]. The crowd's reaction is sharply divided between support and hatred.
 * The group secures lodging at the [[River's Watch]] tavern.
-* [[Kai]] tips the barmaid, [[Lila Spring]], a staggering one gold piece to learn the location of the main temple, [[The High Sept]].
+* [[Kai]] tips the barmaid, [[Lila Spring]], a staggering one gold piece to learn the location of the main temple, the [[High Sept]].
 * A message attached to an arrow is shot into their room, instructing them to meet "a friend" at midnight at [[Miriel's Rest]].
 
 ### The Handover

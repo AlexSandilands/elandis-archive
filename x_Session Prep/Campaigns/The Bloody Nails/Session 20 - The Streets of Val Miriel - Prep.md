@@ -76,7 +76,7 @@ tags:
 	- Meeting being arranged with the owner [[Norak Vara]]
 - Scouted [[Miriel's Rest]]
 	- Found [Charlatan's Die](https://www.dndbeyond.com/magic-items/27039-charlatans-die) 
-- [[Kai]] visited [[The High Sept]]
+- [[Kai]] visited the [[High Sept]]
 	- Spoke with [[High Priest Oldir]]
 	- After shocking the priest by revealing his starry form, priest explained the disparity between [[Kai|Kai's]] visions and the supposed God of the Moon - that is, these are not the real gods, they were champions from a time ages past and long forgotten
 - Sprayed with a glittery dust in the market, gave all sorts of visions

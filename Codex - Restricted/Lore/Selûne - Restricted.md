@@ -90,7 +90,7 @@ The world's forgetting of Selûne is near-total, and — this is the part the pu
 
 What has changed is that she is unseen no longer. To break that silence — to mark a mortal, to move a Chosen across the board — is for a God of Old an act close to desperation, and it should be read as exactly that.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 04 - To Free a Raven]]
 
@@ -98,7 +98,7 @@ What has changed is that she is unseen no longer. To break that silence — to m
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-When Kai revealed his starry form to [[High Priest Oldir]] at [[The High Sept]], the terrified priest let slip the heresy his line has guarded in silence for generations: that the celebrated Seven Gods are "false idols masking the existence of the True Gods," ascended champions whose worship buried the older powers. He named Kai as touched by **Selûne** — a true goddess, older and greater than the Seven — and warned that her **dark sister, the [[Shar|Lady of Vengeance]]**, had also fixed her gaze upon him.
+When Kai revealed his starry form to [[High Priest Oldir]] at the [[High Sept]], the terrified priest let slip the heresy his line has guarded in silence for generations: that the celebrated Seven Gods are "false idols masking the existence of the True Gods," ascended champions whose worship buried the older powers. He named Kai as touched by **Selûne** — a true goddess, older and greater than the Seven — and warned that her **dark sister, the [[Shar|Lady of Vengeance]]**, had also fixed her gaze upon him.
 
 #### [[Session 26 - A Midnight Romp]]
 

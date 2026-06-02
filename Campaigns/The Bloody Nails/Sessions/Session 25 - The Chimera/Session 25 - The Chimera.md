@@ -60,7 +60,7 @@ The session concludes with the party capitalising on their hunt. They sell the C
 * **News of Rebellion:** [[Gaara]] reveals that the [[Order of Ravens]] (implied) broke into the Bastion, stole the documents, and possibly attempted to assassinate the General, sparking the riots.
 * **Guild Debrief:** The party reports to [[Porta Hale]] at the [[The Green Gryphons]]. [[Vaeleran]] lies, stating the mine was found collapsed and empty of gold.
 * **Rewards:** The party receives 500 gold each. [[Porta Hale|Porta]] agrees to forge travel papers for them to head north to [[The Darkwood]].
-* **Next Moves:** [[Kai]] and [[Dondar]] plan to head to the temple of [[The High Sept]] for a ceremony, while [[Vaeleran]] intends to use the sending stones to contact their allies.
+* **Next Moves:** [[Kai]] and [[Dondar]] plan to head to the temple of the [[High Sept]] for a ceremony, while [[Vaeleran]] intends to use the sending stones to contact their allies.
 
 ## Art
 

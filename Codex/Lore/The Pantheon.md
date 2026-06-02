@@ -78,7 +78,7 @@ God of magic, [[Eldrin Starweaver]] is the patron of the arcane and of knowledge
 
 ## The Faith
 
-The worship of the Seven is woven through every part of ordinary life, and its temples are among the grandest works of the age. The [[The High Sept|High Sept]] of [[Val Miriel]] stands at the apex of the official hierarchy, where the Seven are venerated together and their rites maintained; the [[The Stoneheart|Stoneheart]] of [[Val Noren]] is the great seat of the Earthshaker's worship, with its own clergy, virtues, and sacred halls. Lesser temples and shrines beyond counting — like the serene temple of the Seven at [[Darmouth]] — carry the faith into every town and along every road.
+The worship of the Seven is woven through every part of ordinary life, and its temples are among the grandest works of the age. The [[High Sept]] of [[Val Miriel]] stands at the apex of the official hierarchy, where the Seven are venerated together and their rites maintained; the [[The Stoneheart|Stoneheart]] of [[Val Noren]] is the great seat of the Earthshaker's worship, with its own clergy, virtues, and sacred halls. Lesser temples and shrines beyond counting — like the serene temple of the Seven at [[Darmouth]] — carry the faith into every town and along every road.
 
 Most of the faithful revere all Seven, calling on each as need demands, while many keep a particular patron suited to their craft or temperament — a sailor to the Wavecaller, a smith to the Flametongue, a healer to the Dawnbringer. Their priests tend the sick, bless the harvest and the voyage, attend the dead, and keep the calendar of holy days by which the year is measured.
 
@@ -94,7 +94,7 @@ The faith's hold on the world is near-total. From the high cities to the smalles
 
 That completeness leaves little room for older or other things. Most never wonder what — if anything — the world revered before the Seven, or whether seven is the whole of the divine; the question simply does not arise. Even the deeper history the learned keep — that the gods were once mortal — is, to the common worshipper, a curiosity that changes nothing about the god before whom they kneel. The faith of the Seven fills the sky so completely that, to almost everyone, there has never been anything else.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 02 - Midnight Fangs]]
 

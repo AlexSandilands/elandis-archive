@@ -29,7 +29,7 @@ The party begins their day in [[Val Miriel]] at [[River's Watch]], where [[Kai]]
 
 The quest for armaments proves a study in contrasts. At the ostentatious [[Silverforge]] on [[The Artisan Way]], the party clashes with a pretentious proprietor who values form over function. However, [[Vaeleran]] learns that his mysterious greatsword bears the markings of Northern steelcraft, likely from [[Val Aran]]. Finding more practical success at [[The Coal]] in the military district, they meet [[Ingrid]], a rugged smith who confirms the sword's Northern origins and supplies the group with sturdy weaponry. At the [[The Green Gryphons]], the party reunites with [[Ryo]] and speaks with [[Porta Hale]], securing potential contracts involving a silent gold mine and a ghostly merchant ship, while learning that the "beasts" they tracked in the woods were likely dangerous Displacer Beasts.
 
-The session culminates in two significant discoveries. A scouting mission to [[Miriel's Rest]], the royal cemetery, reveals it to be the meeting spot for the midnight summons. While investigating, [[Ryo]] uncovers a magical six-sided die radiating transmutation magic hidden on a grave. Meanwhile, [[Kai]] visits [[The High Sept]] to understand his growing powers. In a private audience with [[High Priest Oldir]], Kai reveals his starry form, prompting a terrified and earth-shattering revelation: the celebrated Seven Gods of the realm are merely ascended champions, false idols masking the existence of the "True Gods." [[High Priest Oldir|Oldir]] reveals that Kai has been touched by [[Selûne]], the true Goddess of the Moon, and warns that her dark sister, the Lady of Vengeance, has also taken an interest in him.
+The session culminates in two significant discoveries. A scouting mission to [[Miriel's Rest]], the royal cemetery, reveals it to be the meeting spot for the midnight summons. While investigating, [[Ryo]] uncovers a magical six-sided die radiating transmutation magic hidden on a grave. Meanwhile, [[Kai]] visits the [[High Sept]] to understand his growing powers. In a private audience with [[High Priest Oldir]], Kai reveals his starry form, prompting a terrified and earth-shattering revelation: the celebrated Seven Gods of the realm are merely ascended champions, false idols masking the existence of the "True Gods." [[High Priest Oldir|Oldir]] reveals that Kai has been touched by [[Selûne]], the true Goddess of the Moon, and warns that her dark sister, the Lady of Vengeance, has also taken an interest in him.
 
 ## Details
 
@@ -71,7 +71,7 @@ The session culminates in two significant discoveries. A scouting mission to [[M
 
 ### Revelation at the High Sept
 
-* [[Kai]] visits [[The High Sept]] alone to investigate the source of his divine magic.
+* [[Kai]] visits the [[High Sept]] alone to investigate the source of his divine magic.
 * He inspects the statue of [[Elaris Moonsong - Restricted]] and notices a display case inside containing a Moonstone identical to the one in his possession.
 * Kai is approached by [[High Priest Oldir]]. In a private chamber, Kai reveals the starry markings on his arms.
 * Oldir is terrified and reveals a heresy: The current "Seven Gods" (including Elaris) are not true gods, but ancient champions who were worshipped until the true gods were forgotten.

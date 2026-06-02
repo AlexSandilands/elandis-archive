@@ -66,7 +66,7 @@ Fuller accounts of each Divine — their mortal lives, their deaths, and the eld
 
 ## The Faith
 
-The grandeur of the faith — the [[The High Sept|High Sept]], the [[The Stoneheart|Stoneheart]], the countless shrines — is raised, every stone of it, to the wrong tier of the divine order. The structure runs:
+The grandeur of the faith — the [[High Sept]], the [[The Stoneheart|Stoneheart]], the countless shrines — is raised, every stone of it, to the wrong tier of the divine order. The structure runs:
 
 - the **[[World Tree]]** at the summit, the one genuinely transcendent god;
 - beneath it, the **Gods of Old** (the True Gods), real and ancient and hidden;
@@ -80,7 +80,7 @@ The faith's confidence is total precisely because the truth has been so complete
 
 The gap is the most important thing about the faith. The world venerates seven ascended mortals as eternal gods; it does not know the True Gods stand behind them; and it does not know that at least one of those hidden powers ([[Selûne]]) has begun, out of fear of a second [[The Shattering|Shattering]], to reach back into the world she long ago left to her saint.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 02 - Midnight Fangs]]
 
@@ -92,7 +92,7 @@ The party sheltered in a temple of the Seven at [[Darmouth]] — their first tim
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-In a private audience at [[The High Sept]], a terrified [[High Priest Oldir]] gave [[Kai]] the first crack in the public myth: that the celebrated Seven Gods are "merely ascended champions, false idols masking the existence of the True Gods." The single most dangerous sentence the party has yet been told about the divine.
+In a private audience at the [[High Sept]], a terrified [[High Priest Oldir]] gave [[Kai]] the first crack in the public myth: that the celebrated Seven Gods are "merely ascended champions, false idols masking the existence of the True Gods." The single most dangerous sentence the party has yet been told about the divine.
 
 ## Trivia
 
