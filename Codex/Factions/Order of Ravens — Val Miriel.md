@@ -1,10 +1,3 @@
-```
-[STYLE]: Fantasy RPG heraldic emblem. Bold painterly strokes, visible brushwork, digital painting aesthetic, rich but restrained colour palette. NOT photorealistic, NOT a flat vector logo — stylized like a guild crest in official D&D 5e module artwork.
-[SUBJECT]: a single black raven displayed heraldically — facing forward, wings spread wide and raised in symmetry, head turned in sharp profile, talons clutching a short bare branch; carved in shallow relief into a square slab of dark grey stone that FILLS the entire frame edge to edge as a flat emblem — a symbol, not an object in a room. Tarnished silver leaf picks the raven out against the stone, with a small foaming tankard chiselled into the base of the border, marking the Val Miriel Nest beneath the Gilded Crow.
-[MOOD]: secretive, watchful, ancient — a mark made to be recognised, not flaunted
-[LIGHTING]: flat, even, ambient illumination — no directional light source, no cast shadows, no candle, no props, no background scene; the relief reads through carved depth alone
-[FORMAT]: 1:1 square, the carved stone surface fills the frame as a centered emblem
-```
 ---
 Type: Faction
 Category: Local Chapter
@@ -24,7 +17,7 @@ aliases: [Val Miriel Nest]
 ---
 > [!infobox|wikipedia]
 > # Order of Ravens — Val Miriel
-> [![[Codex/Assets/Factions/Order_of_Ravens_Val_Miriel_small.webp|cover hsmall]]](Codex/Assets/Factions/Order_of_Ravens_Val_Miriel.webp)
+> [![[Codex/Assets/Factions/Order_of_Ravens_small.webp|cover hsmall]]](Codex/Assets/Factions/Order_of_Ravens.webp)
 > ###### Chapter Information
 > Attribute |  Details |
 > ---|---|
@@ -59,7 +52,7 @@ From this hidden seat Thaddeus "Ravenwing" Karr directs the Order's work in the 
 
 - **The Bastion heist.** The Nest broke into [[The Bastion]] and stole sensitive Imperial documents. The job went clean until the Fledgling Lia abandoned the plan to attempt the assassination of [[General Varan Brado]] without sanction — an act that helped ignite the Val Miriel riots and left her fate an unresolved problem for Thaddeus to manage.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 
