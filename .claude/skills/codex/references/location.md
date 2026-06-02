@@ -6,9 +6,9 @@ Shared location workflow for the codex skill. Read this when creating any locati
 |---|---|---|---|
 | **Point of Interest** | A single notable place — a ruin, landmark, natural feature, structure, or site within a larger region | `references/locations/poi.md` | **Supported** |
 | **Region** | A broad geographic area — a forest, gulf, mountain range, or plane that contains settlements and sites | `references/locations/region.md` | **Supported** |
-| City | A settlement — town, city, port | *(not yet written)* | Not yet supported |
+| **City** | A settlement — town, city, or port; the hub for the landmarks, establishments, and people within it | `references/locations/city.md` | **Supported** |
 
-**Telling the subtypes apart:** a whole forest, gulf, mountain range, or plane is a **Region**; a single ruin, landmark, or site *within* one is a **Point of Interest**; a settlement (town, city, port) is a **City**. A Region contains and links to the Cities and POIs inside it — it is both a lore article and the map-hub that ties its child places together. If the user wants a City, tell them that subtype isn't wired in yet and offer a Point of Interest or Region instead, or to hand-write it from `x_Templates/Codex/City.md`. (When City is added, write `references/locations/city.md` mirroring the two existing subtype docs.)
+**Telling the subtypes apart:** a whole forest, gulf, mountain range, or plane is a **Region**; a settlement (town, city, port) is a **City**; a single ruin, landmark, or site *within* one is a **Point of Interest**. Both Regions and Cities are **hubs**: a City is the at-a-glance page for the landmarks (POIs), establishments, and people inside it, while a Region contains and links to the Cities and POIs inside *it*. All three are lore articles; Regions and Cities are also the map-hubs that tie their child places together.
 
 ## Vault locations
 
@@ -18,9 +18,10 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 |---|---|---|
 | Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
 | Region | `Codex/Locations/Regions/<Name>.md` | `Codex - Restricted/Locations/Regions/<Name> - Restricted.md` |
+| City | `Codex/Locations/Cities/<Name>.md` | `Codex - Restricted/Locations/Cities/<Name> - Restricted.md` |
 
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
-- **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Points_of_Interest/` for POIs, `Codex/Assets/Locations/Regions/` for Regions (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
+- **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Points_of_Interest/` for POIs, `Codex/Assets/Locations/Regions/` for Regions, `Codex/Assets/Locations/Cities/` for Cities (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
 
 ---
 
@@ -28,13 +29,13 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 
 Extract from the user's message whatever they've already provided:
 - Location **name**
-- **Subtype:** Point of Interest or Region (City is not yet supported). Infer from the place — a whole forest/gulf/range/plane is a Region; a single ruin or landmark within one is a Point of Interest. Confirm if it's ambiguous.
+- **Subtype:** Point of Interest, Region, or City. Infer from the place — a whole forest/gulf/range/plane is a Region; a settlement (town, city, port) is a City; a single ruin or landmark within one is a Point of Interest. Confirm if it's ambiguous.
 - **Importance:** Major or Minor
 - Whether a **restricted companion document** is also needed
 
 If anything is missing, ask for it all in one message — don't ask one field at a time. Name, subtype, and importance are required before proceeding. If you're unsure whether something is a Point of Interest versus a Region (or a City), say so and confirm — a port town is a City, a whole forest is a Region, a single ruin or landmark within them is a Point of Interest.
 
-**Once the subtype is settled, read its reference doc now** (`references/locations/poi.md` or `references/locations/region.md`) and keep this base doc for the shared steps below.
+**Once the subtype is settled, read its reference doc now** (`references/locations/poi.md`, `references/locations/region.md`, or `references/locations/city.md`) and keep this base doc for the shared steps below.
 
 ---
 
@@ -42,13 +43,13 @@ If anything is missing, ask for it all in one message — don't ask one field at
 
 Before asking for details, check the vault:
 
-1. Does the entry already exist in its subtype folder (`Codex/Locations/Points of Interest/<Name>.md` or `Codex/Locations/Regions/<Name>.md`)? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
+1. Does the entry already exist in its subtype folder (`Codex/Locations/Points of Interest/<Name>.md`, `Codex/Locations/Regions/<Name>.md`, or `Codex/Locations/Cities/<Name>.md`)? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
 2. Does `<Name>.md` exist at the vault root? If so, read it — its content informs the entry and whether a restricted companion is needed (see Stub File Format below). Root location stubs are often already well-researched DM notes; treat their geography and lore as canon unless the synopses contradict them.
 3. Grep all synopsis files under `Campaigns/The Bloody Nails/Sessions/` for the location's name (and any short-form aliases or the names of structures within it). Collect every matching snippet with its session number. Ignore hits inside `Transcript.md` files — never read those.
 4. **Reconcile session attributions.** A root stub may cite session numbers from memory; the synopses are the source of truth. If the stub says an event happened in Session N but the synopses place it elsewhere, trust the synopses, correct it in the entry, and flag the discrepancy to the user.
-5. Glob for image files matching the location name in `x_Assets/Locations/` and the subtype subfolder `Codex/Assets/Locations/Points_of_Interest/` or `Codex/Assets/Locations/Regions/` (patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`). If found, use the real filename **and its subtype subfolder** in the infobox path.
+5. Glob for image files matching the location name in `x_Assets/Locations/` and the subtype subfolder `Codex/Assets/Locations/Points_of_Interest/`, `Codex/Assets/Locations/Regions/`, or `Codex/Assets/Locations/Cities/` (patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`). If found, use the real filename **and its subtype subfolder** in the infobox path.
 
-**Region** adds a hub-discovery research step (finding the child Cities/POIs to link) — see `references/locations/region.md`.
+**Region** adds a hub-discovery research step (finding the child Cities/POIs to link) — see `references/locations/region.md`. A **City** is also a hub, but its landmarks, establishments, and people come from its root stub and the synopses rather than a vault-wide grep — see `references/locations/city.md`.
 
 ### Stub file format
 
@@ -106,8 +107,10 @@ Assemble the **frontmatter, infobox, and body** from the templates in the subtyp
 - **Always anchor the place geographically, in a required first body section.** Every location leads its body with a mandatory geography section that places it on the map, then describes its physical setting — and it always comes first, even when the rest of the sectioning flexes:
   - **POI:** `## Location & Geography` — where the *point* sits relative to a known, mappable location (e.g. "north-east of [[Farhaven]]", "in the far south of [[Valtorra]], roughly 50 miles west of [[Darmouth]]"). Mirrors the infobox `Location` field.
   - **Region:** `## Geography & Landscape` — which continent or plane the *area* occupies, what it borders, and its rough extent, then the whole-area terrain and climate. Mirrors the infobox `Continent`/`Plane` field.
+  - **City:** `## Geography & Layout` — which region/continent and coast or river the *settlement* sits on, then the map in prose (walls, gates, roads/causeways, waterways, docks, and the districts they form). Mirrors the infobox `Region` field.
 
   The opening paragraph should gesture at the location too, but this section is where the map reference is guaranteed.
+- **Definite-article naming (wiki convention).** Omit a leading "The" from page titles and display text unless "The" is an inseparable part of the proper name. Evocative tavern/inn/shop names keep it (*The Gilded Crow*, *The Rusty Anchor*); fortresses, institutions, civic structures, and natural features take "the" only as an ordinary sentence article, never in the name — *the Red Bastion*, *the High Sept*, *the Underrun*, not *The Red Bastion*. **Never render a doubled article:** when an existing page title genuinely begins with "The", don't write `the [[The High Sept]]` — drop the preceding article, or use a display alias so prose reads correctly: `the [[The High Sept|High Sept]]` → "the High Sept". (Renaming a heavily-linked existing page is out of scope; alias instead.)
 - **Session link format:** `#### [[Session N - <Title>]]` — direct basename link, no path, no alias. Each session file's basename is unique vault-wide, so Obsidian resolves it directly. Verify the exact basename (early sessions are zero-padded, e.g. `Session 08 - The High Road`).
 - If no campaign appearances were provided, omit the Campaign section entirely.
 - Trivia is Major-only.
@@ -175,6 +178,11 @@ Locations use the **same painterly art style as characters** — so the whole wi
 ```
 
 Keep the `[STYLE]` line identical across every location entry; only `[SUBJECT]`, `[MOOD]`, and `[LIGHTING]` change per place. Derive those three from the place's geography, history, and current state, and make them specific — a good prompt conjures an exact vista, not a generic fantasy backdrop. Favour the warm-against-cool, high-contrast lighting of the character art. The subtype doc has a one-line note on **framing** (foreground a feature for a POI; a characteristic vista for a Region).
+
+**Large settlements (cities, sprawling ports, anything meant to read as vast) are the exception to "make it specific."** Do **not** enumerate the city's individual buildings, streets, causeways, or named landmarks in `[SUBJECT]`. The generator treats every named structure as a must-include and crams them all into frame at equal size — the result looks cluttered, evenly-packed, and obviously AI, and nothing reads as big because everything competes for the same space. Instead:
+- **Describe the whole, not the parts.** Lead with the overall form — "an immense walled port city straddling a river mouth," "an endless sprawl of terracotta rooftops climbing into hazy hills." Keep only the broad identity-defining anchors (river, bridge, harbour, wall, dominant roof colour/material).
+- **Demote landmarks to background texture.** If notable buildings must appear, frame them as "a few monumental structures rising above the rooftops, distant and small against the scale of the whole — not the focus." Never list them by name or give each its own clause.
+- **Sell scale through distance and haze.** Vastness reads from atmospheric depth, not detail. Use "high, distant aerial vista," "atmospheric haze deepening into the distance," "stretching beyond what the eye can hold." This is the single biggest cue that says *huge*.
 
 ---
 
