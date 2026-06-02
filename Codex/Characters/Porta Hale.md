@@ -49,7 +49,7 @@ aliases:
 
 Porta Hale has run the Val Miriel guildhall of the Green Gryphons long enough to have earned the respect of his membership and the cautious regard of the city's authorities. He is a pragmatist above all else: contracts get fulfilled, coin changes hands, and trouble is managed before it reaches the front door. His well-worn plate armour — scratched and re-oiled more times than he can count, its green griffon emblem faded to the colour of old verdigris — speaks to a career built on showing up and getting the job done.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

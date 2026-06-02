@@ -60,7 +60,7 @@ Character traits, attitudes, emotional depth. How they come across 1in conversat
 
 Origin, formative events, motivations, and how they arrived at their current role.
 
-### Campaign: [[The Bloody Nails]]
+## Campaign: [[The Bloody Nails]]
 
 #### [[Campaigns/The Bloody Nails/Sessions/Session 01 - The Rusty Nail/Session 01 - The Rusty Nail]]
 

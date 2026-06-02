@@ -53,7 +53,7 @@ Marcelle was seized by [[Valtorran Empire|the Empire]] in childhood and inducted
 
 She carried herself with the particular stillness of someone who had learned that personality was a liability. Her bald head and elven ears were distinctive, but her expression rarely was — blank, forward-facing, doing precisely what was asked and nothing else.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 36 - General Korvas]]
 

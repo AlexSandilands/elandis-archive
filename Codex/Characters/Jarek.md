@@ -52,7 +52,7 @@ The second blow came during a heist gone wrong: Jarek was captured by Imperial s
 
 Hope returned late. He heard rumours that elves were being kept prisoner in the dungeons beneath [[Val Luminor]], and with them the possibility that Eirieneth might still be alive and within reach. The Ravens, long expelled from the capital and wary of exposure, were reluctant to mount an operation there. Jarek was too old to attempt it himself. By the time he surfaced in [[Val Miriel]], he was a man running on borrowed time, kept upright by the single unfinished piece of his life.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 21 - The Governor's Daughter]]
 

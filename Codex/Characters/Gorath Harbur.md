@@ -51,7 +51,7 @@ He spent the years that followed working in the coastal cities, cooking at marke
 
 He carries the marks of his old life: grey hair scraped back into a ponytail with two braids alongside his face, and a pair of tusks from his lower lip, the right one chipped and broken. He is not warm, exactly, but he is steady — and on a ship, that counts for a great deal.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

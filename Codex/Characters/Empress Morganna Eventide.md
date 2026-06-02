@@ -73,7 +73,7 @@ Rather than execute the existing kings and risk instability, Morganna offered th
 
 Today, the [[Valtorran Empire]] is the unchallenged power on [[Valtorra]]. The [[Hand of The Empire]] serve as its elite military enforcers, selected from promising soldiers across the kingdoms and put through rigorous training before becoming the Empress's most loyal instruments. The Voices of the Empire — Imperial mages — maintain an advisory and controlling presence throughout the provinces. The Empress herself rarely leaves her seat of power and is seen in public only at carefully orchestrated moments — always in white, always with the violet orb, always apparently the same age she was the day she arrived.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

@@ -50,7 +50,7 @@ Draegor cut an imposing figure in armour that was always conspicuously clean —
 
 Draegor's primary initiative in Lighthaven was cultivating a network of civilian informants — local residents who would report on travellers, suspected rebels, and persons of interest to the Empire. One such informant was [[Hugor]], a young halfling apothecary's assistant whom Draegor had recruited with promises of prestige and adventure. Through Hugor, Draegor was responsible for the earlier arrest of [[Ryo]], a ranger with a growing reputation among the Rebellion. That arrest would prove to be his undoing.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

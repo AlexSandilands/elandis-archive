@@ -52,7 +52,7 @@ Now ninety, Ellesar no longer leaves [[The Veiled Den]]. His world has contracte
 
 When the situation calls for it, Ellesar is not above testing people. He arranged for one of his Cubs, Brom, to be deliberately captured by the party to gauge their skill and intentions — and was satisfied enough with what he learned to offer them work. He also recognised that [[Lia]], his most gifted protégé, had a hatred of the Empire that would eventually make her a liability inside the Cubs. Rather than let that fire burn down his den, he arranged for her to be placed with the [[Order of Ravens]], ensuring she found an outlet that suited her abilities without endangering the children in his care.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 09 - The Veiled Den]]
 

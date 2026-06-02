@@ -54,7 +54,7 @@ She came back carrying the head of the leader of the Hunt. What passed inside th
 
 Ellesandra made a pact with the archfae queen to end the conflict: the queen would take control of the Vale, and the war would cease. The terms of that pact, if any were written down, are lost.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 50 - A New Morning in Sumara]]
 

@@ -49,7 +49,7 @@ aliases:
 
 Dane drifted into [[Point Blackrock]] some years back, a former soldier who had grown tired of fighting other men's wars and found the cold honesty of the ice more to his liking. He fell in with the [[The Frostwardens|Frostwardens]] after pulling a stranded crew out of a whiteout storm — the kind of unasked favour that earns a berth without a word needing to be said. He has guided the [[The Frostwarden Crews#Fox Crew|Fox Crew]]'s runs ever since, building a reputation for reading the Frostway's shifting dangers with an almost uncanny calm.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 33 - A Camp Alight]]
 

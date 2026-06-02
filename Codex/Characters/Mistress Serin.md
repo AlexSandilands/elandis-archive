@@ -46,7 +46,7 @@ tags:
 
 Mistress Serin has cultivated a reputation as an innkeeper of quiet principle. Guests at [[The Lion]] are under her care for the duration of their stay, and she holds that trust firmly: neither coin nor coercion will persuade her to hand over information about those beneath her roof. She knows the city's rhythms well enough to point travellers in the right direction when they need it.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 09 - The Veiled Den]]
 

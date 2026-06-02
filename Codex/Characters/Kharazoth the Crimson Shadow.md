@@ -67,7 +67,7 @@ He emerged from the chaos of that era believing the world had been reset imprope
 
 The rise of the [[Valtorran Empire]] was not coincidental. Kharazoth has been working through proxies toward another Shattering — one that would unmake the current age in its entirety and remake it according to his design. The [[The Red Priests]] who operate out of [[Valfyria]] are his most visible instrument, though they serve him at a remove, through the intermediary he placed at the Empire's head.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 44 - The Elven Archmage]]
 

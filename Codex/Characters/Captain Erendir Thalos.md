@@ -49,7 +49,7 @@ Erendir was born in [[Val Noren]] to a human guardsman father and an elven mothe
 
 He rose through the city guard on the strength of his composure and his knowledge of [[Val Noren]]'s streets and defences. When [[King Marius Noren]] established his hold at the Keep, Erendir was among the first officers to present himself. Marius gave him the captaincy without hesitation. He has held it with the same steady intensity ever since — less concerned with rank than with seeing the north free before he is old.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 38 - A Trail of Blood]]
 

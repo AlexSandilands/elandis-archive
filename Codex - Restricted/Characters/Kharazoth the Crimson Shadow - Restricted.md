@@ -72,7 +72,7 @@ The most significant of his long-game investments was [[Empress Morganna Eventid
 
 The [[The Red Priests]] who operate out of [[Valfyria]] are his most visible instrument, though they serve him at a remove. Kharazoth himself moves in disguise through the world as needed — attending to information gathering, to manipulation, to the patient work of building toward the moment the world breaks open again.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 44 - The Elven Archmage]]
 

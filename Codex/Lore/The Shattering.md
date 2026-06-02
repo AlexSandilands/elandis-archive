@@ -67,7 +67,7 @@ For all that it remade the world, the Shattering survives in the common mind as 
 
 The tellings differ from teller to teller. In the most common version — sung as often as spoken — the world before magic, an age of "machines of iron and steam," was changed forever when a divine Dragon Queen descended and gifted the world its arcane power, and a great war of seven centuries ended only when the **[[The Pantheon|Seven Divines]]** banished the dragons. Some prefer their cataclysm grander still, and tell of Titans come down from the heavens to sunder the world. The number *seven* runs through nearly every version — the seven who ended the war, the seven gods the world prays to — and the faithful hold that the heroes of the Shattering were divinely chosen, raised up by the gods to do what mortals alone never could.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 02 - Midnight Fangs]]
 

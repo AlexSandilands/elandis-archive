@@ -48,7 +48,7 @@ Teresa handles the part of the alchemical trade that demands patience over preci
 
 On one such excursion into the mountains east of [[Camaar]], Teresa began witnessing what she described as ghostly apparitions near [[Tumbler's Crag]]. Before she could safely return, she was trapped in the caves beneath the crag by the spirits haunting that place. [[Thane]] raised the alarm with the party, and she was eventually found alive — shaken and traumatised but unharmed — cowering in a corner of the cavern after the spirits were destroyed. She was carried out of the cave and escorted back to [[Faelon]] before being reunited with [[Thane]] in [[Camaar]], who rewarded her rescuers generously.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 10.5 - Diverging Paths]]
 

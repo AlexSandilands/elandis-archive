@@ -49,9 +49,7 @@ Kept at **midnight on Starday**, the week's first day and the day of the stars: 
 
 Eldrin Starweaver is widely worshipped across [[Elandis]], honoured in libraries and arcane institutions as much as in formal temples. Beyond his sphere and his relic, little of his history is commonly recorded — the deep accounts of the Seven Divines belong to the older and more obscure strata of the faith, and most of what the world holds of the Starweaver is practical: the god of magic, to whom those who work with it offer their devotion.
 
-## Campaign
-
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 06 - The Goblin Lair]]
 

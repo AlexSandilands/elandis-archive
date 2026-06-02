@@ -72,7 +72,7 @@ In the towns and villages along the way, she leaves a different kind of impressi
 
 For some time, one of her primary goals was to reach [[Arkangel]], the legendary autonomous flying city that drifts above [[Valtorra]] beyond the reach of most travellers. She achieved that goal in [[Lighthaven]], with the help of [[The Bloody Nails]].
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

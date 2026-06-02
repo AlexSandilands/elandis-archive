@@ -53,7 +53,7 @@ Sylvaris spends the majority of her long years in the warm humid depths of the G
 
 Despite her reticence toward strangers, Sylvaris is not cold. Those she trusts find her direct, warm, and quietly funny. She holds deep reverence for living things, and her instinct when given a gift is to press her ear against it and listen.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 47 - Confluence of the Seven]]
 

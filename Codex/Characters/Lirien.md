@@ -62,7 +62,7 @@ A traveling half-elven priestess, Lirien discovered the aftermath of a burning v
 
 As each child reached the age of sixteen, Lirien set them a rite of passage — a solo trial designed to push them beyond what comfort could teach. [[Kai]], one of her most beloved wards, was sent to the snow-capped mountains to survive alone and return with proof of a successful hunt. He succeeded. But when he came home, the orphanage was empty. Lirien, her community, and all the other children had vanished without a trace. It would be years before the truth emerged: she had been taken by the [[Valtorran Empire|Empire]], stripped from the forest she had made her world, and transported to the labour camps of [[Skyreach]].
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 16 - The Fall of Skyreach]]
 

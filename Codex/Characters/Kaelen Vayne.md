@@ -48,7 +48,7 @@ Kaelen has sat on the Confluence for decades, and the city has survived. That su
 
 He maintains alliances with Justiciar Naivara Siannodel of the Scales and Archivist Elrohir Gemflower of the Scroll — a voting bloc sufficient to stall most motions he opposes. His opposition is rarely loud. He waits, watches, and lets the room exhaust itself before speaking.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 47 - Confluence of the Seven]]
 

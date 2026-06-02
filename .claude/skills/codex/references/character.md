@@ -189,7 +189,7 @@ Rules:
 
 [Origin, formative events, motivations, how they arrived at their current role. Full paragraphs. The richest section — use the backstory the user gave you, including only what's publicly known.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -209,7 +209,7 @@ Rules:
 
 [Concise prose. One to three paragraphs covering their role, recent actions, and how they have intersected with the campaign. Focused on what is known.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -269,7 +269,7 @@ A `## DM Notes` section at the bottom covers anything that's purely DM-side and 
 #### Background
 [Complete backstory, secrets and all, written as natural prose]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 [Same as public]

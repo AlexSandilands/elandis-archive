@@ -51,7 +51,7 @@ His tribe's lair was subsequently cleared by the party. Lenny himself was held c
 
 What drives Lenny now is not survival but ambition of an entirely different kind. He wants to open a shop — somewhere peaceful, somewhere far from raids and bounty hunters — where he can sell handmade jewellery and Ellie's paintings. The dream is small by most measures. To Lenny, it is everything.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 05 - The Baited Ambush]]
 

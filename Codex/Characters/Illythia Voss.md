@@ -54,7 +54,7 @@ Illythia rose through the Circle of the Weave as Ayana Syndrosa's second in comm
 
 She is composed in the Confluence chamber, tactical in her alliances, and careful with her public positions. But where [[Ayana Syndrosa]] was measured to the point of stillness, Illythia lets things show — the warmth is closer to the surface, and so is the fire. Composed neutrality, as those who know her well understand, is not the same as absence of conviction.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 47 - Confluence of the Seven]]
 

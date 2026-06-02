@@ -49,7 +49,7 @@ aliases:
 
 Lysa commands the Fox Crew with the quiet confidence of someone who has read the ice through enough storms to stop being surprised by it. Her knowledge of the [[Frostway]]'s routes, hazards, and moods is intimate — the kind built not from maps but from years of walking it. Alongside her crewmates [[Dane Verric]] and [[Sela Ren]], she guides caravans across one of the most hostile stretches of terrain in the known world.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 33 - A Camp Alight]]
 

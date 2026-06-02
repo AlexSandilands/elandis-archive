@@ -51,7 +51,7 @@ When the [[Valtorran Empire|Empire]] rose and the elves faced a choice between s
 
 He was killed by [[Dread General Gerard Blackmarsh]] before he and Rhennaya could follow. Their infant son [[Ryo]] survived.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 46 - The Shining City]]
 

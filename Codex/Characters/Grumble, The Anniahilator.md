@@ -45,7 +45,7 @@ Grumble's origins are unknown even to those who have lived in Sumara's shadow fo
 
 His peculiar tradition of enforcing "ancient rites" on travellers who wish to cross his bridge is less a toll than an indulgence. Grumble delights in games — chess above all — and will demand a challenge before granting passage. Those who rise to the occasion tend to find that the terror of facing the Anniahilator is considerably undone by the sight of an enormous obsidian troll laughing uproariously at a well-played gambit.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 45 - Pieces on a Board]]
 

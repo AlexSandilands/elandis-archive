@@ -73,7 +73,7 @@ Shar and [[Selûne]] are the oldest of opposites, bound to the moon and to each 
 
 That Shar is forgotten even more thoroughly than Selûne is no accident, and no tragedy either: who, after all, raises a temple to spite? Where the Moonmaiden's worship lapsed into a saint's, Shar's may never have been open worship at all — a goddess who feeds on cruelty has no need to be loved, only indulged, and mortals have always indulged her without knowing her name. The void where her memory should be is the truest thing the world believes about her: she is the dark it does not look at, and she prefers it so.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

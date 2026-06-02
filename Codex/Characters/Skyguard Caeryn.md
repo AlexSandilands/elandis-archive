@@ -51,7 +51,7 @@ Warden Caeryn is a young elven soldier of [[Sumara, The Shining City|Sumara]]'s 
 
 Caeryn trained under [[Ayana Syndrosa]] before her disappearance during [[The Emerald Ceremony]], and her absence left a quiet gap in his formation as a warden. When [[The Bloody Nails]] arrived in Sumara with a child-aged Ayana in tow, it fell to Caeryn to lead the arrest — a role he handled with as much dignity as the situation allowed, even as it spiralled well beyond anything his training had prepared him for. He was blasted against a wall by child-Ayana mid-interrogation, though she pulled the blow deliberately. When Ayana was restored to her true form, she greeted him with the easy familiarity of an old mentor — teasing him about his father Rellian and his terrace vegetables — and Caeryn was the first in the city to say the name *Syndrosa* aloud. He released the party into her protection without hesitation.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 46 - The Shining City]]
 

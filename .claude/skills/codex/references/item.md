@@ -191,7 +191,7 @@ The section set **flexes to fit the item**. The opening paragraph and `## Descri
 
 [Who holds or wields it now, and how they came to have it. Wikilink the bearer.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -211,7 +211,7 @@ The section set **flexes to fit the item**. The opening paragraph and `## Descri
 
 [Concise prose — one to three paragraphs covering appearance, what it does, and how it has intersected with the campaign. Focused on what is known.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -273,7 +273,7 @@ A `## DM Notes` section at the bottom covers anything purely DM-side that won't 
 ## Current Owner
 [The bearer, and what the item is doing to them]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 [Same as public — campaign appearances are facts, not secrets]

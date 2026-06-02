@@ -63,7 +63,7 @@ How such a relic came to rest in the depths beneath the [[Ruby Falls Goldmine]],
 
 The amulet now belongs to [[The Bloody Nails]]. It was given to them by [[Nelfandriss the Banished]] as a token of goodwill, sealing the treaty they struck with her over the goldmine, and it has since become one of the party's most relied-upon tools.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 

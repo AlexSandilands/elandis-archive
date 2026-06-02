@@ -52,7 +52,7 @@ Brado has long served the [[Valtorran Empire|Empire]] as an instrument of enforc
 
 Back in Val Miriel, Brado operates from [[The Bastion]], the Imperial military headquarters in the city. Under his authority, more citizens have been hauled in on minor pretexts — funnelled into military service or shipped to the labour operations at [[Skyreach]]. Governor Tarlis holds the nominal title, but the general's will runs through the city's institutions unchallenged.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 27 - The Wanted Dwarf]]
 

@@ -145,7 +145,7 @@ The restricted document is the **full-truth version** of the article — the sam
 
 [Body sections — the same heading set as the public body for this subtype (listed under "Restricted body heading set" in the subtype doc), geography section first, with the full truth woven in. Hidden features, secret history, and concealed powers are written here as natural prose rather than held back.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 [Same as public — campaign appearances are facts, not secrets]

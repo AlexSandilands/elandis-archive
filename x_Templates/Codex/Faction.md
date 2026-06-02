@@ -36,6 +36,6 @@ The faction's origins, key turning points, and how they rose (or fell) to their 
 
 How the faction interacts with other powers — allies, enemies, and uneasy truces.
 
-### Campaign: [[The Bloody Nails]]
+## Campaign: [[The Bloody Nails]]
 
 Key interactions between this faction and the party.

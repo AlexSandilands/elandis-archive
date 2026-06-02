@@ -47,7 +47,7 @@ tags:
 
 Kira grew up listening to her uncle Gaara's stories of the wilderness, and by the time she was old enough to help, she had already decided the shop counter was a means to an end rather than a destination. Gaara took her on as an apprentice, recognising in her the same instinct for the land that defined his own craft — and knowing she would be wasted anywhere else. She has developed a particular aptitude for assessing creature remains: identifying quality, estimating value, and negotiating price with a composure that belies her age. The work keeps her busy enough, but those who spend time around her soon notice the way her gaze drifts toward the door whenever someone mentions the road north.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 

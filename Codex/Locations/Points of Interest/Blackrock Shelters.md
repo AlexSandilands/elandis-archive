@@ -55,7 +55,7 @@ Out on the [[Frostway]], and thick around the Shelters, hang small iron handbell
 
 At the Shelters the grief is turned toward belonging. A single bell hangs at the cave-mouth, and by custom each traveller who arrives rings it once — *so the mountain knows they made it, and the dead know they have company tonight.* New arrivals are greeted by that ring; to rest at the Shelters is to rest among the bells of those who did not.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 34 - Mourning Bells]]
 

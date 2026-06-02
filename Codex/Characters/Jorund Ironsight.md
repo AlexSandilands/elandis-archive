@@ -46,7 +46,7 @@ aliases: [Jorund]
 
 Jorund grew up in the deep mountain forges of Orespire, where his obsession with fire, powder, and the geometry of destruction made him a fixture in the smelting rooms before he was old enough to work them properly. A brief and spirited disagreement with local law eventually prompted his departure, and he left alongside [[Gromdal]], joining the crew of [[The Albatross]] and finding exactly the kind of work his temperament demanded. The cost of his ongoing experimentation has been steep — one of his eyes was lost when an explosive device backfired during a private weapons trial — but the loss has done nothing to temper his enthusiasm. He wears the patch and the burned fingers as a craftsman's badge, and keeps a bandolier of fuses, priming powders, and custom charges strapped across his chest at all times.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

@@ -49,7 +49,7 @@ Uric operates within the [[Order of Ravens|Order of Ravens]]' cell in [[Darmouth
 
 Uric also possesses some degree of arcane insight; he is perceptive enough to recognise latent magical talent in others, and pragmatic enough to act on it when the moment is right.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 03 - The Streets of Darmouth]]
 

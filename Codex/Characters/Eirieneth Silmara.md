@@ -66,7 +66,7 @@ It was during her wandering that she met [[Jarek]], a human she fell in love wit
 
 She was taken by the Empire while [[Eryndor]] was still a young child, vanishing from the [[Whispering Woods]] without trace. For years her fate was unknown — to her son, to [[Jarek]], and to the wider world. It was not until long after the exodus that intelligence surfaced suggesting she is held prisoner in [[Val Luminor]], the Empire's seat of power.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 21 - The Governor's Daughter]]
 

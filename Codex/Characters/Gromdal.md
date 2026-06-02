@@ -45,7 +45,7 @@ tags:
 
 Gromdal fought in the Dwarven rebellions, taking command of a section of the Gemhold mines during the uprising against the [[Valtorran Empire|Empire]]. He was part of the force that briefly overthrew Gemhold and marched through the mountain tunnels toward Glimmerforge, but the final battle cost him his left foot. He played dead in the aftermath, slipped away from dwarven territories, and spent years laying low before his craft skills brought him to the attention of [[The Mawbreakers]]. Aboard [[The Albatross]] he serves as both bosun and resident engineer — the person [[Barak Stormrider]] turns to when something needs to be built, broken, or precisely destroyed.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 12 - How to Start a Rebellion]]
 

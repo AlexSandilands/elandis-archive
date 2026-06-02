@@ -44,7 +44,7 @@ tags:
 
 Elara runs the [[Gilded Grimoire]] as both a retail establishment and a practising consultancy, offering magical identification, item crafting, and the kind of unhurried academic advice that only someone deeply uninterested in social convention can provide. Her blonde hair is typically bundled up with a red ribbon, a practical concession she makes when she remembers to make it. She is warm and capable, but her mind is rarely entirely present in a conversation — often she is working through a problem at the same time, using whatever method seems most useful to her, regardless of how it appears to others. Floating to the ceiling to think, for instance, is simply how some problems get solved.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 10 - The Coastal Cave]]
 

@@ -46,9 +46,7 @@ Eldrin Starweaver's place in the divine order follows the same structure as all 
 
 In life, Eldrin was a human wizard whose mastery of the arcane made him Mystra's chosen instrument for the Chaos Wars. He was consumed in the working that sealed the [[The Shattering|breach]], ascended into demigodhood as the other six champions did, and has since been worshipped as an eternal god of magic. Mystra withdrew into the silence the Gods of Old keep; the world forgot her entirely and kept him. The Weave he governs is genuinely hers in origin; his relic, the **Weave Loom**, may have been her instrument before it was his — the records do not say with certainty. Cross-reference the restricted [[The Pantheon - Restricted|Pantheon]], [[The Shattering]], and [[World Tree]] pages for the full cosmological structure.
 
-## Campaign
-
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 06 - The Goblin Lair]]
 

@@ -46,7 +46,7 @@ Tara and [[Salla the Brave]] were born and raised in [[Faelon]], the small minin
 
 She received the party with wary caution, warming only when [[Kai]] arrived at her door with a peace offering of hot soup and fresh bread. Over that simple meal she spoke of Salla's fate and directed the group toward Tumbler's Crag, confessing that recovering her sister's remains might finally bring her some peace. When the party returned from the cave, they kept that promise: [[Kai]] and [[Ryo]] brought her both the locket and Salla's bones, and the reunion of grief and relief that followed was one of the quieter, weightier moments of the campaign. In the aftermath, Tara spoke of perhaps leaving Faelon for the first time — a woman who had been frozen in place by loss, finally considering that the world beyond might still have something to offer her.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 10.5 - Diverging Paths]]
 

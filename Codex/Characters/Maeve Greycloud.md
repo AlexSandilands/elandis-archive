@@ -48,7 +48,7 @@ aliases:
 
 Maeve spent much of her life as a village nurse before joining [[The Finegolds]] — less out of necessity, she would tell anyone who asked, than a desire for a change of scenery. She brought her practised healer's knowledge with her, and quickly became the caravan's first resort for the wounded and its most appreciated presence at mealtime. Caring and plainspoken, she is often the voice of reason when tensions run high on the road, and her calm authority has a way of cutting through noise that more forceful personalities sometimes cannot.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

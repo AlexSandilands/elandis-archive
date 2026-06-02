@@ -47,7 +47,7 @@ Thane runs the Cobblestone Apothecary out of [[Camaar]], supplying the city's ad
 
 Unable to pursue her himself, Thane turned to the [[The Green Gryphons|Green Gryphons]] for help. The [[The Bloody Nails|Bloody Nails]] took up the contract and eventually returned [[Teresa]] to him safe.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 10.5 - Diverging Paths]]
 

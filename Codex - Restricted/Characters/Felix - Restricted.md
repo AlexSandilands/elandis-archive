@@ -60,7 +60,7 @@ Felix came through [[The Emerald Ceremony]] alongside [[Ayana Syndrosa]], arrivi
 
 His role in [[Serenity Plaza]] made his methods plain: the explosion that incinerated the Imperial soldiers and ignited two Fire Elementals during the anti-Empire rally was his doing, witnessed by [[The Bloody Nails]] from the middle of the chaos. The act was precise — the soldiers were the target — and Felix has shown no indication of regret.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 

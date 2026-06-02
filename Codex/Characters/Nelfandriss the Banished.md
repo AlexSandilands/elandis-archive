@@ -70,7 +70,7 @@ The driders that now occur naturally throughout the depths are, in the end, her 
 
 She was living quietly in the [[Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners to exploit the gold seams. The intrusion disturbed her brood, and she responded as any mother would: her spiders killed, cocooned, and stripped the bodies. She had no particular quarrel with the individuals — only with the disruption.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 

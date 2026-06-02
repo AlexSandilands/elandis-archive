@@ -92,7 +92,7 @@ The child grew up as [[Ryo]], knowing nothing of his origins. Jek raised him in 
 
 Rhennaya and [[Ratha Silmara|Ratha]] were killed by [[Dread General Gerard Blackmarsh]], run through together with the Dread Sword in a single thrust. The blade itself retained the memory of the act — decades later, [[Arcanist Levvel]] recoiled when she briefly handled [[Dread's Hunger]] during an inspection, having glimpsed the moment through the sword's carried memory.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 46 - The Shining City]]
 

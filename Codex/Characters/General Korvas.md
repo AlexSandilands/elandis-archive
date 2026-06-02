@@ -68,7 +68,7 @@ That promise was what drew the Empire's attention upward. He was selected for tr
 
 [[Dread General Gerard Blackmarsh]] retained an interest in recovering him, describing his restoration as a priority. When the opportunity arose in [[Val Noren]], Blackmarsh deployed a purple jewel whose magical discharge apparently restored the suppressed identity completely. The Korvas who emerged from that wave of energy turned on his companions without hesitation, suggesting that the suppression had not been self-imposed — and that whatever Vaeleran had come to value in the intervening months had no purchase on the general underneath.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 16 - The Fall of Skyreach]]
 

@@ -72,7 +72,7 @@ Before she fled, Nelfandriss stole her mother's amulet — a powerful artefact o
 
 She was living quietly in the [[Ruby Falls Goldmine]] when the [[Valtorran Empire]] began sending soldiers and miners into the gold seams. The intrusion disturbed her brood, and she responded as any mother would.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 

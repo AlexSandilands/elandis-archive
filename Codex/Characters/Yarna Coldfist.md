@@ -44,7 +44,7 @@ tags:
 
 Yarna Coldfist captained *The Devil's Wish*, an Imperial warship tasked with patrolling the approaches to [[Skyreach]] and turning back — or detaining — any vessel that strayed into waters the Empire preferred undiscovered. She cut an unmistakable figure: long black hair drawn back in a ponytail, heavy dark eyeshadow, an officer's pauldrons over her naval coat, and a captain's hat worn with the ease of long authority. She was a serious woman, not given to mercy when duty called.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 14 - The Devil's Wish]]
 

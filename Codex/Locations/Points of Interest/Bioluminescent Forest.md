@@ -37,7 +37,7 @@ The mushrooms are not merely decorative. Several distinct varieties grow here, e
 
 The cavern is home to a colony of [[Fungrals]] — small, shy humanoids whose bodies resemble the very fungi around them, with mycelium flesh and mushroom-cap heads that vary in shape and colour. They are believed to have arrived here from the [[Faewild]], drawn or displaced through a riftshard or fae circle that once opened into these tunnels, and have since made the Bioluminescent Forest their permanent home. A detour from the main cavern leads further into the tunnels to the [[Pool of Reflection]].
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 

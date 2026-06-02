@@ -49,7 +49,7 @@ aliases:
 
 Karr grew up in the underbelly of [[Valtorra]], learning the arts of stealth and subterfuge from a young age. He rose through the ranks of the [[Order of Ravens]] on the strength of his cunning and an unyielding commitment to the Order's code, eventually ascending to the role of Nest Father — a position that makes him both administrator and enforcer for the Val Miriel cell. Tall and wiry, with sharp features and silver-streaked hair he keeps tied back, Karr carries himself with the unhurried calm of someone who is never the most alarmed person in the room. His grey eyes are perpetually alert, cataloguing every detail. Beneath a composed, almost paternal exterior lies a strategic mind capable of ruthlessness when the Order's interests demand it.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 

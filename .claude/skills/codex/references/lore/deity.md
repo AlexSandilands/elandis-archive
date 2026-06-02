@@ -156,7 +156,7 @@ Rules:
 
 [**Mandatory closer.** How the world knows this god *now* — revered as eternal, dwindled to folklore, conflated with another, or wholly forgotten; who keeps the faith and who has let it lapse; the gap between common understanding and the truth. **This is the signature Lore section and, for a deity, often the most load-bearing** — it is where a forgotten god's faded memory lives, and where a worshipped god's public face stands over the truth held in restricted. Present the world's belief here; hold the truth for the restricted companion.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -182,7 +182,7 @@ Rules:
 
 [**Mandatory, can be one paragraph.** How they're remembered or worshipped, and by whom.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 

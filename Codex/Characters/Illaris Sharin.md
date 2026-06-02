@@ -51,7 +51,7 @@ On the surface, Illaris slowly carved out a new life. She joined [[The Mawbreake
 
 ![[Illaris_Sharin_2_small.webp]]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

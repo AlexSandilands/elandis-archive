@@ -49,7 +49,7 @@ Coldsteel was an imposing figure: broad-shouldered and scarred, with icy blue ey
 
 He was assigned to oversee a prisoner transport sailing from [[Val Noren]] toward [[Darmouth]], carrying a group of individuals destined for the labour camp at [[Skyreach]]. Among those prisoners were the people who would eventually come to be known as [[The Bloody Nails]]. Coldsteel's authority over the vessel was total — until the storm struck.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

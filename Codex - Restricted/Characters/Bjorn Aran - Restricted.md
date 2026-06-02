@@ -38,7 +38,7 @@ tags:
 
 The Aran family has held standing in [[Val Aran]] across generations, and Bjorn's tenure as Governor extends that lineage into the present day. Beyond the city's walls he maintains diplomatic ties with allied rulers, [[King Marius Noren]] among them.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 43 - The Shield of the North]]
 

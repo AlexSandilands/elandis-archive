@@ -46,7 +46,7 @@ aliases:
 
 Ingrid runs [[The Coal]] from a workshop that would strike a casual visitor as organised chaos — cluttered benches, scattered tongs, walls thick with hanging steel. To a practiced eye, everything is exactly where it should be. Her work carries none of the flourishes found at places like [[Silverforge]], but anyone who has actually swung a blade in anger will recognise the quality immediately. She has a reputation for bluntness and a complete lack of patience for customers who want something pretty. Those who come to her knowing what they need leave satisfied.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

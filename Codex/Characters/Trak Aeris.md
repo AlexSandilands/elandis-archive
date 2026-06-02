@@ -51,7 +51,7 @@ Trak was living quietly with his wife and young child in a small settlement on t
 
 He joined the [[Order of Ravens]] in the aftermath — not to find answers he did not already have, but because he had a child to feed and keep safe, and nowhere else to go. He proved capable from the first: fast, precise, good at finding things and people who would rather not be found. The Val Miriel Nest kept him on and valued him. He rose no further than operative not from lack of skill but from lack of interest in anything beyond the narrow demands of fieldwork and his child's wellbeing. Ambition would mean caring about the Ravens' broader politics, and that is not what keeps him here. What keeps him here is harder to name — part obligation to the only life his child has ever known, part the inability to put down the purpose he picked up in the ruins of that settlement and has never managed to set aside. He does not speak of his wife. He does not need to.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 

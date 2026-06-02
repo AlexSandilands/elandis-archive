@@ -45,7 +45,7 @@ Asha was lost in one of the border engagements that have long marked the uneasy 
 
 [[Warden Sylvaris]], however, has her doubts. The ruling archfae of the Vale, [[Mirileth|the Star-Veiled Queen]], is not known for simple endings. Sylvaris believes the coincidence of a senior Hunt casualty and an unrecovered Sumaran soldier is too neat — and that there may be more to Asha's fate than a body left on a frozen borderline.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 50 - A New Morning in Sumara]]
 

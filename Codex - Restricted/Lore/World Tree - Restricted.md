@@ -108,7 +108,7 @@ The elves stand closest to it. They revere the Tree as their god and keep its me
 
 But the deepest truth is held by no archive at all. Nowhere is it written that the Tree stands *above* the gods, that the Material Plane was grown magic-less from its roots, or that the war which wounded it is the same lesson that stayed the True Gods' hand in [[The Shattering]]. The elven reverence for Mother is, unknowing, the nearest the world comes to that truth — and even the elves do not grasp how nearly right they are.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 48 - The Vault of Memories]]
 

@@ -45,9 +45,7 @@ In mortal life, Elaris was a cleric of [[Selûne]] — calm, unhurried, shaped b
 
 The holy days the moon faith keeps — Silvernight, the Unshadowed, the Pardon — and the prophecy of the Moon's Chosen are [[Selûne]]'s designs, not inventions of the champion's faith. The Pardon's alignment with the dark moon's absence is her doing. The prophecy is her live mechanism: a standing means by which a God of Old forbidden from acting directly may yet raise a new mortal champion to carry her sphere into a crisis she cannot touch herself. It has been triggered.
 
-## Campaign
-
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 04 - To Free a Raven]]
 

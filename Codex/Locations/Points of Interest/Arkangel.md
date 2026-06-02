@@ -45,7 +45,7 @@ Enforcement falls to the city's automatons — powerful constructs purpose-built
 
 Mages come and go freely. No one lives in Arkangel permanently, and no record is kept of who visits — but there is an unspoken understanding that visitors are eventually expected to contribute something to the city's collection in return for the access they are granted. Knowledge, documentation, original research: the form is unspecified. The expectation is not enforced, but it is understood.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

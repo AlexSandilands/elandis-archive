@@ -50,7 +50,7 @@ Pip cuts an unmistakable figure among [[Sumara, The Shining City|Sumara]]'s heal
 
 She answers to no rank and defers to no authority when a patient needs treating. Members of the [[Circle of the Dawn]] who have worked alongside her know better than to stand between Pip and the problem she has been called to solve.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 46 - The Shining City]]
 

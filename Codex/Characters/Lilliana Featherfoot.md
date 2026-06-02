@@ -50,7 +50,7 @@ Lilliana was born to a human mother and an elven father, and it is her father's 
 
 She joined [[The Finegolds]] some years later, finding in the troupe both livelihood and cover. As its performer and seer, she uses cards, song, and inherited clerical instincts to divine what she can — part genuine gift, part theatre, and entirely her own.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 02 - Midnight Fangs]]
 

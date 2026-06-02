@@ -43,7 +43,7 @@ aliases:
 
 Grinn makes his home at the threshold of the [[Briarshade]], a strange and lightless wood where colour does not exist. He is civil, even courteous, and has no interest in violence — he knows the forest's shadows will claim the unwary soon enough regardless. His toll is a "Toll of Colour": a willingly surrendered piece of vibrancy, whether a physical object or a cherished, happy memory. Those who pay honestly find him a man of his word. He steps aside, points them true, and sends them on their way with something to help them survive what lies ahead.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 45 - Pieces on a Board]]
 

@@ -46,9 +46,7 @@ The relic, **Grumbar's Fist**, names the elder god openly — the clearest fragm
 
 The [[The Stoneheart|Stoneheart]] of [[Val Noren]] is the chief seat of this displaced worship.
 
-## Campaign
-
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 38 - A Trail of Blood]]
 

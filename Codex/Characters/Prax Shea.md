@@ -48,7 +48,7 @@ Prax grew up in [[Camaar]] with no memory of her parents, drifting into the orbi
 
 By the time she signed on with [[The Mawbreakers]], Prax was exactly what any captain wanted in a topman: unflappable at height, quick to spot trouble, and quiet enough that officers forget she's listening.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

@@ -85,7 +85,7 @@ On the Material Plane, she assumed the identity of **Ayana Wynne** — a young, 
 
 It was through Marius that she met [[The Bloody Nails]], and something about the group convinced her that the fight ahead would need more than political manoeuvring.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 

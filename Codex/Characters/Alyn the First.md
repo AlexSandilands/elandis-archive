@@ -49,7 +49,7 @@ Alyn was an unremarkable seller of garments from the outer quarters of Val Noren
 
 It was there, in the teeth of a storm, that a cleric named [[Kai]] gathered the refugees and called for anyone who would attend a ceremony of dedication to the moon goddess. Most kept walking. Alyn stopped. She was the only one who did, and she witnessed a spectral manifestation of [[Selûne]] herself descend to receive her. Overwhelmed and frightened, she pledged herself without fully understanding what she was pledging. By her own later admission, she understood it perfectly. She now lives and studies at [[St. Avelines]] in Val Noren, one of the first acolytes in a faith being quietly rebuilt from nothing.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 34 - Mourning Bells]]
 

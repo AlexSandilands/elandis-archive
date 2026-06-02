@@ -51,7 +51,7 @@ Doran spent most of his life in [[Silverdeep]], where he built a reputation as a
 
 On the caravan he serves as blacksmith and wagon-wright — repairing broken axles, reshoing horses, sizing armour, and appraising metalwork when it crosses his path. He takes evident pride in his craft and is quick to share opinions on workmanship, whether the subject is a goblin's battered splint mail or a masterwork greatsword of unknown origin.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 08 - The High Road]]
 

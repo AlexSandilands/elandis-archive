@@ -53,7 +53,7 @@ Norak Vara owns the [[Ruby Falls Goldmine]] in the foothills north of [[Val Miri
 
 His manor sits on [[The Royal Way]], staffed by a small household including his haughty butler Nihilus. Vara is not a man who inspires confidence — he is quick to dismiss concerns he finds inconvenient and slow to acknowledge threats that might reflect badly on his own judgement.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 20 - The Streets of Val Miriel]]
 

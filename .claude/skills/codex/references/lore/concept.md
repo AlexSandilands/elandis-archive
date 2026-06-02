@@ -121,7 +121,7 @@ Rules:
 
 [**Mandatory closer.** Who knows of it, who reveres or fears it, and what folklore surrounds it — common understanding versus the truth, and how widely it's even known. This is the signature Lore section. For a concept known only to scholars or one people, say so, and present their understanding here; the deeper truth is held for the restricted page.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -147,7 +147,7 @@ Rules:
 
 [**Mandatory, can be one paragraph.** Who knows of it, and what's believed.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 

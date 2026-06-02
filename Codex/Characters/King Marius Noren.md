@@ -56,7 +56,7 @@ That caution proved well-founded. Imperial agents used an undead assault on the 
 
 After the liberation of [[Val Noren]], Marius received the party at court, rewarded them with platinum, potions, and a family heirloom blade of [[Renite Steel]], and began turning his attention toward [[Val Miriel]] and the wider fate of the north.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 37 - March of the Dead]]
 

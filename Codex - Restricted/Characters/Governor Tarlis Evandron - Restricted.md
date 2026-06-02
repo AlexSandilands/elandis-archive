@@ -63,7 +63,7 @@ He did not collapse under it. He governed carefully, won no great admirers among
 
 He raises Vallania alone, watching her with the anxiety of a man who has already lost everything once. Her independence is both his greatest fear and — though he struggles to say it — his deepest pride.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 19 - Blood and Sorrow]]
 

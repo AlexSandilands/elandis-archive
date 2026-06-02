@@ -95,7 +95,7 @@ From the same principle, the Voices of the Empire were built — Imperial mages 
 
 [[Dread General Gerard Blackmarsh|Gerard Blackmarsh]] served as her first true lieutenant — capable, loyal, and too useful to lose to natural mortality. She solved the problem in the way she had learned to solve most problems: she killed him and raised him as a death knight, gifting him the blade *Dread's Hunger*, forged for the purpose by [[Kharazoth the Crimson Shadow|Kharazoth]] himself. Blackmarsh served the Empire faithfully for decades until his destruction at the hands of [[The Bloody Nails]].
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

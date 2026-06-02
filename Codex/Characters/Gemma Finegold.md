@@ -86,7 +86,7 @@ The cost of that mission came later. A trap laid by the Imperial assassin [[Sera
 
 She leads [[The Finegolds]] now. Quietly, competently, and with the same sharp eye her father spent years cultivating in her. She continues to operate as an intelligence asset for the anti-Imperial network, passing information between cells and leveraging her merchant cover to move where soldiers cannot.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

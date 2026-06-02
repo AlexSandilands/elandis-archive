@@ -46,7 +46,7 @@ tags:
 
 Gaara has worked the wilderness around Val Miriel for most of his life, building [[The Fur and Fang]] into a reputable establishment for hunters, adventurers, and anyone in need of quality pelts, hides, or knowledge of the land beyond the city walls. His niece [[Kira]] joined him in the trade in time, and the two now form a capable partnership — Gaara the gregarious face of the shop, Kira the sharp analyst behind the counter. He keeps tabs on rumours filtering in from hunters and trappers working the surrounding region, making the shop as much an informal news exchange as a trading post.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 

@@ -46,7 +46,7 @@ Felix cuts a memorable figure in the artisan quarter: silver robes stitched with
 
 [[The Bridge of Stars]] has become a reliable fixture for those in need of unusual arcane supplies. Felix stocks a range of enchanted items sourced from ruins across [[Val Miriel]] and the wider region, and he maintains a network of contacts through whom he can point discerning buyers toward hard-to-find goods elsewhere.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 

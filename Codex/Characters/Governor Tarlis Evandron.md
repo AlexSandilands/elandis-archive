@@ -63,7 +63,7 @@ He did not collapse under it. Slowly, without fanfare, Tarlis proved his worth t
 
 He raises Vallania alone and watches her with the particular anxiety of a man who has already lost everything once. Her growing independence and rebellion against his caution is a source of ongoing tension between them — and, if he is honest with himself, a source of admiration he cannot quite bring himself to express.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 19 - Blood and Sorrow]]
 

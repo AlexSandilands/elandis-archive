@@ -48,7 +48,7 @@ Gromdal fought in the Dwarven rebellions, taking command of a section of the Gem
 
 What Gromdal has never shared with the crew is a fragment of intelligence he carries from those final days at Glimmerforge: the youngest Dwarven Prince, Goren, was taken into the Underdark before the siege concluded. He knows nothing more than that — not who took him, not why, not whether the prince lives — but the knowledge has sat with him for years, waiting for a moment when it might matter.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 12 - How to Start a Rebellion]]
 

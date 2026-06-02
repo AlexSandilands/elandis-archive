@@ -47,7 +47,7 @@ Erun was raised in [[Val Luminor]] as the son of a merchant, learning the rhythm
 
 Middle-aged by halfling reckoning, Erun carries the marks of years at sea: a weathered complexion, straight black hair tied back with a leather strip, and a long pale scar across his left forearm from a pirate's blade. A collection of small silver earrings climbs one ear — each added at a different port, so the story goes. He is lean and unhurried, more comfortable with a ledger than a sword, but his keen green eyes miss little.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

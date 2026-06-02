@@ -47,7 +47,7 @@ aliases:
 
 Ella and her brother [[Uric Graad]] grew up in Darmouth, a port city long squeezed under Imperial occupation. Where other residents learned to keep their heads down, the Graad siblings were drawn into the resistance — eventually finding their place within the [[Order of Ravens|Order of Ravens]], a clandestine network dedicated to undermining Imperial control. Ella's natural talent for stealth and deception made her an ideal field operative, and she took on missions that required a light touch and a cool nerve. She wears the black cloak and hood of the Order, and knows [[Darmouth]]'s alleys and rooftops as well as any guardsman knows his patrol route.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 03 - The Streets of Darmouth]]
 

@@ -51,7 +51,7 @@ Back in [[Faelon]], Kai and [[Ryo]] brought the remains and the locket to [[Tara
 
 Years later, the cave beneath [[Tumbler's Crag]] was recognised as one of four planar rift sites the party had encountered across their travels — a detail that cast Salla's haunting in a new light, her restless spirit as much a consequence of the rift's corruption as of grief.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 11 - The Tale of Salla the Brave]]
 

@@ -47,7 +47,7 @@ aliases: [T]
 
 Teresa earned her place in the Green Gryphons on her own terms. She is a capable fighter — comfortable with a greatsword and apparently just as comfortable wrestling bears for sport — and carries herself with the easy confidence of someone who has long since stopped caring whether others find her intimidating. She is a familiar face at the guild hall, known to keep an eye on members heading out into the city and to speak plainly when she thinks they are about to do something foolish.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 26 - A Midnight Romp]]
 

@@ -66,7 +66,7 @@ She also inherited something he could not give her: the name. The Miriel line ru
 
 When she heard rumours of a goblin problem on the High Road between [[Camaar]] and [[Darmouth]], she assembled a small group and went to solve it herself. She was the only survivor.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 06 - The Goblin Lair]]
 

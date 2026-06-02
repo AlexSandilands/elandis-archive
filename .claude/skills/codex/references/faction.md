@@ -177,7 +177,7 @@ Factions use a fixed three-section backbone, with bespoke sections slotted betwe
 
 [When applicable. How the faction interacts with other powers — allies, enemies, uneasy truces. A bold-term list per relationship reads well.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -230,7 +230,7 @@ For factions the most common secret is **who really leads, and to what end** —
 
 [Body — same heading set as the public body (Purpose & Goals, Structure & Leadership, bespoke sections, History, Relations), with the full truth woven in: the real leader named in Structure & Leadership, hidden history in History, true allegiances in Relations.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 [Same as public — campaign appearances are facts, not secrets]
@@ -366,7 +366,7 @@ No Purpose/Structure/History backbone (those live in the parent). A chapter lead
 
 [When applicable. The jobs, schemes, or events this branch has run locally — kept to what's local; campaign-wide operations stay on the parent doc.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 

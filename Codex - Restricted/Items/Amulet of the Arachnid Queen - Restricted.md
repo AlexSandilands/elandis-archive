@@ -63,7 +63,7 @@ That purpose arrived with [[The Bloody Nails]]. Before parting with the amulet, 
 
 The amulet belongs to [[The Bloody Nails]], who carry it as one of their most reliable tools and have no inkling of its true nature. So long as they stay on the surface it is exactly what it appears to be. The danger waits underground — and the party has already begun venturing into the kinds of places where the second enchantment wakes.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 24 - Nelfandriss The Banished]]
 

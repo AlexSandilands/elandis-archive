@@ -58,7 +58,7 @@ Grakthor led his tribe to a subterranean lair beneath a crumbling shrine dedicat
 
 His raids drew enough attention to prompt a formal contract from [[The Green Gryphons]], the mercantile guild operating out of [[Darmouth]], who hired a freelance group to clear the road.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 07 - Grakthor Falls]]
 

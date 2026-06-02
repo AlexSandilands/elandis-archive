@@ -64,7 +64,7 @@ She came back carrying the head of the leader of the Hunt. What passed inside th
 
 The truth known to the DM: Ellesandra made a deliberate pact with the archfae queen [[Mirileth]] to end the conflict. The terms were that Mirileth would take control of the Vale and bring the Hunt to heel, and the war would cease. Ellesandra likely gave something in return — what that was remains a potential plot thread. She disappeared into the Vale and it is not recorded whether she left again by a different means, died there, or simply ceased to be spoken of. Her role is marked as Deceased by convention, but the manner of her death is unknown.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 50 - A New Morning in Sumara]]
 

@@ -78,7 +78,7 @@ Over the centuries that followed, Praetor'Varanous became something the [[Silmar
 
 His debt to the [[Silmara Family|Silmara]] bloodline is, in his own estimation, not a matter of obligation. It is simply what is true. They gave him life when life was the only thing he had left to give. He will serve them until that is no longer possible.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 48 - The Vault of Memories]]
 

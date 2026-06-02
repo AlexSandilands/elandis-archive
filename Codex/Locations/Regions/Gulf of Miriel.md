@@ -97,7 +97,7 @@ The [[Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operat
 
 The Gulf of Miriel is, by geography alone, one of the most strategically valuable stretches of water on [[Valtorra]]. The Maw makes it almost impossible to attack from the sea; the Luminor River makes it the saltwater end of the only navigable route to the imperial capital. Whoever controls the gulf can supply [[Val Luminor]] cheaply, and whoever closes the gulf chokes the [[Valtorran Empire|Empire]]'s southern war effort at the throat. This is the bargain the Empire has lived with for a century: the Mawbreakers' co-operation buys it that route, and the day that bargain breaks, so does its grip on the south.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 08 - The High Road]]
 

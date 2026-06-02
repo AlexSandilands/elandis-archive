@@ -76,7 +76,7 @@ The Empire requisitioned the ship. The Imperial captain abusing Baran's crew pus
 
 He heard later that the Imperial captain responsible had been overseeing the construction of [[Skyreach]]. The night the Mawbreakers marched on that bridge, he knew the address.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 08 - The High Road]]
 

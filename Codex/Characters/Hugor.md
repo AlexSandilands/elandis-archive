@@ -51,7 +51,7 @@ That arrangement collapsed when the Bloody Nails arrived in Lighthaven. The part
 
 He was never seen in Lighthaven again after the party departed. Whether he fled the town, went into hiding, or simply vanished into the countryside is unknown.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

@@ -49,7 +49,7 @@ She came within a blade's breadth of succeeding. The ambush opened with devastat
 
 On her body the party found a red-lined black cloak, later identified as a magical *Cloak of Protection*. Sewn into it was a sealed blood-paper note — a communication device keyed to an unknown handler, hinting at connections within the [[Eye of the Empire|Eyes of the Empire]] that ran deeper than a single field operative.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

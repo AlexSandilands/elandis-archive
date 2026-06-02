@@ -48,7 +48,7 @@ aliases: [Gideon]
 
 Gideon survived his childhood in [[Val Luminor]] through quick hands and quicker thinking, lifting purses and picking locks long before he understood the politics that shaped the city around him. His fate changed when he targeted the wrong mark — a member of the [[Order of Ravens]] — and found himself given a stark choice: join the Order or face the consequences. He joined without hesitation and has never regretted it, channelling his street-honed skills into the work of a courier and scout. Within the Order he has built a reputation for reliability under pressure, fierce loyalty to those he counts as comrades, and a talent for acrobatics and evasion that makes him almost impossible to catch once he decides to run.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 19 - Blood and Sorrow]]
 

@@ -40,7 +40,7 @@ tags:
 
 Ellie was among the goblins encamped in a lair beneath an old temple when [[The Bloody Nails]] swept through and destroyed the settlement. She survived by hiding, and was eventually flushed out from her tent — satchel in hand, sketchbook pressed to her chest — when [[Kai]] set the camp ablaze. Rather than put her to the sword, the party took her captive and brought her to the surface. There she was reunited with [[Lenny the Goblin|Lenny]], her husband, who had been taken prisoner the session prior. The pair were released at the [[Gemma Finegold|Finegold]] merchant camp with a firm warning to quit the high road and never return. They left together into the trees.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 07 - Grakthor Falls]]
 

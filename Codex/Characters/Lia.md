@@ -71,7 +71,7 @@ It was [[Eryndor]] she warmed to, though "warmed" is perhaps too generous a word
 
 In [[Val Miriel]], she was handed off to [[Gideon Blackthorn]] of the [[Order of Ravens]] and taken into the Nest's training. The wagon ride was over. But the threads she had left in it — the locket, the dagger, the moment by the fire — had a way of persisting.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 10 - The Coastal Cave]]
 

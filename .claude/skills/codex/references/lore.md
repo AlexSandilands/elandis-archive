@@ -171,7 +171,7 @@ For lore the most common secret is **the truth beneath the myth** — what reall
 
 [Body — same heading set as the public body for this subtype (Overview, the bespoke middle, In Memory & Belief), with the full truth woven in.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 [Same as public — campaign appearances are facts, not secrets]

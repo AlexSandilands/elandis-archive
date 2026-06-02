@@ -46,7 +46,7 @@ Whatever magic the place still holds is faint and unfamiliar, matching no tradit
 
 The Ancient Woods are no ruin to be wandered lightly. Predators den among the fallen stones, and the forest is easy to become lost in — its circling geometry seems almost designed to confound. Travellers have reported a great shadow-furred beast that prowls the perimeter of the ruins: a thing the eye can never quite settle on, leaving behind only large clawed prints and the certainty of being stalked.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 18 - The Old Forest]]
 

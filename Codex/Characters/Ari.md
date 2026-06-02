@@ -53,7 +53,7 @@ In the grief and silence that followed, the bond between them was forged. They p
 
 Beneath a direct manner and a dry, easy wit, Ari carries a warmth she doesn't always advertise. She is fiercely loyal to her crew, unflinching in a crisis, and one of the few people on the water that Barak trusts without reservation.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 08 - The High Road]]
 

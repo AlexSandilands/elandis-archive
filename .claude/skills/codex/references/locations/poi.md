@@ -100,7 +100,7 @@ Rules:
 
 [A place-appropriate section: why it matters, what it's used for now, who frequents or contests it. Rename the heading to fit the place — "Strategic Significance" for a military chokepoint, "Current State" for a ruin, "Significance" for a cultural site. Add further bespoke sections as the place warrants — match the depth and free-form sectioning of the Vale of Eternal Night gold standard.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -122,7 +122,7 @@ Rules:
 
 [**Required.** Concise prose — one to two paragraphs. Open by placing the location on the map (relative to a known, mappable place), then cover what the place is, its appearance, and how it has intersected with the campaign. Focused on what is known.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 

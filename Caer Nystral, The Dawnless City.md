@@ -98,7 +98,7 @@ Caer Nystral is held less by formal garrison than by the nature of the place its
 - **The Queen's eye** — little crosses the Vale unseen by the Star-Veiled Queen's magic; she permits no loose ends.
 - **The dark itself** — the oldest defence, and the one no stranger can answer.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 50 - A New Morning in Sumara]]
 

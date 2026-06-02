@@ -65,7 +65,7 @@ Gerard Blackmarsh was already a commander of exceptional capability when [[Empre
 
 When the Empress concluded that he was too useful to risk losing, she made the only logical decision available to her: she killed him herself and raised him as a Death Knight, ensuring his loyalty and service would outlast any battlefield wound. She gave him [[Dread's Hunger]], a greatsword of malevolent necrotic power, and returned him to the field — now impossible to kill by conventional means and radiating an aura of dread that could break morale before a blade was ever drawn. He served as the commander of the siege of [[Val Noren]], overseeing the occupation of the city and coordinating with the mysterious [[The Red Priests]] on a timeline of escalating horror.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 33 - A Camp Alight]]
 

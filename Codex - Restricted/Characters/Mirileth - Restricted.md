@@ -52,7 +52,7 @@ She is visually elven, but wrong in the way that archfae tend to be wrong — to
 
 [[Warden Sylvaris]] of Sumara holds a measured opinion of her: that the Star-Veiled Queen does not permit loose ends, and that anything that disappears into the Vale does so at Mirileth's sufferance.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 50 - A New Morning in Sumara]]
 

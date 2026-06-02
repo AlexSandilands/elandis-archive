@@ -95,7 +95,7 @@ Knowledge of the World Tree is rare almost to the point of secrecy. To the commo
 
 The elves stand closest to it. They revere the Tree as their god and keep its memory in their oldest records and rites, and the [[Silmara Family]] carry its mark in their very blood. Beyond the elven archives the knowledge thins to scattered, contradictory fragments — and even where it is written down, the tellings do not agree; the Sumaran archives' own accounts of the Sundering contradict one another. What survives is less a history than a handful of half-remembered shapes, each scholar holding a different piece and none the whole.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 48 - The Vault of Memories]]
 

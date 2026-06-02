@@ -51,7 +51,7 @@ He knew what Gemma had been doing in recent years — the resistance contacts, t
 
 Harland was killed by the assassin [[Seraphina]], who targeted [[The Finegolds]] in the ruins of [[Farhaven]]. His body was found buried near the site with his throat cut — a clean, professional kill. He was given a proper burial by [[The Bloody Nails]] before the caravan moved on.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 01 - The Rusty Nail]]
 

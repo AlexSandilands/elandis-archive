@@ -60,7 +60,7 @@ In the act of sundering, Ryordan bound his bloodline to the root. Every descenda
 
 The [[Silmara Family]] takes its name, its mandate, and much of its identity from him. The Sumaran elves describe the royal bloodline as "Blessed by Mother" — the [[World Tree]] — and Ryordan is the reason why. His image was preserved within the [[Vault of Memories]] and shown to his distant descendant [[Ryo]] in a vision: an elven soldier standing among towering celestial witnesses at a battle that ended an age, driving a blade into a root that split the sky.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 49 - The Silver Sage]]
 

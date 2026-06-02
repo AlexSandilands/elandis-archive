@@ -92,7 +92,7 @@ Ebon found Gemma Finegold in Silverdeep not long after the Empire publicly execu
 - **[[The Green Gryphons|Green Gryphons]]:** Avoided. The Order steers well clear of them.
 - **Other rebel groups:** No formal alliances. The Order prefers independence and is wary of any entanglement that might expose the network.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 03 - The Streets of Darmouth]]
 

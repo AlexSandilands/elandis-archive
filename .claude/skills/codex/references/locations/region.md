@@ -141,7 +141,7 @@ Rules:
 
 [Why the region matters — strategically, culturally, or to the campaign. Add further bespoke sections (Relations with a neighbour, a notable Capital, Past Conflicts) as the region warrants — match the depth and free-form sectioning of the [[Vale of Eternal Night]] gold standard.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -163,7 +163,7 @@ Rules:
 
 [**Required.** One to two paragraphs. Open by placing the region in the world (continent or plane, what it borders, rough extent), then describe its terrain, climate, and character. Wikilink any known settlements or sites within it inline.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 

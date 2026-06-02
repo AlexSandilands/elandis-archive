@@ -49,7 +49,7 @@ His resentment did not fade in the years that followed. He became quietly certai
 
 When [[Ryo]], an Elf, visited Lighthaven, Dhorik recognised an opportunity to act on those feelings. He reported Ryo's presence to the local Imperial commander, [[Captain Lucius Draegor]], leading directly to Ryo's capture and dispatch on a prison ship. He expressed no regret when confronted about it — only the same worn-down grievance: that his people had been left to suffer while others fled.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

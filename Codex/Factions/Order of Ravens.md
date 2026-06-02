@@ -86,7 +86,7 @@ The rise of the Valtorran Empire ended that long detachment. The Hands of the Em
 - **[[The Green Gryphons|Green Gryphons]]:** Avoided. The Order steers well clear of them.
 - **Other rebel groups:** No formal alliances. The Order prefers independence and is wary of any entanglement that might expose the network.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 03 - The Streets of Darmouth]]
 

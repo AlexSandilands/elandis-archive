@@ -48,9 +48,7 @@ Kept above all on **Earthday** and in the mountain holds: masons, miners, and sm
 
 Torgar is widely worshipped across [[Elandis]], and revered above all in the mountain holds, where the faith of the Earthshaker has always run deepest. Beyond that, little of the deeper history of his worship is recorded in any one place.
 
-## Campaign
-
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 38 - A Trail of Blood]]
 

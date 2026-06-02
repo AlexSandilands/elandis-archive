@@ -42,7 +42,7 @@ aliases: [Tobias Gristle]
 
 Tobias has run the Foggy Tankard for years, becoming a fixture of Lighthaven life in the process. The inn is a warm, cluttered refuge of hearth smoke, spiced stew, and the easy hum of locals trading gossip — and Tobias presides over it all with the easy authority of a man who genuinely enjoys his work. His memory for faces is sharp; travellers who passed through once, even years prior, are liable to be greeted by name on their return.
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 29 - Lighthaven Awaits]]
 

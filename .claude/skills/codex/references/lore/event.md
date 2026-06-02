@@ -123,7 +123,7 @@ Rules:
 
 [**Mandatory closer.** How the world remembers the event now — common knowledge versus folklore, who takes it seriously (and who treats it as a campfire tale), and how the tellings differ. This is the signature Lore section. Where the public account is a romanticised or garbled version of the truth, that gap is the heart of this section — present the folk version here and hold the truth for the restricted page.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
@@ -149,7 +149,7 @@ Rules:
 
 [**Mandatory, can be one paragraph.** How it's remembered, if at all — and by whom.]
 
-### [[The Bloody Nails|Campaign: The Bloody Nails]]
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session N - <Title>]]
 
