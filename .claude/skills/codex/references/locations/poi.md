@@ -120,7 +120,11 @@ Rules:
 
 ## Location & Geography
 
-[**Required.** Concise prose — one to two paragraphs. Open by placing the location on the map (relative to a known, mappable place), then cover what the place is, its appearance, and how it has intersected with the campaign. Focused on what is known.]
+[**Required first section.** Concise prose — usually one short paragraph. Place the location on the map (relative to a known, mappable place), then describe its physical setting and appearance — what a visitor would see. Keep this section to *placement and appearance*; push wares, function, history, purpose, and fate into the bespoke sections below rather than absorbing them here.]
+
+## [Optional bespoke section(s)]
+
+[Minor pages stay lean — default to just the geography section above plus the Campaign section. But when a minor place carries genuinely distinct strands of detail (e.g. what it sells, what it's for, how it came to be, what became of it), give each its own short section rather than cramming everything into geography. Name each heading to fit the place — e.g. "The Shop", "Purpose & Fate", "History". Two or three such sections is plenty; if a minor page wants more than that, it's probably a Major POI.]
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -129,7 +133,7 @@ Rules:
 Brief summary of what happened here this session — one sentence or a short bullet.
 ```
 
-The required first body section for a POI is **`## Location & Geography`**. The shared rules (world-focused opening, geography-first, session link format, Trivia is Major-only, public-only content) are in `location.md`.
+The required first body section for a POI is **`## Location & Geography`**, scoped to placement and appearance. A minor page should stay lean — but it is **not** restricted to that single section: when the content warrants, split distinct strands of detail into a small number of bespoke sections (as the Major template does) rather than overloading geography. The shared rules (world-focused opening, geography-first, session link format, Trivia is Major-only, public-only content) are in `location.md`.
 
 ---
 

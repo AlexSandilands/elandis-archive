@@ -16,6 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Jek
+> [![[Codex/Assets/Characters/Jek_small.webp|cover hsmall]]](Codex/Assets/Characters/Jek.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -61,13 +61,13 @@ For each file in a session:
 *Unblocks every later evening. Build the tooling first, then a few quick wins.*
 
 - [ ] **Write the 5 skill references** (mirror `.claude/skills/codex/references/character.md`):
-  - [ ] `references/locations.md` (cities, regions, points of interest — one ref, sub-types inside)
-  - [ ] `references/factions.md`
+  - [x] `references/locations.md` (cities, regions, points of interest — one ref, sub-types inside)
+  - [x] `references/factions.md`
   - [x] `references/items.md`
-  - [ ] `references/lore.md` (deities, events, cosmology, culture)
+  - [x] `references/lore.md` (deities, events, cosmology, culture)
   - [ ] `references/continents.md`
 - [ ] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
-- [ ] **Resolve the 3 duplicate pairs** (merge + delete extras).
+- [x] **Resolve the 3 duplicate pairs** (merge + delete extras).
 - [ ] **Continents / World (4):**
   - [ ] Elandis *(world overview / top-level landing page)*
   - [ ] Valtorra

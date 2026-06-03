@@ -258,28 +258,28 @@ Sumara is not exclusively elven. Over 100 years of isolation, a diverse Faewild 
 
 ### NPC Names (d20)
 
-| d20 | Elven | Sylvan | Fungral | Pixie |
-|---|---|---|---|---|
-| 1 | Aelindra Moonshade | Birchen Hollowoak | Bopkin | Aester |
-| 2 | Caelfior Sylvelis | Cael Bramblevein | Cremm | Briol |
-| 3 | Daevandros Aerithel | Dappen Mosswright | Drimble | Cintha |
-| 4 | Faelyn Quenari | Elspen Greenrime | Frothy | Dewlin |
-| 5 | Galanthor Mithralein | Fern Witherborn | Gilliboll | Eveth |
-| 6 | Halariel Stardrop | Greyrune Leafshorn | Hopskin | Fyx |
-| 7 | Iliana Vesserin | Hessian Thornbrace | Jirry | Glimmer |
-| 8 | Jeryndor Calithil | Iris Silverbark | Krumkin | Hesper |
-| 9 | Kaelorin Tirelias | Jorvenn Briarbloom | Mossy | Iridel |
-| 10 | Lasriel Faengloss | Kine Vellumvine | Nubbin | Jessel |
-| 11 | Mirelle Sirannas | Liss Quietleaf | Puffin | Kithy |
-| 12 | Naerithil Solendra | Mire Stonewillow | Quim | Lilliven |
-| 13 | Olethriel Vaelandriss | Nettle Ravenmist | Sopwick | Mintheas |
-| 14 | Pheriel Astarion | Olm Coppershade | Trumple | Niven |
-| 15 | Quennedhel Yllariel | Pell Driftroot | Vesper | Orelle |
-| 16 | Rinariel Thelendra | Quenn Hawthorn | Wibbet | Petalin |
-| 17 | Sarethiel Lonnariel | Reedlin Brackenfall | Yorrick | Quenny |
-| 18 | Thessarian Vorelle | Sallow Glasswood | Sporvi | Rinwen |
-| 19 | Uriendel Saelvath | Thiren Foxglove | Tuffin | Sythlin |
-| 20 | Yvenari Ithlinael | Vellow Yewstrand | Polper | Thistle |
+| d20 | Elven                 | Sylvan              | Fungral   | Pixie    |
+| --- | --------------------- | ------------------- | --------- | -------- |
+| 1   | Aelindra Moonshade    | Birchen Hollowoak   | Bopkin    | Aester   |
+| 2   | Caelfior Sylvelis     | Cael Bramblevein    | Cremm     | Briol    |
+| 3   | Daevandros Aerithel   | Dappen Mosswright   | Drimble   | Cintha   |
+| 4   | Faelyn Quenari        | Elspen Greenrime    | Frothy    | Dewlin   |
+| 5   | Galanthor Mithralein  | Fern Witherborn     | Gilliboll | Eveth    |
+| 6   | Halariel Stardrop     | Greyrune Leafshorn  | Hopskin   | Fyx      |
+| 7   | Iliana Vesserin       | Hessian Thornbrace  | Jirry     | Glimmer  |
+| 8   | Jeryndor Calithil     | Iris Silverbark     | Krumkin   | Hesper   |
+| 9   | Kaelorin Tirelias     | Jorvenn Briarbloom  | Mossy     | Iridel   |
+| 10  | Lasriel Faengloss     | Kine Vellumvine     | Nubbin    | Jessel   |
+| 11  | Mirelle Sirannas      | Liss Quietleaf      | Puffin    | Kithy    |
+| 12  | Naerithil Solendra    | Mire Stonewillow    | Quim      | Lilliven |
+| 13  | Olethriel Vaelandriss | Nettle Ravenmist    | Sopwick   | Mintheas |
+| 14  | Pheriel Astarion      | Olm Coppershade     | Trumple   | Niven    |
+| 15  | Quennedhel Yllariel   | Pell Driftroot      | Vesper    | Orelle   |
+| 16  | Rinariel Thelendra    | Quenn Hawthorn      | Wibbet    | Petalin  |
+| 17  | Sarethiel Lonnariel   | Reedlin Brackenfall | Yorrick   | Quenny   |
+| 18  | Thessarian Vorelle    | Sallow Glasswood    | Sporvi    | Rinwen   |
+| 19  | Uriendel Saelvath     | Thiren Foxglove     | Tuffin    | Sythlin  |
+| 20  | Yvenari Ithlinael     | Vellow Yewstrand    | Polper    | Thistle  |
 
 ### Shops (d20)
 
