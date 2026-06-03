@@ -15,9 +15,22 @@ Every Codex asset has two WebPs published in the vault and one archived original
 - `<Codex/Assets/<Category>/Name_small.webp>` — 300px-wide thumbnail, quality 85 (embedded in the infobox with `cover hsmall`)
 - `<archive root>/<Name>.png` — lossless source PNG, kept outside the vault for reprocessing
 
-**Default archive root for character images:** `/mnt/storage/Misc/DnD/The Bloody Nails/Art/Characters/NPCs/`
+**Archive roots by category.** The archive tree under `/mnt/storage/Misc/DnD/The Bloody Nails/Art/` mirrors the Codex Assets categories, with one quirk: the archive folder is `Points of Interest` (spaces) where the vault uses `Points_of_Interest` (underscores).
 
-If processing a different asset category (locations, items, etc.), ask the user for the archive root rather than assuming.
+| Codex Assets category (source)        | Archive root                                                          |
+| ------------------------------------- | --------------------------------------------------------------------- |
+| `Characters/`                         | `…/Art/Characters/`                                                    |
+| `Factions/`                           | `…/Art/Factions/`                                                      |
+| `Items/`                              | `…/Art/Items/`                                                         |
+| `Locations/` (top-level / region map) | `…/Art/Locations/`                                                     |
+| `Locations/Cities/`                   | `…/Art/Locations/Cities/`                                              |
+| `Locations/Points_of_Interest/`       | `…/Art/Locations/Points of Interest/`                                  |
+| `Locations/Regions/`                  | `…/Art/Locations/Regions/`                                             |
+| `Lore/`                               | `…/Art/Lore/`                                                          |
+
+(`…/Art/` = `/mnt/storage/Misc/DnD/The Bloody Nails/Art`.) The archive tree also holds `Scenes/` and `Splashscreens/`, which are not Codex asset categories — never archive a Codex asset there.
+
+If a source falls outside these categories, ask the user for the archive root rather than assuming.
 
 WebP at q95 is visually indistinguishable from the source PNG for AI-generated painterly art and is roughly 10× smaller. Q85 at 500px is enough for retina-quality infobox display.
 
@@ -39,7 +52,7 @@ Resolve to an absolute path before proceeding.
 Given source `Codex/Assets/Characters/Warden_Caeryn.png`:
 - Full WebP:  `Codex/Assets/Characters/Warden_Caeryn.webp`
 - Thumb WebP: `Codex/Assets/Characters/Warden_Caeryn_small.webp`
-- Archive:    `<archive root>/Warden_Caeryn.png`
+- Archive:    `<archive root>/Warden_Caeryn.png` — pick the archive root from the category table above (mind the `Points_of_Interest` → `Points of Interest` rename)
 
 Before continuing, check that no file already exists at the archive destination — if it does, skip the archive step silently (the source is already safely stored).
 
@@ -70,7 +83,7 @@ Report the source dimensions, both output paths and sizes, and the archive path:
 
 ```
 Done. Warden_Caeryn processed.
-  Source:   1792×2400 PNG, 8.8M  → archived to /mnt/storage/Misc/DnD/The Bloody Nails/Characters/NPCs/Warden_Caeryn.png
+  Source:   1792×2400 PNG, 8.8M  → archived to /mnt/storage/Misc/DnD/The Bloody Nails/Art/Characters/Warden_Caeryn.png
   Full:     1000×1339 WebP q95, 800K  → Codex/Assets/Characters/Warden_Caeryn.webp
   Thumb:    300×402   WebP q85, 24K   → Codex/Assets/Characters/Warden_Caeryn_small.webp
 ```
