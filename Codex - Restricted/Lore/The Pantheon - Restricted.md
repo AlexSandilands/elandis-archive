@@ -28,7 +28,7 @@ Each of the Seven was, in life, the chosen champion of one God of Old, empowered
 - **[[Elaris Moonsong]]** (Moon) — champion of **[[Selûne]]**, the Moonmaiden — the clearest-documented pairing, and the one the party has brushed against.
 - **[[Torgar Earthshaker]]** (Earth) — champion of **[[Grumbar]]**, the Earthlord.
 - **[[Azara Flametongue]]** (Fire) — champion of **[[Kossuth]]**, the Lord of Flames.
-- **[[Gale Winddancer]]** (Air) — champion of **[[Akadi]]**, the Queen of Air.
+- **[[Gale Winddancer]]** (Air) — champion of **[[Akadi - Restricted]]**, the Queen of Air.
 - **[[Maris Wavecaller]]** (Water) — champion of **[[Istishia]]**, the Water Lord.
 - **[[Eldrin Starweaver]]** (Arcane) — champion of **[[Mystra]]**, the Lady of Mysteries.
 

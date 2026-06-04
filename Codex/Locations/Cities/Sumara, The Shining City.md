@@ -95,7 +95,7 @@ For all of them, ordinary life turns on the rhythm of the Circles and the curate
 
 ## Culture & Faith
 
-Sumara reveres the [[World Tree]], the great cosmic root that binds all planes — its image is carved into statues along the city's approach roads and into the doors of the deepest vaults. Bound up with that reverence is the memory of the elven past itself: the Bridge of Recollection carries 2,000 years of carved history to the Citadel's gate, and the Circle of the Scroll preserves the true record of the Material Plane, the [[Chaos Wars]], and the [[Silmara Family|Silmara]] lineage. A century of seclusion has hardened all of this into a deep, watchful isolationism — Sumara guards its harmony above almost anything, and outsiders are a thing the city has had no cause to trust.
+Sumara reveres the [[World Tree]], the great cosmic root that binds all planes — its image is carved into statues along the city's approach roads and into the doors of the deepest vaults. Bound up with that reverence is the memory of the elven past itself: the Bridge of Recollection carries 2,000 years of carved history to the Citadel's gate, and the Circle of the Scroll maintains the most extensive historical archives in the known world — centuries of records covering the Material Plane, the [[Chaos Wars]], and the [[Silmara Family|Silmara]] lineage. A century of seclusion has hardened all of this into a deep, watchful isolationism — Sumara guards its harmony above almost anything, and outsiders are a thing the city has had no cause to trust.
 
 ## Districts
 
@@ -120,7 +120,7 @@ Frequented by every circle, the Fading Stars is the one place where Sumara fully
 
 ### The Etherean Canton — (Weave)
 
-The upper-eastern caldera rim: sky-facing towers raised on natural stone arches and spires of glass prism. The Circle of the Weave maintains the city's magical wards, researches planar phenomena, and trains its arcane casters. Its Meridian is [[Illythia Voss]], a brilliant and open-minded archmage who took over leadership after her predecessor [[Ayana Syndrosa]] left the city twenty years ago. The Canton's Nexus is the [[Locus Arcanum]].
+The upper-eastern caldera rim: sky-facing towers raised on natural stone arches and spires of glass prism. The Circle of the Weave maintains the city's magical wards, researches planar phenomena, and trains its arcane casters. Its Meridian is [[Illythia Voss]], a brilliant and open-minded archmage who took over leadership after her predecessor [[Ayana Syndrosa]] left the city forty years ago. The Canton's Nexus is the [[Locus Arcanum]].
 
 #### The Diminished Trove *(magic items — sparse)*
 
@@ -144,7 +144,7 @@ The mid-elevation southern slopes, turned to catch the sun: tiered gardens and g
 
 ### The Mnemorium Canton — (Scroll)
 
-The upper northern face, half carved into the cliff and half standing above it: deep stone halls in a perennial dim light. The Circle of the Scroll are Sumara's archivists and lore-keepers, tending the libraries that preserve the true history of the Material Plane, the [[Chaos Wars]], and the elven lineage. Its Meridian is Archivist Elrohir Gemflower — ancient, dry, and absent-minded, more at home among crumbling tomes than living people — and its halls are run day to day by the head librarian, Aaroun. The Canton's Nexus is the Oraculum, a tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky.
+The upper northern face, half carved into the cliff and half standing above it: deep stone halls in a perennial dim light. The Circle of the Scroll are Sumara's archivists and lore-keepers, tending deep stone libraries holding centuries of historical records — the Material Plane, the [[Chaos Wars]], and the elven lineage among them. Its Meridian is Archivist Elrohir Gemflower — ancient, dry, and absent-minded, more at home among crumbling tomes than living people — and its halls are run day to day by the head librarian, Aaroun. The Canton's Nexus is the Oraculum, a tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky.
 
 ### The Judicant's Canton — (Scales)
 
@@ -207,7 +207,7 @@ The seven Circles are the ancient orders through which Sumara governs itself, ea
 | [[Circle of the Weave]]  | Etherean   | Keeps the city's wards and arcane research; committed its finest artifacts to the lost Emerald Ceremony.                                                                 |
 | [[Circle of the Blade]]  | Ironsward  | Sumara's military order under [[Kaelen Vayne]] — the order that has effectively governed the city in the royal line's absence.                                           |
 | [[Circle of the Dawn]]   | Luminary   | Healers and alchemists; the gentlest of the seven Circles and the keepers of the city's reliance on Faewild flora.                                                       |
-| [[Circle of the Scroll]] | Mnemorium  | Sumara's archivists, tending deep stone libraries — keepers of the true history of the Material Plane, the [[Chaos Wars]], and the [[Silmara Family\|Silmara]] lineage.  |
+| [[Circle of the Scroll]] | Mnemorium  | Sumara's archivists, tending deep stone libraries with centuries of historical records — the Material Plane, the [[Chaos Wars]], and the [[Silmara Family\|Silmara]] lineage among them.  |
 | [[Circle of the Scales]] | Judicant's | Judges and diplomats; in a century of isolation they have arbitrated every dispute within the city's walls.                                                               |
 | [[Circle of the Loom]]   | Fundament  | Builders and enchanters who weave magic into stone and glass; every Nexus, aqueduct, and bridge of solidified light in Sumara is their work.                             |
 | [[Circle of the Root]]   | Greensward | Druids and agriculturalists under [[Warden Sylvaris]] — the most isolationist voice on the council and the most suspicious of outsiders.                                 |
