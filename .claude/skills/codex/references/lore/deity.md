@@ -193,17 +193,17 @@ The two mandatory body sections for a Deity are **`## Overview`** (leads) and **
 
 ---
 
-## Restricted body heading set
+## Restricted body heading set (standalone full entry only)
 
-When a restricted companion is created (machinery in `lore.md`), use this subtype's heading set — the **same set as the public body** — with the full truth woven in:
+The default restricted companion is a **slim DM-reserve delta** — themed notes only, no body article (machinery in `lore.md`). This heading set applies **only** to the standalone-full-entry exception (a complete not-yet-public entry drafted in restricted to move to the public Codex as-is later). In that case, use this subtype's heading set — the **same set as the public body**:
 
 `## Overview`, `## Divinity`, `## Worship`, `## Myths & Deeds` (if used), `## In Memory & Belief`
 
-Where the truth goes depends on the archetype:
-- **Forgotten God of Old:** the truth *expands a thin public page into a living one* — `## Overview` and `## Divinity` reveal that the god is real and what they truly are; a `## Worship`/`## Myths & Deeds` section can reveal what they are *doing now* (Selûne reaching for a Chosen because she fears a second Shattering); `## In Memory & Belief` reveals the truth beneath the forgetting. Update `Status` (often `Forgotten` → `Active`).
-- **Worshipped Seven Divine:** the truth is the *demotion* — `## Overview` and `## Divinity` reveal they are an ascended mortal champion of the [[The Shattering|Shattering]], a lingering demigod, not an eternal god; their mortal life and death belong here; `## In Memory & Belief` reveals that the world prays to a saint mistaken for a god.
+For a slim delta, where the truth lies depends on the archetype — capture it as themed reserve notes:
+- **Forgotten God of Old:** the reserve is what *brings the thin public page to life* — that the god is real and what they truly are, what they are *doing now* (Selûne reaching for a Chosen because she fears a second Shattering), and the truth beneath the forgetting. Note the true `Status` (often `Active`, where public reads `Forgotten`).
+- **Worshipped Seven Divine:** the reserve is the *demotion* — that they are an ascended mortal champion of the [[The Shattering|Shattering]], a lingering demigod rather than an eternal god, with a mortal life and death behind the divine mask, and that the world prays to a saint mistaken for a god.
 
-Keep the cosmology consistent with the restricted [[World Tree]] and [[The Shattering]] pages. Record deliberate mysteries and unanswered designs in `## DM Notes` rather than over-specifying them.
+Keep the cosmology consistent with the restricted [[World Tree]] and [[The Shattering]] pages. Record deliberate mysteries and unanswered designs as open-thread notes rather than over-specifying them.
 
 ---
 

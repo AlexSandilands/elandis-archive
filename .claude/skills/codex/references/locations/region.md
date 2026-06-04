@@ -174,9 +174,9 @@ The required first body section for a Region is **`## Geography & Landscape`**. 
 
 ---
 
-## Restricted body heading set
+## Restricted body heading set (standalone full entry only)
 
-When a restricted companion is created (machinery in `location.md`), use this subtype's heading set, geography section first, with the full truth woven in:
+The default restricted companion is a **slim DM-reserve delta** — themed notes only, no body article (machinery in `location.md`). This heading set applies **only** to the standalone-full-entry exception (a complete not-yet-public entry drafted in restricted to move to the public Codex as-is later). In that case, use this subtype's heading set, geography section first:
 
 `## Geography & Landscape`, `## History`, `## Peoples & Powers`, `## Settlements & Sites`, `## Dangers`, `## Significance`
 

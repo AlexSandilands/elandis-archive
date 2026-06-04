@@ -93,7 +93,7 @@ Acting on intelligence recovered from a [[The Red Priests|Red Priestess]], [[Aya
 
 #### [[Session 47 - Confluence of the Seven]]
 
-At [[The Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]], [[Ayana Syndrosa|Ayana]] briefed [[Illythia Voss]] on everything the party had uncovered: the Empress, her allegiance to [[Kharazoth the Crimson Shadow|Kharazoth]], and the operations of the [[The Red Priests|Red Priests]] out of [[Valfyria]].
+At the [[Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]], [[Ayana Syndrosa|Ayana]] briefed [[Illythia Voss]] on everything the party had uncovered: the Empress, her allegiance to [[Kharazoth the Crimson Shadow|Kharazoth]], and the operations of the [[The Red Priests|Red Priests]] out of [[Valfyria]].
 
 #### [[Session 49 - The Silver Sage]]
 

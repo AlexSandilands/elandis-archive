@@ -120,52 +120,49 @@ Assemble the **frontmatter, infobox, and body** from the templates in the subtyp
 
 ## Step 5 — Generate the restricted companion document (if needed)
 
-Create this when: the stub had a `## Restricted` section, the user asked for both files, or the user flagged restricted content during Step 3.
+Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
 Write to the subtype's restricted folder:
 - POI: `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md`
 - Region: `Codex - Restricted/Locations/Regions/<Name> - Restricted.md`
+- City: `Codex - Restricted/Locations/Cities/<Name> - Restricted.md`
 
 ### What the restricted document is
 
-The restricted document is the **full-truth version** of the article — the same structure as the public document for that subtype, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
+The restricted document holds **only the DM-reserve delta** — the hidden features, secret history, concealed powers, undiscovered locations, and plot hooks deliberately kept *out* of the public entry. It is **not** a copy of the public article. The public entry stays the single source of truth for what the players have found; the restricted doc carries just the reserve, in a lightweight notes format that's quick to jot and edit and detailed enough to fold into the public entry later, when the place is explored or the secret revealed.
 
-### Restricted document structure
+**Do not duplicate the public doc.** No copied frontmatter, infobox, geography prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. The public doc owns what's discovered; the restricted doc owns the reserve.
+
+> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the party has reached the place, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body using the subtype's heading set, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+
+### Restricted document structure (slim delta — the default)
 
 ```markdown
-[image prompt fenced code block]
+---
+Type: Location
+tags:
+  - dm-notes
+---
 
-[full frontmatter — same schema as public, same values]
+> [!abstract] Public Entry: *[[<Location Name>]]*
 
-> [!abstract] Public Entry: *[[Location Name]]*
+## <Theme heading>
+- Concise reserve notes — hidden features, secret history, plot hooks.
 
-[Infobox — identical to public version]
-
-[Opening paragraph — same as public, or expanded with the full truth if the public version was deliberately vague]
-
-[Body sections — the same heading set as the public body for this subtype (listed under "Restricted body heading set" in the subtype doc), geography section first, with the full truth woven in. Hidden features, secret history, and concealed powers are written here as natural prose rather than held back.]
-
-## [[The Bloody Nails|Campaign: The Bloody Nails]]
-
-#### [[Session N - <Title>]]
-[Same as public — campaign appearances are facts, not secrets]
-
-## Trivia
-[Same as public, if Major]
-
-## DM Notes
-
-- **Unrevealed history:** [What the place really is, not yet known to the party]
-- **Plot hooks:** [Ways this place might factor into future sessions]
-- **Hidden features:** [Secret passages, concealed dangers, things waiting to be found]
-- [Any other DM-side notes — mechanics, session flags, meta-context]
+## <Another theme>
+- ...
 ```
+
+Guidance:
+- Group the reserve material under a few clear `##` headings that fit the content — e.g. `Hidden Features`, `Secret History`, `Undiscovered Locations`, `Concealed Powers`, `Plot Hooks`, `Open Threads`. Don't force a fixed heading set; use what the secrets call for. (For a partly-explored **city**, this is where not-yet-found establishments wait, grouped by district, for the DM to promote into the public hub as the party finds them.)
+- Prefer concise bullets. Where the DM has authored substantial reserve prose (a full secret history), keep it as prose under a heading — never discard authored detail.
+- Keep `[[wikilinks]]` on proper nouns. Frontmatter is just `Type` + the `dm-notes` tag. No infobox, no image prompt, no duplicated session log.
 
 ---
 
 ## Step 6 — Generate the image prompt
 
-Place this at the **very top of each file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. Both files (public and restricted) get the same prompt.
+Place this at the **very top of the public file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. The slim restricted doc gets no image prompt; only a standalone full restricted entry carries one.
 
 Locations use the **same painterly art style as characters** — so the whole wiki shares one look. Only the framing differs: a 16:9 landscape instead of a 3:4 portrait. The `[STYLE]` line must be identical to the character prompt's (just "portrait" → "landscape"); do **not** substitute a matte-painting, semi-realistic, or photoreal style.
 
@@ -188,12 +185,14 @@ Keep the `[STYLE]` line identical across every location entry; only `[SUBJECT]`,
 
 ## Step 7 — Write the files
 
-Assemble each document in this order:
+Assemble the **public document** in this order:
 1. Image prompt fenced code block
 2. Frontmatter (YAML between `---` delimiters)
 3. Infobox callout
 4. Opening paragraph
 5. Remaining body sections
+
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
 
 Write each file to its correct path. Report all paths written when done.
 

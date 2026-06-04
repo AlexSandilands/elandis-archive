@@ -109,7 +109,7 @@ In the [[Gossamer Woods]], Ayana served as the party's guide toward [[Sumara, Th
 
 #### [[Session 46 - The Shining City]]
 
-Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Skyguard Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
+Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Skyguard Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
 
 #### [[Session 48 - The Vault of Memories]]
 

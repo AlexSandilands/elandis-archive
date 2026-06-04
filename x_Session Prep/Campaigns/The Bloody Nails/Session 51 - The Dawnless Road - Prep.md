@@ -56,7 +56,7 @@ The DM-only lore behind this session lives in the Brainstorm doc and needs a `/c
 - Morning after. [[Ayana Syndrosa|Ayana]] is off-duty for the first time in forty years; [[Illythia Voss|Illythia]] is here. Warm, unhurried, dressing-gown-and-wine.
 - The party collects **five Zephyr Cuffs** from Ayana's contact (rent or buy).
 - Ayana and Illythia tried to scry [[Eirieneth Silmara|Eirieneth]] and hit a wall — her binding-cuffs suppress magic, so divination slides off her. The honest read: **alive and held close**, not lost. *(Ayana cast Eirieneth's original silver-to-black hair glamour — this is personal for her.)*
-- Threads that may surface: whether to tell the [[The Confluence of the Seven|Confluence]] about Eirieneth, or declaring [[Ryo]] regent before they leave. Improvise these if they come up.
+- Threads that may surface: whether to tell the [[Confluence of the Seven|Confluence]] about Eirieneth, or declaring [[Ryo]] regent before they leave. Improvise these if they come up.
 
 **[[Ayana Syndrosa]]** — Confluence agent; finally relaxed, the cuffs and the scry are hers.
 **[[Illythia Voss]]** — Ayana's partner; dry, at ease, asides from the kitchen.

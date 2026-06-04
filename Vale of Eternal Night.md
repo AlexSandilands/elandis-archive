@@ -129,7 +129,7 @@ It ended when [[Ellesandra Silmara]] went alone into the Vale and returned with 
 
 #### The Silent Winter *(~200 years ago)*
 
-A lone diplomat of the Court travelled to Sumara to meet with [[The Confluence of the Seven|the Confluence]]. While they were in residence, every flowering tree in the Greensward Canton died overnight.
+A lone diplomat of the Court travelled to Sumara to meet with the [[Confluence of the Seven]]. While they were in residence, every flowering tree in the Greensward Canton died overnight.
 
 The diplomat disappeared and was never seen again. To this day no one knows whether the killing of the Greensward was coordinated by the Court, the act of a lone agent within it, or something else entirely — and Sumara never received an answer.
 
@@ -139,7 +139,7 @@ After the rise of the [[Valtorran Empire]], the remaining elves of the Material 
 
 Sixty years ago, in a skirmish at the borders, [[Asha Vayne]] — son of [[Kaelen Vayne]] and an aspiring commander in the Circle of the Blade — was killed. A senior leader of the Hunt fell in the same engagement.
 
-The double loss nearly tipped the long cold peace into open war. Only quick, careful negotiation between the Star-Veiled Queen and the [[The Confluence of the Seven|Confluence]] kept the conflict from kindling. The truce held — but Kaelen Vayne has not been the same man since.
+The double loss nearly tipped the long cold peace into open war. Only quick, careful negotiation between the Star-Veiled Queen and the [[Confluence of the Seven|Confluence]] kept the conflict from kindling. The truce held — but Kaelen Vayne has not been the same man since.
 
 ## Hazards
 

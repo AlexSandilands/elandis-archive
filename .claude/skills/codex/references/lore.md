@@ -146,52 +146,49 @@ aliases: [AltName]
 
 ## Step 5 — Generate the restricted companion document (if needed)
 
-Create this when: the stub had a `## Restricted` section, the user asked for both files, or the user flagged restricted content during Step 3.
+Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
 Write to: `Codex - Restricted/Lore/<Name> - Restricted.md`
 
 ### What the restricted document is
 
-The restricted document is the **full-truth version** of the article — the same heading set as the public document for that subtype, but with the cosmic secrets woven naturally into the body. It is what the public article will become once those secrets are revealed. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
+The restricted document holds **only the DM-reserve delta** — the cosmic truth beneath the myth, the hidden cosmology, the ties to current threats, and the plot hooks deliberately kept *out* of the public entry. It is **not** a copy of the public article. The public entry stays the single source of truth for what the world understands; the restricted doc carries just the reserve, in a lightweight notes format that's quick to jot and edit and detailed enough to fold into the public entry later, when the truth is revealed.
 
-For lore the most common secret is **the truth beneath the myth** — what really happened versus what the world believes, the hidden cosmology, the connection to a current threat. Reveal it in the body (often expanding `## Overview`, the bespoke middle, and `## In Memory & Belief`), and update any frontmatter field the truth changes.
+For lore the most common secret is **the truth beneath the myth** — what really happened versus what the world believes, the hidden cosmology, the connection to a current threat. That is exactly the kind of reserve this doc holds. Lore is secret-heavy, so this delta is often substantial — keep all of it, but don't re-state the folk version the public page already carries.
 
-### Restricted document structure
+**Do not duplicate the public doc.** No copied frontmatter, infobox, body prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. The public doc owns the world's understanding; the restricted doc owns the cosmic truth beneath it.
+
+> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before any of it is public, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body using the subtype's heading set, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+
+### Restricted document structure (slim delta — the default)
 
 ```markdown
-[image prompt fenced code block]
+---
+Type: Lore
+tags:
+  - dm-notes
+---
 
-[full frontmatter — same schema as public, with any revealed fields corrected]
+> [!abstract] Public Entry: *[[<Lore Name>]]*
 
-> [!abstract] Public Entry: *[[Lore Name]]*
+## <Theme heading>
+- The cosmic truth, hidden cosmology, ties to current threats — concise notes, or prose where the DM authored richer reserve lore.
 
-[Infobox — same as public, with any concealed field now showing the truth]
-
-[Opening paragraph — same as public, or expanded with the full truth if the public version was deliberately vague]
-
-[Body — same heading set as the public body for this subtype (Overview, the bespoke middle, In Memory & Belief), with the full truth woven in.]
-
-## [[The Bloody Nails|Campaign: The Bloody Nails]]
-
-#### [[Session N - <Title>]]
-[Same as public — campaign appearances are facts, not secrets]
-
-## Trivia
-[Same as public, if Major]
-
-## DM Notes
-
-- **Unrevealed truth:** [What this really is / what really happened, not yet known to the party]
-- **Connections:** [Ties to current threats, factions, or other lore the players haven't drawn yet]
-- **Plot hooks:** [Ways this lore might factor into future sessions]
-- **Open threads:** [Deliberate mysteries and unresolved questions the DM is tracking]
+## <Another theme>
+- ...
 ```
+
+Guidance:
+- Group the reserve material under a few clear `##` headings that fit the content — e.g. `The Truth`, `Hidden Cosmology`, `What Really Happened`, `Connections`, `Plot Hooks`, `Open Threads`. Don't force a fixed heading set; use what the secrets call for.
+- Prefer concise bullets, **but lore reserve is often rich authored prose** (the cosmic truth) — keep substantial passages as prose under a heading rather than flattening them. Never discard authored detail.
+- A relationship that is itself restricted truth (e.g. the [[World Tree]]–[[The Shattering]] link the public page never mentions) belongs here, not on the public page.
+- Keep `[[wikilinks]]` on proper nouns. Frontmatter is just `Type` + the `dm-notes` tag. No infobox, no image prompt, no duplicated session log.
 
 ---
 
 ## Step 6 — Generate the image prompt
 
-Place this at the **very top of each file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. Both files (public and restricted) get the same prompt.
+Place this at the **very top of the public file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. The slim restricted doc gets no image prompt; only a standalone full restricted entry carries one.
 
 Most Lore uses the **same painterly style as the rest of the wiki**, in a **16:9 landscape** frame (the same `[STYLE]` line as locations). The subject differs by subtype — an Event is a frozen *dramatic moment*, a Concept is a mythic *vista* — and each subtype doc carries the framing note. **The Deity subtype is the exception:** a god is a *figure*, so it uses a Character-style **portrait (3:4)** rather than the landscape block below — see `deity.md` for the deity image block. The shared landscape block (Events and Concepts):
 
@@ -209,12 +206,14 @@ Keep the `[STYLE]` and `[FORMAT]` lines identical across every Event and Concept
 
 ## Step 7 — Write the files
 
-Assemble each document in this order:
+Assemble the **public document** in this order:
 1. Image prompt fenced code block
 2. Frontmatter (YAML between `---` delimiters)
 3. Infobox callout
 4. Opening paragraph
 5. Remaining body sections
+
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
 
 Write each file to its correct path. Report all paths written when done.
 

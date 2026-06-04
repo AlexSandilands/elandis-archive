@@ -228,68 +228,47 @@ Brief summary of their appearance in this session — one sentence or a short bu
 
 ## Step 5 — Generate the restricted companion document (if needed)
 
-Create this when: the stub file had a `## Restricted` section, the user asked for both files, or the user flagged restricted content during Step 3.
+Create this when: the stub file had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
 Write to: `Codex - Restricted/Characters/<Name> - Restricted.md`
 
 ### What the restricted document is
 
-The restricted document is the **full truth version** of the character article — the same structure as the public document, but with secrets woven naturally into the body. It is what the public article will become once those secrets are revealed to the players. When that day comes, the DM can replace the public file with this one (removing the `> [!abstract] Public Entry:` callout and the `## DM Notes` section).
+The restricted document holds **only the DM-reserve delta** — the secrets, hidden motivations, unrevealed connections, and plot hooks deliberately kept *out* of the public entry. It is **not** a copy of the public article. The public entry stays the single source of truth for everything the players can see; the restricted doc carries just the reserve material the DM is holding back, in a lightweight notes format that's quick to jot and edit and detailed enough to fold into the public entry later, when the secret is revealed.
 
-This means:
-- Appearance/Personality: includes the full picture, not just the public-facing front
-- Biography/Background: the real backstory, including hidden history and true motivations
-- Campaign section: same as the public version (campaign appearances are facts, not secrets)
+**Do not duplicate the public doc.** No copied frontmatter, infobox, body prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. This keeps the two files from drifting out of sync — the public doc owns the public truth, the restricted doc owns the reserve.
 
-A `## DM Notes` section at the bottom covers anything that's purely DM-side and won't ever belong in the public article — plot hooks, mechanical notes, session planning, unrevealed connections that won't be revealed until much later.
+> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the players have met the character, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
 
-### Restricted document structure
+### Restricted document structure (slim delta — the default)
 
 ```markdown
-[image prompt fenced code block]
+---
+Type: Character
+tags:
+  - dm-notes
+---
 
-[full frontmatter — same schema as public, same values]
+> [!abstract] Public Entry: *[[<Character Name>]]*
 
-> [!abstract] Public Entry: *[[Character Name]]*
+## <Theme heading>
+- Concise reserve notes — secrets, hidden facts, plot hooks.
 
-[Infobox — identical to public version]
-
-[Opening paragraph — same as public or expanded with full truth if the public version was deliberately vague]
-
-## Description
-
-#### Appearance
-[Full truth — may differ from public if the character has a disguise or hidden aspect]
-
-#### Personality
-[Full truth — real motivations visible, not just the presented front]
-
-## Biography
-
-#### Background
-[Complete backstory, secrets and all, written as natural prose]
-
-## [[The Bloody Nails|Campaign: The Bloody Nails]]
-
-#### [[Session N - <Title>]]
-[Same as public]
-
-## Trivia
-[Same as public, if Major]
-
-## DM Notes
-
-- **Unrevealed connections:** [Links not yet known to the party]
-- **Plot hooks:** [Ways this character might factor into future sessions]
-- **Hidden motivations:** [What drives them that the party doesn't know yet]
-- [Any other DM-side notes — mechanics, session flags, meta-context]
+## <Another theme>
+- ...
 ```
+
+Guidance:
+- Group the reserve material under a few clear `##` headings that fit the content — e.g. `Hidden Knowledge`, `True Identity`, `Secret History`, `Unrevealed Connections`, `Plot Hooks`, `Hidden Motivations`, `Mechanics`. Don't force a fixed heading set; use what the secrets call for.
+- Prefer concise bullets. Where the DM has authored substantial reserve prose (a full hidden backstory the public entry omits), keep it as prose under a heading rather than flattening it — never discard authored detail.
+- Keep `[[wikilinks]]` on proper nouns.
+- Frontmatter is just `Type` + the `dm-notes` tag. No infobox, no image prompt, no duplicated session log.
 
 ---
 
 ## Step 6 — Generate the image prompt
 
-Place this at the **very top of each file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. Both files (public and restricted) get the same image prompt.
+Place this at the **very top of the public file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. The slim restricted doc gets no image prompt (it isn't a published article); only a standalone full restricted entry carries one.
 
 ```
 [STYLE]: Fantasy RPG character portrait. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
@@ -306,12 +285,14 @@ Derive [SUBJECT], [POSE], [SETTING], and [LIGHTING] from the character's appeara
 
 ## Step 7 — Write the files
 
-Assemble each document in this order:
+Assemble the **public document** in this order:
 1. Image prompt fenced code block
 2. Frontmatter (YAML between `---` delimiters)
 3. Infobox callout
 4. Opening paragraph
 5. Remaining body sections
+
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
 
 Write each file to its correct path. Report all paths written when done.
 

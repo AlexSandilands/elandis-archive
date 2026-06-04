@@ -208,13 +208,13 @@ The required first body section for a City is **`## Geography & Layout`**. The s
 
 ---
 
-## Restricted body heading set
+## Restricted body heading set (standalone full entry only)
 
-When a restricted companion is created (machinery in `location.md`), use this subtype's heading set, geography section first, with the full truth woven in:
+The default restricted companion is a **slim DM-reserve delta** — themed notes only, no body article (machinery in `location.md`). This heading set applies **only** to the standalone-full-entry exception (a complete not-yet-public entry drafted in restricted to move to the public Codex as-is later). In that case, use this subtype's heading set, geography section first:
 
 `## Geography & Layout`, `## History`, `## Government & Imperial Presence`, `## The People`, `## Culture & Faith`, `## Districts`, `## Landmarks`, `## Factions`
 
-**The restricted companion doubles as a staging area for undiscovered locations.** For a city the party hasn't fully explored, the *public* doc lists only what's been discovered; not-yet-found establishments and landmarks wait in the restricted doc under their districts, and the DM **promotes** them into the public hub as the party finds them — preserving the fun of exploration, alongside the usual DM-only plot truths. (The Val Miriel gold standard needs no restricted companion: the party explored it fully, and its remaining secrets live in the relevant character pages.)
+**The restricted doc doubles as a staging area for undiscovered locations.** For a city the party hasn't fully explored, the *public* doc lists only what's been discovered; not-yet-found establishments and landmarks wait in the slim restricted doc — grouped by district under an `## Undiscovered Locations` (or similar) heading — and the DM **promotes** them into the public hub as the party finds them, preserving the fun of exploration alongside the usual DM-only plot truths. (The Val Miriel gold standard needs no restricted companion: the party explored it fully, and its remaining secrets live in the relevant character pages.)
 
 ---
 

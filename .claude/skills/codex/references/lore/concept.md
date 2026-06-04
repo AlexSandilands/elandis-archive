@@ -158,13 +158,13 @@ The two mandatory body sections for a Concept are **`## Overview`** (leads) and 
 
 ---
 
-## Restricted body heading set
+## Restricted body heading set (standalone full entry only)
 
-When a restricted companion is created (machinery in `lore.md`), use this subtype's heading set, with the full truth woven in:
+The default restricted companion is a **slim DM-reserve delta** — themed notes only, no body article (machinery in `lore.md`). This heading set applies **only** to the standalone-full-entry exception (a complete not-yet-public entry drafted in restricted to move to the public Codex as-is later). In that case, use this subtype's heading set:
 
 `## Overview`, `## Nature`, `## <Bespoke sections>` (however many), `## In Memory & Belief`
 
-The truth most often expands `## Nature` (what it really is, the hierarchy it sits in) and `## In Memory & Belief` (the gap between reverence and reality). Keep deliberate mysteries deliberate even here — the restricted page reveals what the DM knows, which for a truly unknowable thing may still be "this cannot be comprehended"; record the open threads in `## DM Notes` rather than inventing answers.
+For a slim delta, the truth most often concerns `## Nature` (what it really is, the hierarchy it sits in) and `## In Memory & Belief` (the gap between reverence and reality) — capture those as themed reserve notes. Keep deliberate mysteries deliberate even here: the reserve records what the DM knows, which for a truly unknowable thing may still be "this cannot be comprehended" — note the open threads rather than inventing answers.
 
 ---
 

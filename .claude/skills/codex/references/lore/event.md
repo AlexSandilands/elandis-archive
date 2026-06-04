@@ -160,13 +160,13 @@ The two mandatory body sections for an Event are **`## Overview`** (leads) and *
 
 ---
 
-## Restricted body heading set
+## Restricted body heading set (standalone full entry only)
 
-When a restricted companion is created (machinery in `lore.md`), use this subtype's heading set — the **same set as the public body** — with the full truth woven in:
+The default restricted companion is a **slim DM-reserve delta** — themed notes only, no body article (machinery in `lore.md`). This heading set applies **only** to the standalone-full-entry exception (a complete not-yet-public entry drafted in restricted to move to the public Codex as-is later). In that case, use this subtype's heading set — the **same set as the public body**:
 
 `## Overview`, `## History` (with `### The World Before`, the bespoke `### <Event>` beats, and `### Aftermath & Legacy` nested beneath it), `## In Memory & Belief`
 
-The truth most often expands `### The World Before` (the real cause), the bespoke beats (what actually happened versus the record), `### Aftermath & Legacy` (consequences still in motion — a foe who survived, a seal that leaks), and `## In Memory & Belief` (the truth beneath the folk version).
+For a slim delta, the truth most often concerns `### The World Before` (the real cause), the bespoke beats (what actually happened versus the record), `### Aftermath & Legacy` (consequences still in motion — a foe who survived, a seal that leaks), and `## In Memory & Belief` (the truth beneath the folk version) — capture those as themed reserve notes.
 
 ---
 
