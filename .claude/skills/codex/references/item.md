@@ -133,7 +133,7 @@ aliases: [ShortName, AltName]
 
 Rules:
 - Omit any field where the value is unknown — never write `???` or leave blanks.
-- `Owner` is the current bearer (a single `"[[Name]]"`); use `Connections` (YAML list) for tied places, factions, or deities. Use either, both, or neither as fits the item — the Rhun'zar gold standard uses `Connections` and no `Owner`.
+- `Owner` is the current bearer (a single `"[[Name]]"`); use `Connections` for tied places, factions, or deities. Multiple connections must use the **block list** format (each `- "[[Name]]"` on its own line) — never a single quoted string with multiple links or an inline array. Use either, both, or neither as fits the item — the Rhun'zar gold standard uses `Connections` and no `Owner`.
 - **Don't spoil with metadata.** If naming the `Rarity` (e.g. "Artifact"), the `Status`, or the `Owner` would give away a secret the players don't know, omit that field from the public entry and carry it in the restricted companion instead.
 - Aliases: YAML list `[Name1, Name2]`; omit the field entirely if there are no aliases.
 

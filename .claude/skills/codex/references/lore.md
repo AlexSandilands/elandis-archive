@@ -121,6 +121,7 @@ aliases: [AltName]
 ```
 
 - Omit any field whose value is unknown — never write `???` or leave blanks. `Related` and `aliases` are omitted entirely when empty.
+- `Related` wikilinks must use the **block list** format shown in the template above (each `- "[[Name]]"` on its own line). Never pack multiple wikilinks into one quoted string or an inline array — Obsidian will not resolve them.
 - `Era` is load-bearing for Events (a date or age), evocative-or-omitted for Concepts, and optional for Deities (which orient on `Pantheon` instead — see `deity.md`). `Related` is the lore-network field — link the other lore pages this one sits beside.
 - **`Related` must not leak secrets on the public page.** List only connections the world (and the players) already know — a `Related` link is a visible cross-reference. A relationship that is itself restricted truth (e.g. the [[World Tree]] connection to [[The Shattering]], which the public page never mentions) belongs only in the *restricted* companion's `Related`, not the public one. The same goes for any in-body wikilink: don't link a page on the public side if the very connection is the secret.
 

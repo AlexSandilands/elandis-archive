@@ -60,7 +60,7 @@ Within the Canton, the **Diminished Trove** serves as the Circle's magic-item sh
 
 ## History
 
-The Seven Circles are ancient elven orders, older than the city itself, each tending one facet of elven civilisation. When the elves of Valtorra withdrew from the Material Plane a century ago rather than face the rising [[Valtorran Empire]], the Circles came with them into the [[Faewild]]. In Sumara, the Weave took on the task of keeping the city sealed — a responsibility that has defined it ever since.
+The Seven Circles are ancient elven orders, older than the city itself, each tending one facet of elven civilisation and long established in Sumara before the Exile brought the elves of Valtorra through the [[Silmara Family|Silmara]] gateway. The Weave's role — keeping the city sealed against passage in or out — long predates that arrival, and the sudden influx of refugees only deepened how essential that task became.
 
 Some decades into the Century of Silence, the council authorised the Emerald Ceremony: a one-time exception to the crossing prohibition, intended to gather intelligence on what had become of Valtorra. After years of debate, the Weave was given the mandate and committed fully. [[Ayana Syndrosa]] — its Meridian, and the youngest to hold that post in living memory — led the small band of volunteers who crossed. None of them came back. [[Illythia Voss]], Ayana's second-in-command, assumed leadership in her absence, and has held it in the forty years since.
 

@@ -3,7 +3,8 @@ Type: Faction
 Category: Healing Order
 Allegiance: Independent
 Leader: "[[Elder Silaqui Amastacia]]"
-Base: "[[The Luminarium]], [[Sumara, The Shining City|Sumara]]"
+Base:
+  - "[[Sumara, The Shining City]]"
 Importance: Minor
 Status: Active
 NoteIcon: faction
@@ -11,7 +12,9 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - faction
-aliases: [The Dawn, Circle of Dawn]
+aliases:
+  - The Dawn
+  - Circle of Dawn
 ---
 > [!infobox|wikipedia]
 > # Circle of the Dawn
@@ -41,7 +44,7 @@ The Circle takes no political positions and holds no allegiances beyond Sumara i
 
 The Circle is led by its **Meridian**, currently [[Elder Silaqui Amastacia]] — a soft-spoken, deeply empathetic cleric who rarely leaves the botanical infirmaries and is widely regarded as Sumara's most compassionate public figure. Decisions within the Circle are made gently, by consensus, and Silaqui's manner sets the tone: the Dawn leads with kindness before authority.
 
-The Circle's seat is the **Luminary Canton**, occupying the mid-elevation southern slopes of Sumara's caldera — the terraces turned to catch the most light, threaded by the [[Shivering Veil]] before it is channelled into the city's aqueducts. Its **Nexus**, [[The Luminarium]], is an enormous glass-and-copper conservatory with a domed roof; when it rises aloft, living vines trail beneath it like ribbons and the whole structure glows warm amber.
+The Circle's seat is the **Luminary Canton**, occupying the mid-elevation southern slopes of Sumara's caldera — the terraces turned to catch the most light. Its **Nexus**, [[The Luminarium]], is an enormous glass-and-copper conservatory with a domed roof; when it rises aloft, living vines trail beneath it like ribbons and the whole structure glows warm amber.
 
 ## Notable Members
 
@@ -52,7 +55,7 @@ The Circle's seat is the **Luminary Canton**, occupying the mid-elevation southe
 
 ## History
 
-The Circle of the Dawn is one of Sumara's seven founding orders, its origins contemporary with the city itself. During the Exile — when the elves of Valtorra withdrew from the Material Plane rather than face the rising [[Valtorran Empire]] — the Circle crossed with the rest of the city and took up residence in the Luminary Canton. In the century that followed, cut off from the botanical sources of the Material Plane, the Circle turned wholly to the [[Faewild]] for its medicine and built expertise in that volatile environment that the Material Plane world has no equivalent to.
+The Circle of the Dawn is one of Sumara's seven founding orders, its origins contemporary with the city itself, long established in the Luminary Canton. Working exclusively with the [[Faewild]]'s botanical sources across millennia, the Circle built expertise in that volatile environment that no other healing tradition can match.
 
 The Circle has remained outside the political tensions that quietly divide the other six Circles. While the [[Circle of the Blade]] accrued de facto authority in the royal line's absence and others aligned or resisted, the Dawn simply continued its work.
 
@@ -60,7 +63,7 @@ The Circle has remained outside the political tensions that quietly divide the o
 
 #### [[Session 46 - The Shining City]]
 
-The party entered [[Sumara, The Shining City|Sumara]] through the Luminary Canton — the Circle of the Dawn's quarter, and the first part of the city they set eyes on. When the enchanted cuffs of the [[Vanguard Wardens]] could not be immediately resolved, the warden in charge sent for [[Elder Pip Glimmermoss]] — a senior healer of the Circle. Pip produced a specialised concoction that reversed the [[Gossamer Dust]] that had de-aged [[Ayana Syndrosa]] into a giggling child, restoring the ancient mage to herself. The revelation of Ayana's identity left the arresting warden ashen-faced and apologetic.
+The party entered [[Sumara, The Shining City|Sumara]] through the Luminary Canton — the Circle of the Dawn's quarter, and the first part of the city they set eyes on. The skyguard in charge sent for [[Elder Pip Glimmermoss]] — a senior healer of the Circle. Pip produced a specialised concoction that reversed the [[Gossamer Dust]] that had de-aged [[Ayana Syndrosa]] into a giggling child, restoring the ancient mage to herself. The revelation of Ayana's identity left the arresting warden ashen-faced and apologetic.
 
 #### [[Session 47 - Confluence of the Seven]]
 

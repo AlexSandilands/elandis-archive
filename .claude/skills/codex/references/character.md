@@ -131,7 +131,7 @@ aliases: [ShortName, AlternateName]
 
 Rules:
 - Omit any field where the value is unknown — never write `???` or leave blanks
-- Use YAML list format for Connections when there are multiple (as shown); inline string `"[[Name]]"` when there's only one
+- `Connections`: single link → inline string `"[[Name]]"`; multiple links → block list as shown in the template above (each `- "[[Name]]"` on its own line). Never pack multiple wikilinks into one quoted string or an inline array — Obsidian will not resolve them.
 - Aliases: YAML list `[Name1, Name2]`; omit the field entirely if there are no aliases
 
 ### Infobox

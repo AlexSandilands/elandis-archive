@@ -124,7 +124,12 @@ Rules:
 - Omit any field where the value is unknown — never write `???` or leave blanks.
 - **Secret leadership:** when a faction's true leader is concealed even from its own members, set `Leader: Identity concealed` (or name the public-facing figurehead) in the public frontmatter, and reveal the real leader only in the restricted companion. Don't expose the secret here.
 - `Base`: a wikilink when the seat is one place; a short descriptive phrase when the faction is decentralised. Omit only if genuinely unknown.
-- `Leader`/`Base` wikilinks use YAML list format when there are several; inline string `"[[Name]]"` for one.
+- `Leader`/`Base` wikilinks: single link → inline string `"[[Name]]"`; multiple links → **block list**, each on its own line. Never pack multiple wikilinks into one quoted string or an inline array — Obsidian will not resolve them. Example:
+  ```yaml
+  Base:
+    - "[[Place One]]"
+    - "[[Place Two]]"
+  ```
 - Aliases: YAML inline list `[Name1, Name2]`; omit the field entirely if there are none.
 
 ### Infobox

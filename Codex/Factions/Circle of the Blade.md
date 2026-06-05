@@ -49,7 +49,7 @@ Commander [[Kaelen Vayne]] has held the Meridian post for over a century. A heav
 |---|---|---|
 | [[Kaelen Vayne]] | Meridian (Commander) | De facto head of the Seven Circles council |
 | [[Asha Vayne]] | Field commander (†) | Kaelen's son; killed in a Vale border skirmish sixty years ago |
-| [[Ratha Silmara]] | Senior officer (former) | Left the Circle to marry into the Silmara line; his consent to the Exile carried decisive weight |
+| [[Ratha Silmara]] | Senior officer (former) | Left the Circle before the Exile to marry [[Rhennaya Silmara]]; his eventual consent to the withdrawal carried decisive weight |
 
 ## Military Units
 
@@ -65,9 +65,9 @@ The Circle trains in bladed arms — swords, glaives, halberds — holding no si
 
 ## History
 
-The Circle of the Blade is as old as Sumara's governance, rooted in the martial orders that once served the [[Silmara Family]] kings of [[Valtorra]] directly. At its height it was the royal house's first sword: its Meridian the monarch's chief military advisor, its Wardens the finest soldiers in the elven world.
+The Circle of the Blade is as old as Sumara's governance, one of the seven orders that have maintained and defended the city for millennia.
 
-The Exile cracked the order from within. Many of its officers, among them [[Ratha Silmara]] and Commander [[Kaelen Vayne]], argued that the elves should stand and fight rather than withdraw. [[Rhennaya Silmara]] overruled them — but the decision hung unresolved until Ratha, a veteran deeply respected within the Circle's ranks, relented and accepted the withdrawal. His word carried more weight than any decree; when Ratha submitted, Kaelen followed. Neither man forgot the day. Ratha left the Circle to marry into the Silmara line; Kaelen stayed, and the bitterness calcified.
+The Exile divided the order. When the elves of Valtorra arrived through the [[Silmara Family|Silmara]] gateway, many of its officers, Commander [[Kaelen Vayne]] among them, argued that the elves should return and fight rather than accept permanent withdrawal from the Material Plane. [[Rhennaya Silmara]] overruled them — but the decision hung unresolved. [[Ratha Silmara]] had left the Circle years before to marry Rhennaya, yet he remained a figure of enormous weight within its ranks: a veteran the Circle's soldiers still respected as one of their own. When he relented and accepted the withdrawal, his word carried more than any decree; Kaelen followed.
 
 In the century since, with the Royal Citadel sealed and the Silmara line believed extinct, the Circle became Sumara's de facto governing arm. Kaelen consolidated the council's authority quietly, and the other Circles accepted it — not out of submission, but because someone had to hold the line.
 
