@@ -1,10 +1,3 @@
-```
-[STYLE]: Fantasy RPG landscape. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: A vast fae city built into an enormous bowl-shaped crater under a sunless sky. Concentric walled rings climb inward and upward toward a central rocky height: an outer warren of dark timber and grey-slate roofs tangled with pale flora and blackthorn, giving way through tiers of black steel, dark stone and black marble — angular, spiked, antler-like spires growing colder and sharper inward — to a central citadel of sheer pure-black obsidian at the summit. A living rampart of dense blackthorn pierced by antler-arched gates; causeways cross a ring of black mires and barrow-mounds on the crater floor. From the obsidian citadel's peak a pale beam of light rises to a fixed black "dark moon" hanging in the sky, its rim glowing white like an eclipse.
-[MOOD]: Beautiful and wrong; cold, ancient, watchful — a deliberate dark mirror of a shining city.
-[LIGHTING]: Eternal night, no sun. The fixed dark moon and the citadel's rising lunar spire cast cold white light; a seam of pale starlight on the central citadel; faint blue-green phosphor-glow along stairs and trails; deep contrast of star-silver against black stone and obsidian.
-[FORMAT]: 16:9 cinematic landscape
-```
 ---
 Type: City
 Plane: Faewild
@@ -30,7 +23,7 @@ aliases:
 
 > [!infobox|wikipedia]
 > # Caer Nystral
-> [![[Codex/Assets/Locations/Caer_Nystral_small.webp|cover hsmall]]](Codex/Assets/Locations/Caer_Nystral.webp)
+> [![[Codex/Assets/Locations/Cities/Caer_Nystral.webp|cover hsmall]]](Codex/Assets/Locations/Cities/Caer_Nystral.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|
@@ -84,14 +77,52 @@ The dark moon is the Star-Veiled Queen's most public work. She anchored it not l
 
 ## The Dwellers
 
-No sun has touched Caer Nystral, and over uncounted generations its people have come to share its dark. Almost every native sees in the blackness without difficulty; an intruder who cannot is blind, and lit up to fae eyes like a struck match.
+No sun has touched Caer Nystral, and over uncounted generations its people have come to share its dark. Almost every native sees in the blackness without difficulty; an intruder who cannot is blind, and lit up to fae eyes like a struck match. The city is no single people but a layered arrangement — what dwells in the Barrow-Ring does not come to the Warren uninvited, and the Court Tiers maintain a deliberate distance from the press of the commons below. There are no humans here, and no warmth. At rest the city holds some twelve thousand long-lived fae; when the Court is in full residence that number climbs toward twenty-five or thirty thousand.
 
-- **Fae Night Elves** — cold-skinned, dark-eyed kin of the Sumaran elves, folded far more deeply into fae nature; slow to laugh.
-- **Centaurs & Fae Knights** — the Hunt: cavalry, wardens, and knights, riding dire-worgs and nightmare-mounts.
-- **The Quiet Folk** — redcaps, quicklings, boggarts, and twig- and needle-blights, filling the Lower Warren and the household ranks.
-- **The Deep Things** — the night hag covens of the Barrow-Ring and the lesser archfae of the Court Tiers, each holding their own ground at the Queen's pleasure.
+### The Barrow-Ring
 
-There are no humans here, and no warmth. The city holds, at rest, some twelve thousand long-lived fae; when the Court is in full residence, that number climbs toward twenty-five or thirty thousand.
+The oldest and coldest powers of the Court are kept at its threshold rather than within it — a deliberate arrangement on every part.
+
+- **Night hag covens** — the most powerful presences in the ring, dwelling in earth-mounds and barrow-tombs they occupied before the city existed. Three great covens divide the ring's territory, each led by a Grand Crone whose true name is a guarded secret. They deal in dream-currency, soul-debt, and the condemned prisoners the Hunt marches out to them; they answer to the Queen in matters of bare survival and to no one else in anything. The Grand Crone of the southernmost coven — a vast and ancient thing who calls herself Ymrageth — is the ring's unofficial voice, to whatever that is worth.
+- **Annis hags** — where the night hag covens deal in soul-trade and dream-debt, the annis keep cruder counsel: large, iron-clawed, and contemptuous of subtlety. A scattering of them hold their own mounds in the ring, tolerated by the covens as useful muscle and regarded as unsophisticated; the feeling is mutual. When the night hags want a problem solved without finesse, it is the annis they send.
+- **Bog wraiths** — pale, half-visible things that drift the mires between the barrows, tolerated by the hags as a perimeter alarm and useful to the Hunt in the same way; they are not quite citizens of the city and do not quite belong to the crater floor beyond it.
+- **Barrow-spiders** — immense fae arachnids whose silk already lines every mound and marsh-tree of the ring; their larger kin hold the Webs of the crater floor outside the walls. The hags are said to speak with them in a language of vibration that passes no meaning to any other creature.
+
+### The Lower Warren
+
+The city's teeming, lightless commons — crowded, dark, and fast to turn on the unfamiliar.
+
+- **Redcaps** — the largest bloc in the Warren, heavy-set and quick to violence, with iron-shod boots and caps dyed red by means no sensible visitor enquires about. They fill the Nightmarket's stalls and alleys, doing most of its buying and a great deal of its settling of accounts. Their mood is mercurial: a redcap ignored is often offended; a redcap engaged is often charmed. Mariggen runs the most prominent stall in the Nightmarket — large even for a redcap, cheerful in a way that does not quite reach her eyes, and willing to trade freely with strangers who buy something first and do not ask about prices in advance. She has an eye for value and a particular talent for identifying what a visitor actually needs versus what they asked for.
+- **Spriggans** — stunted and grotesque at rest, capable of swelling to near-giant size when provoked, which is their primary negotiating tool. They cluster at the Nightmarket's choke-points and outer alleys, doing extortion work the redcaps prefer not to be seen doing directly. Not clever, but reliably large when it matters.
+- **Quicklings** — reed-thin and almost invisible at speed, constitutionally unable to remain in one place long enough to be reliably caught. They serve as message-runners, pickpockets, scouts, and occasionally assassins; most of the Warren's rumour flows through them whether their employers intend it to or not. Splinter is the most reliable of the Warren's information brokers — tiny even for the type, she will not sell to the Hunt, and she asks for payment before speaking, not after.
+- **Boggarts** — squat, mutable fae that shift their shape to unsettle, never quite settling on a form, always a little wrong at the edges. They cluster in the Warren's lower alleys, running irregular trade that doesn't benefit from a steady appearance. Not dishonest; simply flexible about what constitutes an honest transaction.
+- **Darklings** — fae who have been fully swallowed by shadow, moving through the Warren's darkest alleys as little more than shapes. They are not strong or loud but are trusted with errands that must be run in absolute secrecy, employed by the older fae as messengers, thieves, and quiet removers of problems. In full darkness they are nearly invisible; in light they become frantic and unreliable, which is why they rarely leave the Warren.
+- **Twig and needle blights** — the Warren's porters and groundskeepers, pressed into service by the older fae and too simple for politics. They carry, haul, and crowd doorways, and are useful mainly because they can work in absolute darkness and never complain.
+
+### The Muster Yards
+
+The Hunt's ground is not a district so much as an institution with walls.
+
+- **Fae centaurs** — the Hunt's heavy cavalry, larger and wilder than the centaurs of the Material Plane, with coats in grey, midnight-blue, and deep brown. They carry the particular pride of warriors who have rarely lost; the Hunt's history is one of unbroken pursuit across the Vale. Off-duty they are not social in the way of the Warren — they stand in their stables and are visited, rather than going out.
+- **Fae knights** — elf-blooded or purely fae warriors sworn to the Hunt's service, armoured in black steel and riding nightmare-mounts: horse-shaped fae whose smoke-mane and ember-eyes mark them as something other than horse. The knights observe a strict internal hierarchy; the older ones carry a cold formality that reads, to outsiders, as contempt. Ser Vhoral commands the Antler Gates — a night elf who has held the post long enough that his courtesy is a performance he no longer needs to try at. He will assess an incoming embassy with the manner of someone who has already decided its fate.
+- **Worg-handlers** — the kennelmasters and trackers, bonded to the giant worg packs that serve as the Hunt's nose. A rougher and more practically-minded sort than the knights, valued for competence rather than bearing.
+- **Yeth hounds** — where the worgs run a physical trail, the yeth hounds follow something else: a supernatural scent of fear and flight that crosses no boundary a mortal can block. They are the Hunt's instrument for quarry that has gone to ground behind wards or walls, and their baying, once heard at distance, is said to be the last sound a hunted thing hears clearly before it simply runs.
+- **Night elf soldiers** — the rank-and-file garrison of the gates and walls, neither knights nor riders, the steady watch on the causeways and the city's outer face. They are the first thing any visitor sees and the last thing they can reliably identify in the dark.
+
+### The Court Tiers
+
+Cold halls, careful distance, and the intricate arithmetic of favour.
+
+- **Fae night elves** — the dominant people of the Court Tiers, cold-skinned and dark-eyed, folded far more deeply into fae nature than their Sumaran kin. They are slow to laugh and long in memory; a slight recalled after a century is unremarkable among them. They serve as advisors, chamberlains, heralds, and minor lords in the lesser archfae retinues. Eivrath holds the position of Court Chamberlain — a lean, colourless elf who speaks softly and keeps meticulous account of every favour traded in the Tiers; it is through him that an embassy would ordinarily seek an audience.
+- **Lesser archfae** — half a dozen minor lords of the Unseelie Court occupy the Tiers in halls of their own, each with a small retinue, each keeping their own counsel at the Queen's sufferance. The competition between them is continuous, conducted through proxy agents and the patient accumulation of obligation; open rivalry the Queen does not permit.
+- **Court retainers and attendants** — every archfae's hall is staffed by night elves, quicklings, and the occasional boggart pressed into something approaching presentable service. These retainers know more of Court business than anyone above them realises, and the clever ones have learned to be very quiet about it.
+
+### The Veiled Citadel
+
+The fewest in number and the highest in authority.
+
+- Cold knights of the Hunt — the Queen's personal guard, a step above the order below: longer-serving, colder, armoured in black steel with the lunar spire's pale light hammered into the surface. Some have served long enough that the person beneath the helmet has become difficult to reach. A glamoured knight brought wholly into the Queen's service is not unknown — see [[Asha Vayne]]'s restricted entry.
+- The inner court — [[Mirileth]] holds a small formal court at the Citadel's peak: a handful of favoured archfae, her seneschal, and the most trusted of her advisors. Admission is by the Queen's invitation alone, and invitations are not returned. See her restricted entry.
 
 ## Defences
 

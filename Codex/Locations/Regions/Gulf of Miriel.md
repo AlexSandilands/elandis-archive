@@ -66,7 +66,7 @@ The [[Valtorran Empire|Empire]] holds the *law* of the gulf from [[Val Miriel]].
 
 ### The Mawbreakers
 
-In practice, the open water answers to the [[Mawbreakers|Mawbreakers]], a company of privateer-captains based out of [[Camaar]]. They are the only crews who can run [[The Maw]] reliably, which makes them the gulf's true gatekeepers — and their sympathies run quietly anti-Imperial.
+In practice, the open water answers to the [[Mawbreakers|Mawbreakers]], a company of privateer-captains based out of [[Camaar]]. They are the only crews who can run [[The Maw]] reliably, which makes them the gulf's true gatekeepers — and their sympathies run quietly anti-Imperial. Their opposition to the Empire is not merely political: the construction of [[Skyreach]] would have opened a direct overland route from the southern port of [[Darmouth]] to [[Val Luminor]], bypassing the gulf entirely and rendering the Mawbreakers' control of the Maw irrelevant. Their support for Skyreach's destruction was, above all, an act of self-preservation.
 
 ### The Fishing Communities
 
@@ -96,6 +96,8 @@ The [[Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operat
 ## Significance
 
 The Gulf of Miriel is, by geography alone, one of the most strategically valuable stretches of water on [[Valtorra]]. The Maw makes it almost impossible to attack from the sea; the Luminor River makes it the saltwater end of the only navigable route to the imperial capital. Whoever controls the gulf can supply [[Val Luminor]] cheaply, and whoever closes the gulf chokes the [[Valtorran Empire|Empire]]'s southern war effort at the throat. This is the bargain the Empire has lived with for a century: the Mawbreakers' co-operation buys it that route, and the day that bargain breaks, so does its grip on the south.
+
+For a time, the Empire had a solution to this dependency. [[Darmouth]], a purpose-built port city on the open southern ocean coast at the foot of the Aeolian Mountains, was designed to become a rival southern hub that would bypass the gulf entirely. The plan hinged on [[Skyreach]] — a bridge across the [[Aeolian Chasm]] that would open a direct overland highway from Darmouth's docks north through the mountains to [[Val Luminor]]. If completed, Imperial supply caravans could have bypassed the Maw, the gulf, and the Mawbreakers in a single stroke, and the gulf's strategic value would have collapsed overnight. The destruction of Skyreach ended that ambition, at least for now, and restored the gulf to its position as the only viable southern supply route into the heart of the Empire.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

@@ -87,9 +87,9 @@ oFael
 
 ## ✅ Day 3 — Thu 28 May (2h) · MAJOR CITIES II
 
-- [ ] Val Noren
-- [ ] Point Blackrock
-- [ ] Darmouth
+- [x] Val Noren
+- [x] Point Blackrock
+- [x] Darmouth
 
 ---
 
@@ -105,7 +105,7 @@ oFael
 ## ✅ Day 5 — Sat 30 May (4h) · CITY STUBS (author from research)
 *All empty — research synopses, generate, fill gaps with your notes.*
 
-- [ ] Caer Nystral
+- [x] Caer Nystral
 - [ ] Glimmerforge
 - [ ] Silverdeep
 - [ ] Silverforge
@@ -116,8 +116,8 @@ oFael
 - [ ] Val Solis
 - [ ] Valfyria
 - [ ] Miriel's Rest
-- [ ] River's Watch
-- [ ] Tumbler's Crag *(triage: city vs point of interest)*
+- [x] River's Watch
+- [ ] Tumbler's Crag
 
 ---
 
@@ -195,11 +195,11 @@ Author (empty):
 *All empty/short — fast batch. Then run the pre-launch QA below and publish.*
 
 Forests & wilds:
-- [ ] Ancient Woods
+- [x] Ancient Woods
 - [ ] Whispering Woods
-- [ ] Borealia Forest
+- [x] Borealia Forest
 - [ ] Farhaven Forest
-- [ ] Bioluminescent Forest
+- [x] Bioluminescent Forest
 - [ ] The Darkwood
 - [ ] Gossamer Woods *(Faewild)*
 - [ ] Briarshade *(Faewild)*
@@ -207,11 +207,11 @@ Forests & wilds:
 - [ ] Shimmering Peaks *(Faewild)*
 
 Geographic features:
-- [ ] Aeolian Chasm
+- [x] Aeolian Chasm
 - [ ] Vale of Eternal Night
 - [ ] Isle of Erivin
 - [ ] Frostway
-- [ ] Gulf of Miriel
+- [x] Gulf of Miriel
 - [ ] Liar's River
 - [ ] Luminor River
 - [ ] The Maw *(whirlpool — triage: region vs landmark)*
@@ -276,6 +276,7 @@ Landmarks & structures:
 
 - [ ] **No files left at vault root** except `CLAUDE.md`, `README.md`, `Scratch Notes.md`, and this plan.
 - [ ] Add location images taken from the parchment map to each location where relevant
+- [ ] City / Town Maps
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.
