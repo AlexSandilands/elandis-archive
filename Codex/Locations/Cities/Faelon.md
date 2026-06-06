@@ -1,10 +1,3 @@
-```image-gen
-[STYLE]: Fantasy RPG landscape. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: A small mountain mining town huddled in a snowy valley beneath towering grey cliffs, encircled by a dense forest of deep crimson-red trees heavy with snow. Stone-and-timber buildings with snow-laden roofs, warm amber light glowing from windows and doorways, woodsmoke curling up into cold air. A dirt road winds in through the red forest from the valley below.
-[MOOD]: Isolated and quietly strange — a small settlement holding warmth against the mountain cold, remote from the rest of the world
-[LIGHTING]: Overcast dusk with heavy storm clouds pressing low; warm amber and orange light spilling from inn windows contrasting sharply against the cold blue-grey of snow and deep shadow; the vivid crimson of the snow-dusted trees cutting through the grey gloom
-[FORMAT]: 16:9 cinematic landscape
-```
 ---
 Type: City
 Region: "[[Gulf of Miriel]]"

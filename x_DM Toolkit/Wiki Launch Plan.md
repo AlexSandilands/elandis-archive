@@ -68,17 +68,14 @@ For each file in a session:
   - [x] `references/continents.md`
 - [x] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
 - [x] **Resolve the 3 duplicate pairs** (merge + delete extras).
-- [ ] **Continents / World (4):**
-  - [ ] Elandis *(world overview / top-level landing page)*
-  - [ ] Valtorra
-  - [ ] Faelon
-  - [ ] Faewild
-- [ ] **Stray characters (2):**
-  - [ ] Valen Leafwhisper *(scout — use existing character ref)*
-  - [ ] Joffee *(triage: confirm character vs location first)*
+- [x] **Continents / World (4):**
+  - [x] Elandis *(world overview / top-level landing page)*
+  - [x] Valtorra
+  - [x] Faelon
+  - [x] Faewild
 
 ---
-
+oFael
 ## ✅ Day 2 — Tue 26 May (2h) · MAJOR CITIES I
 *Heavy reformats of your richest existing pages.*
 
@@ -98,7 +95,7 @@ For each file in a session:
 
 ## ✅ Day 4 — Fri 29 May (2h) · CITIES III + RESTRICTED
 
-- [ ] Camaar
+- [x] Camaar
 - [ ] Farhaven
 - [ ] Ithilmara *(elven capital — short but has content)*
 - [x] Arkangel *(flying city — has `RESTRICTED CODEX ONLY` content → create companion doc)*
@@ -278,6 +275,7 @@ Landmarks & structures:
 *Run on Day 10 (and again after the overflow days).*
 
 - [ ] **No files left at vault root** except `CLAUDE.md`, `README.md`, `Scratch Notes.md`, and this plan.
+- [ ] Add location images taken from the parchment map to each location where relevant
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.
