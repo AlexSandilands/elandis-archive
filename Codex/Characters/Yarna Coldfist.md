@@ -38,7 +38,7 @@ tags:
 > ---|---|
 > Status | Deceased |
 
-**Yarna Coldfist** was a human ship captain of the [[Valtorran Empire|Imperial]] navy, commanding the warship *The Devil's Wish* on patrol waters near [[Skyreach]]. Severe and unyielding, she brooked no liberties from unknown vessels in Imperial-adjacent waters — and that unflinching discipline ultimately made her a threat the [[The Mawbreakers|Mawbreakers]] could not afford to leave behind.
+**Yarna Coldfist** was a human ship captain of the [[Valtorran Empire|Imperial]] navy, commanding the warship *The Devil's Wish* on patrol waters near [[Skyreach]]. Severe and unyielding, she brooked no liberties from unknown vessels in Imperial-adjacent waters — and that unflinching discipline ultimately made her a threat the [[Mawbreakers|Mawbreakers]] could not afford to leave behind.
 
 ## Biography
 

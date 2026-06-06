@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[The Albatross]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[Barak Stormrider]]"
 Profession: Quartermaster
 Importance: Minor
@@ -32,14 +32,14 @@ tags:
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[The Albatross]] |
-> Connections | [[The Mawbreakers]]<br>[[Barak Stormrider]] |
+> Connections | [[Mawbreakers]]<br>[[Barak Stormrider]] |
 > Profession | Quartermaster |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Erun Billo** is a halfling quartermaster aboard [[The Albatross]], serving under the crew of [[The Mawbreakers]]. A meticulous and sharp-eyed man of few wasted words, he keeps the ship's stores, charts, and ledgers in order — the quiet machinery that keeps the vessel running between battles.
+**Erun Billo** is a halfling quartermaster aboard [[The Albatross]], serving under the crew of the [[Mawbreakers]]. A meticulous and sharp-eyed man of few wasted words, he keeps the ship's stores, charts, and ledgers in order — the quiet machinery that keeps the vessel running between battles.
 
 ## Biography
 

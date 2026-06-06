@@ -12,4 +12,4 @@ tags:
 - If the party ever investigates the Dwarven succession, the fate of Dwarven resistance survivors, or the Underdark, Gromdal could become a key witness. He would share this information if pressed, or if events gave him reason to trust the party with it.
 
 ## Motivation
-- He joined the [[The Mawbreakers|Mawbreakers]] for practical reasons — his craft skills found a use — but the rebellion's loss still weighs on him. He is not nostalgic about it; he is careful.
+- He joined the [[Mawbreakers|Mawbreakers]] for practical reasons — his craft skills found a use — but the rebellion's loss still weighs on him. He is not nostalgic about it; he is careful.

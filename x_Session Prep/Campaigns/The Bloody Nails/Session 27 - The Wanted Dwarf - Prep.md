@@ -218,6 +218,6 @@ After some time
 
 ## Notes
 
-- Soldiers will knock on the door of [[The Green Gryphons]] in the next morning asking if there are any druids
+- Soldiers will knock on the door of the [[Green Gryphons]] in the next morning asking if there are any druids
 - [[Eryndor]] to [[Thaddeus Karr|Thaddeus]]: "Leaving, don't know when we'll be back, will try to keep in contact, Governor Tarlis can contact us"
 - [[Vaeleran]] to [[Governor Tarlis Evandron]]: "Not us, potentially allied parties, pity they missed"

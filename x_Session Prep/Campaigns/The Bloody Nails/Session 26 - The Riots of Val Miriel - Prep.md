@@ -35,7 +35,7 @@ tags:
 - If the party tries to leave in the middle of the night, [[Teresa Martari]] will stop them at the door:
 > [!info]- Action
 > - Remind about the curfew
-> - If you get into trouble don't bring it back to [[The Green Gryphons]]
+> - If you get into trouble don't bring it back to the [[Green Gryphons]]
 
 
 ## Governor Tarlis

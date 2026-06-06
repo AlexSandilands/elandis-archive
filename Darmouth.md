@@ -14,7 +14,7 @@ tags:
 ### The Iron Anchor
 **Quality:** Modest (5s per night)
 A popular, bustling tavern where sailors and locals gather to swap stories and enjoy a drink.
-- **Proprietor:** [[Captain Barnaby "Old Salt" Hargrave]] — A retired sailor with a wealth of knowledge about the sea and the [[The Mawbreakers]].
+- **Proprietor:** [[Captain Barnaby "Old Salt" Hargrave]] — A retired sailor with a wealth of knowledge about the sea and the [[Mawbreakers]].
 
 ### The Seafarer's Rest Inn
 **Quality:** Comfortable (8s per night)

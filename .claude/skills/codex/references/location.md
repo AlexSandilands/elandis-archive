@@ -4,11 +4,22 @@ Shared location workflow for the codex skill. Read this when creating any locati
 
 | Subtype | What it is | Subtype reference | Status |
 |---|---|---|---|
-| **Point of Interest** | A single notable place — a ruin, landmark, natural feature, structure, or site within a larger region | `references/locations/poi.md` | **Supported** |
-| **Region** | A broad geographic area — a forest, gulf, mountain range, or plane that contains settlements and sites | `references/locations/region.md` | **Supported** |
+| **World** | The world itself — the planet or setting that contains continents and provides the cosmological and historical overview for all other entries | `references/locations/world.md` | **Supported** |
+| **Continent** | A landmass within the world (e.g. Valtorra) that contains Regions | `references/locations/continent.md` | **Supported** |
+| **Plane** | A self-contained realm of existence parallel to or beyond the world (e.g. Faewild, Shadowfell) — same structure as a Continent but without a parent World anchor | `references/locations/continent.md` | **Supported** |
+| **Region** | A broad geographic area — a forest, gulf, mountain range within a continent | `references/locations/region.md` | **Supported** |
 | **City** | A settlement — town, city, or port; the hub for the landmarks, establishments, and people within it | `references/locations/city.md` | **Supported** |
+| **Point of Interest** | A single notable place — a ruin, landmark, natural feature, structure, or site within a larger region | `references/locations/poi.md` | **Supported** |
 
-**Telling the subtypes apart:** a whole forest, gulf, mountain range, or plane is a **Region**; a settlement (town, city, port) is a **City**; a single ruin, landmark, or site *within* one is a **Point of Interest**. Both Regions and Cities are **hubs**: a City is the at-a-glance page for the landmarks (POIs), establishments, and people inside it, while a Region contains and links to the Cities and POIs inside *it*. All three are lore articles; Regions and Cities are also the map-hubs that tie their child places together.
+**Telling the subtypes apart (from largest scale to smallest):**
+- **World** — the whole world (Elandis). One page per world. No parent anchor — it IS the top.
+- **Continent** — a landmass on the world (Valtorra). Parent: `World: "[[Elandis]]"`. Contains Regions.
+- **Plane** — a parallel/extra-planar realm (Faewild, Shadowfell). No parent World (runs parallel to the world, not nested in it). Contains Regions. Uses `continent.md` reference with Plane-specific additions.
+- **Region** — a broad geographic area within a continent (a forest, gulf, mountain range). Parent: `Continent: "[[Valtorra]]"` or `Plane: "[[Faewild]]"`.
+- **City** — a settlement (town, city, port). Hub for its internal landmarks, establishments, and people.
+- **Point of Interest** — a single ruin, landmark, or site within a Region or City.
+
+Hubs at each level: World → Continents + Planes; Continent/Plane → Regions; Region → Cities + POIs; City → establishments, Tier A POIs, and factions inside it.
 
 ## Vault locations
 
@@ -16,12 +27,15 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 
 | Subtype | Public folder | Restricted folder |
 |---|---|---|
-| Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
+| World | `Codex/Locations/Worlds/<Name>.md` | `Codex - Restricted/Locations/Worlds/<Name> - Restricted.md` |
+| Continent | `Codex/Locations/Continents/<Name>.md` | `Codex - Restricted/Locations/Continents/<Name> - Restricted.md` |
+| Plane | `Codex/Locations/Planes/<Name>.md` | `Codex - Restricted/Locations/Planes/<Name> - Restricted.md` |
 | Region | `Codex/Locations/Regions/<Name>.md` | `Codex - Restricted/Locations/Regions/<Name> - Restricted.md` |
 | City | `Codex/Locations/Cities/<Name>.md` | `Codex - Restricted/Locations/Cities/<Name> - Restricted.md` |
+| Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
 
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
-- **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Points_of_Interest/` for POIs, `Codex/Assets/Locations/Regions/` for Regions, `Codex/Assets/Locations/Cities/` for Cities (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
+- **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Worlds/` for Worlds, `Codex/Assets/Locations/Continents/` for Continents, `Codex/Assets/Locations/Planes/` for Planes, `Codex/Assets/Locations/Regions/` for Regions, `Codex/Assets/Locations/Cities/` for Cities, `Codex/Assets/Locations/Points_of_Interest/` for POIs (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
 
 ---
 
@@ -29,13 +43,13 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 
 Extract from the user's message whatever they've already provided:
 - Location **name**
-- **Subtype:** Point of Interest, Region, or City. Infer from the place — a whole forest/gulf/range/plane is a Region; a settlement (town, city, port) is a City; a single ruin or landmark within one is a Point of Interest. Confirm if it's ambiguous.
+- **Subtype:** World, Continent, Plane, Region, City, or Point of Interest. Use the scale table above — the whole world is a World; a continental landmass is a Continent; a parallel plane of existence (Faewild, Shadowfell) is a Plane; a broad geographic area within a continent is a Region; a settlement is a City; a single ruin or landmark is a Point of Interest. Confirm if ambiguous.
 - **Importance:** Major or Minor
 - Whether a **restricted companion document** is also needed
 
-If anything is missing, ask for it all in one message — don't ask one field at a time. Name, subtype, and importance are required before proceeding. If you're unsure whether something is a Point of Interest versus a Region (or a City), say so and confirm — a port town is a City, a whole forest is a Region, a single ruin or landmark within them is a Point of Interest.
+If anything is missing, ask for it all in one message — don't ask one field at a time. Name, subtype, and importance are required before proceeding.
 
-**Once the subtype is settled, read its reference doc now** (`references/locations/poi.md`, `references/locations/region.md`, or `references/locations/city.md`) and keep this base doc for the shared steps below.
+**Once the subtype is settled, read its reference doc now** (`references/locations/world.md`, `references/locations/continent.md`, `references/locations/region.md`, `references/locations/city.md`, or `references/locations/poi.md`) and keep this base doc for the shared steps below. Continent and Plane both use `continent.md`.
 
 ---
 
@@ -43,11 +57,11 @@ If anything is missing, ask for it all in one message — don't ask one field at
 
 Before asking for details, check the vault:
 
-1. Does the entry already exist in its subtype folder (`Codex/Locations/Points of Interest/<Name>.md`, `Codex/Locations/Regions/<Name>.md`, or `Codex/Locations/Cities/<Name>.md`)? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
+1. Does the entry already exist in its subtype folder (e.g. `Codex/Locations/Worlds/<Name>.md`, `Codex/Locations/Continents/<Name>.md`, `Codex/Locations/Planes/<Name>.md`, `Codex/Locations/Regions/<Name>.md`, `Codex/Locations/Cities/<Name>.md`, or `Codex/Locations/Points of Interest/<Name>.md`)? If so, warn the user and ask whether they want to update/migrate rather than overwrite.
 2. Does `<Name>.md` exist at the vault root? If so, read it — its content informs the entry and whether a restricted companion is needed (see Stub File Format below). Root location stubs are often already well-researched DM notes; treat their geography and lore as canon unless the synopses contradict them.
 3. Grep all synopsis files under `Campaigns/The Bloody Nails/Sessions/` for the location's name (and any short-form aliases or the names of structures within it). Collect every matching snippet with its session number. Ignore hits inside `Transcript.md` files — never read those.
 4. **Reconcile session attributions.** A root stub may cite session numbers from memory; the synopses are the source of truth. If the stub says an event happened in Session N but the synopses place it elsewhere, trust the synopses, correct it in the entry, and flag the discrepancy to the user.
-5. Glob for image files matching the location name in `x_Assets/Locations/` and the subtype subfolder `Codex/Assets/Locations/Points_of_Interest/`, `Codex/Assets/Locations/Regions/`, or `Codex/Assets/Locations/Cities/` (patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`). If found, use the real filename **and its subtype subfolder** in the infobox path.
+5. Glob for image files matching the location name in `x_Assets/Locations/` and the appropriate subtype subfolder under `Codex/Assets/Locations/` (`Worlds/`, `Continents/`, `Planes/`, `Regions/`, `Cities/`, or `Points_of_Interest/`) — patterns: `Name*.webp`, `Name_with_underscores*.webp` — also check `*.png`. If found, use the real filename **and its subtype subfolder** in the infobox path.
 
 **Region** adds a hub-discovery research step (finding the child Cities/POIs to link) — see `references/locations/region.md`. A **City** is also a hub, but its landmarks, establishments, and people come from its root stub and the synopses rather than a vault-wide grep — see `references/locations/city.md`.
 

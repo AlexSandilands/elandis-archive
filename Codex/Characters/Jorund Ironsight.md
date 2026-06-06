@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[The Albatross]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[Gromdal]]"
 Profession: Master Gunner
 Importance: Minor
@@ -16,7 +16,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Jorund]
+aliases:
+  - Jorund
 ---
 > [!infobox|wikipedia]
 > # Jorund Ironsight
@@ -33,14 +34,14 @@ aliases: [Jorund]
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[The Albatross]] |
-> Connections | [[The Mawbreakers]]<br>[[Gromdal]] |
+> Connections | [[Mawbreakers]]<br>[[Gromdal]] |
 > Profession | Master Gunner |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Jorund Ironsight** is a human Master Gunner aboard [[The Albatross]] and a proud member of [[The Mawbreakers]]. Bald, barrel-chested, and perpetually stained with gunpowder, he is the kind of man who treats a misfiring cannon not as a disaster to be avoided but as a problem to be solved — ideally with more explosive force than was used the first time.
+**Jorund Ironsight** is a human Master Gunner aboard [[The Albatross]] and a proud member of the [[Mawbreakers]]. Bald, barrel-chested, and perpetually stained with gunpowder, he is the kind of man who treats a misfiring cannon not as a disaster to be avoided but as a problem to be solved — ideally with more explosive force than was used the first time.
 
 ## Biography
 

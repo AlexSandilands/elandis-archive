@@ -7,7 +7,7 @@ Pronouns: He/Him
 Age: Late 40s
 Place: "[[Val Miriel]]"
 Connections:
-  - "[[The Green Gryphons]]"
+  - "[[Green Gryphons]]"
 Profession: Guild Captain
 Importance: Minor
 Status: Alive
@@ -36,14 +36,14 @@ aliases:
 > Pronouns | He/Him |
 > Age | Late 40s |
 > Place | [[Val Miriel]] |
-> Connections | [[The Green Gryphons]] |
+> Connections | [[Green Gryphons]] |
 > Profession | Guild Captain |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Captain Porta Hale** is a human mercenary commander and the head of the [[Val Miriel]] branch of [[The Green Gryphons]]. A burly man with iron-grey hair and a thick beard, he leads with blunt authority and quiet menace — the kind of captain who has seen enough to stop being surprised, and enough to know when to keep his mouth shut.
+**Captain Porta Hale** is a human mercenary commander and the head of the [[Val Miriel]] branch of the [[Green Gryphons]]. A burly man with iron-grey hair and a thick beard, he leads with blunt authority and quiet menace — the kind of captain who has seen enough to stop being surprised, and enough to know when to keep his mouth shut.
 
 ## Biography
 

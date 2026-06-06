@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[Goblin Lair]]"
 Connections:
-  - "[[The Green Gryphons]]"
+  - "[[Green Gryphons]]"
 Profession: Raider Captain
 Importance: Major
 Status: Deceased
@@ -31,7 +31,7 @@ tags:
 > Gender | Male
 > Pronouns | He/Him |
 > Place | [[Goblin Lair]] |
-> Connections | [[The Green Gryphons]] |
+> Connections | [[Green Gryphons]] |
 > Profession | Raider Captain |
 > ###### Status
 > Attribute |  Details |
@@ -56,13 +56,13 @@ Grakthor was ruthless by profession and disciplined by necessity. He ran his war
 
 Grakthor led his tribe to a subterranean lair beneath a crumbling shrine dedicated to [[Eldrin Starweaver]], establishing it as both a defensive stronghold and a base for raiding operations along the high road between [[Camaar]] and [[Darmouth]]. The shrine's unstable magic — prone to unpredictable Wild Magic surges triggered by spellcasting — made it a formidable location, all but inaccessible to conventional assault. His warg companion, Garron, served as both a guard beast and a mark of status among the warband.
 
-His raids drew enough attention to prompt a formal contract from [[The Green Gryphons]], the mercantile guild operating out of [[Darmouth]], who hired a freelance group to clear the road.
+His raids drew enough attention to prompt a formal contract from the [[Green Gryphons]], the mercantile guild operating out of [[Darmouth]], who hired a freelance group to clear the road.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 07 - Grakthor Falls]]
 
-[[The Bloody Nails]] descended into the shrine and ambushed Grakthor in the main chamber alongside Garron and a goblin priestess. The battle became a chaos of Wild Magic surges as the shrine reacted violently to every spell cast — blue lightning crackled through the room, combatants were levitated and disorientated, and at one point [[Ryo]] found himself fighting upside down in mid-air. Despite the supernatural mayhem, Ryo kept his focus on the target. He landed the killing blow on Grakthor with a precise archer's shot, ending the raid captain's career and fulfilling the [[The Green Gryphons]] contract.
+[[The Bloody Nails]] descended into the shrine and ambushed Grakthor in the main chamber alongside Garron and a goblin priestess. The battle became a chaos of Wild Magic surges as the shrine reacted violently to every spell cast — blue lightning crackled through the room, combatants were levitated and disorientated, and at one point [[Ryo]] found himself fighting upside down in mid-air. Despite the supernatural mayhem, Ryo kept his focus on the target. He landed the killing blow on Grakthor with a precise archer's shot, ending the raid captain's career and fulfilling the [[Green Gryphons]] contract.
 
 Grakthor's greatsword — a masterwork blade engraved with a cryptic "V" — was recovered by the party among his armour and personal effects.
 

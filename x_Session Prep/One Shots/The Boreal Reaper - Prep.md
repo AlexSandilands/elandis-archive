@@ -2,7 +2,7 @@
 
 >[!example]+ Read
 > One year has passed since the events of [[Aran's Fall]]. Following a lead found within [[Rava's Keep]], [[Loxar]] and [[Mithrandir]] found themselves drawn to the beautiful streets of the lakeshore city of [[Silverdeep]]. There, they uncovered scattered accounts of break-ins and mysterious deaths—threads of a pattern that always seemed just out of reach. Despite their best efforts, no evidence surfaced to point them toward the perpetrators responsible for their companions' tragic deaths.
-> Keeping their eyes and ears open, they joined the mercenary guild called [[The Green Gryphons]], hoping that one day a contract would cross their path—a contract that might finally bring them the answers they had sought for so long.
+> Keeping their eyes and ears open, they joined the mercenary guild called the [[Green Gryphons]], hoping that one day a contract would cross their path—a contract that might finally bring them the answers they had sought for so long.
 
 ## Investigating the Jewellery Shop
 

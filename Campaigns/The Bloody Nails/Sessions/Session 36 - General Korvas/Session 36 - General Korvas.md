@@ -28,7 +28,7 @@ The session began with the party preparing for a high-stakes infiltration of the
 
 In a devastating plot twist, the Dread General recognised [[Vaeleran]] not as a rebel, but as a lost asset. Crushing a purple jewel, the General released a wave of magical energy that seemly restored [[Vaeleran]]'s lost memories and motives. The soldier was instantly consumed by his past identity: [[General Korvas]], a loyal servant of the Empire. The Dread General departed, ordering Korvas and an elven mage named [[Marcelle the Broken]] to execute the party. A brutal fight ensued, with the party forced to battle their former ally. Korvas proved nearly invincible in combat, dropping both [[Ryo]] and [[Kai]] while shrugging off the party’s desperate attacks.
 
-Just as Korvas prepared to deliver the killing blow to his former companions, the wall of the building exploded inward. A massive warrior in a blue cloak shoulder-charged Korvas, interrupting the execution. It was revealed to be [[Barak Stormrider]], a captain of [[The Mawbreakers]]. Seizing the moment, Marcelle the Broken grabbed Korvas and teleported them both to safety. The rebels, led by Barak, quickly stabilised the dying party members and ushered them through the chaotic streets to a secure stronghold behind a massive barricade, leaving the group to process the loss of their companion and the return of an old friend.
+Just as Korvas prepared to deliver the killing blow to his former companions, the wall of the building exploded inward. A massive warrior in a blue cloak shoulder-charged Korvas, interrupting the execution. It was revealed to be [[Barak Stormrider]], a captain of the [[Mawbreakers]]. Seizing the moment, Marcelle the Broken grabbed Korvas and teleported them both to safety. The rebels, led by Barak, quickly stabilised the dying party members and ushered them through the chaotic streets to a secure stronghold behind a massive barricade, leaving the group to process the loss of their companion and the return of an old friend.
 
 ## Details
 
@@ -59,7 +59,7 @@ Just as Korvas prepared to deliver the killing blow to his former companions, th
 
 * **The Intervention:** As [[General Korvas|Korvas]] stood over the defeated party, a large man in a blue cloak charged through the building, knocking Korvas back.
 * **The Escape:** [[Marcelle the Broken|Marcelle]], realising the tactical disadvantage, grabbed Korvas and teleported them both away via a spatial rift.
-* **The Saviour:** The rescuer revealed himself to be [[Barak Stormrider]] of [[The Mawbreakers]]. He ordered his rebel soldiers to stabilise [[Kai]] and [[Ryo]].
+* **The Saviour:** The rescuer revealed himself to be [[Barak Stormrider]] of the [[Mawbreakers]]. He ordered his rebel soldiers to stabilise [[Kai]] and [[Ryo]].
 * **Retreat:** The group fled through the winding streets, fighting off small patrols, until they reached a secure rebel section of the city protected by heavy barricades.
 * **Debrief:** Barak asked what [[Valtorran Empire|The Empire]] had done to revert [[Vaeleran]] to his old persona, [[General Korvas|Korvas]]. The session ended with the party safe but reeling from the betrayal.
 

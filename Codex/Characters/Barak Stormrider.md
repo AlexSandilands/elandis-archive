@@ -8,7 +8,7 @@ Age: ~50s
 Languages: Common
 Place: "[[Camaar]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[The Bloody Nails]]"
   - "[[King Marius Noren]]"
 Profession: Sea Captain, Leader of the Mawbreakers
@@ -39,14 +39,14 @@ aliases:
 > Age | ~50s |
 > Languages | Common |
 > Place | [[Camaar]] |
-> Connections | [[The Mawbreakers]]<br>[[King Marius Noren\|Marius Noren]]<br>[[The Bloody Nails]] |
+> Connections | [[Mawbreakers]]<br>[[King Marius Noren\|Marius Noren]]<br>[[The Bloody Nails]] |
 > Profession | Sea Captain<br>Leader of the Mawbreakers |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Barak Stormrider** is a sea captain and the leader of [[The Mawbreakers]], a rebel sailing company operating out of [[Camaar]]. He commands [[The Albatross]] through [[The Maw]] — the treacherous whirlpool guarding the [[Gulf of Miriel]] — and has spent years using that mastery to strangle [[Valtorran Empire|the Empire]]'s supply lines. His son **Baran** was killed by an Imperial captain for defending his crew. Everything Barak has done since has been aimed, quietly and without apology, at making that matter.
+**Barak Stormrider** is a sea captain and the leader of the [[Mawbreakers]], a rebel sailing company operating out of [[Camaar]]. He commands [[The Albatross]] through [[The Maw]] — the treacherous whirlpool guarding the [[Gulf of Miriel]] — and has spent years using that mastery to strangle [[Valtorran Empire|the Empire]]'s supply lines. His son **Baran** was killed by an Imperial captain for defending his crew. Everything Barak has done since has been aimed, quietly and without apology, at making that matter.
 
 ## Description
 
@@ -68,7 +68,7 @@ He is loyal to the bone to those who prove themselves. [[The Bloody Nails]] earn
 
 #### Background
 
-Barak grew up on the water. He does not speak much about his early life, but by the time he found his way to [[Camaar]] and fell in with [[The Mawbreakers]], he was already the kind of sailor that others deferred to without being asked to. He rose to captain of [[The Albatross]] and, in time, to leader of the Mawbreakers entire.
+Barak grew up on the water. He does not speak much about his early life, but by the time he found his way to [[Camaar]] and fell in with the [[Mawbreakers]], he was already the kind of sailor that others deferred to without being asked to. He rose to captain of [[The Albatross]] and, in time, to leader of the Mawbreakers entire.
 
 His wife died in childbirth, leaving him a son — **Baran** — who was the last living thing of hers in the world. Barak raised him at sea and loved him the way that quiet, capable men love: through presence, through teaching, through time. When Baran came of age, he earned his own ship and his own command. That was always the plan.
 

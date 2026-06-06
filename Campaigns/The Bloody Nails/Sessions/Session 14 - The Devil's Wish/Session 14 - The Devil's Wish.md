@@ -21,16 +21,16 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|17th Water, 1st - 2507]] |
 > Location | Travelling to [[Skyreach]]
-> Characters | [[Barak Stormrider]]<br>[[Jorund Ironsight]]<br>[[Prax Shea]]<br>[[The Mawbreakers]] |
+> Characters | [[Barak Stormrider]]<br>[[Jorund Ironsight]]<br>[[Prax Shea]]<br>[[Mawbreakers]] |
 ## Summary
 
-As [[The Albatross]] continued its journey towards [[Skyreach]], the horizon was broken by the crimson sails of an Imperial vessel, *The Devil's Wish*. [[Barak Stormrider]] and the party initially attempted a parley, feigning the role of a merchant transport crew. Despite a tense inspection by [[Valtorran Empire|Empire]] guards - during which [[Kai]] created a magical leak as a distraction and [[Ryo]] disguised himself to hide the ship's armoury - the ruse ultimately failed. The opposing captain, [[Yarna Coldfist]], ordered the [[The Mawbreakers]] to follow them to [[Darmouth]] for detention. Barak refused, and the seas erupted into violence.
+As [[The Albatross]] continued its journey towards [[Skyreach]], the horizon was broken by the crimson sails of an Imperial vessel, *The Devil's Wish*. [[Barak Stormrider]] and the party initially attempted a parley, feigning the role of a merchant transport crew. Despite a tense inspection by [[Valtorran Empire|Empire]] guards - during which [[Kai]] created a magical leak as a distraction and [[Ryo]] disguised himself to hide the ship's armoury - the ruse ultimately failed. The opposing captain, [[Yarna Coldfist]], ordered the [[Mawbreakers]] to follow them to [[Darmouth]] for detention. Barak refused, and the seas erupted into violence.
 
 The battle was chaotic and explosive. While [[Kai]] blinded the enemy archers with fog, a strike team consisting of [[Vaeleran]], [[Eryndor]], and Kai boarded *The Devil's Wish* to slaughter the crew. Meanwhile, [[Dondar]] provided arcane support from the deck, and [[Ryo]] manned the cannons with [[Jorund Ironsight]]. In a moment of spectacular precision, Ryo utilised "the good powder" to fire a critical shot that punched through the enemy deck, instantly obliterating Captain Yarna Coldfist in her quarters.
 
 The climax arrived when [[Kai]] recklessly ignited a trail of gunpowder leading to the enemy's magazine. As the fuse burned too quickly, the boarding party scrambled to escape. [[Vaeleran]] heroically swapped places with his allies to ensure their safety, but the resulting explosion hurled both him and [[Eryndor]] into the churning sea. [[Dondar]] and Kai dove in to rescue their drowning companions as *The Devil's Wish* was torn asunder.
 
-In the aftermath, the party enacted a "no survivors" policy, picking off the remaining [[Valtorran Empire|Empire]] soldiers in the water. Before the wreck fully sank, a looting party salvaged a magical set of armour, an enchanted blade, and a mysterious map. The session concluded with a sombre burial at sea for the eight [[The Mawbreakers|Mawbreaker]] sailors lost in the conflict, followed by a moment of respite as the party realised their growing power, achieving level 5.
+In the aftermath, the party enacted a "no survivors" policy, picking off the remaining [[Valtorran Empire|Empire]] soldiers in the water. Before the wreck fully sank, a looting party salvaged a magical set of armour, an enchanted blade, and a mysterious map. The session concluded with a sombre burial at sea for the eight [[Mawbreakers|Mawbreaker]] sailors lost in the conflict, followed by a moment of respite as the party realised their growing power, achieving level 5.
 
 ## Details
 

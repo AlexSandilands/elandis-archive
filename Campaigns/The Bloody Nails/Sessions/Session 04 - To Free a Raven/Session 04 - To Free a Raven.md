@@ -60,7 +60,7 @@ The session reached a spiritual crescendo at a local temple of the [[The Pantheo
 
 ### Parting Gifts and Divine Visions
 
-* **Logistics:** [[Gemma Finegold|Gemma]] provided [[Neros]] with **two Potions of Healing**. She agreed to manage the [[The Green Gryphons]] contract paperwork so the party could avoid returning to the city.
+* **Logistics:** [[Gemma Finegold|Gemma]] provided [[Neros]] with **two Potions of Healing**. She agreed to manage the [[Green Gryphons]] contract paperwork so the party could avoid returning to the city.
 * **The Rogue’s Gift:** [[Uric Graad|Uric]] recognized [[Eryndor]]’s magical potential and taught him the *Mage Hand* spell, hinting at the rogue's connection to his father, [[Jarek]].
 * **The Temple Vision:** At the temple of the [[The Pantheon|Seven Divines]], [[Kai]] experienced a divine communion:
     * He saw a goddess, who bestowed upon him a holy symbol that glows when he enters his Starry Form.

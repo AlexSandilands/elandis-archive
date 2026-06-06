@@ -24,7 +24,7 @@ tags:
 > Characters | [[Porta Hale]]<br>[[Ayana Syndrosa]] |
 ## Summary
 
-The morning breaks over [[Val Miriel]] with tension thick in the air. At [[The Green Gryphons]], [[Vaeleran]], [[Ryo]], and [[Eryndor]] are awakened by a pulsing message from [[Governor Tarlis Evandron|Govenor Tarlis]], inquiring about a failed assassination attempt on [[General Varan Brado]] at [[The Bastion]] - a crime the party denies committing. The atmosphere shifts from intrigue to danger as Gorath, a [[Hand of the Empire]], raids the guildhall in search of a druid and a "half-folk" magic user. Thanks to the stoic deflection of [[Porta Hale]], the party evades capture, though the Guildmaster warns that their presence is becoming a liability, urging them to leave the city until the heat dies down.
+The morning breaks over [[Val Miriel]] with tension thick in the air. At the [[Green Gryphons]], [[Vaeleran]], [[Ryo]], and [[Eryndor]] are awakened by a pulsing message from [[Governor Tarlis Evandron|Govenor Tarlis]], inquiring about a failed assassination attempt on [[General Varan Brado]] at [[The Bastion]] - a crime the party denies committing. The atmosphere shifts from intrigue to danger as Gorath, a [[Hand of the Empire]], raids the guildhall in search of a druid and a "half-folk" magic user. Thanks to the stoic deflection of [[Porta Hale]], the party evades capture, though the Guildmaster warns that their presence is becoming a liability, urging them to leave the city until the heat dies down.
 
 Meanwhile, at the [[High Sept]], [[Kai]] and [[Dondar]] awake to the aftermath of their chaotic night. Kai suffers a searing pain in his arm, accompanied by a mysterious whisper promising reward for his actions, as the starry markings on his skin fade. Aided by the cleric Lara, they attempt a desperate and somewhat comical escape through the lockdown; Dondar utilises invisibility and later a precarious disguise involving a stool and ice-platform shoes created by Kai’s magic. They eventually reunite with the rest of the party, though their "old man" disguise fails to fool their companions, leading to Dondar being unceremoniously hidden beneath sacks in their damaged cart.
 
@@ -35,7 +35,7 @@ Seeking a way out, the party liquidates their monster harvest at [[The Fur and F
 ### Morning Raids and Revelations
 
 * **A Message from Leadership:** [[Vaeleran]] receives a magical transmission from [[Governor Tarlis Evandron|Governor Tarlis]] via the sending stones. Tarlis suspects the party of breaking into the Bastion and attempting to assassinate [[General Varan Brado]]. Vaeleran denies the assassination attempt but confirms they are allied with the chaos.
-* **The Empire Knocks:** Gorath, a [[Hand of the Empire]], kicks in the doors of [[The Green Gryphons]]. He demands a druid and a "half-folk magic user."
+* **The Empire Knocks:** Gorath, a [[Hand of the Empire]], kicks in the doors of the [[Green Gryphons]]. He demands a druid and a "half-folk magic user."
 * **The Cover-up:** [[Porta Hale]] feigns ignorance, and Vera Goldfinger is magically scanned but cleared. The soldiers search the premises but find nothing.
 * **Eviction:** Once the soldiers leave, Porta advises the party to leave [[Val Miriel]] immediately, as the Gryphons can no longer guarantee their safety without bringing down the Empire's wrath on the guild.
 

@@ -23,7 +23,7 @@ tags:
 > Characters | [[High Priest Oldir]] |
 ## Summary
 
-While [[Vaeleran]] and [[Ryo]] chose to remain within the safety of [[The Green Gryphons]] guildhall to rest and practice, [[Kai]] and [[Dondar]] embarked on a reckless and high-stakes night mission to the [[High Sept]]. Ignoring the curfew and warnings from the guild members, the pair attempted to cross [[Val Miriel]] with speed rather than stealth. Kai transformed into a giant grey elk, with Dondar clinging to his back, and they sprinted down [[The Military Way]]. Their lack of subtlety drew immediate attention, resulting in a chaotic chase where Kai took significant damage from crossbow bolts. The escape culminated at [[Valena's Bridge]], where Dondar incinerated a guard with a *Fireball* before both adventurers dove from the bridge into the dark river below to evade capture.
+While [[Vaeleran]] and [[Ryo]] chose to remain within the safety of the [[Green Gryphons]] guildhall to rest and practice, [[Kai]] and [[Dondar]] embarked on a reckless and high-stakes night mission to the [[High Sept]]. Ignoring the curfew and warnings from the guild members, the pair attempted to cross [[Val Miriel]] with speed rather than stealth. Kai transformed into a giant grey elk, with Dondar clinging to his back, and they sprinted down [[The Military Way]]. Their lack of subtlety drew immediate attention, resulting in a chaotic chase where Kai took significant damage from crossbow bolts. The escape culminated at [[Valena's Bridge]], where Dondar incinerated a guard with a *Fireball* before both adventurers dove from the bridge into the dark river below to evade capture.
 
 After a tense swim and a strategic use of *Misty Step* and *Dust of Disappearance* to navigate the locked-down streets, the pair successfully infiltrated The High Sept using a *Fog Cloud* as cover. Inside, they were met with fear by a cleric named Lara before being confronted by the High Priest, [[High Priest Oldir|Oldir]]. Kai attempted to convince Oldir to allow a ceremony to attune the clerics to [[Selûne]], but Oldir initially refused, citing the danger of heresy and the visible corruption in Kai’s Starry Form, which displayed influence from the "Dark Sister."
 
@@ -33,7 +33,7 @@ The session concluded with a massive lore revelation. Oldir recounted the prophe
 
 ### Downtime at the Green Griffins
 
-* The party regrouped at [[The Green Gryphons]] hall. [[Vaeleran]] attempted to use a Sending Stone to contact [[Governor Tarlis Evandron|Governor Tarlis]], sending a concise update ("Shit show"), but received no reply.
+* The party regrouped at the [[Green Gryphons]] hall. [[Vaeleran]] attempted to use a Sending Stone to contact [[Governor Tarlis Evandron|Governor Tarlis]], sending a concise update ("Shit show"), but received no reply.
 * The group socialised with guild members, including Vira Loris and Rina Talon, who expressed frustration with [[Valtorran Empire|The Empire]]'s tightening restrictions on the city.
 * Vaeleran showed a looted sword to the guild members; it was identified as Northern royalty make, potentially belonging to the ruling family of [[Val Aran]].
 * [[Kai]] and [[Dondar]] decided to head to the [[High Sept]] despite the strict night curfew. [[Ryo]] and Vaeleran opted to stay behind, drinking and practicing archery.

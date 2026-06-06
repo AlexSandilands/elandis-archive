@@ -20,5 +20,5 @@ tags:
 - Her willingness to deal with [[The Bloody Nails]] was rooted entirely in protectiveness: a treaty shielding her brood from imperial interference was worth more to her than any revenge on the miners. She stated clearly she is willing to make arrangements that protect her children. Not hostile by default — but ancient, powerful, and betrayed before.
 
 ## Plot Hooks
-- She is bound by the treaty to allow the [[The Green Gryphons]] to mine quietly. If the Empire overruns the Gryphons or the party breaks the agreement (even by accident), she becomes a threat.
+- She is bound by the treaty to allow the [[Green Gryphons]] to mine quietly. If the Empire overruns the Gryphons or the party breaks the agreement (even by accident), she becomes a threat.
 - Conversely, if her children are threatened by a third party, she may reach out to the party as the only surface-worlders she has a compact with.

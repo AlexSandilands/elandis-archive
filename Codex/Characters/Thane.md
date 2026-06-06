@@ -45,7 +45,7 @@ aliases:
 
 Thane runs the Cobblestone Apothecary out of [[Camaar]], supplying the city's adventurers, healers, and curious minds with potions and alchemical goods of his own devising. With cropped black hair, a neat goatee, and a deep unhurried voice, he carries himself with the calm of a man long accustomed to volatile substances — though that composure cracked when his wife, [[Teresa]], vanished in the mountains after reporting ghostly apparitions while gathering herbs.
 
-Unable to pursue her himself, Thane turned to the [[The Green Gryphons|Green Gryphons]] for help. The [[The Bloody Nails|Bloody Nails]] took up the contract and eventually returned [[Teresa]] to him safe.
+Unable to pursue her himself, Thane turned to the [[Green Gryphons|Green Gryphons]] for help. The [[The Bloody Nails|Bloody Nails]] took up the contract and eventually returned [[Teresa]] to him safe.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

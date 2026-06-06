@@ -60,13 +60,13 @@ For each file in a session:
 ## ✅ Day 1 — Sun 24 May (4h) · FOUNDATION
 *Unblocks every later evening. Build the tooling first, then a few quick wins.*
 
-- [ ] **Write the 5 skill references** (mirror `.claude/skills/codex/references/character.md`):
+- [x] **Write the 5 skill references** (mirror `.claude/skills/codex/references/character.md`):
   - [x] `references/locations.md` (cities, regions, points of interest — one ref, sub-types inside)
   - [x] `references/factions.md`
   - [x] `references/items.md`
   - [x] `references/lore.md` (deities, events, cosmology, culture)
-  - [ ] `references/continents.md`
-- [ ] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
+  - [x] `references/continents.md`
+- [x] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
 - [x] **Resolve the 3 duplicate pairs** (merge + delete extras).
 - [ ] **Continents / World (4):**
   - [ ] Elandis *(world overview / top-level landing page)*
@@ -82,9 +82,9 @@ For each file in a session:
 ## ✅ Day 2 — Tue 26 May (2h) · MAJOR CITIES I
 *Heavy reformats of your richest existing pages.*
 
-- [ ] Sumara, The Shining City
-- [ ] Val Miriel
-- [ ] Lighthaven
+- [x] Sumara, The Shining City
+- [x] Val Miriel
+- [x] Lighthaven
 
 ---
 
@@ -101,7 +101,7 @@ For each file in a session:
 - [ ] Camaar
 - [ ] Farhaven
 - [ ] Ithilmara *(elven capital — short but has content)*
-- [ ] Arkangel *(flying city — has `RESTRICTED CODEX ONLY` content → create companion doc)*
+- [x] Arkangel *(flying city — has `RESTRICTED CODEX ONLY` content → create companion doc)*
 
 ---
 

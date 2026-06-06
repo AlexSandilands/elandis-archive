@@ -155,7 +155,7 @@ tags:
 - [[Ella Sable]] suggests a safe house to lay low.
 - **Alternative:** If leaving immediately, [[Uric Graad]] whistles and leads them to meet [[Gemma]].
 - [[Gemma]] gives **3 Potions of Healing**.
-- **Plan:** [[Gemma]] stays to convince [[The Green Gryphons]] she completed the contract.
+- **Plan:** [[Gemma]] stays to convince the [[Green Gryphons]] she completed the contract.
 - **Exit:** [[Uric Graad]] and [[Ella Sable]] lead the group to the **Temple**.
 
 ### Uric & Eryndor

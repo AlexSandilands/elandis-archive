@@ -20,13 +20,13 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|18th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|24th Water, 1st - 2507]] |
 > Location | [[Skyreach]]<br>Travelling to [[Camaar]]
-> Characters | [[Lirien]]<br>[[Barak Stormrider]]<br>[[Ari]]<br>[[The Mawbreakers]] |
+> Characters | [[Lirien]]<br>[[Barak Stormrider]]<br>[[Ari]]<br>[[Mawbreakers]] |
 
 ## Summary
 
 The assault on [[Skyreach]] began in chaos and ended in cataclysm. Amidst the burning tents of the slave camp, the party managed to free a significant number of prisoners, including a shocking reunion for [[Kai]], who discovered his foster mother, [[Lirien]], among the enslaved. The initial skirmish escalated rapidly when a hostile Magister rained fire upon the party, prompting [[Dondar]] to retaliate with a devastating fireball that incinerated the barracks. With the alarm raised and time ticking, the party ascended the massive 400-foot pillars of the viaduct, navigating deadly traps and planting gunpowder kegs at strategic weak points to destabilise the structure.
 
-After rigging the explosives and utilising a daring *Feather Fall* manoeuvre to descend, the party landed in a scene of slaughter. The extraction point had been compromised by a [[Hand of the Empire]], an elite warrior who had cut down the [[The Mawbreakers|Mawbreaker]] captain, [[Barak Stormrider]]. The ensuing duel was brutal, pushing the party to their limits. In a moment that stunned the group, the Hand recognized [[Vaeleran]], calling him "Korvas" and referring to him as an "old mentor," before nearly killing him. [[Ryo]] and the party rallied to save their companion, allowing Vaeleran to deliver the killing blow.
+After rigging the explosives and utilising a daring *Feather Fall* manoeuvre to descend, the party landed in a scene of slaughter. The extraction point had been compromised by a [[Hand of the Empire]], an elite warrior who had cut down the [[Mawbreakers|Mawbreaker]] captain, [[Barak Stormrider]]. The ensuing duel was brutal, pushing the party to their limits. In a moment that stunned the group, the Hand recognized [[Vaeleran]], calling him "Korvas" and referring to him as an "old mentor," before nearly killing him. [[Ryo]] and the party rallied to save their companion, allowing Vaeleran to deliver the killing blow.
 
 In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered a rusty nail - kept from their original prison ship - into the dead Hand's forehead, leaving a brutal message for the [[Valtorran Empire|Empire]]. As the party fled to [[The Albatross]] with the critically wounded [[Barak Stormrider|Barak]], the fuses burned down. [[Skyreach]] collapsed in a thunderous explosion of rubble and dust, blotting out the moon and dealing a crippling blow to the Empire's infrastructure. While the mission was a success, the cost was high - thirty sailors lost - and the party was left with heavy pockets (10,000 gold pieces) and heavier questions regarding [[Vaeleran]]'s secret past.
 

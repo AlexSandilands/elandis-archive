@@ -25,9 +25,9 @@ tags:
 
 Leaving the depths of the earth behind, the party secures the legacy of the [[Ruby Falls Goldmine]] mine by collapsing its main entrance, ensuring the secrets within remain buried. Their descent from the mountain is interrupted by a ferocious ambush; what begins as a skirmish with a pack of sabertooth tigers quickly escalates when a massive, three-headed Chimera descends upon the fray. In a display of chaotic prowess, [[Dondar]] unleashes reckless fire, while [[Kai]] manages to ride the beast mid-flight. [[Eryndor]] delivers the killing shot, felling the monstrosity, which the party then stuffs into their modified wagon to haul back to civilisation.
 
-Upon arriving at [[Val Miriel]], the group finds the city transformed into a dystopian police state. The gates are barred, martial law is in effect, and the streets are scarred by recent riots. Through a combination of quick thinking and [[Vaeleran]]'s smooth talking, utilizing their [[The Green Gryphons]] credentials, they bypass the blockade. Inside, they discover a city on edge, plastered with revolutionary propaganda detailing [[Valtorran Empire|The Empire]]'s draconian new taxes and conscription laws—documents stolen during a daring heist on [[The Bastion]].
+Upon arriving at [[Val Miriel]], the group finds the city transformed into a dystopian police state. The gates are barred, martial law is in effect, and the streets are scarred by recent riots. Through a combination of quick thinking and [[Vaeleran]]'s smooth talking, utilizing their [[Green Gryphons]] credentials, they bypass the blockade. Inside, they discover a city on edge, plastered with revolutionary propaganda detailing [[Valtorran Empire|The Empire]]'s draconian new taxes and conscription laws—documents stolen during a daring heist on [[The Bastion]].
 
-The session concludes with the party capitalising on their hunt. They sell the Chimera carcass to the hunters at [[The Fur and Fang]] for a substantial sum before reporting back to the [[The Green Gryphons]]. Deceiving their guild leadership, they claim the gold mine had naturally collapsed and was empty, securing their payment while keeping the true nature of the mine a secret. As night falls, the party prepares to navigate the curfew, with plans to visit the temple and contact their rebellion allies.
+The session concludes with the party capitalising on their hunt. They sell the Chimera carcass to the hunters at [[The Fur and Fang]] for a substantial sum before reporting back to the [[Green Gryphons]]. Deceiving their guild leadership, they claim the gold mine had naturally collapsed and was empty, securing their payment while keeping the true nature of the mine a secret. As night falls, the party prepares to navigate the curfew, with plans to visit the temple and contact their rebellion allies.
 
 ## Details
 
@@ -50,7 +50,7 @@ The session concludes with the party capitalising on their hunt. They sell the C
 
 * **The Warning:** On the road, the party encounters merchants fleeing [[Val Miriel]]. They warn that the city is in total lockdown and denied entry to anyone without official Empire business.
 * **The Gates:** Arriving at the city, they find a heavy military presence and a [[Hand of The Empire]] commander watching the line.
-* **Entry:** [[Vaeleran]] bluffs the gate captain, using the [[The Green Gryphons]] token and claiming official business regarding [[Lord Norak Vara]]'s mine. The guard reluctantly allows them entry but warns them against causing trouble.
+* **Entry:** [[Vaeleran]] bluffs the gate captain, using the [[Green Gryphons]] token and claiming official business regarding [[Lord Norak Vara]]'s mine. The guard reluctantly allows them entry but warns them against causing trouble.
 * **State of the City:** The city is in disarray. There is evidence of recent riots, rubble blocking [[The Divine Way]], and graffiti. Gatherings of more than six people are banned.
 * **Propaganda:** [[Eryndor]] uses *Mage Hand* to snatch a fresh poster from a wall. It reveals stolen Empire plans for extreme tax hikes, mandatory conscription, and increased arrests.
 
@@ -58,7 +58,7 @@ The session concludes with the party capitalising on their hunt. They sell the C
 
 * **Fur and Fang:** The party visits the hunting shop run by [[Kira]] and [[Gaara]]. They negotiate the sale of the Chimera corpse for approximately 2,200 gold (pending processing). [[Ryo]] arranges for a cloak to be made from a pristine tiger pelt.
 * **News of Rebellion:** [[Gaara]] reveals that the [[Order of Ravens]] (implied) broke into the Bastion, stole the documents, and possibly attempted to assassinate the General, sparking the riots.
-* **Guild Debrief:** The party reports to [[Porta Hale]] at the [[The Green Gryphons]]. [[Vaeleran]] lies, stating the mine was found collapsed and empty of gold.
+* **Guild Debrief:** The party reports to [[Porta Hale]] at the [[Green Gryphons]]. [[Vaeleran]] lies, stating the mine was found collapsed and empty of gold.
 * **Rewards:** The party receives 500 gold each. [[Porta Hale|Porta]] agrees to forge travel papers for them to head north to [[The Darkwood]].
 * **Next Moves:** [[Kai]] and [[Dondar]] plan to head to the temple of the [[High Sept]] for a ceremony, while [[Vaeleran]] intends to use the sending stones to contact their allies.
 

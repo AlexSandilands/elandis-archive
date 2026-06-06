@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[The Albatross]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[Barak Stormrider]]"
 Profession: Ship's Cook
 Importance: Minor
@@ -34,14 +34,14 @@ aliases:
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[The Albatross]] |
-> Connections | [[The Mawbreakers]]<br>[[Barak Stormrider]] |
+> Connections | [[Mawbreakers]]<br>[[Barak Stormrider]] |
 > Profession | Ship's Cook |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Gorath Harbur** is an elderly half-orc cook aboard [[The Albatross]], serving as the ship's galley master under [[Barak Stormrider]] and the [[The Mawbreakers|Mawbreakers]]. Grey-haired and gruff, he is a man who left a life of war far behind him and found, improbably, a kind of peace at sea.
+**Gorath Harbur** is an elderly half-orc cook aboard [[The Albatross]], serving as the ship's galley master under [[Barak Stormrider]] and the [[Mawbreakers|Mawbreakers]]. Grey-haired and gruff, he is a man who left a life of war far behind him and found, improbably, a kind of peace at sea.
 
 ## Biography
 

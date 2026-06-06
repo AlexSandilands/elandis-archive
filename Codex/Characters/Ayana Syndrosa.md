@@ -97,7 +97,7 @@ With [[Val Noren]] liberated, Ayana pulled [[Ryo]] aside under the pretence of c
 
 #### [[Session 44 - The Elven Archmage]]
 
-Ayana intercepted [[The Bloody Nails]] before they could depart with [[The Mawbreakers]], recognising the tattoo sketch taken from a [[The Red Priests|Red Priestess]]. She led the party to a hidden magical sanctum where [[Kai]] cast *Speak with Dead* on the priestess's severed head, revealing that the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity called [[Kharazoth the Crimson Shadow]]. The name shook Ayana to her core — Kharazoth was a lieutenant from the [[Chaos Wars]], thought long dead.
+Ayana intercepted [[The Bloody Nails]] before they could depart with the [[Mawbreakers]], recognising the tattoo sketch taken from a [[The Red Priests|Red Priestess]]. She led the party to a hidden magical sanctum where [[Kai]] cast *Speak with Dead* on the priestess's severed head, revealing that the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity called [[Kharazoth the Crimson Shadow]]. The name shook Ayana to her core — Kharazoth was a lieutenant from the [[Chaos Wars]], thought long dead.
 
 Shattered by the revelation, Ayana dropped her disguise entirely, revealing herself as an Elf to the whole party. When she then recognised the ring [[Ryo]] had always worn, she lost control — accusing him of being a spy, telekinetically pinning him to a wall, and teleporting the rest of the party thousands of feet into the air above [[Val Noren]]. Only after Ryo convinced her of his honesty did she cast *Feather Fall* to catch the others moments before impact.
 

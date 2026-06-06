@@ -84,7 +84,7 @@ The soldier's quarter, running from the [[Red Bastion]] down the western bank to
 
 #### Green Gryphons *(mercenary guild hall)*
 
-The Val Miriel hall of the [[The Green Gryphons|Green Gryphons]] mercenary guild — a clearing-house for contracts, muscle, and the city's quieter problems. A practical place that gets jobs done before they reach anyone's front door.
+The Val Miriel hall of the [[Green Gryphons|Green Gryphons]] mercenary guild — a clearing-house for contracts, muscle, and the city's quieter problems. A practical place that gets jobs done before they reach anyone's front door.
 
 - [[Porta Hale|Captain Porta Hale]] — burly, iron-grey, and blunt; head of the Val Miriel branch.
 - [[Teresa Martari|Teresa "T" Martari]] — purple-skinned tiefling who carries a greatsword everywhere and is rumoured to wrestle bears for sport.
@@ -202,7 +202,7 @@ The [[The Underrun|Underrun]] is the city's vast underground network of tunnels 
 
 ### Green Gryphons
 
-The [[The Green Gryphons|Green Gryphons]] mercenary guild keeps a busy hall on the Military Way, and is the usual first stop for honest, dangerous work.
+The [[Green Gryphons|Green Gryphons]] mercenary guild keeps a busy hall on the Military Way, and is the usual first stop for honest, dangerous work.
 
 ### Order of Ravens
 
@@ -212,7 +212,7 @@ The [[Order of Ravens — Val Miriel|Order of Ravens]] maintains a nest in the c
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
-The party made the city their base, lodging at [[River's Watch]] and learning the lay of the streets from the barmaid [[Lila Spring]]. They outfitted themselves across the city — sparring with the pretensions of Silverforge before finding honest steel at The Coal under [[Ingrid]] — and took on contracts from the [[The Green Gryphons|Green Gryphons]] through [[Porta Hale]]. That night, a private audience with [[High Priest Oldir]] at the [[High Sept]] shook [[Kai]] to the core.
+The party made the city their base, lodging at [[River's Watch]] and learning the lay of the streets from the barmaid [[Lila Spring]]. They outfitted themselves across the city — sparring with the pretensions of Silverforge before finding honest steel at The Coal under [[Ingrid]] — and took on contracts from the [[Green Gryphons|Green Gryphons]] through [[Porta Hale]]. That night, a private audience with [[High Priest Oldir]] at the [[High Sept]] shook [[Kai]] to the core.
 
 #### [[Session 21 - The Governor's Daughter]]
 

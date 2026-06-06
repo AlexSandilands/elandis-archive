@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-The liberation of [[Val Noren]] has begun. In a high-stakes operation to break the stalemate between Loyalist and Imperial forces, the party executed a surgical strike on the city's river gates. Utilising a combination of silence spells, shape-shifting, and lethal stealth, the group infiltrated the gatehouses, eliminating the guards before a single alarm could be raised. With the portcullis raised and the control towers secured, the [[The Mawbreakers]] arrived under the cover of a massive magical fog bank summoned by [[Kai]], constructing a pontoon bridge to allow the main army to flank the enemy.
+The liberation of [[Val Noren]] has begun. In a high-stakes operation to break the stalemate between Loyalist and Imperial forces, the party executed a surgical strike on the city's river gates. Utilising a combination of silence spells, shape-shifting, and lethal stealth, the group infiltrated the gatehouses, eliminating the guards before a single alarm could be raised. With the portcullis raised and the control towers secured, the [[Mawbreakers]] arrived under the cover of a massive magical fog bank summoned by [[Kai]], constructing a pontoon bridge to allow the main army to flank the enemy.
 
 As the fog lifted and the Loyalist army crossed the river, the session culminated in a brutal clash upon the bridge. [[King Marius Noren]] led the charge, meeting the Imperial commanders in a bloody standoff. While the battle raged, the party bolstered the vanguard with healing magic and rained destruction down upon the elite [[Hand of The Empire|Hands of the Empire]] . Realising their defeat was imminent and refusing capture, the remaining Imperial elites took their own lives, shattering the morale of the occupying forces. Marius declared victory, reclaiming Val Noren as the "Shield of the North," while the party celebrated a hard-won triumph that shifted the balance of the war.
 
@@ -35,7 +35,7 @@ As the fog lifted and the Loyalist army crossed the river, the session culminate
 
 * [[Dondar]] spent the morning investigating the magical note found on the assassin. A high Arcana check revealed it is not a hidden message, but a communication device requiring a specific reagent to activate.
 * [[Kai]] inquired about the local deities to potentially bless the army; he learned that [[Torgar Earthshaker|Torgar]] (god of the earth and mountains) is the primary deity in [[Val Noren]].
-* [[Barak Stormrider|Barak]] arrived at the garrison disguised in Imperial armor, revealing his plan to lead the [[The Mawbreakers]] through the city to the docks to commandeer boats for the pontoon bridge.
+* [[Barak Stormrider|Barak]] arrived at the garrison disguised in Imperial armor, revealing his plan to lead the [[Mawbreakers]] through the city to the docks to commandeer boats for the pontoon bridge.
 * The party finalized their plan: infiltrate the gatehouses, silence the guards, and open the river gate to allow the pontoon construction.
 
 ### Securing the West Tower
@@ -57,7 +57,7 @@ As the fog lifted and the Loyalist army crossed the river, the session culminate
 
 ### The Pontoon Bridge
 
-* The party winched the massive portcullis open, allowing [[Barak Stormrider|Barak]] and the disguised [[The Mawbreakers]] to row their commandeered skiffs into position.
+* The party winched the massive portcullis open, allowing [[Barak Stormrider|Barak]] and the disguised [[Mawbreakers]] to row their commandeered skiffs into position.
 * [[Kai]] cast a 4th-level *Fog Cloud*, covering a massive area of the river to hide the construction efforts from the main Imperial force.
 * Using *Water Walk* and their combined strength, the Mawbreakers and the party successfully lashed the boats together, creating a stable pontoon bridge.
 * A runner was sent to signal [[King Marius Noren|Marius Noren]], and thousands of Loyalist soldiers began to cross the river under the cover of the fog.

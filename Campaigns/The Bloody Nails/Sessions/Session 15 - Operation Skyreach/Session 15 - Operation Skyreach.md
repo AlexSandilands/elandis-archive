@@ -20,15 +20,15 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|18th Water, 1st - 2507]] |
 > Location | [[Skyreach]]
-> Characters | [[Barak Stormrider]]<br>[[Ari]]<br>[[The Mawbreakers]] |
+> Characters | [[Barak Stormrider]]<br>[[Ari]]<br>[[Mawbreakers]] |
 
 ## Summary
 
-The session began with a sombre moment of reflection aboard [[The Albatross]], where Captain [[Barak Stormrider]] revealed the tragic loss of his son to [[Valtorran Empire|The Crimson Empire]], prompting the party members to share their own driving forces—from [[Vaeleran]]’s targeted amnesia and [[Kai]]’s orphaned past to [[Ryo]]’s persecution as a rare full-blooded elf. Steeled by shared trauma and purpose, the group finalised a high-stakes plan: while the [[The Mawbreakers]] launched a loud frontal assault to distract the garrison and liberate the labour camp, the party would infiltrate [[Skyreach]] stealthily to plant explosives and sever the massive bridge overhead.
+The session began with a sombre moment of reflection aboard [[The Albatross]], where Captain [[Barak Stormrider]] revealed the tragic loss of his son to [[Valtorran Empire|The Crimson Empire]], prompting the party members to share their own driving forces—from [[Vaeleran]]’s targeted amnesia and [[Kai]]’s orphaned past to [[Ryo]]’s persecution as a rare full-blooded elf. Steeled by shared trauma and purpose, the group finalised a high-stakes plan: while the [[Mawbreakers]] launched a loud frontal assault to distract the garrison and liberate the labour camp, the party would infiltrate [[Skyreach]] stealthily to plant explosives and sever the massive bridge overhead.
 
 Under the biting chill of a winter night, the party navigated the frozen riverbanks. [[Ryo]]’s *Pass Without Trace* proved invaluable, shrouding the group in supernatural silence as they ambushed Imperial scouts and scaled the formidable perimeter wall using magical rope. They executed a ruthless, coordinated takedown of the wall patrol, with [[Vaeleran]] grappling the guard for a silent execution, allowing the team to traverse the battlements undetected toward the central gatehouse.
 
-The infiltration turned violent as they breached the guardroom, slaughtering the relaxing soldiers in a blur of arrows and spells before [[Vaeleran]] winched the great iron gate open to allow the [[The Mawbreakers]] entry. However, their stealth was broken when a patrol from the opposite tower spotted the breach. Despite a desperate, acrobatic chase by [[Ryo]] to intercept a fleeing soldier, the guard managed to reach the alarm mechanism. As the session concluded, the gate stood open and the rebellion charged, but the ominous clang of the alarm bell echoed through the gorge, signaling that the element of surprise was gone.
+The infiltration turned violent as they breached the guardroom, slaughtering the relaxing soldiers in a blur of arrows and spells before [[Vaeleran]] winched the great iron gate open to allow the [[Mawbreakers]] entry. However, their stealth was broken when a patrol from the opposite tower spotted the breach. Despite a desperate, acrobatic chase by [[Ryo]] to intercept a fleeing soldier, the guard managed to reach the alarm mechanism. As the session concluded, the gate stood open and the rebellion charged, but the ominous clang of the alarm bell echoed through the gorge, signaling that the element of surprise was gone.
 
 ## Details
 
@@ -56,12 +56,12 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
     * **Team A (Mawbreakers):** Attack the camp loud and fast to draw reinforcements and free slaves.
     * **Team B (The Party):** Infiltrate quietly, open the gates for the army, and then move to the bridge supports to plant gunpowder kegs.
 * **Barak's Speech:** Before docking, [[Barak Stormrider|Barak]] delivered a rousing speech to the crew, declaring this the night they "shatter the bonds" of the [[Valtorran Empire|Empire]].
-* **The Scouts:** Upon docking at the river mouth, [[Kai]] spotted two Imperial scouts. [[Ryo]] unleashed a *Dread Ambush*, killing one instantly. The second was turned into a "pincushion" by the [[The Mawbreakers|Mawbreaker]] crew's crossbows.
+* **The Scouts:** Upon docking at the river mouth, [[Kai]] spotted two Imperial scouts. [[Ryo]] unleashed a *Dread Ambush*, killing one instantly. The second was turned into a "pincushion" by the [[Mawbreakers|Mawbreaker]] crew's crossbows.
 * **Farewells:** [[Gromdal]] shared a dwarven salute with [[Dondar]], wishing him strength of stone. [[Ari]] was ordered by Barak to stay behind and guard the ships, much to her dismay.
 
 ### The Infiltration
 
-* **The Approach:** The party moved up the western bank while the [[The Mawbreakers|Mawbreaker]] army moved up the east. The weather was freezing, with snow on the cliffs and a dark, moonless sky.
+* **The Approach:** The party moved up the western bank while the [[Mawbreakers|Mawbreaker]] army moved up the east. The weather was freezing, with snow on the cliffs and a dark, moonless sky.
 * **The Fortress:** They arrived to find [[Skyreach]] was not just a camp, but a fortress with a massive wall blocking the river.
 * **Scaling the Wall:**
     * [[Ryo]] cast *Pass Without Trace*, granting the party a massive stealth bonus (+10).
@@ -91,7 +91,7 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
     * Ryo killed the bell-ringer shortly after.
     * [[Vaeleran]] killed the remaining guard on the walkway.
     * The party looted a key from the bodies.
-    * With the element of surprise lost, the party fled toward the western bank as the [[The Mawbreakers|Mawbreakers]] began their charge through the open gate and alarm bells began ringing in the distance.
+    * With the element of surprise lost, the party fled toward the western bank as the [[Mawbreakers|Mawbreakers]] began their charge through the open gate and alarm bells began ringing in the distance.
 
 ## Art
 

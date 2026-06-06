@@ -24,7 +24,7 @@ tags:
 - He is now retired in Silverdeep, old even for a dwarf but alive, watching from a distance and trusting Gemma completely. He would surface only for an existential threat to the Order — and even then only to her.
 
 ## Barak (the engineered friendship)
-- [[Barak Stormrider|Barak]], captain of [[The Albatross]] and leader of [[The Mawbreakers]], has **no** connection to the Finegold family — Gemma sought him out. She deliberately "bumped into" him in a Camaar tavern because she needed a reliable Mawbreaker connection. The friendship is genuine on his end; the introduction was engineered on hers. He does not know she is the Grand Raven.
+- [[Barak Stormrider|Barak]], captain of [[The Albatross]] and leader of the [[Mawbreakers]], has **no** connection to the Finegold family — Gemma sought him out. She deliberately "bumped into" him in a Camaar tavern because she needed a reliable Mawbreaker connection. The friendship is genuine on his end; the introduction was engineered on hers. He does not know she is the Grand Raven.
 
 ## Hidden Agenda & Operational Detail
 - Beneath the resistance mission, Gemma runs the Order as a single deniable instrument of her own — every node compartmentalised so her hand never shows, even to her own commanders.

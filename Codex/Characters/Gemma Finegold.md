@@ -75,7 +75,7 @@ Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a 
 
 The aftermath changed them both forever. Her father, [[Harland Finegold|Harland]], lost his passion for work, becoming increasingly distant and spending more time trying to guide Gemma to becoming who she is today. Gemma, however, channelled her grief and anger into a burning hatred for the Empire, vowing to oppose them and aid anyone crushed under their oppressive rule.
 
-In recent years, Gemma made a name for herself within [[The Finegolds]]. While her father remained the figurehead, it was her sharp mind that kept the merchant operations thriving. Her most significant connection came through a cargo run for [[The Mawbreakers]], where she met [[Barak Stormrider]]. The two struck up a close friendship, and Barak eventually confided in her his plans to dismantle the Imperial project [[Skyreach]]. He recognised her value immediately — a legitimate merchant could move between cities with minimal suspicion, and her expertise in concealing contraband was exactly the kind of skill the network needed.
+In recent years, Gemma made a name for herself within [[The Finegolds]]. While her father remained the figurehead, it was her sharp mind that kept the merchant operations thriving. Her most significant connection came through a cargo run for the [[Mawbreakers]], where she met [[Barak Stormrider]]. The two struck up a close friendship, and Barak eventually confided in her his plans to dismantle the Imperial project [[Skyreach]]. He recognised her value immediately — a legitimate merchant could move between cities with minimal suspicion, and her expertise in concealing contraband was exactly the kind of skill the network needed.
 
 ![[Gemma_Finegold_Mourning_small.webp|right]]
 
@@ -102,7 +102,7 @@ At the gates of [[Darmouth]], Gemma urged the party to keep their heads down as 
 
 #### [[Session 04 - To Free a Raven]]
 
-After [[The Bloody Nails]] broke [[Ella Sable]] out of Imperial custody, Gemma and [[Uric Graad]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle [[The Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
+After [[The Bloody Nails]] broke [[Ella Sable]] out of Imperial custody, Gemma and [[Uric Graad]] met them outside the city walls. She equipped [[Neros]] with two Potions of Healing and, pragmatically, offered to handle the [[Green Gryphons]] contract paperwork on the party's behalf so they could avoid returning to the city.
 
 #### [[Session 05 - The Baited Ambush]]
 
@@ -110,11 +110,11 @@ The party rendezvoused with [[The Finegolds]] on the High Road, narrowly avoidin
 
 #### [[Session 07 - Grakthor Falls]]
 
-After the party cleared the goblin threat plaguing the road, Gemma agreed to return to [[Darmouth]] on their behalf — submitting the [[The Green Gryphons]] contract and collecting the reward, freeing the party to press on toward [[Camaar]].
+After the party cleared the goblin threat plaguing the road, Gemma agreed to return to [[Darmouth]] on their behalf — submitting the [[Green Gryphons]] contract and collecting the reward, freeing the party to press on toward [[Camaar]].
 
 #### [[Session 08 - The High Road]]
 
-Gemma and [[Doran Ironfist]] rejoined the convoy, distributing 820 gold from the goblin contract. In a private moment, she showed [[Vaeleran]] a "Wanted" poster bearing a sketch of a scarred older man resembling him — worth 5,000 gold — and, correctly deducing he was an enemy of the Empire, invited him to join her cause. She then led the party to [[The Mawbreakers]]' guildhall at the [[Camaar]] docks to meet [[Barak Stormrider]], where the contents of the Skyreach package — detailed blueprints for a secret bridge spanning the [[Aeolian Chasm]] — were finally revealed.
+Gemma and [[Doran Ironfist]] rejoined the convoy, distributing 820 gold from the goblin contract. In a private moment, she showed [[Vaeleran]] a "Wanted" poster bearing a sketch of a scarred older man resembling him — worth 5,000 gold — and, correctly deducing he was an enemy of the Empire, invited him to join her cause. She then led the party to the [[Mawbreakers]]' guildhall at the [[Camaar]] docks to meet [[Barak Stormrider]], where the contents of the Skyreach package — detailed blueprints for a secret bridge spanning the [[Aeolian Chasm]] — were finally revealed.
 
 #### [[Session 09 - The Veiled Den]]
 

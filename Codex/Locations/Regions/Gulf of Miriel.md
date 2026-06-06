@@ -36,7 +36,7 @@ aliases:
 
 The **Gulf of Miriel** is a great sea-gulf on the south-eastern edge of [[Valtorra]], a near-enclosed body of water whose only outlet to the open ocean is the permanent whirlpool known as [[The Maw]]. Four cities ring its shores — the seat of power [[Val Miriel]] at the mouth of the [[Luminor River]] in the north-west, the chaotic port of [[Camaar]] on the southern shore, and [[Farhaven]] and [[Sabine]] on the western and northern coasts — making the gulf the seaward end of the [[Valtorran Empire|Empire]]'s central river artery and the bottleneck through which all of its southern shipping must pass. Whoever holds the Maw holds the gulf; whoever holds the gulf reaches the capital.
 
-The gulf's politics reflect that geography. The Empire holds the *law* of these waters from the bastion at [[Val Miriel]], but the *sea* itself answers to the [[The Mawbreakers|Mawbreakers]] of [[Camaar]], whose pilots are the only ones who can run the Maw with any reliability — an arrangement that has held, uneasily, for as long as the Empire has existed.
+The gulf's politics reflect that geography. The Empire holds the *law* of these waters from the bastion at [[Val Miriel]], but the *sea* itself answers to the [[Mawbreakers|Mawbreakers]] of [[Camaar]], whose pilots are the only ones who can run the Maw with any reliability — an arrangement that has held, uneasily, for as long as the Empire has existed.
 
 ## Geography & Landscape
 
@@ -66,7 +66,7 @@ The [[Valtorran Empire|Empire]] holds the *law* of the gulf from [[Val Miriel]].
 
 ### The Mawbreakers
 
-In practice, the open water answers to the [[The Mawbreakers|Mawbreakers]], a company of privateer-captains based out of [[Camaar]]. They are the only crews who can run [[The Maw]] reliably, which makes them the gulf's true gatekeepers — and their sympathies run quietly anti-Imperial.
+In practice, the open water answers to the [[Mawbreakers|Mawbreakers]], a company of privateer-captains based out of [[Camaar]]. They are the only crews who can run [[The Maw]] reliably, which makes them the gulf's true gatekeepers — and their sympathies run quietly anti-Imperial.
 
 ### The Fishing Communities
 
@@ -79,7 +79,7 @@ The [[Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operat
 ## Settlements & Sites
 
 - **[[Val Miriel]]** — north-west shore, at the mouth of the [[Luminor River]]; Imperial city and the gulf's seat of power.
-- **[[Camaar]]** — southern shore; sprawling, chaotic port and the [[The Mawbreakers|Mawbreakers']] stronghold.
+- **[[Camaar]]** — southern shore; sprawling, chaotic port and the [[Mawbreakers|Mawbreakers']] stronghold.
 - **[[Farhaven]]** — western shore.
 - **[[Sabine]]** — northern shore.
 - **[[The Maw]]** — the permanent whirlpool at the gulf's eastern mouth, and its only sea-gate.
@@ -88,9 +88,9 @@ The [[Order of Ravens]] runs nests in both [[Val Miriel]] and [[Camaar]], operat
 
 ## Dangers
 
-- **[[The Maw]] itself.** Misjudge the whirlpool's margin and the gulf has eaten you. Only seasoned [[The Mawbreakers|Mawbreaker]] pilots run it reliably.
+- **[[The Maw]] itself.** Misjudge the whirlpool's margin and the gulf has eaten you. Only seasoned [[Mawbreakers|Mawbreaker]] pilots run it reliably.
 - **Harpies** roost in numbers on the Teeth, the basalt sea-stacks at the eastern mouth — every ship passing the Maw runs the gauntlet of them.
-- **Imperial patrol galleys and [[The Mawbreakers|Mawbreaker]] crews** share the same water in a peace that is one incident away from open blockade.
+- **Imperial patrol galleys and [[Mawbreakers|Mawbreaker]] crews** share the same water in a peace that is one incident away from open blockade.
 - **Late-year storms and fog** can close the gulf to all but the most experienced sailors, and the reefs of the inner approach do not forgive a miscalculation.
 
 ## Significance
@@ -101,11 +101,11 @@ The Gulf of Miriel is, by geography alone, one of the most strategically valuabl
 
 #### [[Session 08 - The High Road]]
 
-The party reached the gulf for the first time, arriving in [[Camaar]] after the long road from [[Darmouth]]. In the [[The Mawbreakers|Mawbreakers']] dockside guildhall they met [[Barak Stormrider]] and his lieutenant [[Ari]], and learned the strategic shape of the gulf as Barak laid it out: that [[Skyreach]] was being built precisely so the Empire could *avoid* [[The Maw]], and that destroying it would force every Imperial supply ship back into water the Mawbreakers controlled.
+The party reached the gulf for the first time, arriving in [[Camaar]] after the long road from [[Darmouth]]. In the [[Mawbreakers|Mawbreakers']] dockside guildhall they met [[Barak Stormrider]] and his lieutenant [[Ari]], and learned the strategic shape of the gulf as Barak laid it out: that [[Skyreach]] was being built precisely so the Empire could *avoid* [[The Maw]], and that destroying it would force every Imperial supply ship back into water the Mawbreakers controlled.
 
 #### [[Session 12 - How to Start a Rebellion]]
 
-Compromised in [[Camaar]] and hunted by black-cloaked assassins, the party retreated through the pre-dawn city to the [[The Mawbreakers|Mawbreakers']] compound at the docks. There Barak introduced them to the engineer [[Gromdal]] and turned the gulf's strategic logic into a concrete plan — the demolition of [[Skyreach]] before winter, with the kegs, the climbing gear, and the split assault all laid out on a war-room table.
+Compromised in [[Camaar]] and hunted by black-cloaked assassins, the party retreated through the pre-dawn city to the [[Mawbreakers|Mawbreakers']] compound at the docks. There Barak introduced them to the engineer [[Gromdal]] and turned the gulf's strategic logic into a concrete plan — the demolition of [[Skyreach]] before winter, with the kegs, the climbing gear, and the split assault all laid out on a war-room table.
 
 #### [[Session 13 - Waves, Wings and Sails]]
 

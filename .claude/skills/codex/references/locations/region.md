@@ -2,7 +2,7 @@
 
 Region-specific content for the codex skill. Read this **together with `references/location.md`** (the shared location workflow) when creating a Region. This file holds only what's unique to Regions: an extra research step, the creation-mode questions, frontmatter, infobox, body templates, and the gold standard. Everything else — migration-mode research, restricted-companion machinery, image prompt, write order, and the shared location rules — lives in `location.md`.
 
-A Region is a broad geographic area (a forest, gulf, mountain range, or plane) that **contains and links to** the Cities and Points of Interest inside it — it is both a lore article and the map-hub that ties its child places together.
+A Region is a broad geographic area (a forest, gulf, mountain range) within a Continent or Plane that **contains and links to** the Cities and Points of Interest inside it — it is both a lore article and the map-hub that ties its child places together. Regions sit one scale below Continents/Planes; for an entire continent or plane, use `continent.md` instead.
 
 - **Public:** `Codex/Locations/Regions/<Name>.md`
 - **Restricted:** `Codex - Restricted/Locations/Regions/<Name> - Restricted.md`
@@ -75,7 +75,7 @@ aliases: [AltName]
 ```
 
 Rules:
-- The **parent field is required** and is the doc's map anchor. Use `Continent` by default; use `Plane` instead (not in addition) when the region sits in the Faewild or another plane — mirror whichever the place actually belongs to.
+- The **parent field is required** and is the doc's map anchor. Use `Continent: "[[Valtorra]]"` (or the relevant continent name) by default; use `Plane: "[[Faewild]]"` instead (not in addition) when the region sits within a plane — mirror whichever the place actually belongs to. These link up to the Continent or Plane doc one level above.
 - `Capital`, `Ruling Power`/`Ruling Court`, and `Connections` are **optional** — include only those the region actually has, and omit the rest entirely. `Connections` is a YAML list.
 - Omit unknown fields; aliases as an inline list (or omit). See `location.md` for the universal location rules.
 

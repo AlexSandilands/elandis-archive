@@ -37,23 +37,23 @@ The river's parentage explains the shared name. The Luminor River rises in the c
 
 For the better part of a decade the Empire poured labour and secrecy into [[Skyreach]], an Imperial viaduct "of unimaginable size" raised to span the chasm. It was more than a bridge: it was also where the Empire funnelled its prisoners and self-declared "enemies of the empire," worked in the labour camp that grew beneath the rising structure.
 
-Skyreach never carried its intended traffic. Working from stolen schematics, [[The Bloody Nails]] and the [[The Mawbreakers|Mawbreakers]] sailed for the chasm, infiltrated the viaduct, and brought it down — collapsing the colossus into the gorge and freeing the prisoners the Empire had been holding there. The ruins remain to this day, and will for a long time yet: the shattered arches and toppled pillars of the great viaduct still lie broken across and within the chasm, a lasting monument to the rebellion's strike against the Empire.
+Skyreach never carried its intended traffic. Working from stolen schematics, [[The Bloody Nails]] and the [[Mawbreakers|Mawbreakers]] sailed for the chasm, infiltrated the viaduct, and brought it down — collapsing the colossus into the gorge and freeing the prisoners the Empire had been holding there. The ruins remain to this day, and will for a long time yet: the shattered arches and toppled pillars of the great viaduct still lie broken across and within the chasm, a lasting monument to the rebellion's strike against the Empire.
 
 ## Strategic Significance
 
 The Aeolian Chasm is a natural blocker for [[Darmouth]], a relatively new Imperial city. Without a crossing, Darmouth cannot easily move its docked supplies inland — caravans would have to detour the long way around through the mountains, which is impractical at the scale the Empire needed.
 
-The Empire's alternative port is [[Val Miriel]], from which supplies can run up-river toward the capital at [[Val Luminor]]. But the Gulf of Miriel is treacherous to enter because of [[The Maw]], leaving the Empire dangerously dependent on the [[The Mawbreakers|Mawbreakers]] honouring their Imperial contracts. Skyreach was meant to be the answer: bridge the chasm, make Darmouth the major southern port, and run new highways straight across the gorge and into the central plains of the continent. Bringing the viaduct down kept that bottleneck firmly shut.
+The Empire's alternative port is [[Val Miriel]], from which supplies can run up-river toward the capital at [[Val Luminor]]. But the Gulf of Miriel is treacherous to enter because of [[The Maw]], leaving the Empire dangerously dependent on the [[Mawbreakers|Mawbreakers]] honouring their Imperial contracts. Skyreach was meant to be the answer: bridge the chasm, make Darmouth the major southern port, and run new highways straight across the gorge and into the central plains of the continent. Bringing the viaduct down kept that bottleneck firmly shut.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 08 - The High Road]]
 
-In the [[The Mawbreakers|Mawbreakers']] headquarters in [[Camaar]], the stolen Imperial package was revealed to contain the schematics for [[Skyreach]] — a massive, secret viaduct being built over the Aeolian Chasm. Captain [[Barak Stormrider]] laid out the plan that would define the chapters to come: use the plans to find the structure's weak points and destroy it, severing the Empire's supply line to the capital and forcing them back through [[The Maw]].
+In the [[Mawbreakers|Mawbreakers']] headquarters in [[Camaar]], the stolen Imperial package was revealed to contain the schematics for [[Skyreach]] — a massive, secret viaduct being built over the Aeolian Chasm. Captain [[Barak Stormrider]] laid out the plan that would define the chapters to come: use the plans to find the structure's weak points and destroy it, severing the Empire's supply line to the capital and forcing them back through [[The Maw]].
 
 #### [[Session 15 - Operation Skyreach]]
 
-After a voyage south aboard [[The Albatross]], the party reached the chasm to find Skyreach was no mere camp but a fortress, its great wall blocking the river. They finalised their plan at the gorge: while the [[The Mawbreakers|Mawbreakers]] launched a loud frontal assault on the labour camp, the party would infiltrate the viaduct to plant explosives and sever the bridge that spanned the Aeolian.
+After a voyage south aboard [[The Albatross]], the party reached the chasm to find Skyreach was no mere camp but a fortress, its great wall blocking the river. They finalised their plan at the gorge: while the [[Mawbreakers|Mawbreakers]] launched a loud frontal assault on the labour camp, the party would infiltrate the viaduct to plant explosives and sever the bridge that spanned the Aeolian.
 
 #### [[Session 16 - The Fall of Skyreach]]
 

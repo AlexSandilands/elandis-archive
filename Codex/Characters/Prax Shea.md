@@ -6,7 +6,7 @@ Gender: Female
 Pronouns: She/Her
 Place: "[[Camaar]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[The Albatross]]"
 Profession: Topman
 Importance: Minor
@@ -16,7 +16,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Prax]
+aliases:
+  - Prax
 ---
 > [!infobox|wikipedia]
 > # Prax Shea
@@ -33,20 +34,20 @@ aliases: [Prax]
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[Camaar]] |
-> Connections | [[The Mawbreakers]]<br>[[The Albatross]] |
+> Connections | [[Mawbreakers]]<br>[[The Albatross]] |
 > Profession | Topman |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Prax Shea** is a half-elf sailor and topman aboard [[The Albatross]], serving with [[The Mawbreakers]] under Captain [[Barak Stormrider]]. Born in [[Camaar]] and raised without family, she found her footing young — first with the [[Veiled Cubs]], then aboard ships — and has spent most of her life aloft in the rigging, watching the horizon for whatever comes next.
+**Prax Shea** is a half-elf sailor and topman aboard [[The Albatross]], serving with the [[Mawbreakers]] under Captain [[Barak Stormrider]]. Born in [[Camaar]] and raised without family, she found her footing young — first with the [[Veiled Cubs]], then aboard ships — and has spent most of her life aloft in the rigging, watching the horizon for whatever comes next.
 
 ## Biography
 
 Prax grew up in [[Camaar]] with no memory of her parents, drifting into the orbit of the [[Veiled Cubs]] in her earliest years. She left the gang at sixteen, trading street-level survival for the open sea, and never looked back. Ship after ship became her home, and the crow's nest became her office — a wiry half-elf with copper hair, sharp eyes, and a sailor's unhurried calm born from years of high winds and long watches.
 
-By the time she signed on with [[The Mawbreakers]], Prax was exactly what any captain wanted in a topman: unflappable at height, quick to spot trouble, and quiet enough that officers forget she's listening.
+By the time she signed on with the [[Mawbreakers]], Prax was exactly what any captain wanted in a topman: unflappable at height, quick to spot trouble, and quiet enough that officers forget she's listening.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

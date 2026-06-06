@@ -9,7 +9,7 @@ Place: "[[Val Noren]]"
 Connections:
   - "[[Kai]]"
   - "[[Barak Stormrider]]"
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
 Profession: Priestess and Orphanage Matron
 Importance: Major
 Status: Alive
@@ -35,7 +35,7 @@ tags:
 > Pronouns | She/Her |
 > Age | Mid-fifties |
 > Place | [[Val Noren]] |
-> Connections | [[Kai]]<br>[[Barak Stormrider]]<br>[[The Mawbreakers]] |
+> Connections | [[Kai]]<br>[[Barak Stormrider]]<br>[[Mawbreakers]] |
 > Profession | Priestess and Orphanage Matron |
 > ###### Status
 > Attribute |  Details |
@@ -70,11 +70,11 @@ Among the enslaved in [[Skyreach]]'s labour camp, [[Kai]] recognised a face he h
 
 #### [[Session 37 - March of the Dead]]
 
-After the gruelling fighting retreat to [[Val Noren]], Lirien was among the allies gathered inside the city's walls when [[The Mawbreakers]] and the party reunited. She accompanied [[Kai]] and [[Ryo]] to Saint Avelines, a chapel that had been converted into a triage centre, where she worked alongside [[Illaris Sharin]] to tend the wounded in the aftermath of the siege.
+After the gruelling fighting retreat to [[Val Noren]], Lirien was among the allies gathered inside the city's walls when the [[Mawbreakers]] and the party reunited. She accompanied [[Kai]] and [[Ryo]] to Saint Avelines, a chapel that had been converted into a triage centre, where she worked alongside [[Illaris Sharin]] to tend the wounded in the aftermath of the siege.
 
 #### [[Session 42 - Liberation of Val Noren]]
 
-In the days following [[Val Noren]]'s liberation, Lirien took quiet charge of [[Barak Stormrider|Barak]]'s recovery, tending his wounds with the same hands that had once bandaged scraped knees and arrow-cuts in the forest. The two grew close during those weeks — a bond that deepened into something unspoken, noticed by the rest of [[The Mawbreakers]] before either of them acknowledged it themselves.
+In the days following [[Val Noren]]'s liberation, Lirien took quiet charge of [[Barak Stormrider|Barak]]'s recovery, tending his wounds with the same hands that had once bandaged scraped knees and arrow-cuts in the forest. The two grew close during those weeks — a bond that deepened into something unspoken, noticed by the rest of the [[Mawbreakers]] before either of them acknowledged it themselves.
 
 ## Trivia
 

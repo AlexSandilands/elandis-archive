@@ -54,14 +54,14 @@ Membership is for life. Operatives stay until death or quiet retirement, both to
 
 The Order keeps Nests in cities across Valtorra. Each operates with near-total local autonomy, knowing little of the others by design.
 
-| City | Status | Key Figures |
-|---|---|---|
-| [[Order of Ravens — Val Miriel\|Val Miriel]] | Active | [[Thaddeus Karr\|Thaddeus "Ravenwing" Karr]] (Nest Father), [[Lia]] |
-| [[Darmouth]] | Active | [[Ella Sable]], [[Uric Graad]] |
-| [[Camaar]] | Active (unvisited) | Sera "Nightshade" Velora, Valerius "Blackclaw" Draven, Leona "Sparrow" Voss |
-| [[Val Aran]] | Active | Unknown |
-| [[Val Solis]] | Active | A hidden refuge and hub for Ravens who must disappear |
-| [[Val Noren]] | Abandoned | — |
+| City                                         | Status    | Key Figures                                                         |
+| -------------------------------------------- | --------- | ------------------------------------------------------------------- |
+| [[Order of Ravens — Val Miriel\|Val Miriel]] | Active    | [[Thaddeus Karr\|Thaddeus "Ravenwing" Karr]] (Nest Father), [[Lia]] |
+| [[Darmouth]]                                 | Active    | [[Ella Sable]], [[Uric Graad]]                                      |
+| [[Camaar]]                                   | Active    | Unknown                                                             |
+| [[Val Aran]]                                 | Active    | Unknown                                                             |
+| [[Val Solis]]                                | Active    | A hidden refuge and hub for Ravens who must disappear               |
+| [[Val Noren]]                                | Abandoned | —                                                                   |
 
 ## Operations
 
@@ -82,9 +82,8 @@ The rise of the Valtorran Empire ended that long detachment. The Hands of the Em
 ## Relations
 
 - **[[The Finegolds]]:** A long-standing working relationship. Finegold caravans serve the Order as a smuggling route and an information network spread across the continent.
-- **[[Veiled Cubs]] (Camaar):** A quiet mutual respect — local, informal, and short of any formal alliance.
-- **[[The Green Gryphons|Green Gryphons]]:** Avoided. The Order steers well clear of them.
-- **Other rebel groups:** No formal alliances. The Order prefers independence and is wary of any entanglement that might expose the network.
+- **[[Veiled Cubs]]:** A quiet mutual respect — local, informal, and short of any formal alliance.
+- **[[Green Gryphons|Green Gryphons]]:** Avoided. The Order steers well clear of them.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

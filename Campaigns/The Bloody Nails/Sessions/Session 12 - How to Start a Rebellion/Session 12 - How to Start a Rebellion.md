@@ -29,7 +29,7 @@ The session opens in the claustrophobic darkness of the cave beneath [[Tumbler's
 
 Upon returning to [[Camaar]], the tension in the city is palpable with increased guard patrols. The group successfully reunites [[Teresa]] with her husband, [[Thane]], who rewards them handsomely with rare potions and an alchemy tome. However, the celebration is short-lived. At the inn, [[Kai]] receives a covert letter from [[The Finegolds]], warning of a "Lady in a deep black cloak" before they fled town. The danger manifests later that night when the party is jolted awake by the *Dagger of Warning*, catching black-clad assassins in their rooms who immediately flee into the night.
 
-Compromised and hunted, the party retreats through the pre-dawn shadows to [[The Mawbreakers]] compound at the docks. There, [[Barak Stormrider]] introduces them to the engineer [[Gromdal]] and reveals their endgame: the destruction of [[Skyreach]]. In a secret war room, the party studies blueprints of the massive imperial supply line. They are tasked with a complex demolition mission involving stealth, climbing gear, and carefully placed gunpowder kegs to bring the colossus down before winter arrives.
+Compromised and hunted, the party retreats through the pre-dawn shadows to the [[Mawbreakers]] compound at the docks. There, [[Barak Stormrider]] introduces them to the engineer [[Gromdal]] and reveals their endgame: the destruction of [[Skyreach]]. In a secret war room, the party studies blueprints of the massive imperial supply line. They are tasked with a complex demolition mission involving stealth, climbing gear, and carefully placed gunpowder kegs to bring the colossus down before winter arrives.
 
 ## Details
 
@@ -62,7 +62,7 @@ Compromised and hunted, the party retreats through the pre-dawn shadows to [[The
 * **The Letter:** At the inn, [[Mistress Serin]] gives [[Kai]] a sealed letter left by [[The Finegolds]]. It reveals they fled town abruptly and warns of a dangerous woman in a black cloak.
 * **Nightmare & Ambush:** During the long rest, [[Kai]] has a vision of a moon goddess that turns into a warning. Simultaneously, [[Eryndor]]'s *Dagger of Warning* wakes the party.
 * **Assassins:** Black-hooded figures are discovered in the party's rooms. Realising the element of surprise is lost, the assassins dive out the windows and escape despite [[Kai]]'s attempt to cast *Sleep* and [[Dondar]]'s *Firebolt*.
-* **Relocation:** Realising their location is compromised, the party packs up immediately and sneaks through the city to [[The Mawbreakers]] compound.
+* **Relocation:** Realising their location is compromised, the party packs up immediately and sneaks through the city to the [[Mawbreakers]] compound.
 
 ### Operation Skyreach
 
@@ -73,6 +73,6 @@ Compromised and hunted, the party retreats through the pre-dawn shadows to [[The
     2.  **East Pillar:** Hollow with internal stairs.
     3.  **Central Pillar:** Solid stone in the river; must be destroyed from *underneath*.
 * **The Plan:**
-    * [[The Mawbreakers]] have stockpiled gunpowder kegs. It requires three kegs per weak point.
+    * The [[Mawbreakers]] have stockpiled gunpowder kegs. It requires three kegs per weak point.
     * **Logistics:** The party brainstorms how to affix kegs to the underside of the central pillar (Plan: use the *Rope of Climbing* to create a hold, or [[Kai]] using Spider Climb to transport kegs).
-    * **Tactics:** They discuss a split assault: [[The Mawbreakers]] create a distraction/assault the prison camps to free slaves, while the party infiltrates the bridge to plant charges.
+    * **Tactics:** They discuss a split assault: the [[Mawbreakers]] create a distraction/assault the prison camps to free slaves, while the party infiltrates the bridge to plant charges.

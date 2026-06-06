@@ -7,7 +7,7 @@ Pronouns: She/Her
 Age: ~40
 Place: "[[Camaar]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[Barak Stormrider]]"
 Profession: First Mate
 Importance: Minor
@@ -34,14 +34,14 @@ tags:
 > Pronouns | She/Her |
 > Age | ~40 |
 > Place | [[Camaar]] |
-> Connections | [[The Mawbreakers]]<br>[[Barak Stormrider]] |
+> Connections | [[Mawbreakers]]<br>[[Barak Stormrider]] |
 > Profession | First Mate |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Ari** is a half-orc first mate aboard [[The Albatross]] and the most trusted officer of [[The Mawbreakers]]' captain, [[Barak Stormrider]]. She came up through the streets of [[Camaar]] as an orphan, found a foothold with the [[Veiled Cubs]], and eventually took to the sea — where a friendship with Barak's son **Baran** would set the course of everything that followed.
+**Ari** is a half-orc first mate aboard [[The Albatross]] and the most trusted officer of the [[Mawbreakers]]' captain, [[Barak Stormrider]]. She came up through the streets of [[Camaar]] as an orphan, found a foothold with the [[Veiled Cubs]], and eventually took to the sea — where a friendship with Barak's son **Baran** would set the course of everything that followed.
 
 ## Biography
 

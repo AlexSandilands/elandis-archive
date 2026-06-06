@@ -108,7 +108,7 @@ From a concealed balcony, the party observed a meeting between Blackmarsh, Korva
 
 #### [[Session 44 - The Elven Archmage]]
 
-Following the liberation of [[Val Noren]], the party departed with [[The Mawbreakers]] with the explicit intention of hunting Korvas down — his fate unresolved, his whereabouts unknown.
+Following the liberation of [[Val Noren]], the party departed with the [[Mawbreakers]] with the explicit intention of hunting Korvas down — his fate unresolved, his whereabouts unknown.
 
 #### [[Session 49 - The Silver Sage]]
 

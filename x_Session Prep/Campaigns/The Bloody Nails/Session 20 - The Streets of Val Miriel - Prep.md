@@ -70,7 +70,7 @@ tags:
 - Explored the City, did some shopping
 	- Fine weapons store in the Artisan Way
 	- "The Coal" on the military way
-- [[The Green Gryphons]] guild
+- [[Green Gryphons]] guild
 	- Met [[Porta Hale]]
 	- Picked up a job to investigate a gold mine
 	- Meeting being arranged with the owner [[Norak Vara]]

@@ -6,7 +6,7 @@ Gender: Female
 Pronouns: She/Her
 Place: "[[The Albatross]]"
 Connections:
-  - "[[The Mawbreakers]]"
+  - "[[Mawbreakers]]"
   - "[[Selûne]]"
 Profession: Ship's Surgeon
 Importance: Minor
@@ -34,20 +34,20 @@ aliases:
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[The Albatross]] |
-> Connections | [[The Mawbreakers]]<br>[[Selûne]] |
+> Connections | [[Mawbreakers]]<br>[[Selûne]] |
 > Profession | Ship's Surgeon |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Illaris Sharin** is the drow surgeon aboard [[The Albatross]], the flagship of [[The Mawbreakers]]. A quiet exile from the Underdark, she found in the open sea everything she had been denied beneath it — movement, sky, and a crew that asks no questions about the life left behind.
+**Illaris Sharin** is the drow surgeon aboard [[The Albatross]], the flagship of the [[Mawbreakers]]. A quiet exile from the Underdark, she found in the open sea everything she had been denied beneath it — movement, sky, and a crew that asks no questions about the life left behind.
 
 ## Biography
 
 Illaris was born in a drow settlement deep beneath the Silver Mountains, raised within a tribe devoted to Lolth. She grew increasingly uneasy with the tribe's religious fervour — a discomfort that reached a breaking point when the community began offering sacrifices to an unknown creature that had taken up residence nearby. When she began speaking out against the practice and realised her dissent had made her a potential victim, she made the dangerous choice to leave, travelling alone through the Underdark until she surfaced. She never learned what the creature was.
 
-On the surface, Illaris slowly carved out a new life. She joined [[The Mawbreakers]] because they offered something rare: acceptance without interrogation, a ship full of people who had also shed their pasts. Life below the main deck suits her well — the ship's hold keeps the harshest sunlight at bay — and she has found unexpected peace in the rhythm of ocean travel, the stillness of night watches, and the calming sound of her lute on a calm sea. She became the crew's surgeon in that same pragmatic fashion: she had the hands for it, the knowledge, and the care. In her quieter moments she has come to venerate [[Selûne]], drawn to the goddess's association with the night sky that has replaced the cave roof she once knew.
+On the surface, Illaris slowly carved out a new life. She joined the [[Mawbreakers]] because they offered something rare: acceptance without interrogation, a ship full of people who had also shed their pasts. Life below the main deck suits her well — the ship's hold keeps the harshest sunlight at bay — and she has found unexpected peace in the rhythm of ocean travel, the stillness of night watches, and the calming sound of her lute on a calm sea. She became the crew's surgeon in that same pragmatic fashion: she had the hands for it, the knowledge, and the care. In her quieter moments she has come to venerate [[Selûne]], drawn to the goddess's association with the night sky that has replaced the cave roof she once knew.
 
 ![[Illaris_Sharin_2_small.webp]]
 

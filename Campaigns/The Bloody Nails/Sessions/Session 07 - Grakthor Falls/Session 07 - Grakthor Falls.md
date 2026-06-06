@@ -59,7 +59,7 @@ The session concludes at [[The Finegolds]]' merchant camp. The party reunites [[
 * The party exited the caves, bypassing the pit trap that had caught them previously.
 * They returned to [[The Finegolds]]' campsite near the river.
 * **The Goblin Reunion:** [[Ellie the Goblin]] was reunited with [[Lenny the Goblin]] (the previous prisoner). The party honoured their deal, releasing both goblins with a warning to never return to the high road.
-* **Next Steps:** [[Gemma Finegold|Gemma]] agreed to return to [[Darmouth]] to hand in the [[The Green Gryphons]] contract on the party's behalf, allowing the group to bypass the city and head toward [[Camaar]].
+* **Next Steps:** [[Gemma Finegold|Gemma]] agreed to return to [[Darmouth]] to hand in the [[Green Gryphons]] contract on the party's behalf, allowing the group to bypass the city and head toward [[Camaar]].
 
 ### Loot and Rewards
 

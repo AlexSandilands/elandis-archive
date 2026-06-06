@@ -14,7 +14,7 @@ tags:
 - [x] **Logistics:** Gemma splits off (Secret Rogue meeting).
 - [x] **Location:** [[The Seafarer's Rest]] (Meet [[Eliza Farthington]]).
 - [ ] **Roleplay:** [[Gemma Finegold|Gemma]] reveals she knows about the shipwreck.
-- [x] **Quest Hook:** The Goblin Job ([[The Green Gryphons]]).
+- [x] **Quest Hook:** The Goblin Job ([[Green Gryphons]]).
 - [x] **Event:** The Eye ([[Seraphina]] sighting).
 - [x] **Event:** Guards in the Alley ([[Ella Sable]] & [[Uric Graad]]).
 
@@ -59,7 +59,7 @@ tags:
 ### Logistics
 - Merchants are heading to [[The Seafarer's Rest]].
 - [[Gemma Finegold|Gemma]] warns the group to be careful; guards are cracking down hard, even taking innocent people.
-- She points out [[The Green Gryphons]] (Mercenary Guild).
+- She points out the [[Green Gryphons]] (Mercenary Guild).
 - **Gemma's Split:** She says she needs to swing by the docks to "catch up with a friend" and exchange merchant info. She will meet up later at the tavern.
 	- *DM Note:* She is actually confirming with the **Rogue Guild** that the [[Skyreach]] plan is going ahead.
 
@@ -81,7 +81,7 @@ tags:
 
 ## Quest: The Goblin Problem
 
-- [[Gemma Finegold|Gemma]] suggests they swing by [[The Green Gryphons]] to ask about the Goblin job.
+- [[Gemma Finegold|Gemma]] suggests they swing by the [[Green Gryphons]] to ask about the Goblin job.
 - **Context:** No one has been able to track down the Goblin clan; they always fight to the death or escape.
 - **Objective:** Find the cave, clear it out, kill the leader, bring back evidence.
 - **Reward:** 100g per person + potential induction into the Guild.

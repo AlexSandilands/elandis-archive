@@ -47,7 +47,7 @@ The trail leads them north to the mining town of [[Faelon]], arriving as the sun
     * **Blue Potion:** A volatile concoction that increases Intelligence but damages the user upon consumption.
 
 ### Arrival in Faelon
-* **Travel:** Knowing the [[The Mawbreakers|Mawbreakers]] won't be ready to sail for a few days, the party hikes half a day toward the mountains, arriving at the mining town of [[Faelon]] at dusk.
+* **Travel:** Knowing the [[Mawbreakers|Mawbreakers]] won't be ready to sail for a few days, the party hikes half a day toward the mountains, arriving at the mining town of [[Faelon]] at dusk.
 * **Rumors:** While eating at the local inn, the group overhears an old man telling a story about a ghost girl.
 * **Investigation:** [[Vaeleran]] questions the man, learning the ghost has a living sister named [[Tara]].
 

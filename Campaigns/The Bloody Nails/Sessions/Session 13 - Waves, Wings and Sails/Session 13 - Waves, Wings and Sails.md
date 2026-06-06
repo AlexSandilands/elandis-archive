@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-The session began with the party finalising their preparations in [[Camaar]], gathering supplies and coordinating with [[Barak Stormrider]] and the [[The Mawbreakers]] before setting sail. Aboard the flagship [[The Albatross|Albatross]], the group embarked on their journey toward [[Skyreach]]. The voyage immediately tested their mettle as they navigated [[The Maw]], a treacherous whirlpool blocking the exit of the [[Gulf of Miriel]]. Through expert steering by Barak and a clutch *Misty Step* from [[Dondar]] to save a slipping [[Ryo]], the ship slingshotted through the hazard unscathed.
+The session began with the party finalising their preparations in [[Camaar]], gathering supplies and coordinating with [[Barak Stormrider]] and the [[Mawbreakers]] before setting sail. Aboard the flagship [[The Albatross|Albatross]], the group embarked on their journey toward [[Skyreach]]. The voyage immediately tested their mettle as they navigated [[The Maw]], a treacherous whirlpool blocking the exit of the [[Gulf of Miriel]]. Through expert steering by Barak and a clutch *Misty Step* from [[Dondar]] to save a slipping [[Ryo]], the ship slingshotted through the hazard unscathed.
 
 As the journey continued, a dense fog descended, concealing a deadly ambush by a flock of harpies. Their enchanting songs threw the defence into chaos, charming [[Vaeleran]] and [[Eryndor]] and luring them toward the water. Vaeleran was dragged overboard by a grappler, while Eryndor willingly dove in after the "beautiful" creatures. The party rallied with [[Kai]]'s guidance, [[Ryo]]'s archery, and the crew's crossbow support to slay the beasts and haul their wet, heavy-armoured companions back to the deck.
 

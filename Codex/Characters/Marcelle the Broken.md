@@ -57,7 +57,7 @@ She carried herself with the particular stillness of someone who had learned tha
 
 #### [[Session 36 - General Korvas]]
 
-When [[Dread General Gerard Blackmarsh]] confronted the party in the occupied streets of [[Val Noren]] and used a crushed purple jewel to restore [[General Korvas|Korvas's]] suppressed loyalties, he departed immediately — leaving Korvas and Marcelle to destroy the party. She proved a capable and aggressive combatant, using *Arcane Burst* and teleportation to harry the group from multiple angles. When [[Barak Stormrider]] of [[The Mawbreakers]] interrupted the battle, Marcelle seized the tactical opening: she grabbed Korvas and opened a spatial rift, pulling them both clear before the rebels could consolidate.
+When [[Dread General Gerard Blackmarsh]] confronted the party in the occupied streets of [[Val Noren]] and used a crushed purple jewel to restore [[General Korvas|Korvas's]] suppressed loyalties, he departed immediately — leaving Korvas and Marcelle to destroy the party. She proved a capable and aggressive combatant, using *Arcane Burst* and teleportation to harry the group from multiple angles. When [[Barak Stormrider]] of the [[Mawbreakers]] interrupted the battle, Marcelle seized the tactical opening: she grabbed Korvas and opened a spatial rift, pulling them both clear before the rebels could consolidate.
 
 #### [[Session 40 - General Blackmarsh]]
 

@@ -7,7 +7,7 @@ Pronouns: She/Her
 Age: Late 20s
 Place: "[[Val Miriel]]"
 Connections:
-  - "[[The Green Gryphons]]"
+  - "[[Green Gryphons]]"
 Profession: Guild Member
 Importance: Minor
 Status: Alive
@@ -16,7 +16,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [T]
+aliases:
+  - T
 ---
 > [!infobox|wikipedia]
 > # Teresa Martari
@@ -34,14 +35,14 @@ aliases: [T]
 > Pronouns | She/Her |
 > Age | Late 20s |
 > Place | [[Val Miriel]] |
-> Connections | [[The Green Gryphons]] |
+> Connections | [[Green Gryphons]] |
 > Profession | Guild Member |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Teresa Martari** is a purple-skinned Tiefling member of [[The Green Gryphons]] guild in [[Val Miriel]], known among her colleagues by the single initial *T*. Tough, direct, and unbothered by the greatsword she wears everywhere she goes, she is not the sort of person who warns you twice.
+**Teresa Martari** is a purple-skinned Tiefling member of the [[Green Gryphons]] guild in [[Val Miriel]], known among her colleagues by the single initial *T*. Tough, direct, and unbothered by the greatsword she wears everywhere she goes, she is not the sort of person who warns you twice.
 
 ## Biography
 
