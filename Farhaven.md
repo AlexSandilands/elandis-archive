@@ -1,89 +1,109 @@
-## The Sea’s Bounty Market
+A mid-sized coastal trading city on the western shore of the [[Gulf of Miriel]], administered as an extension of [[Val Miriel]] and held under a permanent Imperial garrison. The party passed through its outskirts in Sessions 17–18 but never entered the city itself.
 
-A bustling open-air market located near the eastern docks. Stalls overflow with fresh seafood, exotic spices, and local crafts.
+## Established
 
-Key NPCs:
+- Built on a wide peninsula jutting east into the gulf, with no walls — building density marks the border (Session 18 prep)
+- Three docks: Northern, Eastern, Southern; the main north-south road runs along the peninsula's base, with an east-west road crossing through the city to the Eastern Dock (Session 18 prep + map)
+- Western mainland side is farmland — crops, pastures, scattered farmhouses (Session 18 prep)
+- ~100 miles from [[Camaar]], roughly 4 days on foot (Session 17 prep)
+- [[Ancient Woods]] lie to the northeast, accessible via a stone obelisk on the coast road (Session 18)
+- Part of the [[Gulf of Miriel]] strategic trade network — one of four major gulf cities (Gulf of Miriel codex entry)
 
-- Marina Silverfin: A middle-aged fishmonger with a hearty laugh and an eye for the freshest catch. She knows all the best fishing spots and can provide tips for ocean adventures.
-- Elara Stormwind: A spice merchant from distant lands, her stall is a riot of colors and scents. She loves to barter and often has rare herbs that can be used in potions or cooking.
+## Geography
 
-## Driftwood Tavern
+The city sits on a broad peninsula, open to the sea on three sides. There are no defensive walls; Farhaven has grown organically outward from its docks, and the density of buildings along the landward edge serves as the city's de facto border. The main road from the north approaches from the west, passes the junction at the city's edge, and continues south. A second road branches east through the city to the Eastern Dock.
 
-A cozy, dimly lit tavern built from driftwood and salvaged ship parts. It’s a favorite haunt for sailors and adventurers looking to share stories and drink away their woes.
+The western approach is agricultural — fields, pastures, and isolated farmhouses scattered along the roadside before the buildings thicken.
 
-Key NPCs:
+## Character
 
-- Captain Lyle Bracken: The grizzled, one-eyed owner of the tavern, a retired pirate with a thousand tales. He’s quick with a joke and slow to trust.
-- Sophie Riptide: A young, energetic barmaid who dreams of sailing the seas. She’s always eager to hear about adventures and knows every rumor that passes through the tavern.
+Farhaven is a working port: mercantile, loud, and a little rough. Its economy runs on the gulf trade — fish, cargo, and the movement of people between the gulf cities. It has the texture of a town that has always been someone else's concern, first the gulf merchants and now the Empire.
 
-## The Coral Emporium
+## Governance
 
-A quaint shop filled with curiosities from the sea. Shelves are lined with shimmering shells, intricate coral pieces, and mysterious trinkets.
+Farhaven is administered as an Imperial extension of Val Miriel. A permanent garrison maintains order, commanded by an Imperial officer who holds effective authority over all legal and military matters in the city. A Mayor nominally governs civilian affairs but defers to the garrison commander in practice. The garrison is not large — Farhaven is not a strategic prize — but it is permanent and its presence is felt.
 
-Key NPCs:
+## In the Campaign
 
-- Oceana Waverunner: A soft-spoken, elderly woman with a deep connection to the ocean. She claims to be able to communicate with sea creatures and often sells magical items related to water.
-- Kai Reefwalker: Oceana’s grandson, a skilled diver who supplies the shop with its wares. He’s adventurous and always willing to guide people to underwater treasures.
+The party arrived at Farhaven's outskirts at midday during Session 18. At the road junction, Imperial soldiers were in the process of hanging Juliana alongside two already-dead prisoners, with signs charging them with rabble-rousing, conspiring for treason, and attacking Imperial soldiers. The party intervened. A farmhouse nearby bore a large black Nail symbol painted on the exterior — one of the earliest signs of open rebellion activity the party encountered.
 
-## Farhaven Armory
+Juliana later survived and established Juliana's Textiles somewhere in the city (Session 22).
 
-A robust blacksmith shop where weapons and armor are forged and repaired. The constant clang of hammers and hiss of steam fills the air.
+## Restricted
 
-Key NPCs:
+### Imperial Garrison
 
-- Garrick Ironbeard: A burly dwarf with a thick beard and a reputation for crafting the finest blades. He’s gruff but fair, and his work is respected throughout Farhaven.
-- Lira Frostforge: Garrick’s apprentice, a young half-elf with a talent for enchanting weapons. She’s shy but passionate about her craft.
+The garrison operates out of a permanent barracks, likely near the Eastern Dock or the main crossroads. Its commander holds the real authority in Farhaven — the Mayor is a civilian figurehead. The garrison is understaffed relative to Val Miriel standards and the commander knows it; he enforces Imperial law visibly and harshly to compensate (the public executions at the junction are characteristic, not exceptional).
 
-## The Siren’s Song
+The commander is unnamed — to be developed when relevant.
 
-An elegant inn and boarding house overlooking the Northern docks. It offers luxurious accommodations and stunning sea views.
+### The Mayor
 
-Key NPCs:
+A civilian administrator who handles taxation, trade permits, and civil disputes — within the limits the Imperial commander allows. Almost certainly a pragmatist who has made peace with Imperial rule. Whether that peace is genuine or resentful is open. The Mayor is unnamed — to be developed if the party ever enters the city.
 
-- Lady Evelina Moonshadow: The sophisticated owner of the inn, known for her impeccable taste and mysterious past. She has connections with many influential people and can be a valuable ally.
-- Felix Seabreeze: The charming, attentive head butler who ensures guests have everything they need. He’s incredibly resourceful and discreet.
+### Locations
 
-## Mystic Tides Apothecary
+All ten locations below are from the original Farhaven.md stub, with their spatial positions confirmed by the city map. Use them as DM reference; they are not published on the public entry since the party has never entered.
 
-A small, aromatic shop filled with herbs, potions, and remedies. It’s the go-to place for adventurers seeking healing or magical supplies.
+The Green Gryphon Guildhall sits at the central crossroads — the junction of the main north-south road and the east-west road — a prominent and deliberate position. Like other chapters, it serves as the public face of the [[Green Gryphon]] trading guild.
 
-Key NPCs:
+Driftwood Tavern sits south-center, near the Southern Dock end. The Green Gryphon Guildhall is center. Navigator's Guildhall is center. Coral Emporium and Eversun Boutique are on the western side near the main road. Farhaven Armory, Mystic Tides Apothecary, and Siren's Song are in the northern half. Pearl of the Sea Library is northeast near the Eastern Dock. Sea Bounties Market is east, adjacent to the Eastern Dock. Whaleheart Shipyard is southeast near the Southern Dock.
 
-- Nerida Selkie: A half-elf healer with an ethereal presence. She has extensive knowledge of both conventional and magical medicine and is known for her gentle nature.
-- Thorne Saltshadow: Nerida’s enigmatic assistant, a former pirate with a shadowy past. He’s skilled in brewing potions and has a talent for finding rare ingredients.
+#### Sea Bounties Market
+Bustling open-air market near the Eastern Dock. Fresh seafood, exotic spices, local crafts.
+- Marina Silverfin — fishmonger, knows all the best fishing spots and local ocean lore
+- Elara Stormwind — spice merchant from distant lands; loves to barter, often stocks rare herbs useful for potions
 
-## Navigator’s Guildhall
+#### Driftwood Tavern
+Cozy, dimly lit tavern built from driftwood and salvaged ship parts. A haunt for sailors and adventurers.
+- Captain Lyle Bracken — grizzled, one-eyed retired pirate who owns the place; quick with a joke, slow to trust
+- Sophie Riptide — young energetic barmaid who dreams of sailing; knows every rumor that passes through
 
-A large building near the center of Farhaven where maps and charts are meticulously maintained and sold. It’s a hub for those seeking guidance on their travels.
+#### Coral Emporium
+Quaint shop of sea curiosities — shimmering shells, coral pieces, mysterious trinkets, and minor magical items connected to water.
+- Oceana Waverunner — elderly, soft-spoken; claims to communicate with sea creatures
+- Kai Reefwalker — Oceana's grandson, a skilled diver who supplies the shop; adventurous, willing to guide underwater
 
-Key NPCs:
+#### Farhaven Armory
+Weapons and armor, forged and repaired. Constant hammering.
+- Garrick Ironbeard — burly dwarf with a reputation for the finest blades in Farhaven; gruff but fair
+- Lira Frostforge — Garrick's half-elf apprentice, shy but gifted at enchanting weapons
 
-- Master Cartographer Finn Tidescar: An elderly man with sharp eyes and steady hands, he’s renowned for his detailed and accurate maps. He’s always eager to hear tales from travelers to update his charts.
-- Cordelia Starmap: A young, enthusiastic apprentice who dreams of exploring the world. She’s excellent at interpreting maps and celestial navigation.
+#### Siren's Song
+Elegant inn and boarding house overlooking the Northern Dock. Luxurious, sea-view rooms.
+- Lady Evelina Moonshadow — sophisticated owner with a mysterious past and connections among the influential
+- Felix Seabreeze — charming, discreet head butler
 
-## Eversun Boutique
+#### Mystic Tides Apothecary
+Aromatic shop stocked with herbs, potions, and remedies.
+- Nerida Selkie — half-elf healer, ethereal presence, knowledgeable in both conventional and magical medicine
+- Thorne Saltshadow — enigmatic assistant, former pirate; skilled brewer with a talent for sourcing rare ingredients
 
-A fashionable shop that sells clothing and accessories, catering to both locals and visitors. The fabrics and styles are inspired by the sea and coastal life.
+#### Navigator's Guildhall
+Maps, charts, and navigation services. Hub for travellers seeking guidance.
+- Master Cartographer Finn Tidescar — elderly, sharp-eyed; renowned for accuracy; always eager for traveller reports to update his charts
+- Cordelia Starmap — young enthusiastic apprentice, excellent at celestial navigation and map interpretation
 
-Key NPCs:
+#### Eversun Boutique
+Clothing and accessories inspired by coastal and maritime styles.
+- Isabella Wavecrest — flamboyant designer; loves gossip and unique commissions
+- Rafael Tidewalker — quiet, talented tailor specialising in durable adventurer's clothing
 
-- Isabella Wavecrest: A flamboyant designer and tailor with an eye for detail. She loves to create unique outfits and enjoys gossiping with her customers.
-- Rafael Tidewalker: Isabella’s quiet but talented assistant, a skilled tailor who specializes in creating durable but stylish clothes for adventurers.
+#### Whaleheart Shipyard
+Sprawling vessel construction and repair yard along the southeastern shore.
+- Captain Marlow Anchorwind — gruff, retired naval officer running a tight operation; deep knowledge of ships and sea
+- Ella Driftwood — young enthusiastic shipwright, always chasing innovative designs
 
-## Whale’s Heart Shipyard
+#### Pearl of the Sea Library
+Serene library near the cliffs overlooking the gulf. Maritime history, navigation, ancient lore.
+- Librarian Cora Seacrest — elderly, encyclopaedic knowledge of the collection; eager to help researchers
+- Talon Wavewalker — young scholar assistant; specialises in ancient maritime legends
 
-A sprawling shipyard where vessels are built, repaired, and maintained. It’s a hive of activity with the constant sound of hammers and saws.
+#### Green Gryphon Guildhall (Farhaven Chapter)
+Located at the central crossroads — the most prominent intersection in the city. The [[Green Gryphon]]'s Farhaven chapter follows the guild's standard structure. Its position at the crossroads is characteristic of the guild's preference for visibility and access to trade traffic.
 
-Key NPCs:
+### Plot Hooks
 
-- Captain Marlow Anchorwind: The gruff, no-nonsense foreman of the shipyard, a retired naval officer who runs a tight ship. He has a wealth of knowledge about ships and the sea.
-- Ella Driftwood: A young, energetic shipwright who is passionate about building fast and durable ships. She’s always looking for innovative designs and techniques.
-
-## Pearl of the Sea Library
-
-A serene library located near the cliffs overlooking the sea. It’s a quiet place filled with books on maritime history, navigation, and ancient lore.
-
-Key NPCs:
-
-- Librarian Cora Seacrest: An elderly woman with a vast knowledge of the library’s contents. She’s always eager to help researchers and adventurers find the information they need.
-- Talon Wavewalker: A young, eager scholar who assists Cora. He’s particularly interested in ancient maritime legends and is always on the lookout for new stories and artifacts.
+- The farmhouse with the Nail symbol on the western road: who lives there now, and do they know their home is a landmark? It could be a safe house, an abandoned property, or a family trying to quietly distance themselves from whoever painted it.
+- Juliana's Textiles: Juliana survived the gallows and is running a shop in the city that tried to kill her. That takes a particular kind of nerve or desperation — or cover.
+- The garrison commander enforces harshly. If the party ever arrives in Farhaven openly, their reputation from the junction incident (rescuing a condemned prisoner) will precede them.

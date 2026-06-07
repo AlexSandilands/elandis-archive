@@ -96,8 +96,8 @@ oFael
 ## ✅ Day 4 — Fri 29 May (2h) · CITIES III + RESTRICTED
 
 - [x] Camaar
-- [ ] Farhaven
-- [ ] Ithilmara *(elven capital — short but has content)*
+- [x] Farhaven
+- [x] Ithilmara *(elven capital — short but has content)*
 - [x] Arkangel *(flying city — has `RESTRICTED CODEX ONLY` content → create companion doc)*
 
 ---
@@ -106,9 +106,8 @@ oFael
 *All empty — research synopses, generate, fill gaps with your notes.*
 
 - [x] Caer Nystral
-- [ ] Glimmerforge
-- [ ] Silverdeep
-- [ ] Silverforge
+- [x] Glimmerforge
+- [x] Silverdeep
 - [ ] Skyreach
 - [ ] Val Aerie
 - [ ] Val Aran

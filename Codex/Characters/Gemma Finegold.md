@@ -45,7 +45,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Gemma Finegold** is the leader of [[The Finegolds]], a respected independent merchant company operating across [[Valtorra]]. Sharp-minded and quietly driven, she spent years as the true engine of the business while her father [[Harland Finegold]] served as its public face — managing the books, overseeing logistics, and devising strategy from behind the scenes. When Harland was murdered by an Imperial assassin in the [[Farhaven Forest]], she assumed command without hesitation. The grief was real. So was the resolve.
+**Gemma Finegold** is the leader of [[The Finegolds]], a respected independent merchant company operating across [[Valtorra]]. Sharp-minded and quietly driven, she spent years as the true engine of the business while her father [[Harland Finegold]] served as its public face — managing the books, overseeing logistics, and devising strategy from behind the scenes. When Harland was murdered by an Imperial assassin in the [[Ancient Woods]], she assumed command without hesitation. The grief was real. So was the resolve.
 
 Her path crossed with [[The Bloody Nails]] on the road to [[Darmouth]], where she found them stranded and vulnerable after a shipwreck. The meeting appeared accidental. In hindsight, it was anything but — the ragged group she took under her wing as hired guards were the same prisoners who had escaped the ship bound for [[Skyreach]], the very Imperial project she had been tasked to undermine.
 
@@ -82,7 +82,7 @@ In recent years, Gemma made a name for herself within [[The Finegolds]]. While h
 Her first major assignment for Barak took her south to [[Darmouth]], where she was to retrieve [[Skyreach]] blueprints held by the [[Order of Ravens]]. En route, she encountered [[The Bloody Nails]] — recently escaped from Imperial captivity following a shipwreck on the Valtorran coast. Recognising both their plight and their potential, she folded them into the caravan as hired guards, a decision that proved pivotal when their knowledge of [[Skyreach]] dovetailed with her own mission.
 
 
-The cost of that mission came later. A trap laid by the Imperial assassin [[Seraphina]] drew both Gemma and [[The Bloody Nails]] into the [[Farhaven Forest]], where [[Harland Finegold|Harland]] was murdered and the rest of [[The Finegolds]] taken captive. The party arrived in time to fight off Seraphina and free the survivors, but not in time to save her father. Gemma buried him in the ruins of Farhaven and resumed her work the following morning — not because she had processed the grief, but because she refused to let it stop her.
+The cost of that mission came later. A trap laid by the Imperial assassin [[Seraphina]] drew both Gemma and [[The Bloody Nails]] into the [[Ancient Woods|Farhaven Forest]], where [[Harland Finegold|Harland]] was murdered and the rest of [[The Finegolds]] taken captive. The party arrived in time to fight off Seraphina and free the survivors, but not in time to save her father. Gemma buried him in the ruins of Farhaven and resumed her work the following morning — not because she had processed the grief, but because she refused to let it stop her.
 
 She leads [[The Finegolds]] now. Quietly, competently, and with the same sharp eye her father spent years cultivating in her. She continues to operate as an intelligence asset for the anti-Imperial network, passing information between cells and leveraging her merchant cover to move where soldiers cannot.
 
@@ -122,7 +122,7 @@ After a brutal fight in [[Camaar]], the party retreated to [[The Lion]] inn. Gem
 
 #### [[Session 19 - Blood and Sorrow]]
 
-Tragedy struck in the [[Farhaven Forest]], where the party discovered the crude grave of [[Harland Finegold]] — his throat slashed. Tracking deeper into the ruins, they found Gemma and the rest of [[The Finegolds]] held captive by the assassin [[Seraphina]]. After a fierce battle, Seraphina was slain. Gemma, shaken but composed, revealed that the assassin had forced [[Lilliana Featherfoot]] to lure the party into the ambush. Harland was given a proper burial, and Gemma quietly asked [[Vaeleran]] to use his contacts to investigate the name "Corvas."
+Tragedy struck in the [[Ancient Woods]], where the party discovered the crude grave of [[Harland Finegold]] — his throat slashed. Tracking deeper into the ruins, they found Gemma and the rest of [[The Finegolds]] held captive by the assassin [[Seraphina]]. After a fierce battle, Seraphina was slain. Gemma, shaken but composed, revealed that the assassin had forced [[Lilliana Featherfoot]] to lure the party into the ambush. Harland was given a proper burial, and Gemma quietly asked [[Vaeleran]] to use his contacts to investigate the name "Corvas."
 
 #### [[Session 20 - The Streets of Val Miriel]]
 
