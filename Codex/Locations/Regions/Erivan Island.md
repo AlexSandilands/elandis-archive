@@ -1,11 +1,3 @@
-```
-[STYLE]: Fantasy RPG landscape. Bold painterly strokes, visible brushwork, digital painting aesthetic. Rich dramatic colour palette. NOT photorealistic — stylized like official D&D 5e module artwork.
-[SUBJECT]: A sweeping coastline of an abandoned elven island — elegant white stone buildings half-consumed by dense forest and cascading vines, crumbling docks jutting into still water, grey mountain ridges rising through thick canopy in the background. Ancient, intact architecture glimpsed through heavy overgrowth, nature pressing in from every direction.
-[MOOD]: Hauntingly beautiful, ancient, abandoned — a civilisation frozen mid-breath, left perfectly intact but utterly empty
-[LIGHTING]: Pale overcast southern light, silver-white and flat, broken by shafts of cool sunlight filtering through the tree canopy onto pale stone; mist hanging low over the water in the foreground
-[FORMAT]: 16:9 cinematic landscape
-```
-
 ---
 Type: Region
 Continent: "[[Valtorra]]"
@@ -33,11 +25,11 @@ tags:
 > ---|---|
 > Status | Lost |
 
-Erivan Island is the ancestral homeland of [[The Valtorran Elves|the Valtorran Elves]], rising from the Erivan Strait off [[Valtorra]]'s southern coast. A century ago its people departed through [[Ithilmara]]'s World Gate, sealed their cities behind wards lethal to any non-elf, and withdrew into the [[Faewild]] — leaving a land wholly intact but entirely empty, slowly returning to wilderness.
+Erivan Island is the ancestral homeland of [[The Valtorran Elves|the Valtorran Elves]], rising from the Erivan Strait off [[Valtorra]]'s southern coast. A century ago its people departed through [[Ithilmara]]'s [[World Gates|World Gate]], sealed their cities behind wards lethal to any non-elf, and withdrew into the [[Faewild]] — leaving a land wholly intact but entirely empty, slowly returning to wilderness.
 
 ## Geography & Landscape
 
-The island lies across the Erivan Strait from the Valtorra mainland. It is a forested, mountainous place — ridges of grey stone running through the interior, densely wooded slopes descending to sheltered inlets and rocky coastlines. The most accessible approach is from the east, where [[Ithilmara]]'s docks face the Strait directly; the south narrows into a natural inlet whose mouth is commanded by the [[Towers of Mithrondal]]. [[Galathilion]] occupies the island's western reaches.
+The island lies across the Erivan Strait from the Valtorra mainland. It is a forested, mountainous place — ridges of grey stone running through the interior, densely wooded slopes descending to sheltered inlets and rocky coastlines. A great natural inlet cuts in from the southern coast, its mouth commanded by the [[Towers of Mithrondal]] and its waters navigable all the way to [[Ithilmara]]'s docks deep within the island. [[Galathilion]] occupies the island's western reaches.
 
 A century without inhabitants has let the wilds reclaim what was built. Roads are cracked and rooted over, and the forests press steadily into the settlements. The elven cities remain intact — preserved exactly as their people left them — but the wards that seal them inflict mounting, ultimately fatal psychic agony on any non-elf who lingers. The [[Valtorran Empire]] tested those wards and found them unbreakable; it never held the island.
 
