@@ -108,12 +108,12 @@ oFael
 - [x] Caer Nystral
 - [x] Glimmerforge
 - [x] Silverdeep
-- [ ] Skyreach
-- [ ] Val Aerie
-- [ ] Val Aran
-- [ ] Val Luminor
-- [ ] Val Solis
-- [ ] Valfyria
+- [x] Skyreach
+- [x] Val Aerie
+- [x] Val Aran
+- [x] Val Luminor
+- [x] Val Solis
+- [x] Valfyria
 - [ ] Miriel's Rest
 - [x] River's Watch
 - [ ] Tumbler's Crag
@@ -131,17 +131,17 @@ Reformat (have content):
 - [ ] Veiled Cubs
 - [ ] The Red Priests
 - [ ] Silmara Family
-- [ ] Circle of the Weave
-- [ ] Circle of Blades *(canonical after Day 1 merge)*
+- [x] Circle of the Weave
+- [x] Circle of Blades *(canonical after Day 1 merge)*
 - [ ] Valtorran Empire *(nation/faction)*
-- [ ] [[Order of Ravens]]
+- [x] [[Order of Ravens]]
 - [ ] The Green Gryphons
 - [ ] The Emberlight Vigil
 - [ ] Hand of The Empire
 - [ ] Eye of the Empire *(imperial spy network)*
 
 Author (empty):
-- [ ] Circle of the Dawn
+- [x] Circle of the Dawn
 - [ ] Shadow Serpents
 - [ ] Vanguard Wardens
 
@@ -149,13 +149,13 @@ Author (empty):
 
 ## ✅ Day 7 — Tue 2 Jun (2h) · LORE I — Pantheon & History
 
-- [ ] Selûne *(deity)*
-- [ ] Shar *(deity)*
+- [x] Selûne *(deity)*
+- [x] Shar *(deity)*
 - [ ] The Green Lady *(deity)*
-- [ ] Torgar Earthshaker *(god of earth & stone)*
-- [ ] Eldrin Starweaver *(god — note: not a character)*
-- [ ] The Shattering *(world event)*
-- [ ] Chaos Wars *(historical era)*
+- [x] Torgar Earthshaker *(god of earth & stone)*
+- [x] Eldrin Starweaver *(god — note: not a character)*
+- [x] The Shattering *(world event)*
+- [x] Chaos Wars *(historical era)*
 - [ ] Timeline *(world history overview)*
 
 ---
@@ -168,8 +168,8 @@ Author (empty):
 - [ ] Dwarven *(race/culture)*
 - [ ] The Valtorran Elves *(race/culture)*
 - [ ] Heartstone *(petrified World Tree root — landmark relic)*
-- [ ] World Tree
-- [ ] World Gates
+- [x] World Tree
+- [x] World Gates
 - [ ] Locus Arcanum *(triage: lore concept vs site)*
 
 ---
@@ -179,14 +179,14 @@ Author (empty):
 - [ ] Emberblade *(weapon)*
 - [ ] Riftshard
 - [ ] Dread's Hunger *(weapon)*
-- [ ] Amulet of the Arachnid Queen
+- [x] Amulet of the Arachnid Queen
 - [ ] Moonlit Aegis *(shield — currently untracked, `git add` it)*
-- [ ] Belinda's Chest
+- [x] Belinda's Chest
 - [ ] The Albatross *(Mawbreakers' flagship)*
 - [ ] The Kraken *(ship/crew)*
 - [ ] Gossamer Dust *(material)*
 - [ ] Moonstone *(material)*
-- [ ] Renite Steel *(material)*
+- [x] Renite Steel *(material)*
 
 ---
 
@@ -197,11 +197,11 @@ Forests & wilds:
 - [x] Ancient Woods
 - [ ] Whispering Woods
 - [x] Borealia Forest
-- [ ] Farhaven Forest
+- [x] Farhaven Forest
 - [x] Bioluminescent Forest
 - [ ] The Darkwood
 - [ ] Gossamer Woods *(Faewild)*
-- [ ] Briarshade *(Faewild)*
+- [x] Briarshade *(Faewild)*
 - [ ] Reveller's Glade *(Faewild)*
 - [ ] Shimmering Peaks *(Faewild)*
 
