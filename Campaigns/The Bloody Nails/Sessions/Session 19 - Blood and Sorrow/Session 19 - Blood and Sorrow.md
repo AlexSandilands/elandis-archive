@@ -21,11 +21,11 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|1st Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|3rd Water, 2nd - 2507]] |
 > Location | [[Ancient Woods]]
-> Characters | [[Gemma Finegold]]<br>[[Harland Finegold]]<br>[[The Finegolds]] |
+> Characters | [[Gemma Finegold]]<br>[[Harland Finegold]]<br>[[Finegolds]] |
 
 ## Summary
 
-The party’s investigation into the [[Ancient Woods]] outside [[Farhaven]] culminates in a brutal ambush within the ruined city. Upon discovering the body of [[Harland Finegold]], the group tracks the killers to a central clearing where they find the remaining members of [[The Finegolds]] bound and gagged. The rescue attempt is interrupted by a lethal assassin—the mysterious woman previously seen on the prison ship in [[Darmouth]]—who strikes from the shadows, instantly incapacitating [[Vaeleran]] with a poisoned dagger. A desperate skirmish ensues, with [[Dondar]] raining fire from the sky and [[Ryo]] and [[Eryndor]] landing critical blows. Just as the assassin attempts to vanish beneath a smoke bomb, Vaeleran, revived by [[Kai]], lunges forward and ends her life with a vengeful strike through the back.
+The party’s investigation into the [[Ancient Woods]] outside [[Farhaven]] culminates in a brutal ambush within the ruined city. Upon discovering the body of [[Harland Finegold]], the group tracks the killers to a central clearing where they find the remaining members of the [[Finegolds]] bound and gagged. The rescue attempt is interrupted by a lethal assassin—the mysterious woman previously seen on the prison ship in [[Darmouth]]—who strikes from the shadows, instantly incapacitating [[Vaeleran]] with a poisoned dagger. A desperate skirmish ensues, with [[Dondar]] raining fire from the sky and [[Ryo]] and [[Eryndor]] landing critical blows. Just as the assassin attempts to vanish beneath a smoke bomb, Vaeleran, revived by [[Kai]], lunges forward and ends her life with a vengeful strike through the back.
 
 With the immediate threat neutralised and the captives secured, the party tends to the wounded and gives Harland Finegold a proper burial before joining the merchant convoy on the journey to [[Val Miriel]]. The travel is marked by internal strife and supernatural omens for Kai. He attempts a clandestine healing ritual on Vaeleran's eye using a sleep spell, resulting in a tense confrontation when the fighter awakes. Furthermore, Kai is haunted by vivid dreams pulling him between a celestial entity urging patience and a dark, purple-eyed goddess tempting him with vengeance, leaving physical corruption spreading up his arm.
 
@@ -36,7 +36,7 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 ### The Ruins of Farhaven
 
 * The party investigates the crude grave of [[Harland Finegold]], noting his throat was slashed and he was buried hastily.
-* [[Ryo]] tracks the killers deeper into the ruins, discovering a camp where [[The Finegolds]] ([[Gemma Finegold|Gemma]], [[Lilliana Featherfoot|Lilliana]], [[Valen Leafwhisper|Valen]], [[Maeve Greycloud|Maeve]], and [[Doran Ironfist|Doran]]) are held captive.
+* [[Ryo]] tracks the killers deeper into the ruins, discovering a camp where the [[Finegolds]] ([[Gemma Finegold|Gemma]], [[Lilliana Featherfoot|Lilliana]], [[Valen Leafwhisper|Valen]], [[Maeve Greycloud|Maeve]], and [[Doran Ironfist|Doran]]) are held captive.
 * As the party prepares to ambush the camp, a female assassin—recognised from the prison ship in [[Darmouth]]—strikes first, dropping [[Vaeleran]] to zero hit points instantly with a poisoned dagger.
 * [[Dondar]] casts *Fly* and *Fireball* to control the battlefield, while [[Kai]] heals Vaeleran.
 * Ryo frees Valen and engages the assassin, while [[Eryndor]] deals massive damage with his bow.
@@ -47,7 +47,7 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 
 ### The Journey to Val Miriel
 
-* The party joins [[The Finegolds]]' convoy to travel north.
+* The party joins the [[Finegolds]]' convoy to travel north.
 * [[Kai]] experiments with *Moonbeam* and ice mirrors; he notices the starry markings on his arm are turning black.
 * [[Vaeleran]] asks [[Gemma Finegold]] to use her contacts to search for information on the name "Corvas" and confirms the resistance is gathering at [[Val Noren]].
 * In the middle of the night, Kai casts *Sleep* on Vaeleran to attempt *Lesser Restoration* on his blinded eye. The healing fails, and Vaeleran wakes up, leading to an awkward confrontation about consent and boundaries.

@@ -51,4 +51,4 @@ The party arrived at Farhaven's outskirts at the end of a four-day march south f
 
 Approaching the city junction at midday, the party found Imperial soldiers hoisting Juliana to the gallows alongside two prisoners already dead, her charges posted on a sign: rabble-rousing, conspiring for treason, attacking Imperial soldiers. Vaeleran and Ryo posed as high-ranking Imperial officers and secured her release before the execution could be completed. Before reaching the junction the party had passed a farmhouse with a large black Nail symbol painted on its outer wall — among the earliest signs of open rebellion activity they had encountered.
 
-The party did not enter Farhaven. They turned northeast into the [[Ancient Woods]] to meet [[The Finegolds]], and the city remained behind them.
+The party did not enter Farhaven. They turned northeast into the [[Ancient Woods]] to meet the [[Finegolds]], and the city remained behind them.

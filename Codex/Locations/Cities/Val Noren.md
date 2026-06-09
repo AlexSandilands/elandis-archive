@@ -169,7 +169,7 @@ The party infiltrated the occupied city, navigating Imperial patrols through bac
 
 #### [[Session 37 - March of the Dead]]
 
-The party met [[King Marius Noren]] in the rebel Keep and found him personally ensuring the safety of displaced civilians. He spoke with them about the siege and the threat of [[The Red Priests]]. That night, Imperial agents used a coordinated undead assault on the city's barricades as a diversion while a Red Priest breached the Keep and abducted Marius.
+The party met [[King Marius Noren]] in the rebel Keep and found him personally ensuring the safety of displaced civilians. He spoke with them about the siege and the threat of the [[Red Priests]]. That night, Imperial agents used a coordinated undead assault on the city's barricades as a diversion while a Red Priest breached the Keep and abducted Marius.
 
 #### [[Session 39 - The Stoneheart]]
 

@@ -15,5 +15,5 @@ tags:
 ## The Necromancer in the Ruins
 
 - Berberis holds a personal quest to "end the dead walking the north — the necromancer in the ruins of Val Noren" (referenced Session 49). A dark presence is still operating in the siege-damaged parts of the city, even after liberation.
-- Whether this necromancer is connected to [[The Red Priests]], their master, or is an independent power operating in the aftermath of the occupation is not yet determined.
+- Whether this necromancer is connected to the [[Red Priests]], their master, or is an independent power operating in the aftermath of the occupation is not yet determined.
 - The Ratways and the bombed-out sections of the South Quarter are the most likely staging grounds for this threat.

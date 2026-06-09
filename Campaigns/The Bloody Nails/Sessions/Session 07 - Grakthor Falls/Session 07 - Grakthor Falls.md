@@ -28,7 +28,7 @@ The session opens with high-stakes combat within the ancient, sunken shrine dedi
 
 Following the battle, the party loots the area, recovering significant magical artifacts and rescuing a human prisoner, [[Vallania Miriel|Nia]], from the adjacent caves. Their exploration leads them deeper into the lair, discovering a subterranean tent city. [[Kai]] flushes out a hiding goblin named [[Ellie the Goblin]] by setting her tent ablaze. Rather than executing her, the party captures her and escorts her - along with the rescued human prisoner - back to the surface to regroup with their allies.
 
-The session concludes at [[The Finegolds]]' merchant camp. The party reunites [[Ellie the Goblin|Ellie]] with [[Lenny the Goblin|Lenny]], a goblin prisoner captured in the previous session. In a moment of mercy, the party releases the goblin pair on the condition they leave the region immediately. The group then settles in to identify their spoils, discovering a hoard of magical items including a raven-hilted dagger and a spellbook, before planning their next move toward [[Darmouth]] to turn in their contract.
+The session concludes at the [[Finegolds]]' merchant camp. The party reunites [[Ellie the Goblin|Ellie]] with [[Lenny the Goblin|Lenny]], a goblin prisoner captured in the previous session. In a moment of mercy, the party releases the goblin pair on the condition they leave the region immediately. The group then settles in to identify their spoils, discovering a hoard of magical items including a raven-hilted dagger and a spellbook, before planning their next move toward [[Darmouth]] to turn in their contract.
 
 ## Details
 
@@ -57,7 +57,7 @@ The session concludes at [[The Finegolds]]' merchant camp. The party reunites [[
 ### Return to the Surface
 
 * The party exited the caves, bypassing the pit trap that had caught them previously.
-* They returned to [[The Finegolds]]' campsite near the river.
+* They returned to the [[Finegolds]]' campsite near the river.
 * **The Goblin Reunion:** [[Ellie the Goblin]] was reunited with [[Lenny the Goblin]] (the previous prisoner). The party honoured their deal, releasing both goblins with a warning to never return to the high road.
 * **Next Steps:** [[Gemma Finegold|Gemma]] agreed to return to [[Darmouth]] to hand in the [[Green Gryphons]] contract on the party's behalf, allowing the group to bypass the city and head toward [[Camaar]].
 

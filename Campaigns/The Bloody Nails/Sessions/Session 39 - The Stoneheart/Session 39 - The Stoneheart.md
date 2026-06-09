@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-Under the cover of a newly waxing moon and the magical shroud of *Pass Without Trace*, the party infiltrated the courtyard of [[The Stoneheart]] in [[Val Noren]]. After bypassing patrols and picking the lock of the Eastern Wing, the group ascended to a balcony overlooking the temple’s massive central chamber. Here, they witnessed a pivotal meeting between [[Dread General Gerard Blackmarsh]], [[General Korvas]], and a coven of five mysterious [[The Red Priests|Red Priests]]. Blackmarsh dispatched Korvas to [[The Darkwood]] to retrieve a "jewel," while four of the priests vanished into vapour, leaving one behind to drag the captive [[King Marius Noren|Marius Noren]] into the catacombs below.
+Under the cover of a newly waxing moon and the magical shroud of *Pass Without Trace*, the party infiltrated the courtyard of [[The Stoneheart]] in [[Val Noren]]. After bypassing patrols and picking the lock of the Eastern Wing, the group ascended to a balcony overlooking the temple’s massive central chamber. Here, they witnessed a pivotal meeting between [[Dread General Gerard Blackmarsh]], [[General Korvas]], and a coven of five mysterious [[Red Priests]]. Blackmarsh dispatched Korvas to [[The Darkwood]] to retrieve a "jewel," while four of the priests vanished into vapour, leaving one behind to drag the captive [[King Marius Noren|Marius Noren]] into the catacombs below.
 
 The party pursued the captors into the temple's underbelly. Utilising a *Silence* spell and overwhelming firepower, they obliterated the corridor guards before breaching the royal crypt. A fierce battle ensued against the remaining Red Priest, who summoned a Wight and swarms of crawling hands from the sarcophagi. [[Kai]] turned the tide with *Spirit Guardians*, decimating the undead, while [[Berberis]] delivered a brutal finishing blow to the necromancer before she could escape.
 
@@ -44,7 +44,7 @@ After reviving the exhausted but physically unharmed King, the group looted a st
 ### The Overlook & The Reveal
 
 * Moving to the upper level of the wing, the party found a library with a balcony overlooking the central chamber of [[The Stoneheart]].
-* They observed [[King Marius Noren]] bound on his knees before [[Dread General Gerard Blackmarsh]], [[General Korvas]], and five [[The Red Priests|Red Priests]].
+* They observed [[King Marius Noren]] bound on his knees before [[Dread General Gerard Blackmarsh]], [[General Korvas]], and five [[Red Priests]].
 * **Key Intel:** Blackmarsh ordered Korvas to leave immediately for [[The Darkwood]] and not to return without "the jewel." Korvas left to cross the [[Frostway]].
 * Four of the Red Priests dissolved into smoke and vanished, claiming their master needed them elsewhere. One female priest remained at Blackmarsh's insistence to see the occupation through.
 * Blackmarsh and the remaining priest took the King down a set of stairs into the lower levels.
@@ -60,7 +60,7 @@ After reviving the exhausted but physically unharmed King, the group looted a st
 
 ### Combat in the Royal Crypt
 
-* The party breached the double doors to find [[King Marius Noren]] tied to a chair and the [[The Red Priests|Red Priest]] waiting.
+* The party breached the double doors to find [[King Marius Noren]] tied to a chair and the [[Red Priests|Red Priest]] waiting.
 * **The Fight:**
     * [[Berberis]] (Wild Shaped as a boar) charged the priest immediately.
     * The Red Priest revealed necromancer abilities, animating a Wight and Swarms of Crawling Hands from the surrounding sarcophagi. She utilised a scythe and a *Spirit Wail* (fear/psychic damage) attack.

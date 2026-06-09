@@ -31,7 +31,7 @@ tags:
 > - [[Lia]] will sneak up behind and attempt to pick pocket
 > - [[Brom]] is the lookout - if he notices something bad he whistles.
 > - If anyone gets caught [[Brom]] will attempt to kick out the legs of the people then flee
-> - All 3 kids will scatter in separate directions, and meet back eventually at [[The Veiled Den]]
+> - All 3 kids will scatter in separate directions, and meet back eventually at the [[Veiled Den]]
 
 ### Mechanics
 
@@ -62,7 +62,7 @@ tags:
 
 ## The Veiled Den
 
-[[The Veiled Den]]
+[[Veiled Den]]
 
 >[!summary]+ Details
 > - 3 story building

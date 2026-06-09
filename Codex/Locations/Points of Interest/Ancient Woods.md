@@ -50,7 +50,7 @@ The Ancient Woods are no ruin to be wandered lightly. Predators den among the fa
 
 #### [[Session 18 - The Old Forest]]
 
-[[The Bloody Nails]] came to the Ancient Woods on the trail of [[The Finegolds]], guided past the coastal obelisk and into the trees. Among the concentric ruins they made a fortified camp as something massive circled in the dark beyond the firelight. At dawn they returned to a patch of freshly disturbed earth and exhumed it — uncovering the buried body of [[Harland Finegold]], the Finegolds' former leader, his throat neatly slit.
+[[The Bloody Nails]] came to the Ancient Woods on the trail of the [[Finegolds]], guided past the coastal obelisk and into the trees. Among the concentric ruins they made a fortified camp as something massive circled in the dark beyond the firelight. At dawn they returned to a patch of freshly disturbed earth and exhumed it — uncovering the buried body of [[Harland Finegold]], the Finegolds' former leader, his throat neatly slit.
 
 #### [[Session 19 - Blood and Sorrow]]
 

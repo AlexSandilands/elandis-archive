@@ -62,7 +62,7 @@ Upon surfacing, the group executes a chaotic ambush on two guards stationed outs
 * [[Kai]] attempts to interrogate one guard, but the soldier is defiant.
 * [[Ryo]] executes the gagged guard to intimidate the survivor.
 * The surviving guard reveals that while he doesn't know the exact location, he suspects the King was taken to [[The Stoneheart]] (Temple of [[Torgar Earthshaker]]) due to increased activity.
-* The guard mentions the presence of "[[The Red Priests]]" near the General, describing them as unsettling and "hungry."
+* The guard mentions the presence of the "[[Red Priests]]" near the General, describing them as unsettling and "hungry."
 * Kai knocks the remaining guard unconscious and stages the room to look like a struggle, locking him in a bedroom.
 * Kai summons a familiar (Raven) and uses *Wild Shape* (Mouse) to fly over the city. using *Locate Object* on the King's shirt.
 * The spell detects the King inside The Stoneheart at ground level. Kai observes thousands of Imperial troops mobilising in the streets.

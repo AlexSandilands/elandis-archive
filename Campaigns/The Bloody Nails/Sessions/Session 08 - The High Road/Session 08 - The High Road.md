@@ -37,7 +37,7 @@ The session concluded with a sharp pivot from political intrigue to street justi
 * **Prisoner Release:** The party interrogated the goblin captives one last time before releasing them into the wild, warning them never to return to the road.
 * **Nia’s Recovery:** The rescued prisoner, [[Vallania Miriel|Nia]], recovered her strength but remained guarded about her past, stating only that she wished to return home to [[Val Miriel]].
 * **The Ruined Caravan:** The group discovered a merchant wagon destroyed by goblin arrows about a week prior. It had been stripped of all valuables, serving as a grim reminder of the road's dangers.
-* **Imperial Patrol:** A [[Hand of The Empire|Red Cloak]] and two soldiers intercepted the caravan. Through quick thinking and deception, [[The Finegolds]] and the party posed as legitimate merchants and mercenaries, avoiding a fight.
+* **Imperial Patrol:** A [[Hand of The Empire|Red Cloak]] and two soldiers intercepted the caravan. Through quick thinking and deception, the [[Finegolds]] and the party posed as legitimate merchants and mercenaries, avoiding a fight.
 * **Gemma’s Return:** [[Gemma Finegold|Gemma]] and [[Doran Ironfist|Doran]] caught up with the group, distributing the reward from the goblin contract (820 gold total).
 
 ### Campfire Revelations & Anomalies

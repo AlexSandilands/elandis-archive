@@ -152,7 +152,7 @@ Results:
 
 ### Crafting the Magical Item
 
-- While [[The Emberlight Vigil]] is occurring, bursts of magical light will crawl up the side of the tower and radiate across the town
+- While [[Emberlight Vigil]] is occurring, bursts of magical light will crawl up the side of the tower and radiate across the town
 - Each time one of these bursts happens, Belinda has a device that will absorb it, and at these moments she channels the magic into her crafting
 
 > [!info]+ Action

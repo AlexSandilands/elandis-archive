@@ -20,7 +20,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|2nd Water, 1st - 2507]] |
 > Location | [[Darmouth]]
-> Characters | [[Gemma Finegold]]<br>[[The Finegolds]]<br>[[Uric Graad]]<br>[[Ella Sable]] |
+> Characters | [[Gemma Finegold]]<br>[[Finegolds]]<br>[[Uric Graad]]<br>[[Ella Sable]] |
 
 ## Summary
 

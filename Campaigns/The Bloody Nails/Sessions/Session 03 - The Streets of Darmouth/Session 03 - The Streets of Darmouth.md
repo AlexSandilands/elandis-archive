@@ -20,7 +20,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|24rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|26rd Earth, 3rd - 2506]] |
 > Location | [[Darmouth]]
-> Characters | [[Gemma Finegold]]<br>[[The Finegolds]]<br>[[Uric Graad]] |
+> Characters | [[Gemma Finegold]]<br>[[Finegolds]]<br>[[Uric Graad]] |
 
 ## Summary
 

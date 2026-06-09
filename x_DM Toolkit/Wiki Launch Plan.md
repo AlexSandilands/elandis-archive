@@ -124,19 +124,18 @@ oFael
 *Mostly content-rich → reformat to the new faction template. The big two (Mawbreakers, Frostwarden Crews) eat the most time.*
 
 Reformat (have content):
-- [ ] The Mawbreakers
-- [ ] The Frostwarden Crews
-- [ ] The Frostwardens
-- [ ] The Finegolds
-- [ ] Veiled Cubs
-- [ ] The Red Priests
-- [ ] Silmara Family
+- [x] The Mawbreakers
+- [x] The Frostwarden Crews
+- [x] The Frostwardens
+- [x] The Finegolds
+- [x] Veiled Cubs
+- [x] The Red Priests
+- [x] Silmara Family
 - [x] Circle of the Weave
 - [x] Circle of Blades *(canonical after Day 1 merge)*
 - [ ] Valtorran Empire *(nation/faction)*
 - [x] [[Order of Ravens]]
 - [x] The Green Gryphons
-- [ ] The Emberlight Vigil
 - [ ] Hand of The Empire
 - [ ] Eye of the Empire *(imperial spy network)*
 

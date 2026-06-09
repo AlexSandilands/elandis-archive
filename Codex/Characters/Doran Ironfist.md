@@ -7,7 +7,7 @@ Pronouns: He/Him
 Age: Early 50s
 Place: "[[Silverdeep]]"
 Connections:
-  - "[[The Finegolds]]"
+  - "[[Finegolds]]"
   - "[[Gemma Finegold]]"
 Profession: Blacksmith
 Importance: Minor
@@ -36,14 +36,14 @@ aliases:
 > Pronouns | He/Him |
 > Age | Early 50s |
 > Place | [[Silverdeep]] |
-> Connections | [[The Finegolds]]<br>[[Gemma Finegold]] |
+> Connections | [[Finegolds]]<br>[[Gemma Finegold]] |
 > Profession | Blacksmith |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Doran Ironfist** is a dwarven blacksmith and wagon-wright travelling with [[The Finegolds]], the merchant caravan led by [[Gemma Finegold]]. A craftsman of genuine skill and easy warmth, he is the kind of man who keeps a caravan rolling — literally and figuratively — and who can fill an hour around the fire with stories of the trade.
+**Doran Ironfist** is a dwarven blacksmith and wagon-wright travelling with the [[Finegolds]], the merchant caravan led by [[Gemma Finegold]]. A craftsman of genuine skill and easy warmth, he is the kind of man who keeps a caravan rolling — literally and figuratively — and who can fill an hour around the fire with stories of the trade.
 
 ## Biography
 
@@ -63,4 +63,4 @@ Assisted the party in [[Camaar]] at his smithy, the Stonehearth. Resized a gobli
 
 #### [[Session 19 - Blood and Sorrow]]
 
-Found among the captives held at a bandit camp in the ruins of Farhaven, along with the rest of [[The Finegolds]]. Freed by the party following a fierce ambush.
+Found among the captives held at a bandit camp in the ruins of Farhaven, along with the rest of the [[Finegolds]]. Freed by the party following a fierce ambush.

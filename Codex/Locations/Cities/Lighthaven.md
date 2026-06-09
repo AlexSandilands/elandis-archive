@@ -59,7 +59,7 @@ The people of Lighthaven are not especially devout, but they hold a quiet revere
 
 ### The Emberlight Vigil
 
-Each Winter Solstice the town gathers for [[The Emberlight Vigil]], its great seasonal festival. Smaller braziers are lit in a ring around the Spire, and at midnight the tower itself blazes gold to mark the turn of the year — a commemoration of the town's survival and a remembrance of those lost to the forest's dangers. The Vigil draws the whole of Lighthaven into the streets around the Embermarket, with games, fireworks, and the lighting of the Spire as its centrepiece.
+Each Winter Solstice the town gathers for [[Emberlight Vigil]], its great seasonal festival. Smaller braziers are lit in a ring around the Spire, and at midnight the tower itself blazes gold to mark the turn of the year — a commemoration of the town's survival and a remembrance of those lost to the forest's dangers. The Vigil draws the whole of Lighthaven into the streets around the Embermarket, with games, fireworks, and the lighting of the Spire as its centrepiece.
 
 ## Districts
 
@@ -191,7 +191,7 @@ After surfacing from the Underrun and travelling the northern road, the party cr
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-The party arrived at dusk as the town prepared for [[The Emberlight Vigil]], lodging at The Foggy Tankard, where [[Tobias Gristle]] recognised [[Vaeleran]] from a fugue-state visit years before. They met the eccentric artificer [[Belinda Bubblegum]], who offered a high-stakes contract: plant a magical conduit in the [[The Emberspire|Emberspire]] during the festival so she could harness its power. While scouting the shops, they marked [[Captain Lucius Draegor]] as [[Ryo]]'s target and spotted his contact — the apothecary's assistant [[Hugor]] — whom they abducted into [[The Darkwood]] on suspicion he was the informant who had betrayed Ryo.
+The party arrived at dusk as the town prepared for [[Emberlight Vigil]], lodging at The Foggy Tankard, where [[Tobias Gristle]] recognised [[Vaeleran]] from a fugue-state visit years before. They met the eccentric artificer [[Belinda Bubblegum]], who offered a high-stakes contract: plant a magical conduit in the [[The Emberspire|Emberspire]] during the festival so she could harness its power. While scouting the shops, they marked [[Captain Lucius Draegor]] as [[Ryo]]'s target and spotted his contact — the apothecary's assistant [[Hugor]] — whom they abducted into [[The Darkwood]] on suspicion he was the informant who had betrayed Ryo.
 
 #### [[Session 30 - The Darkwood Ambush]]
 
@@ -199,7 +199,7 @@ In the woods outside town the party sprang a brutal ambush, drawing [[Captain Lu
 
 #### [[Session 31 - The Emberlight Vigil]]
 
-Regrouping after the magical failure, the party turned to a mechanical solution: a heavy crossbow bought from [[Dhorik]] and a bolt rigged to carry the piton. Amid the festival's games and fireworks, [[Ryo]] embedded the piton in the Spire unnoticed. At midnight [[The Emberlight Vigil]] lit Lighthaven gold, and in [[Belinda Bubblegum]]'s workshop the party helped siphon the tower's power — forging the [[Emberblade]] from gold and obsidian.
+Regrouping after the magical failure, the party turned to a mechanical solution: a heavy crossbow bought from [[Dhorik]] and a bolt rigged to carry the piton. Amid the festival's games and fireworks, [[Ryo]] embedded the piton in the Spire unnoticed. At midnight the [[Emberlight Vigil]] lit Lighthaven gold, and in [[Belinda Bubblegum]]'s workshop the party helped siphon the tower's power — forging the [[Emberblade]] from gold and obsidian.
 
 #### [[Session 32 - The Road to Point Blackrock]]
 

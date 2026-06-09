@@ -120,7 +120,7 @@ tags:
 
 ### Speak with Dead
 
-- [[The Red Priests]]
+- [[Red Priests]]
 
 ### Selunite Purification Ritual
 

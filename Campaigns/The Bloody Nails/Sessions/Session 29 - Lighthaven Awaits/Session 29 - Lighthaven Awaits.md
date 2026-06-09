@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-After a long journey, the party arrives at the mist-shrouded town of [[Lighthaven]] just as the populace prepares for the upcoming [[The Emberlight Vigil|Emberlight Vigil]]. [[Ryo]], adopting the alias "Leo" to avoid recognition from a past arrest, is consumed by a need for vengeance against the local Imperial Captain, [[Captain Lucius Draegor|Lucius Draegor]], and the unknown informant who betrayed him months prior. Their arrival at the local tavern leads to a reunion of sorts; the innkeeper recognises [[Vaeleran]] from a fugue-state visit years ago, and the group encounters an eccentric Dwarven Artificer named [[Belinda Bubblegum]]. Belinda offers the party a high-stakes contract: plant a magical conduit into the ancient [[The Emberspire|Emberspire]] during the festival to help her harness its energy, in exchange for the crafting of a powerful rare magical item.
+After a long journey, the party arrives at the mist-shrouded town of [[Lighthaven]] just as the populace prepares for the upcoming [[Emberlight Vigil]]. [[Ryo]], adopting the alias "Leo" to avoid recognition from a past arrest, is consumed by a need for vengeance against the local Imperial Captain, [[Captain Lucius Draegor|Lucius Draegor]], and the unknown informant who betrayed him months prior. Their arrival at the local tavern leads to a reunion of sorts; the innkeeper recognises [[Vaeleran]] from a fugue-state visit years ago, and the group encounters an eccentric Dwarven Artificer named [[Belinda Bubblegum]]. Belinda offers the party a high-stakes contract: plant a magical conduit into the ancient [[The Emberspire|Emberspire]] during the festival to help her harness its energy, in exchange for the crafting of a powerful rare magical item.
 
 While investigating the town's shops, the party identifies their target. At the Verdant Rose apothecary, they spot a young halfling assistant named [[Hugor]] fraternising with Captain Draegor. Suspecting him to be the informant, the party executes a ruthless kidnapping immediately after he leaves work. Using magical silence and commands, they drag the terrified youth into the pitch-black depths of [[The Darkwood]].
 
@@ -36,7 +36,7 @@ Under the threat of torture and death, Hugor confesses to selling information to
 
 * The party arrives in [[Lighthaven]] at dusk; [[Ryo]] warns the group about the insular nature of the townsfolk and advises they use his alias, "Leo".
 * Ryo reveals his goal: to find the person who sold him out to the Empire and to kill [[Captain Lucius Draegor]].
-* They check into The Foggy Tankard. The innkeeper, [[Tobias Gristle]], reveals the town is excited for [[The Emberlight Vigil]] (Winter Solstice) occurring the following night.
+* They check into The Foggy Tankard. The innkeeper, [[Tobias Gristle]], reveals the town is excited for [[Emberlight Vigil]] (Winter Solstice) occurring the following night.
 * Tobias recognises [[Vaeleran]] from a previous visit years ago, noting that he had been "rambling about a lake in the woods" and acting strange before disappearing.
 * The party witnesses [[Belinda Bubblegum]] storming in to demand hop seeds from Tobias for an experiment.
 

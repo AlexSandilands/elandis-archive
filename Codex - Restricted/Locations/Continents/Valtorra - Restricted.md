@@ -8,7 +8,7 @@ tags:
 
 ## The Truth of Valfyria
 - The volcano at the heart of the [[Silver Mountains]] is not merely a landmark. Within it lies the lair of [[Kharazoth the Crimson Shadow]] — one of the three red dragons that survived the [[Chaos Wars]].
-- The [[The Red Priests|Red Priests]] operate out of Valfyria, in direct service to the Empress.
+- The [[Red Priests]] operate out of Valfyria, in direct service to the Empress.
 - Publicly, Valfyria is just a smoking peak in the central range. The dragon, the priests, and the Empress's connection to either are not common knowledge. (The party has begun to piece this together — see [[Empress Morganna Eventide]].)
 
 ## The Empire's Hidden Master

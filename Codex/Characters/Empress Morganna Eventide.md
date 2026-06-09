@@ -4,14 +4,14 @@ Creature Type: Humanoid
 Species: Human
 Gender: Female
 Pronouns: she/her
-Age: "21 (apparent); over 120"
+Age: 21 (apparent); over 120
 Languages: Common
 Place: "[[Val Luminor]]"
 Connections:
   - "[[Valtorran Empire]]"
   - "[[Kharazoth the Crimson Shadow]]"
   - "[[Hand of The Empire]]"
-  - "[[The Red Priests]]"
+  - "[[Red Priests]]"
   - "[[Dread General Gerard Blackmarsh]]"
 Profession: Empress
 Importance: Major
@@ -42,7 +42,7 @@ aliases:
 > Age | 21 (apparent); over 120 |
 > Languages | Common |
 > Place | [[Val Luminor]] |
-> Connections | [[Valtorran Empire\|The Empire]]<br>[[Kharazoth the Crimson Shadow\|Kharazoth]]<br>[[Hand of The Empire\|The Hands]]<br>[[The Red Priests]]<br>[[Dread General Gerard Blackmarsh\|Blackmarsh]] |
+> Connections | [[Valtorran Empire\|The Empire]]<br>[[Kharazoth the Crimson Shadow\|Kharazoth]]<br>[[Hand of The Empire\|The Hands]]<br>[[Red Priests]]<br>[[Dread General Gerard Blackmarsh\|Blackmarsh]] |
 > Profession | Empress |
 > ###### Status
 > Attribute |  Details |
@@ -89,11 +89,11 @@ During a ritual on the [[Frostway]], [[Kai]] received a visitation from the moon
 
 #### [[Session 44 - The Elven Archmage]]
 
-Acting on intelligence recovered from a [[The Red Priests|Red Priestess]], [[Ayana Syndrosa]] led the party to a hidden sanctum where *Speak with Dead* was performed on the priestess's severed head. The ritual confirmed that the Red Priests operate out of [[Valfyria]] in direct service to the Empress — and that the Empress herself serves an ancient entity known as [[Kharazoth the Crimson Shadow]]. The name Kharazoth — a lieutenant from the [[Chaos Wars]], thought long dead — was enough to visibly shatter [[Ayana Syndrosa|Ayana]]'s composure.
+Acting on intelligence recovered from a [[Red Priests|Red Priestess]], [[Ayana Syndrosa]] led the party to a hidden sanctum where *Speak with Dead* was performed on the priestess's severed head. The ritual confirmed that the Red Priests operate out of [[Valfyria]] in direct service to the Empress — and that the Empress herself serves an ancient entity known as [[Kharazoth the Crimson Shadow]]. The name Kharazoth — a lieutenant from the [[Chaos Wars]], thought long dead — was enough to visibly shatter [[Ayana Syndrosa|Ayana]]'s composure.
 
 #### [[Session 47 - Confluence of the Seven]]
 
-At the [[Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]], [[Ayana Syndrosa|Ayana]] briefed [[Illythia Voss]] on everything the party had uncovered: the Empress, her allegiance to [[Kharazoth the Crimson Shadow|Kharazoth]], and the operations of the [[The Red Priests|Red Priests]] out of [[Valfyria]].
+At the [[Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]], [[Ayana Syndrosa|Ayana]] briefed [[Illythia Voss]] on everything the party had uncovered: the Empress, her allegiance to [[Kharazoth the Crimson Shadow|Kharazoth]], and the operations of the [[Red Priests]] out of [[Valfyria]].
 
 #### [[Session 49 - The Silver Sage]]
 

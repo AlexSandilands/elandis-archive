@@ -25,7 +25,7 @@ tags:
 > ---|---|
 > Status | Abandoned |
 
-**Belinda's Chest** was a small shop of magical curiosities in [[Lighthaven]], run for a single winter by the travelling dwarven artificer [[Belinda Bubblegum]]. A converted home given over to her enchanted trinkets, it stood across from the town's carpenter only for the span of [[The Emberlight Vigil]] — for the shop was never truly a shop at all, but the workspace from which Belinda pursued a goal she had chased for years.
+**Belinda's Chest** was a small shop of magical curiosities in [[Lighthaven]], run for a single winter by the travelling dwarven artificer [[Belinda Bubblegum]]. A converted home given over to her enchanted trinkets, it stood across from the town's carpenter only for the span of [[Emberlight Vigil]] — for the shop was never truly a shop at all, but the workspace from which Belinda pursued a goal she had chased for years.
 
 ## Location & Geography
 
@@ -35,7 +35,7 @@ Belinda's Chest sat in [[Lighthaven]], a misty town in the [[Darkwood]], directl
 
 Inside, the front room was a cheerful clutter of small enchanted items, for [[Belinda Bubblegum]] was an experimenter who loved the little things as much as the great ones. Her speciality was turning mundane objects into enchanted tools that quietly helped people — the sort of place one might buy a hand towel that dried the dishes on its own. The back room, where she actually worked, was markedly more orderly than the chaos out front.
 
-Day to day the shop sold only minor trinkets, but Belinda would offer to craft a single *rare* magical item for anyone willing to help her with the task that had brought her to town. To that end she kept a device in the workshop built to drink the bursts of power the [[The Emberspire|Emberspire]] released at the height of [[The Emberlight Vigil]], channelling that energy directly into her crafting.
+Day to day the shop sold only minor trinkets, but Belinda would offer to craft a single *rare* magical item for anyone willing to help her with the task that had brought her to town. To that end she kept a device in the workshop built to drink the bursts of power the [[The Emberspire|Emberspire]] released at the height of [[Emberlight Vigil]], channelling that energy directly into her crafting.
 
 ## A Temporary Front
 

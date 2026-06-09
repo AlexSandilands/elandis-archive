@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Connections:
   - "[[Empress Morganna Eventide]]"
-  - "[[The Red Priests]]"
+  - "[[Red Priests]]"
   - "[[Chaos Wars]]"
 Profession: Ancient Dragon
 Importance: Minor
@@ -34,7 +34,7 @@ aliases:
 > Species | Red Dragon |
 > Gender | Male |
 > Pronouns | He/Him |
-> Connections | [[Empress Morganna Eventide\|Morganna Eventide]]<br>[[The Red Priests]]<br>[[Chaos Wars]] |
+> Connections | [[Empress Morganna Eventide\|Morganna Eventide]]<br>[[Red Priests]]<br>[[Chaos Wars]] |
 > Profession | Ancient Dragon |
 > ###### Status
 > Attribute |  Details |
@@ -45,7 +45,7 @@ aliases:
 
 ## Biography
 
-Kharazoth is the true power behind the [[Valtorran Empire]]. [[Empress Morganna Eventide]] does not rule in her own name so much as serve his — the Empire's reach, its armies, and the [[The Red Priests|Red Priests]] of [[Valfyria]] all bent, through her, toward his ends. He is the hand behind the throne rather than the figure upon it, content to work the world at a remove while another wears the crown.
+Kharazoth is the true power behind the [[Valtorran Empire]]. [[Empress Morganna Eventide]] does not rule in her own name so much as serve his — the Empire's reach, its armies, and the [[Red Priests]] of [[Valfyria]] all bent, through her, toward his ends. He is the hand behind the throne rather than the figure upon it, content to work the world at a remove while another wears the crown.
 
 He is also, by every account, beyond the reach of ordinary death. Those who remember him from the [[Chaos Wars]] hold that he cannot be killed by normal means — strike him down and his body simply reforms, somewhere in the world, and the work begins anew. It is part of why his name carries such dread among the few old enough to recall it.
 
@@ -55,7 +55,7 @@ There is said to be only one path to ending him. A weapon bearing a soul-stone d
 
 #### [[Session 44 - The Elven Archmage]]
 
-Kharazoth's name was spoken aloud for the first time when [[The Bloody Nails]] used *Speak with Dead* on the severed head of a [[The Red Priests|Red Priestess]]. The revelation visibly shook [[Ayana Syndrosa|Ayana]], who recognised the name from the [[Chaos Wars]].
+Kharazoth's name was spoken aloud for the first time when [[The Bloody Nails]] used *Speak with Dead* on the severed head of a [[Red Priests|Red Priestess]]. The revelation visibly shook [[Ayana Syndrosa|Ayana]], who recognised the name from the [[Chaos Wars]].
 
 #### [[Session 47 - Confluence of the Seven]]
 

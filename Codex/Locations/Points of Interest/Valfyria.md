@@ -33,7 +33,7 @@ Valfyria stands at the very centre of the [[Silver Mountains]], where the range'
 
 ## The Red Priests
 
-[[The Red Priests]] are known to maintain their base of operations beneath Valfyria, in a temple carved into the mountain's depths. Little is known of the temple's nature or extent, but it is from here that the order moves and schemes across [[Valtorra]].
+The [[Red Priests]] are known to maintain their base of operations beneath Valfyria, in a temple carved into the mountain's depths. Little is known of the temple's nature or extent, but it is from here that the order moves and schemes across [[Valtorra]].
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

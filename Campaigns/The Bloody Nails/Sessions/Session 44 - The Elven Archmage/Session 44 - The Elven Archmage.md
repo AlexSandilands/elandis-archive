@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-Following the liberation of [[Val Noren]], the party spends several days assisting with the city's recovery and preparing for their next move. [[Kai]] trains local clerics in the worship of [[Selûne]], while [[Ryo]] uses powerful nature magic to enrich the surrounding farmlands, ensuring the city's survival through the winter. [[Eryndor]] and [[Berberis]] investigate the city for signs of the [[Order of Ravens]] and [[The Red Priests]], respectively, before the group prepares to depart with the [[Mawbreakers]] to hunt down [[General Korvas]].
+Following the liberation of [[Val Noren]], the party spends several days assisting with the city's recovery and preparing for their next move. [[Kai]] trains local clerics in the worship of [[Selûne]], while [[Ryo]] uses powerful nature magic to enrich the surrounding farmlands, ensuring the city's survival through the winter. [[Eryndor]] and [[Berberis]] investigate the city for signs of the [[Order of Ravens]] and the [[Red Priests]], respectively, before the group prepares to depart with the [[Mawbreakers]] to hunt down [[General Korvas]].
 
 However, their departure is intercepted by [[Ayana Syndrosa|Ayana]], [[King Marius Noren]]'s adviser. Recognising the tattoo design taken from the Red Priestess, she leads the party to a secluded magical tower to interrogate the priestess's severed head via *Speak with Dead*. The ritual yields terrifying information: the Red Priests operate out of [[Valfyria]] and serve [[Empress Morganna Eventide]], who in turn serves an ancient entity known as "[[Kharazoth the Crimson Shadow]]." The revelation deeply shakes Ayana, causing her to drop her disguise and reveal herself as one of the few remaining Elves in [[Valtorra]].
 
@@ -43,7 +43,7 @@ In the ruins of Ithilmara, the party suffers psychic damage from ancient wards d
 * **Departure:** The party gathers their gear, intending to sail south with [[Barak Stormrider|Barak]] and the [[Mawbreakers]].
 
 ### The Interrogation and Lore
-* **The Interception:** [[Ayana Syndrosa|Ayana]] stops the party before they leave, asking to see the sketch of [[The Red Priests|The Red Priest]]'s tattoo again.
+* **The Interception:** [[Ayana Syndrosa|Ayana]] stops the party before they leave, asking to see the sketch of [[Red Priests|The Red Priest]]'s tattoo again.
 * **The Shattering:** Ayana explains the history of [[Chaos Wars]] and [[The Shattering]] of the planar barriers 2,500 years ago, involving Chromatic Dragons and the introduction of magic to the world.
 * **Speak with Dead:** In a private magical sanctum, [[Kai]] casts *Speak with Dead* on the Red Priest's head. The corpse reveals:
     * **Allegiance:** She was doing work for [[Empress Morganna Eventide]].

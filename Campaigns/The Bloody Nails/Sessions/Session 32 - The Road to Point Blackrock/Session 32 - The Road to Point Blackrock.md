@@ -26,7 +26,7 @@ tags:
 
 Following the volatile confrontation at the forge, the party fled [[Lighthaven]] in a fractured state. [[Ryo]], overcome with frustration regarding the moral complexities of their rebellion, vanished ahead of the group, forcing the party to chase him down. They eventually regrouped in the woodlands outside the city, but not before leaving a grim message behind: the severed head of [[Captain Lucius Draegor]] left with the unconscious blacksmith, [[Dhorik]], a brutal symbol of the Empire’s failure to protect its own. As a fierce winter storm descended, [[Kai]] summoned a magical shelter, providing a reprieve from the cold. Within the safety of the dome, [[Vaeleran]] and Ryo clashed verbally, challenging the Ranger's "lone wolf" mentality and reinforcing the necessity of trust within the group.
 
-The journey to [[Val Noren]] demanded resources the party did not have, specifically speed. When they intercepted a squad of Imperial soldiers - the rudderless remnants of the Lighthaven garrison - the party laid an ambush. They dispatched the soldiers and seized their horses, along with uniforms to craft disguises. During the looting, they recalled taking a black cloak previously worn by the assassin who targeted [[The Finegolds]]; it was identified as a magical *Cloak of Protection* containing a cryptic, magically sealed note that refused to yield its secrets without a specific trigger.
+The journey to [[Val Noren]] demanded resources the party did not have, specifically speed. When they intercepted a squad of Imperial soldiers - the rudderless remnants of the Lighthaven garrison - the party laid an ambush. They dispatched the soldiers and seized their horses, along with uniforms to craft disguises. During the looting, they recalled taking a black cloak previously worn by the assassin who targeted the [[Finegolds]]; it was identified as a magical *Cloak of Protection* containing a cryptic, magically sealed note that refused to yield its secrets without a specific trigger.
 
 The tension peaked at a heavily fortified Imperial barricade blocking the road north. Disguised as Imperial soldiers, the party attempted to bluff their way through, but were intercepted by a high-ranking [[Hand of the Empire]]. The Hand recognised Vaeleran, not as a mercenary, but as the missing [[General Korvas]]. In a nerve-wracking standoff, Vaeleran leaned into the persona of his past self, fielding poignant questions about his absence. Though suspicious, the Hand ultimately deferred to Vaeleran's assumed authority, allowing them to pass. The session concluded days later as the weary group arrived at the outskirts of [[Point Blackrock]], finding the frozen settlement consumed by a sprawling, menacing Imperial war camp.
 
@@ -50,7 +50,7 @@ The tension peaked at a heavily fortified Imperial barricade blocking the road n
 * **Loot & Logistics:**
     * They secured Imperial horses to speed up their travel.
     * They took uniforms to fashion disguises for the road ahead.
-    * **Item Found:** Examining the black gear from the assassin who previously captured [[The Finegolds]], they identified a *Cloak of Protection*.
+    * **Item Found:** Examining the black gear from the assassin who previously captured the [[Finegolds]], they identified a *Cloak of Protection*.
     * **The Note:** Inside the cloak, they found a magical note. It is currently unreadable, requiring a specific trigger or keyword to reveal its contents.
 
 ### The Imperial Barricade

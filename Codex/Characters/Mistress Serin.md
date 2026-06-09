@@ -54,7 +54,7 @@ Questioned by [[Ryo]] regarding local thieves; directed the party toward the mai
 
 #### [[Session 12 - How to Start a Rebellion]]
 
-Passed a sealed letter left by [[The Finegolds]] to [[Kai]] — correspondence warning of a dangerous woman in a black cloak and the Finegolds' sudden flight from town.
+Passed a sealed letter left by the [[Finegolds]] to [[Kai]] — correspondence warning of a dangerous woman in a black cloak and the Finegolds' sudden flight from town.
 
 #### [[Session 17 - A New Journey Begins]]
 

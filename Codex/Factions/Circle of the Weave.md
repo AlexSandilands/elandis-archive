@@ -80,7 +80,7 @@ Entering Sumara for the first time, the party learned that [[Ayana Syndrosa]] �
 
 #### [[Session 47 - Confluence of the Seven]]
 
-[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and [[The Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Confluence of the Seven]].
+[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and the [[Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Confluence of the Seven]].
 
 #### [[Session 50 - A New Morning in Sumara]]
 

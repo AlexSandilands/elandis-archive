@@ -47,7 +47,8 @@ grep -rn --include="*.md" "\[\[The Frostwardens" . | grep -v "Transcript.md"
 Collect the full list of `file:line` hits. The link can appear as:
 
 - Plain: `[[Frostwardens]]`
-- Aliased: `[[Frostwardens|Frostwarden]]`, `[[Frostwardens|the wardens]]`
+- Redundant self-alias: `[[Frostwardens|Frostwardens]]` — the rename leaves these behind (old `[[The Frostwardens|Frostwardens]]` → target rewritten, alias now repeats the target). Always collapse to plain.
+- Aliased (genuine): `[[Frostwardens|Frostwarden]]`, `[[Frostwardens|the wardens]]`
 - Header / block link: `[[Frostwardens#Crews|Fox Crew]]`
 
 Any straggler still in the old `[[The Frostwardens...]]` form must **also** have its target rewritten to drop the `The` (Obsidian only rewrites links it indexed), in addition to the grammar fix below.
@@ -66,13 +67,22 @@ This is the form that loses its article. Decide what sits immediately before it:
 4. **Possessive** — `[[Frostwardens]]' lodge` → `the [[Frostwardens]]' lodge`. Article goes before, the possessive stays after.
 5. **No article wanted** — genuinely attributive or list-label uses where English takes no article: `as Frostwardens` (rare), or an infobox/frontmatter/"See also" value where the bare page name is the convention. Leave these bare. When unsure whether prose wants an article, read it aloud — if "the" is needed for it to sound right, add it.
 
-### Aliased link `[[Frostwardens|...]]`
+### Redundant self-alias `[[Frostwardens|Frostwardens]]` — always collapse
 
-The displayed text is the alias, so the rename did **not** break the display. Do not touch the brackets. Only check whether the *surrounding* prose still reads correctly given the alias:
+This is a **direct product of the rename**, not a rare incidental. When prose read `[[The Frostwardens|Frostwardens]]` (old target, bare display), Obsidian rewrites only the target on rename, leaving `[[Frostwardens|Frostwardens]]` — an alias that now exactly repeats its target. Always simplify these to plain `[[Frostwardens]]`, then apply the plain-link rules above (article outside the brackets, correct case for sentence position).
+
+- `the mysterious "[[Frostwardens|Frostwardens]]"` → `the mysterious "[[Frostwardens]]"` (already has `the`, so just collapse).
+- `five [[Frostwardens|Frostwardens]]` → `five [[Frostwardens]]` (determiner present, just collapse).
+- `[[Frostwardens|Frostwardens]] patrol the ice.` → `The [[Frostwardens]] patrol the ice.` (collapse, then add sentence-start `The`).
+
+Collapse them even in non-prose label contexts (infobox cells, "See also" lists) — the alias is pure redundancy there too. The collapse is global and mechanical: a single exact-match replace of `[[Name|Name]]` → `[[Name]]` across the vault is safe, then re-scan the plain hits for the article fix.
+
+### Aliased link `[[Frostwardens|...]]` (genuine alias)
+
+When the alias differs from the target, the displayed text is the alias, so the rename did **not** break the display. Do not touch the brackets. Only check whether the *surrounding* prose still reads correctly given the alias:
 
 - `a former [[Frostwardens|Frostwarden]]` — reads fine, leave it.
 - `old [[Frostwardens|Frostwarden]] sigils` — reads fine, leave it.
-- If the alias itself was a redundant `[[Frostwardens|Frostwardens]]`, simplify to plain `[[Frostwardens]]` and then apply the plain-link rules.
 
 ### Header / block links `[[Frostwardens#Crews|Fox Crew]]`
 
@@ -95,7 +105,12 @@ Obsidian renames the file and updates inbound links, but it does **not** touch t
 
 1. Show the user a concise summary grouped by file: each occurrence, the before/after line, and a one-word reason (`sentence-start`, `mid-sentence`, `possessive`, `already-ok`, `alias-skip`, `label-skip`). Flag any you were unsure about so they can adjudicate.
 2. On approval, apply the edits with exact-match replacements. Keep each edit minimal — change only the article and (for stragglers) the link target; never reflow or reword the sentence.
-3. Re-run the Step 1 greps to confirm no `[[The Frostwardens` stragglers remain and that every `[[Frostwardens]]` now sits behind an article or is a deliberate bare label.
+3. Re-run the Step 1 greps to confirm no `[[The Frostwardens` stragglers and no redundant `[[Frostwardens|Frostwardens]]` self-aliases remain, and that every `[[Frostwardens]]` now sits behind an article or is a deliberate bare label:
+
+```bash
+grep -rn --include="*.md" "\[\[The Frostwardens" . | grep -v "Transcript.md"      # stragglers
+grep -rn --include="*.md" "\[\[Frostwardens|Frostwardens\]\]" . | grep -v "Transcript.md"   # redundant self-aliases
+```
 
 ## Cautions
 

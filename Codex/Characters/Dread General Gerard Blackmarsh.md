@@ -63,7 +63,7 @@ Blackmarsh does not negotiate, persuade, or threaten. He arrives, and things sto
 
 Gerard Blackmarsh was already a commander of exceptional capability when [[Empress Morganna Eventide]] made landfall on the eastern shores of [[Valtorran Empire|Valtorra]]. Whatever forces he commanded before that moment, he redirected without hesitation to her banner — whether through persuasion, awe, or something more coercive, history does not record. What it does record is that the first town fell quickly, and after that, so did the next, and the next. He was the opening move in a campaign that swept across the continent like fire through dry grass.
 
-When the Empress concluded that he was too useful to risk losing, she made the only logical decision available to her: she killed him herself and raised him as a Death Knight, ensuring his loyalty and service would outlast any battlefield wound. She gave him [[Dread's Hunger]], a greatsword of malevolent necrotic power, and returned him to the field — now impossible to kill by conventional means and radiating an aura of dread that could break morale before a blade was ever drawn. He served as the commander of the siege of [[Val Noren]], overseeing the occupation of the city and coordinating with the mysterious [[The Red Priests]] on a timeline of escalating horror.
+When the Empress concluded that he was too useful to risk losing, she made the only logical decision available to her: she killed him herself and raised him as a Death Knight, ensuring his loyalty and service would outlast any battlefield wound. She gave him [[Dread's Hunger]], a greatsword of malevolent necrotic power, and returned him to the field — now impossible to kill by conventional means and radiating an aura of dread that could break morale before a blade was ever drawn. He served as the commander of the siege of [[Val Noren]], overseeing the occupation of the city and coordinating with the mysterious [[Red Priests]] on a timeline of escalating horror.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -77,11 +77,11 @@ The party infiltrated the besieged streets of [[Val Noren]] under cover of darkn
 
 #### [[Session 37 - March of the Dead]]
 
-[[Berberis]], scouting in weasel form, observed Blackmarsh receiving reports of chaos at Point Blackrock and Hobgoblin attacks on his reinforcement columns. Enraged by the delays, the Dread General decapitated the reporting Captain on the spot, then ordered word sent to the [[The Red Priests]] to accelerate their timeline.
+[[Berberis]], scouting in weasel form, observed Blackmarsh receiving reports of chaos at Point Blackrock and Hobgoblin attacks on his reinforcement columns. Enraged by the delays, the Dread General decapitated the reporting Captain on the spot, then ordered word sent to the [[Red Priests]] to accelerate their timeline.
 
 #### [[Session 39 - The Stoneheart]]
 
-The party infiltrated [[The Stoneheart]] and witnessed a meeting between Blackmarsh, [[General Korvas]], and a coven of five [[The Red Priests|Red Priests]] from a concealed balcony above the cathedral chamber. Blackmarsh dispatched Korvas to [[The Darkwood]] and remained with the single Red Priest left behind, taking the captive [[King Marius Noren]] into the catacombs below. When the party emerged from the crypts at the session's end, they found him waiting for them in the centre of the chamber. "Well he was right then," he said. "How interesting."
+The party infiltrated [[The Stoneheart]] and witnessed a meeting between Blackmarsh, [[General Korvas]], and a coven of five [[Red Priests]] from a concealed balcony above the cathedral chamber. Blackmarsh dispatched Korvas to [[The Darkwood]] and remained with the single Red Priest left behind, taking the captive [[King Marius Noren]] into the catacombs below. When the party emerged from the crypts at the session's end, they found him waiting for them in the centre of the chamber. "Well he was right then," he said. "How interesting."
 
 #### [[Session 40 - General Blackmarsh]]
 

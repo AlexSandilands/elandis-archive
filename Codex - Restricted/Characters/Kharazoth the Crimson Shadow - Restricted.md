@@ -40,7 +40,7 @@ tags:
 - The party does not yet know this. When revealed it recontextualises her entire story — she is in some sense a victim, though one with considerable agency in what she has become.
 
 ## Disguise Behaviour
-- Kharazoth regularly moves through the world in humanoid form to gather intelligence and cultivate useful people. The [[The Red Priests]] of [[Valfyria]] are his most visible instrument, but serve him at a remove.
+- Kharazoth regularly moves through the world in humanoid form to gather intelligence and cultivate useful people. The [[Red Priests]] of [[Valfyria]] are his most visible instrument, but serve him at a remove.
 - The party could encounter him without knowing it. Consider introducing him as a charming, unnervingly perceptive NPC before the mask is pulled.
 
 ## Open Questions / Further Development

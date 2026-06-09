@@ -46,7 +46,7 @@ tags:
 > 	- Expend 4 hit die after killing a humanoid: Raise an undead zombie for 1 hour
 > 	- Uses cost 0 hit die when wielded by an undead
 
-### [[The Red Priests]]
+### [[Red Priests]]
 
 - Carved Tattoo, culminating in a dragon design on the back
 

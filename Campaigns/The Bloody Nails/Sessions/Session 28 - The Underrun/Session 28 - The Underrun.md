@@ -35,7 +35,7 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 ### Departure from Val Miriel
 
-* **The Handover:** The party encountered [[Gemma Finegold]] on the street. They learned [[The Finegolds]] are seeking an Imperial license to travel, likely to [[Val Aerie]].
+* **The Handover:** The party encountered [[Gemma Finegold]] on the street. They learned the [[Finegolds]] are seeking an Imperial license to travel, likely to [[Val Aerie]].
 * **Asset Disposal:** To avoid suspicion, the party gave their cart and horses (Horse 1 & Horse 2) to Gemma.
 * **Intel Exchange:** Vaeleran warned Gemma about "walking dead" near [[Val Aran]] and hinted at a potential ally in the High Priest at [[Val Aerie]].
 

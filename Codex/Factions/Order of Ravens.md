@@ -83,7 +83,7 @@ The rise of the Valtorran Empire ended that long detachment. The Hands of the Em
 
 ### The Finegolds
 
-A long-standing working relationship with [[The Finegolds]]. Finegold caravans serve the Order as a smuggling route and an information network spread across the continent.
+A long-standing working relationship with the [[Finegolds]]. Finegold caravans serve the Order as a smuggling route and an information network spread across the continent.
 
 ### Veiled Cubs
 

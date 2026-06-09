@@ -48,7 +48,7 @@ tags:
 
 Ellesar grew up an orphan on the streets of [[Camaar]], and what he built from that beginning was not bitterness but structure. He founded the [[Veiled Cubs]] to give other orphan children what he never had: a roof, a full belly, and a reason to look out for one another. He set the Cubs' code himself — no child goes hungry, no violence, never take so much that the operation draws attention, and always help those smaller than you. It is a thief's charter written with the ethics of a ward-father, and it has held for decades.
 
-Now ninety, Ellesar no longer leaves [[The Veiled Den]]. His world has contracted to the warmth of that underground sanctuary: the clatter of children, the petitions of his lieutenants, the occasional game played at a low table. He moves by wheelchair but his mind is as quick as any he has met, and the children he has raised adore him without reservation — for good reason. He delights in stories from the city outside, plays games with the same competitive glee as any eight-year-old, and manages his small empire with the quiet, firm authority of a man who has been doing it long enough that no one questions him.
+Now ninety, Ellesar no longer leaves the [[Veiled Den]]. His world has contracted to the warmth of that underground sanctuary: the clatter of children, the petitions of his lieutenants, the occasional game played at a low table. He moves by wheelchair but his mind is as quick as any he has met, and the children he has raised adore him without reservation — for good reason. He delights in stories from the city outside, plays games with the same competitive glee as any eight-year-old, and manages his small empire with the quiet, firm authority of a man who has been doing it long enough that no one questions him.
 
 When the situation calls for it, Ellesar is not above testing people. He arranged for one of his Cubs, Brom, to be deliberately captured by the party to gauge their skill and intentions — and was satisfied enough with what he learned to offer them work. He also recognised that [[Lia]], his most gifted protégé, had a hatred of the Empire that would eventually make her a liability inside the Cubs. Rather than let that fire burn down his den, he arranged for her to be placed with the [[Order of Ravens]], ensuring she found an outlet that suited her abilities without endangering the children in his care.
 
@@ -56,7 +56,7 @@ When the situation calls for it, Ellesar is not above testing people. He arrange
 
 #### [[Session 09 - The Veiled Den]]
 
-The party tracked the [[Veiled Cubs]] back to [[The Veiled Den]] and met Ellesar for the first time — discovering not the hovel they expected but a well-furnished sanctuary and an ancient man with a knowing smile. He welcomed them without alarm, having orchestrated Brom's capture as a deliberate test.
+The party tracked the [[Veiled Cubs]] back to the [[Veiled Den]] and met Ellesar for the first time — discovering not the hovel they expected but a well-furnished sanctuary and an ancient man with a knowing smile. He welcomed them without alarm, having orchestrated Brom's capture as a deliberate test.
 
 #### [[Session 10 - The Coastal Cave]]
 

@@ -26,7 +26,7 @@ tags:
 
 The journey to [[Farhaven]] began with a chill wind and ominous signs, as the party discovered a farmhouse marked with a symbol of the rebellion. Upon reaching the outskirts of the city, the tension exploded into action when the group witnessed an imperial execution in progress. Acting quickly, [[Vaeleran]] and [[Ryo]] utilised a daring combination of magical disguise and commanding intimidation, posing as high-ranking members of [[Valtorran Empire|The Empire]] to disperse the guards and rescue a woman named Juliana from the gallows.
 
-Grateful for her life, Juliana warned the party of a massive Imperial legion locking down the city and provided directions to ancient ruins north of the settlement where [[The Finegolds]] were assumed to be. The party paused only to offer a decent burial to the other victims of the execution before investigating a mysterious, ancient stone obelisk on the coast. Sensing faint, unrecognizable magic, they pushed inland into the dense, suffocating canopy of the forest, where ancient ruins lay arranged in strange concentric circles.
+Grateful for her life, Juliana warned the party of a massive Imperial legion locking down the city and provided directions to ancient ruins north of the settlement where the [[Finegolds]] were assumed to be. The party paused only to offer a decent burial to the other victims of the execution before investigating a mysterious, ancient stone obelisk on the coast. Sensing faint, unrecognizable magic, they pushed inland into the dense, suffocating canopy of the forest, where ancient ruins lay arranged in strange concentric circles.
 
 As night fell, the forest felt alive with unseen threats; [[Kai]] spotted a massive shadowy form stalking the perimeter of their camp, while Ryo discovered large beast tracks and a patch of disturbed earth. When morning broke, the party returned to the suspicious mound. Kai manifested a spiritual shovel to exhume the earth, revealing a grim tragedy that shattered their hopes for a happy reunion: buried in the dirt, with his throat slit, was [[Harland Finegold]].
 
@@ -60,4 +60,4 @@ As night fell, the forest felt alive with unseen threats; [[Kai]] spotted a mass
 ### A Grim Discovery
 
 * **The Exhumation:** At dawn, the party returned to the patch of disturbed earth [[Ryo]] had found. [[Kai]] cast *Spiritual Weapon* in the form of a shovel to dig up the site.
-* **The Reveal:** After clearing away a foot of dirt, they uncovered a body. It was identified as [[Harland Finegold]], the former leader of [[The Finegolds]]. He had been buried recently, and his throat had been neatly sliced.
+* **The Reveal:** After clearing away a foot of dirt, they uncovered a body. It was identified as [[Harland Finegold]], the former leader of the [[Finegolds]]. He had been buried recently, and his throat had been neatly sliced.

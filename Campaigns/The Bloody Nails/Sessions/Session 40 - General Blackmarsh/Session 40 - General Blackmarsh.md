@@ -70,7 +70,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 * **Loot Obtained:**
     * **From Blackmarsh:** A magical Greatsword (radiating evil/undeath), Plate Gauntlets, and Boots. [[Ryo]] cuts off [[Dread General Gerard Blackmarsh|Blackmarsh]]'s head and stores it in the Bag of Holding.
     * **From Marcel:** A pouch containing three magical white feathers.
-* **Investigation:** [[Kai]] investigates [[The Red Priests|The Red Priest]]'s body and finds scarification tattoos on her back depicting a serpentine, fire-breathing beast (a dragon). Kai uses calligraphy tools to draw a perfect copy of the symbol.
+* **Investigation:** [[Kai]] investigates [[Red Priests|The Red Priest]]'s body and finds scarification tattoos on her back depicting a serpentine, fire-breathing beast (a dragon). Kai uses calligraphy tools to draw a perfect copy of the symbol.
 * [[Berberis]] uses his owl familiar to scout the exterior.
 * **Cliffhanger:** The owl reveals 25 soldiers standing guard at the main entrance, unaware the General is dead, leaving the party trapped inside.
 

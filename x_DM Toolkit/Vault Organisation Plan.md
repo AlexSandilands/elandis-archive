@@ -154,7 +154,7 @@ Pronouns: She/Her
 Age: 24
 Languages: Common, Dwarvish
 Place: "[[Silverdeep]]"
-Connections: "[[The Finegolds]], [[The Bloody Nails]]"
+Connections: "[[Finegolds]], [[The Bloody Nails]]"
 Profession: Merchant
 Importance: Major
 Status: Alive

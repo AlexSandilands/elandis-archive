@@ -20,7 +20,7 @@ tags:
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|23rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|24rd Earth, 3rd - 2506]] |
 > Location | Travelling to [[Darmouth]]
-> Characters | [[Draedan Coldsteel]]<br>[[Seraphina]]<br>[[Gemma Finegold]]<br>[[The Finegolds]] |
+> Characters | [[Draedan Coldsteel]]<br>[[Seraphina]]<br>[[Gemma Finegold]]<br>[[Finegolds]] |
 
 ## Campaign Introduction
 
@@ -38,7 +38,7 @@ The escape to the surface was a desperate scramble. Upon reaching the top deck, 
 
 In the morning, the party returned to the wreckage to search for their confiscated gear. They discovered a group of Goblins picking through the debris and swiftly eliminated them to reclaim their equipment. While looting the Captain’s Quarters, they found a significant cache of gold and a mysterious letter addressed to "Captain Armin" from an individual identified only as "V." The letter spoke of a "forward payment" to increase prisoner capacity and emphasized that the work at [[Skyreach]] must be completed before winter.
 
-Leaving the shore behind, the party trekked through the dense coastal woods until they reached the main east-west trade road. There, they encountered a merchant convoy belonging to [[The Finegolds]]. The caravan had recently been harried by goblin raiders, leaving their healer, [[Maeve Greycloud|Maeve]], injured. Seeing a mutual benefit, the party struck a deal with the caravan leader, [[Gemma Finegold|Gemma]]: the group would provide protection for the remainder of the journey in exchange for safe passage and transport to the nearest city, beginning their journey toward rebellion.
+Leaving the shore behind, the party trekked through the dense coastal woods until they reached the main east-west trade road. There, they encountered a merchant convoy belonging to the [[Finegolds]]. The caravan had recently been harried by goblin raiders, leaving their healer, [[Maeve Greycloud|Maeve]], injured. Seeing a mutual benefit, the party struck a deal with the caravan leader, [[Gemma Finegold|Gemma]]: the group would provide protection for the remainder of the journey in exchange for safe passage and transport to the nearest city, beginning their journey toward rebellion.
 
 ## Details
 
@@ -64,7 +64,7 @@ Leaving the shore behind, the party trekked through the dense coastal woods unti
 
 ### The Finegold Encounter
 
-* After traveling a few hours from the coast, the party reached the road and flagged down [[The Finegolds]] caravan.
+* After traveling a few hours from the coast, the party reached the road and flagged down the [[Finegolds]] caravan.
 * The caravan was traveling from [[Camaar]] to [[Darmouth]].
 * The party met [[Gemma Finegold]] and [[Maeve Greycloud]], noting the merchants were poorly defended against the local goblin threat.
 * **The Deal:** The party joined the caravan as hired guards, providing them a perfect cover to enter the next city without drawing imperial suspicion.
