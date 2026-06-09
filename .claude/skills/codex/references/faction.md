@@ -180,7 +180,15 @@ Factions use a fixed three-section backbone, with bespoke sections slotted betwe
 
 ## Relations
 
-[When applicable. How the faction interacts with other powers — allies, enemies, uneasy truces. A bold-term list per relationship reads well.]
+[When applicable. How the faction interacts with other powers — allies, enemies, uneasy truces. Give each related power its own `###` subheading named for that faction (plain text, no wikilink in the heading), followed by a short prose paragraph. Link the related faction with a `[[wikilink]]` in the first sentence or two of that paragraph, then explain the relationship.]
+
+### Related Faction Name
+
+[A paragraph on this relationship. Lead with the link — e.g. "A long-standing working relationship with [[Related Faction]]." — then describe the nature of the tie: allies, enemies, an uneasy truce, shared history.]
+
+### Another Faction Name
+
+[...]
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -254,22 +262,24 @@ Guidance:
 
 Place this at the **very top of the public file**, before the frontmatter, in a fenced code block. Always generate it — even if an image already exists. The slim restricted doc gets no image prompt; only a standalone full restricted entry carries one.
 
-A faction is neither a person nor a place, so its art is its **heraldry** — the symbol the faction is known by, rendered as a **carved-stone emblem** in the same painterly tradition as the rest of the wiki (soft painterly brushwork, *not* flat vector). The crucial thing is that the emblem reads as a **symbol filling the frame, not a physical object in a scene**: the carved stone surface fills the square edge to edge, lit by flat even ambient light with **no directional source, no cast shadows, and no real-world props** (candles, tables, backgrounds) — anything that would make it look like a real tablet photographed on a desk rather than a faction's mark. Same painterly look as characters and locations; the differences are the subject (a symbol, not a figure or vista), the deliberately flat even lighting, and the 1:1 square format.
+A faction is neither a person nor a place, so its art is its **heraldry** — rendered as a **carved-stone coat of arms** in the same painterly tradition as the rest of the wiki (soft painterly brushwork, *not* flat vector). The structure that sells it as a *crest* rather than a lone carved animal is a **shield (escutcheon) at the centre, with the faction's device displayed upon it as the charge** — background slab → raised shield → device raised again on the shield's face. That two-tier depth is what reads as heraldry. The crucial thing is that the whole arms **fill the frame as a symbol, not a physical object in a scene**: the carved stone surface fills the square edge to edge, lit by flat even ambient light with **no directional source, no cast shadows, and no real-world props** (candles, tables, backgrounds) — anything that would make it look like a real tablet photographed on a desk rather than a faction's mark. Same painterly look as characters and locations; the differences are the subject (a heraldic crest, not a figure or vista), the deliberately flat even lighting, and the 1:1 square format.
 
 The emblem prompt has five blocks. `[STYLE]`, `[LIGHTING]`, and `[FORMAT]` are **fixed** — copy them verbatim for every faction. Only `[SUBJECT]`, `[BORDER]`, and `[MOOD]` change per faction (and `[BORDER]` only lightly).
 
 ```
 [STYLE]: Fantasy RPG heraldic emblem. Soft painterly strokes, visible brushwork, digital painting aesthetic, rich but restrained colour palette. NOT photorealistic, NOT a flat inked vector logo, NOT a hard-outlined crest — stylized like a carved relief in official D&D 5e module artwork, the forms emerging from the stone through gentle modelling rather than bold outlines.
-[SUBJECT]: <the faction's central device — the creature or object — displayed heraldically and carved in shallow, soft relief into a square slab of weathered dark grey stone that FILLS the entire frame edge to edge as a flat emblem (a symbol, not an object in a room). Describe the device's silhouette in concrete anatomical/structural terms so it reads unmistakably as what it is. The stone surface is richly textured: pitted, faintly cracked, age-worn, with subtle mottling. <Accent metal — e.g. tarnished silver leaf> catches the raised edges and tips, with faint hints of copper and rust in the hollows, set off against the cool grey stone.>
-[BORDER]: a wide double frame carved into the stone — an outer raised border and an inner border line, with a plain, bare recessed channel between them. NO pattern, NO runes, NO letters, NO glyphs, NO symbols — clean carved stone only.
+[SUBJECT]: a heraldic coat of arms carved in relief into a square slab of weathered slate-grey stone<, faintly tinted with COOL GREEN — optional per-faction tint; default is plain slate grey> that FILLS the entire frame edge to edge. At the centre, raised proud of the background, sits a classic heater shield (escutcheon) — broad and flat-topped, tapering to a point at the base — its face forming a recessed field. Displayed upon the shield as its sole charge is <the faction's central device — the creature or object — described in concrete anatomical/structural terms so it reads unmistakably as what it is, posed heraldically (e.g. a beast rampant), with any wings or upper extremities rising above the shield's top edge for drama>. The composition is bilaterally symmetrical and heraldically formal, the shield squarely centred and dominant. The device stands raised against the shield's field, its forms catching <accent metal — e.g. tarnished bronze-gold leaf> along the raised edges and tips, while faint copper and <verdigris-green / rust> oxidation settle into the deep-cut hollows, set off against the cool grey stone. The stone surface is richly textured: pitted, faintly cracked, age-worn, with subtle mottling.
+[BORDER]: a wide double frame carved into the stone surrounding the central shield — an outer raised border and an inner border line, with a plain, bare recessed channel between them. NO pattern, NO runes, NO letters, NO glyphs, NO symbols — clean carved stone only.
 [MOOD]: <what the emblem should evoke — e.g. "secretive and watchful", "proud and martial", "ancient and devout">
 [LIGHTING]: flat, even, ambient illumination — no directional light source, no cast shadows, no candle, no props, no background scene; the relief reads through carved depth alone
 [FORMAT]: 1:1 square, the carved stone surface fills the frame as a centered emblem
 ```
 
-Derive the device from the faction's identity — a raven for the Order of Ravens, a gryphon for the Green Gryphons. Make the device **specific and anatomically legible**: a good `[SUBJECT]` conjures one exact crest, not a generic fantasy badge, and spells out the silhouette so the species reads at a glance. (For the Order of Ravens this meant naming the corvid features explicitly — *"facing forward, broad rounded wings spread wide and raised in a symmetric upward V, head turned in sharp profile with a large heavy head, a thick wedge-shaped beak, and a shaggy ruff of throat hackles, the tail fanned downward in a broad wedge"* — because a plain "raven" rendered as a generic small bird. Do the equivalent for whatever the device is.)
+Derive the device from the faction's identity — a raven for the Order of Ravens, a gryphon for the Green Gryphons — and display it as the charge **upon the shield**. Make the device **specific and anatomically legible**: a good `[SUBJECT]` conjures one exact crest, not a generic fantasy badge, and spells out the silhouette so the species reads at a glance. (For the Order of Ravens this meant naming the corvid features explicitly — *"facing forward, broad rounded wings spread wide and raised in a symmetric upward V, head turned in sharp profile with a large heavy head, a thick wedge-shaped beak, and a shaggy ruff of throat hackles, the tail fanned downward in a broad wedge"* — because a plain "raven" rendered as a generic small bird. Do the equivalent for whatever the device is.)
 
-Two lessons baked into the template above, learned tuning the Order of Ravens crest:
+Lessons baked into the template above, learned tuning the Order of Ravens and Green Gryphons crests:
+- **Build it as a shield, not a lone animal.** A device carved straight into a bare slab reads as "a beast on a tablet," not a crest. Put it on a heater shield raised proud of the background, and let wings or raised limbs break above the shield's top edge — that layered depth is what makes it read as heraldry.
+- **Slate grey is the default stone — always.** Don't drift to warm sandstone/honey-tan; it pulls the whole slab yellow and kills the carved-relic feel. Any colour belongs in the *metal accents and oxidation on the device* (bronze leaf, verdigris, rust), set off against cool grey stone. A faction tint (e.g. the Gryphons' faint cool-green cast) is **opt-in** — name it explicitly in `[SUBJECT]` when there's a reason, otherwise leave the stone plain slate grey.
 - **Keep the stone weathered.** Dropping the texture language gives a smooth, lifeless slate; "pitted, faintly cracked, age-worn, with subtle mottling" restores the carved-relic feel.
 - **Keep the border plain.** A wide double frame reads well, but filling its channel with runes/glyphs/varied symbols clutters it. A bare recessed channel between two carved lines is the house style. If a faction genuinely warrants ornament, prefer a single simple repeating geometric motif (a chevron or notched fret) over runes or letters — never lettering or glyph-soup.
 
@@ -285,6 +295,8 @@ Assemble the **public document** in this order:
 3. Infobox callout
 4. Opening paragraph
 5. Remaining body sections
+
+Assemble a **local chapter doc** in the same order *but with no image-prompt code block* (item 1 is skipped — chapters reuse the parent's art): frontmatter → infobox (embedding the parent's asset path) → opening paragraph → body sections.
 
 Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
 
@@ -331,7 +343,7 @@ aliases: [Natural Phrasing]
 ```markdown
 > [!infobox|wikipedia]
 > # Faction — City
-> [![[Codex/Assets/Factions/Faction_City_small.webp|cover hsmall]]](Codex/Assets/Factions/Faction_City.webp)
+> [![[Codex/Assets/Factions/Faction_small.webp|cover hsmall]]](Codex/Assets/Factions/Faction.webp)
 > ###### Chapter Information
 > Attribute |  Details |
 > ---|---|
@@ -347,6 +359,8 @@ aliases: [Natural Phrasing]
 ```
 
 Always keep the **Parent Faction** and **City** rows — they are the chapter's anchors.
+
+**The image path reuses the parent faction's asset — not a new chapter-specific one.** A chapter shares its parent's crest, so the embed points at the *parent's* WebP pair, using the parent faction's name with underscores: `Codex/Assets/Factions/<Parent_Faction>_small.webp` and `…/<Parent_Faction>.webp`. For example, `Order of Ravens — Val Miriel` embeds `Order_of_Ravens_small.webp` / `Order_of_Ravens.webp`; `Green Gryphons — Val Miriel` embeds `Green_Gryphons_small.webp` / `Green_Gryphons.webp`. Never invent a `Faction_City` asset path.
 
 ### Chapter body — slim template
 
@@ -378,9 +392,9 @@ No Purpose/Structure/History backbone (those live in the parent). A chapter lead
 
 A chapter gets a restricted companion only if the *local* branch holds its own secrets (a double agent in the cell, a hidden local objective). The parent faction's secrets — its true leadership and grand agenda — stay on the parent's restricted doc, not duplicated here.
 
-### Chapter image prompt
+### Chapter image — reuse the parent's, no new prompt
 
-Same heraldic emblem prompt and 1:1 format as the parent (Step 6) — a chapter shares its parent's symbol, optionally inflected with a local detail (the city's colours, a local motif worked into the crest).
+A local chapter does **not** get its own image prompt or its own asset. It shares the parent faction's crest outright: the chapter file has **no `[STYLE]…[FORMAT]` code block at the top**, and its infobox embed points at the parent's WebP pair (see the chapter infobox note above). Don't generate a prompt, and don't create a `Faction_City` asset. If a chapter ever genuinely warrants its own art — a visibly distinct local variant of the crest — that's a deliberate exception the user must ask for; the default is to reuse the parent's image.
 
 ---
 

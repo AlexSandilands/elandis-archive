@@ -6,8 +6,8 @@ Gender: Female
 Pronouns: She/Her
 Place: "[[Point Blackrock]]"
 Connections:
-  - "[[The Frostwardens]]"
-  - "[[The Frostwarden Crews]]"
+  - "[[Frostwardens]]"
+  - "[[Frostwardens#Crews|Frostwarden Crews]]"
 Profession: Ice Listener
 Importance: Minor
 Status: Alive
@@ -16,7 +16,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Sela]
+aliases:
+  - Sela
 ---
 > [!infobox|wikipedia]
 > # Sela Ren
@@ -33,18 +34,18 @@ aliases: [Sela]
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[Point Blackrock]] |
-> Connections | [[The Frostwardens\|Frostwardens]]<br>[[The Frostwarden Crews#Fox Crew\|Fox Crew]] |
+> Connections | [[Frostwardens]]<br>[[Frostwardens#Crews\|Fox Crew]] |
 > Profession | Ice Listener |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Sela Ren** is a human Ice Listener and member of the [[The Frostwardens|Frostwardens]]' [[The Frostwarden Crews#Fox Crew|Fox Crew]], based out of [[Point Blackrock]]. She guides caravans across the [[Frostway]] not by maps or waymarks, but by feel — pressing her long iron rod to the ice and reading the faint tremors that travel through it, sensing cracks and instabilities long before the eye can see them.
+**Sela Ren** is a human Ice Listener and member of the [[Frostwardens]]' [[Frostwardens#Crews|Fox Crew]], based out of [[Point Blackrock]]. She guides caravans across the [[Frostway]] not by maps or waymarks, but by feel — pressing her long iron rod to the ice and reading the faint tremors that travel through it, sensing cracks and instabilities long before the eye can see them.
 
 ## Biography
 
-Sela came to [[Point Blackrock]] young, drawn north by something she would likely struggle to name — a restlessness, a pull toward the cold silence of the ice. She found purpose among the [[The Frostwardens|Frostwardens]], where her peculiar sensitivity to vibration and her patience in the field made her an asset that no scouting crew would turn down. As the Fox Crew's Ice Listener, she walks at the fore of every crossing, rod in hand, translating the language of the ice into warnings the rest of the crew can act on. Her gift is not magical in the traditional sense — she worships no deity and draws on no divine power — but she describes it simply as "listening," as though the ice speaks and most people have merely forgotten how to hear.
+Sela came to [[Point Blackrock]] young, drawn north by something she would likely struggle to name — a restlessness, a pull toward the cold silence of the ice. She found purpose among the [[Frostwardens]], where her peculiar sensitivity to vibration and her patience in the field made her an asset that no scouting crew would turn down. As the Fox Crew's Ice Listener, she walks at the fore of every crossing, rod in hand, translating the language of the ice into warnings the rest of the crew can act on. Her gift is not magical in the traditional sense — she worships no deity and draws on no divine power — but she describes it simply as "listening," as though the ice speaks and most people have merely forgotten how to hear.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

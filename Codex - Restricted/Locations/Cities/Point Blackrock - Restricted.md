@@ -16,7 +16,7 @@ The two do not appear to be in direct contact; they are parallel cells, neither 
 
 ## Aftermath of the Breakout
 
-The Imperial soldiers sent onto the [[Frostway]] after the party's escaping column perished. Without a [[The Frostwardens|Frostwarden]] guide they had no means of navigating the ice in winter, and the crossing killed them. The locals who remained in town know the soldiers went out and never came back; some have drawn the obvious conclusion.
+The Imperial soldiers sent onto the [[Frostway]] after the party's escaping column perished. Without a [[Frostwardens|Frostwarden]] guide they had no means of navigating the ice in winter, and the crossing killed them. The locals who remained in town know the soldiers went out and never came back; some have drawn the obvious conclusion.
 
 ## Varik Surne's Fate
 

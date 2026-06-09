@@ -56,15 +56,12 @@ Beyond these, each continent has shaped its own cultures, peoples, and tradition
 
 ## Continents
 
-- **[[Valtorra]]** — The northwestern continent, currently under the iron rule of the [[Valtorran Empire|Crimson Empire]]. Home of the campaign.
-- **[[Seraphon]]** — The smaller northern continent, seat of the world's oldest surviving cultures and home to a powerful arcane institution of global reach.
-- **[[Aetheris]]** — The great central continent, site of the Shattering. Its coastal societies thrive; its interior, the Shattered Wastes, remains dangerous and largely lawless.
-- **[[Eldara]]** — The largest continent, spanning the equator and both polar circles. Divided between the ancient northern empire of Valdremis and the trade-built southern empire of Solareth; the mercantile and demographic heart of the world.
-
-## Planes
-
-- **[[Faewild]]** — A separate realm of existence that runs parallel to the material world, inhabited by fey courts and wild, unruly magic. The elves of Valtorra are believed to have withdrawn here.
-
+| Continent | Description |
+|---|---|
+| [[Valtorra]] | The northwestern continent, currently under the iron rule of the [[Valtorran Empire\|Crimson Empire]]. Home of the campaign. |
+| [[Seraphon]] | The smaller northern continent, seat of the world's oldest surviving cultures and home to a powerful arcane institution of global reach. |
+| [[Aetheris]] | The great central continent, site of the Shattering. Its coastal societies thrive; its interior, the Shattered Wastes, remains dangerous and largely lawless. |
+| [[Eldara]] | The largest continent, spanning the equator and both polar circles. Divided between the ancient northern empire of Valdremis and the trade-built southern empire of Solareth; the mercantile and demographic heart of the world. |
 ## Magic & Power
 
 Magic existed only very rarely in Elandis before the Shattering. It entered the world through the Dragon Queen's rift and has been woven into the fabric of reality ever since — present in the air, the land, and the people. The [[The Pantheon|Seven Divines]] preside over the divine sphere, each governing one of the seven elemental and cosmic forces: sun, moon, earth, fire, air, water, and the arcane. The arcane itself, sometimes called the Weave, threads through all things and is the foundation on which mortal spellcasting rests.

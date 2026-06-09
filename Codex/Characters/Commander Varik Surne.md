@@ -44,7 +44,7 @@ aliases: [Varik Surne]
 
 ## Biography
 
-Surne was the Empire's man in the north: not a frontline general but an administrator and enforcer, tasked with holding [[Point Blackrock]] stable while [[Dread General Gerard Blackmarsh]] drove the campaign deeper into enemy territory across the [[Frostway]]. He oversaw four military crossings of the ice, moving approximately ten thousand Imperial soldiers toward [[Val Noren]], coercing [[The Frostwardens]] into guiding them — knowing full well that several crews who crossed never returned.
+Surne was the Empire's man in the north: not a frontline general but an administrator and enforcer, tasked with holding [[Point Blackrock]] stable while [[Dread General Gerard Blackmarsh]] drove the campaign deeper into enemy territory across the [[Frostway]]. He oversaw four military crossings of the ice, moving approximately ten thousand Imperial soldiers toward [[Val Noren]], coercing the [[Frostwardens]] into guiding them — knowing full well that several crews who crossed never returned.
 
 He divided the Frosthearth with Warden-Master Harren Vol, and the arrangement suited him. Vol served as a pressure valve, absorbing the resentment of the remaining townsfolk; Surne could focus on logistics, intelligence, and watching for threats to the occupation from his side of the divided lodge.
 

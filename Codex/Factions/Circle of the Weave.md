@@ -68,7 +68,9 @@ The Ceremony's cost has never been recovered. The Weave continues its warding wo
 
 ## Relations
 
-**Circle of the Blade** — The Weave and the Blade share the [[Confluence of the Seven|Council]], but the balance between them has shifted. Commander [[Kaelen Vayne]] has held the council's practical authority for a century, a dominance born of the Silmara line's absence and the other Circles' acquiescence. [[Illythia Voss]] navigates this with careful pragmatism, holding the Weave's institutional independence without direct confrontation.
+### Circle of the Blade
+
+The Weave and the [[Circle of the Blade]] share the [[Confluence of the Seven|Council]], but the balance between them has shifted. Commander [[Kaelen Vayne]] has held the council's practical authority for a century, a dominance born of the Silmara line's absence and the other Circles' acquiescence. [[Illythia Voss]] navigates this with careful pragmatism, holding the Weave's institutional independence without direct confrontation.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

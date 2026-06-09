@@ -8,7 +8,7 @@ aliases:
     Every year, the freezing happens differently. Currents, storms, and the hidden flow of the deep sea beneath the ice cause **shifts, cracks, and upheavals**. No two crossings are ever identical.
 
 - **Fragmented:**  
-    The Frostway isn’t one solid stretch — it’s a **broken patchwork** of ice fields, frozen tide pools, narrow ridges, and isolated **"ice islands"** where [[The Frostwardens]] must find suitable paths for merchant caravans to cross safely.
+    The Frostway isn’t one solid stretch — it’s a **broken patchwork** of ice fields, frozen tide pools, narrow ridges, and isolated **"ice islands"** where the [[Frostwardens]] must find suitable paths for merchant caravans to cross safely.
 
 - **Treacherous:**  
     Certain areas are infamous —
@@ -25,7 +25,7 @@ aliases:
 ## Monsters of the Frostway:
 
 Not only is the terrain lethal — it's also _hunted_.
-[[The Frostwardens]] have learned how to avoid the territories of these creatures, but occasionally there are encounters.
+The [[Frostwardens]] have learned how to avoid the territories of these creatures, but occasionally there are encounters.
 
 ### Common Dangers:
 
@@ -40,11 +40,11 @@ Not only is the terrain lethal — it's also _hunted_.
 
 ## Rest Spots: "Havens of the Frostway"
 
-Over the centuries, [[The Frostwardens]] (and before them, desperate merchants) have found or created Safe Havens:
+Over the centuries, the [[Frostwardens]] (and before them, desperate merchants) have found or created Safe Havens:
 
 - **Blackrock Shelters**:  
     Small caves or natural hollows carved into the great jagged rocks.  
-    Reinforced with timber and stones by past travellers, often marked with old [[The Frostwardens|Frostwarden]] sigils.
+    Reinforced with timber and stones by past travellers, often marked with old [[Frostwardens|Frostwarden]] sigils.
 
 - **Old Cairns**:  
     Ancient stone cairns where travellers can light fires safely without fear of the flames weakening the ice.  

@@ -75,11 +75,17 @@ Sixty years ago, [[Asha Vayne]] — Kaelen's son and a rising officer of the Cir
 
 ## Relations
 
-**[[Confluence of the Seven]]** — Commander [[Kaelen Vayne]] serves as the council's practical authority; the other Circles defer to his judgement on matters of security and governance, though not always without friction.
+### Confluence of the Seven
 
-**[[Vale of Eternal Night]]** — Cold hostility contained by a fragile truce. The killing of [[Asha Vayne]] sixty years ago left a wound in the Blade that has never closed; Kaelen has tolerated the peace because the council requires it, nothing more.
+Commander [[Kaelen Vayne]] serves the [[Confluence of the Seven]] as the council's practical authority; the other Circles defer to his judgement on matters of security and governance, though not always without friction.
 
-**[[Silmara Family]]** — The Circle was built to serve the Silmara line, and the sealed Royal Citadel has been an open absence at the heart of its purpose for a century. The question of what the order owes if the royal bloodline were to resurface has never been formally answered.
+### Vale of Eternal Night
+
+Cold hostility toward the [[Vale of Eternal Night]], contained by a fragile truce. The killing of [[Asha Vayne]] sixty years ago left a wound in the Blade that has never closed; Kaelen has tolerated the peace because the council requires it, nothing more.
+
+### Silmara Family
+
+The Circle was built to serve the [[Silmara Family|Silmara line]], and the sealed Royal Citadel has been an open absence at the heart of its purpose for a century. The question of what the order owes if the royal bloodline were to resurface has never been formally answered.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

@@ -7,8 +7,8 @@ Pronouns: She/Her
 Age: 30s
 Place: "[[Point Blackrock]]"
 Connections:
-  - "[[The Frostwardens]]"
-  - "[[The Frostwarden Crews]]"
+  - "[[Frostwardens]]"
+  - "[[Frostwardens#Crews|Frostwarden Crews]]"
 Profession: Frostwarden Pathfinder
 Importance: Minor
 Status: Alive
@@ -36,14 +36,14 @@ aliases:
 > Pronouns | She/Her |
 > Age | 30s |
 > Place | [[Point Blackrock]] |
-> Connections | [[The Frostwardens\|Frostwardens]]<br>[[The Frostwarden Crews#Fox Crew\|Fox Crew]] |
+> Connections | [[Frostwardens]]<br>[[Frostwardens#Crews\|Fox Crew]] |
 > Profession | Frostwarden Pathfinder |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Lysa Mornvale** is a human pathfinder and leader of the [[The Frostwardens|Frostwardens]]' [[The Frostwarden Crews#Fox Crew|Fox Crew]], operating out of [[Point Blackrock]]. She knows the [[Frostway]] better than most people know their own streets — a slim, freckled woman with a long red scarf and green eyes that miss nothing, whose calm authority in dangerous terrain marks her as someone who has earned every inch of her reputation.
+**Lysa Mornvale** is a human pathfinder and leader of the [[Frostwardens]]' [[Frostwardens#Crews|Fox Crew]], operating out of [[Point Blackrock]]. She knows the [[Frostway]] better than most people know their own streets — a slim, freckled woman with a long red scarf and green eyes that miss nothing, whose calm authority in dangerous terrain marks her as someone who has earned every inch of her reputation.
 
 ## Biography
 
@@ -57,7 +57,7 @@ Introduced as the Fox Crew's pathfinder and de facto leader when the party joine
 
 #### [[Session 34 - Mourning Bells]]
 
-Led the party's forward scout team deeper into the [[Frostway]] after the Fox Crew agreed to investigate the fate of the missing [[The Frostwarden Crews#Wolf Crew|Wolf Crew]]. Accompanied [[Dane Verric]] and [[Sela Ren|Sela]] into a humid, moss-lined cavern at the end of an unnatural gouge in the ice — where the group found a large egg and a dimensional rift — and ordered the immediate retreat. When the crew later discovered the frozen massacre site of the Wolf Crew, combat erupted as three Remorhazes burst from the ravine walls; Lysa landed the killing blow on the smaller worm with her heavy crossbow, then joined the effort to dig [[Kai]] free from the belly of the slain alpha.
+Led the party's forward scout team deeper into the [[Frostway]] after the Fox Crew agreed to investigate the fate of the missing [[Frostwardens#Crews|Wolf Crew]]. Accompanied [[Dane Verric]] and [[Sela Ren|Sela]] into a humid, moss-lined cavern at the end of an unnatural gouge in the ice — where the group found a large egg and a dimensional rift — and ordered the immediate retreat. When the crew later discovered the frozen massacre site of the Wolf Crew, combat erupted as three Remorhazes burst from the ravine walls; Lysa landed the killing blow on the smaller worm with her heavy crossbow, then joined the effort to dig [[Kai]] free from the belly of the slain alpha.
 
 #### [[Session 35 - The Frostway]]
 

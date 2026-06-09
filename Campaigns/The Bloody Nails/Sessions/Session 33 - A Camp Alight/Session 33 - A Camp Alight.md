@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-The party arrives at the windswept, frozen settlement of [[Point Blackrock]], only to find it swallowed by a massive encampment of [[Valtorran Empire|The Crimson Empire]]. Attempting to pass as simple mercenaries, they are intercepted by Captain Catherine, who attempts to confiscate their gear. A tense standoff is averted when [[Vaeleran]] leans into his forgotten past, invoking the rank of [[General Korvas]] to secure their autonomy. While Vaeleran is escorted to a high-stakes meeting with the local Imperial Commander - who recognises him as a "missing" asset and offers a suspicious deal to cross the ice in a week - the rest of the party detects Abjuration magic nearby and discovers the Empire has imprisoned [[The Frostwardens]], specifically the [[The Frostwarden Crews#Fox Crew|Fox Crew]], who are essential for navigating the shifting ice to [[Val Noren]].
+The party arrives at the windswept, frozen settlement of [[Point Blackrock]], only to find it swallowed by a massive encampment of [[Valtorran Empire|The Crimson Empire]]. Attempting to pass as simple mercenaries, they are intercepted by Captain Catherine, who attempts to confiscate their gear. A tense standoff is averted when [[Vaeleran]] leans into his forgotten past, invoking the rank of [[General Korvas]] to secure their autonomy. While Vaeleran is escorted to a high-stakes meeting with the local Imperial Commander - who recognises him as a "missing" asset and offers a suspicious deal to cross the ice in a week - the rest of the party detects Abjuration magic nearby and discovers the Empire has imprisoned the [[Frostwardens]], specifically the [[Frostwardens#Crews|Fox Crew]], who are essential for navigating the shifting ice to [[Val Noren]].
 
 Refusing to wait and walk into a trap, the party hatches a chaotic plan to break out the Wardens and nearly a hundred other conscripted prisoners. [[Dondar]] utilises powerful transmutation magic to fabricate dozens of keys from a set of manacles, while [[Kai]] and [[Eryndor]] coordinate a two-pronged strategy. As night falls, Vaeleran and Eryndor infiltrate the prison tents to distribute keys, while Dondar and Kai - shapeshifted into a white elk - flank the camp to feign a massive rebel attack from the south.
 
@@ -46,7 +46,7 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
 * The Commander recognises Vaeleran as [[General Korvas|Korvas]] and is amused by his memory loss. He reveals that "[[Dread General Gerard Blackmarsh|General Gerard]]" is leading the assault on [[Val Noren]] and would be eager to see Korvas.
 * The Commander offers a deal: Wait one week for reinforcements, and Vaeleran can join the final crossing to the north. Vaeleran bluffs, offering to lead a crossing sooner to aid the war effort.
 * Meanwhile, [[Ryo]] casts *Detect Magic* and senses Abjuration magic in the adjacent tent.
-* [[Eryndor]] uses stealth and invisibility to investigate the neighboring tent. He meets the imprisoned [[The Frostwardens|Frostwarden]] (The Fox Crew):
+* [[Eryndor]] uses stealth and invisibility to investigate the neighboring tent. He meets the imprisoned [[Frostwardens|Frostwarden]] (The Fox Crew):
     * **[[Sela Ren]] (Ice Listener):** Can sense vibrations and cracks in the ice.
     * **[[Dane Verric]] (Scout):** Expert at finding paths and avoiding monsters.
     * **[[Lysa]] (Pathfinder/Leader):** Knows the Frostway intimately.
@@ -68,7 +68,7 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
     * [[Ryo]] fires an explosive smoke powder arrow into a dense cluster of tents to add to the confusion.
 * **The Breakout:**
     * [[Eryndor]], [[Vaeleran]], and Ryo (disguised as an Imperial guard) move through the northern "Press Yards," tossing keys to prisoners and unlocking manacles.
-    * [[The Frostwardens]] take charge of the civilians, leading a stampede north towards the ice.
+    * The [[Frostwardens]] take charge of the civilians, leading a stampede north towards the ice.
 * Imperial soldiers rush south to fight the phantom "rebel attack," taking heavy casualties from the magic, while the prisoners escape with minimal resistance.
 * Kai (as the elk) and Dondar outrun the retaliatory crossbow fire—though Kai takes a few bolts to the flank—and loop back north.
 * The party successfully reunites on the edge of the [[Frostway]]. Vaeleran introduces the group to the bewildered Wardens as "The Bloody Nails."

@@ -44,7 +44,7 @@ A quiet library near the cliffs on the northeastern edge of the city, overlookin
 
 #### Green Gryphon Guildhall *(guildhall — reputable)*
 
-The [[Green Gryphons|Green Gryphon]] chapter in Farhaven, positioned at the central crossroads where the main north-south road meets the east-west road to the Eastern Dock. The location is deliberate — a maximally visible, maximally trafficked corner for a guild whose business is trade.
+The [[Green Gryphons|Green Gryphon]] chapter in Farhaven, positioned at the central crossroads where the main north-south road meets the east-west road to the Eastern Dock. The location is deliberate — a maximally visible, maximally trafficked corner for a mercenary guild whose business depends on being the first place people think of when they have a dangerous job.
 
 #### Farhaven Armory *(smithy — reliable)*
 

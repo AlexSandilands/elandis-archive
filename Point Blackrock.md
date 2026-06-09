@@ -13,8 +13,8 @@ A major frontier settlement and the last outpost before the [[Frostway]] — cur
 - Located on a rocky headland on the north-eastern coast of [[Valtorra]], sea cliffs on the north and east sides (sketch)
 - The black rock spires that give the settlement its name are visually striking — jutting from the coast and sea, visible above the ice in winter (stub, sketch)
 - In winter, the frozen coast becomes the start of the [[Frostway]] itself (sketch)
-- Governed by a loose council of merchants and [[The Frostwardens|Frostwarden]] representatives — no formal law beyond survival courtesy (stub)
-- [[The Frostwardens]] are former members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] who settled here permanently (stub)
+- Governed by a loose council of merchants and [[Frostwardens|Frostwarden]] representatives — no formal law beyond survival courtesy (stub)
+- The [[Frostwardens]] are former members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] who settled here permanently (stub)
 - Imperial occupation began winter 2507 as a staging ground for the Val Noren assault (stub, Session 32–33)
 - ~10,000 Imperial soldiers crossed the Frostway in four crossings during the occupation (Session 33 prep)
 - Session 33: the party broke out ~50–100 prisoners and the Fox Crew, torched the Imperial camp, and escaped onto the Frostway (Session 33 synopsis)
@@ -32,7 +32,7 @@ The settlement clusters in the sheltered centre of the headland, with the [[Poin
 
 Point Blackrock began as a seasonal gathering: merchants and guides staking their tents each winter near the onset of freezing, sheltering in the lee of the black spires while they waited for the ice to firm. As the [[Frostway]] grew in prominence and the crossings more reliable, a handful of families, traders, and survivalists stopped leaving at the thaw. A permanent settlement took shape around those who stayed.
 
-[[The Frostwardens]] — formerly members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] who had abandoned the south for the frontier — were among the earliest to commit to year-round life here. They became the settlement's backbone: guardians of the crossing, mediators of disputes, and the reason merchants trusted the route at all. The Frosthearth, their great stone lodge at the town's heart, was the first permanent building of any real consequence.
+The [[Frostwardens]] — formerly members of [[Lighthaven|Lighthaven's]] [[Duskwardens]] who had abandoned the south for the frontier — were among the earliest to commit to year-round life here. They became the settlement's backbone: guardians of the crossing, mediators of disputes, and the reason merchants trusted the route at all. The Frosthearth, their great stone lodge at the town's heart, was the first permanent building of any real consequence.
 
 Governance was never formalised. A loose council of senior merchants and Frostwarden representatives handled what little needed handling, and most disputes were settled by reputation or Frostwarden mediation. Point Blackrock had no standing army, no imperial charter, and no particular desire for either.
 
@@ -46,7 +46,7 @@ Since the occupation, many of the bolder or more vulnerable residents escaped al
 
 ## Culture and Beliefs
 
-Blackrock's culture is shaped by winter, deference to [[The Frostwardens]], and a deep respect for the ice. The [[Frostway]] is spoken of as a living thing — a road that punishes arrogance and rewards care. Many locals carry small charms believed to ward off accidents on the crossing. It is considered grave bad luck to speak loudly about death while on the ice, or to mock a Frostwarden.
+Blackrock's culture is shaped by winter, deference to the [[Frostwardens]], and a deep respect for the ice. The [[Frostway]] is spoken of as a living thing — a road that punishes arrogance and rewards care. Many locals carry small charms believed to ward off accidents on the crossing. It is considered grave bad luck to speak loudly about death while on the ice, or to mock a Frostwarden.
 
 During the crossing season the settlement was traditionally communal: fires shared, supplies traded, disputes postponed. Songs, drink, and stories flourished on stormy nights even among strangers. That warmth has curdled under the occupation, but the habits are not entirely gone.
 
@@ -54,9 +54,9 @@ During the crossing season the settlement was traditionally communal: fires shar
 
 The [[Valtorran Empire]] arrived in winter 2507 and seized Point Blackrock as a military staging ground for its assault on [[Val Noren]]. The [[Point Blackrock#The Frosthearth|Frosthearth]] was split: Commander Varik Surne installed himself in the Imperial half as military governor; Warden-Master Harren Vol retained the Frostwarden half, walking a careful line between cooperation and survival. The [[Point Blackrock#The Press Yards|Press Yards]] were established at the north-eastern edge of town to hold conscripts and coerced Frostwardens.
 
-Four crossings were made during the occupation, moving approximately 10,000 soldiers across the Frostway. Not all [[The Frostwarden Crews|Frostwarden Crews]] who guided them returned.
+Four crossings were made during the occupation, moving approximately 10,000 soldiers across the Frostway. Not all [[Frostwardens#Crews|Frostwarden Crews]] who guided them returned.
 
-In late 2507, the party infiltrated the settlement, freed approximately 50–100 prisoners and the [[The Frostwarden Crews#Fox Crew|Fox Crew]], and burned the Imperial tent camp before escaping onto the ice. Imperial reinforcements expected within a week were waylaid by the Hobgoblin army and never arrived. The Empire reasserted control of the settlement, but against a much-reduced population — most of those who could leave had already gone.
+In late 2507, the party infiltrated the settlement, freed approximately 50–100 prisoners and the [[Frostwardens#Crews|Fox Crew]], and burned the Imperial tent camp before escaping onto the ice. Imperial reinforcements expected within a week were waylaid by the Hobgoblin army and never arrived. The Empire reasserted control of the settlement, but against a much-reduced population — most of those who could leave had already gone.
 
 Point Blackrock remains under Imperial occupation. [[King Marius Noren]] of [[Val Noren]] is reportedly considering a southern push to relieve it.
 
@@ -65,10 +65,10 @@ Point Blackrock remains under Imperial occupation. [[King Marius Noren]] of [[Va
 ### The Frosthearth
 
 > [!example]+ Description
-> A long, sturdy stone lodge at the heart of Point Blackrock, once the proud hall of [[The Frostwardens]]. The exterior walls bear the sigils of eight crews placed evenly. The interior walls are etched with crossing records, names of fallen guides, and old sigils. Half of the building has been seized by [[Valtorran Empire|The Empire]] and repurposed as their command post. The other half still houses [[The Frostwardens|Frostwarden]] supplies, maps, and elders. Tension crackles in the air — one side burns with purpose, the other chills with occupation.
+> A long, sturdy stone lodge at the heart of Point Blackrock, once the proud hall of the [[Frostwardens]]. The exterior walls bear the sigils of eight crews placed evenly. The interior walls are etched with crossing records, names of fallen guides, and old sigils. Half of the building has been seized by [[Valtorran Empire|The Empire]] and repurposed as their command post. The other half still houses [[Frostwardens|Frostwarden]] supplies, maps, and elders. Tension crackles in the air — one side burns with purpose, the other chills with occupation.
 
 Characters:
-- Warden-Master Harren Vol — Aging leader of [[The Frostwardens]], walking a tightrope between diplomacy and survival. Burly, grey-bearded, and stubborn as stone.
+- Warden-Master Harren Vol — Aging leader of the [[Frostwardens]], walking a tightrope between diplomacy and survival. Burly, grey-bearded, and stubborn as stone.
 - Commander Varik Surne — Imperial military governor, occupying the Imperial half of the Frosthearth. Cold, calculating. Second-in-command of the occupation forces; reported directly to [[Dread General Gerard Blackmarsh]].
 
 ### The Press Yards
@@ -132,13 +132,13 @@ Characters:
 
 Characters:
 - Mira Fenlock — Tavernmistress. Fierce and protective.
-- "Cider" Jax — Friendly older man and former [[The Frostwardens|Frostwarden]], who sits near the hearth every night. Sometimes slips useful rumours to the right ears.
+- "Cider" Jax — Friendly older man and former [[Frostwardens|Frostwarden]], who sits near the hearth every night. Sometimes slips useful rumours to the right ears.
 
 ## Campaign: [[The Bloody Nails]]
 
 ### [[Session 33 - A Camp Alight]]
 
-The party arrived during a storm, entered under the guise of Imperial soldiers and mercenaries, and were intercepted by Captain Kathryn Teren. [[Vaeleran]] invoked his former identity as [[General Korvas]] to avoid confiscation of their gear. While Vaeleran met with Commander Varik Surne at the Frosthearth — who saw a "missing asset" and offered a week's delay before crossing with reinforcements — the rest of the party used detect magic to locate the imprisoned [[The Frostwarden Crews#Fox Crew|Fox Crew]] in the adjacent tent.
+The party arrived during a storm, entered under the guise of Imperial soldiers and mercenaries, and were intercepted by Captain Kathryn Teren. [[Vaeleran]] invoked his former identity as [[General Korvas]] to avoid confiscation of their gear. While Vaeleran met with Commander Varik Surne at the Frosthearth — who saw a "missing asset" and offered a week's delay before crossing with reinforcements — the rest of the party used detect magic to locate the imprisoned [[Frostwardens#Crews|Fox Crew]] in the adjacent tent.
 
 The party split. [[Dondar]] and [[Kai]] flew to the southern edge of the camp and unleashed fireballs and a moonbeam into the Imperial tents; Kai, shapeshifted into a white elk, drew the soldiers south. [[Ryo]] fired an explosive arrow into the tent clusters. [[Eryndor]] and Vaeleran moved through the Press Yards distributing fabricated keys to prisoners. The Fox Crew took charge of the column and led a stampede north onto the ice, with roughly 50–100 civilians escaping alongside them. Vaeleran introduced the group to the bewildered Wardens as "The Bloody Nails."
 
@@ -148,7 +148,7 @@ Refugees from Point Blackrock arrived in [[Val Noren]], having survived the Fros
 
 ## Restricted
 
-- The Imperial soldiers sent after the escapees onto the [[Frostway]] perished. Without a [[The Frostwardens|Frostwarden]] guide they had no means of navigating the ice in winter, and the crossing killed them.
+- The Imperial soldiers sent after the escapees onto the [[Frostway]] perished. Without a [[Frostwardens|Frostwarden]] guide they had no means of navigating the ice in winter, and the crossing killed them.
 - Nella Dorn has been quietly brewing explosive powders for rebel sympathisers since before the occupation — a dormant, unactivated cell that the players never encountered. She is still in town.
 - Mira Fenlock runs an active resistance network from the Last Respite — passing messages, sheltering fugitives. She has gone very quiet since the breakout but the operation is ongoing.
 - Commander Varik Surne was almost certainly relieved and executed following the escape. [[Dread General Gerard Blackmarsh]] was the obvious candidate but his own fate intervened. Surne was likely dealt with by [[General Korvas]] ([[Vaeleran]]) after departing [[Val Noren]] — a consequence of Vaeleran's cover identity that the players have no knowledge of.

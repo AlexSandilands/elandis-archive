@@ -65,7 +65,7 @@ tags:
 
 ### Unguided
 
-- If the party does not bring a [[The Frostwarden Crews|Frostwarden Crew]] with them:
+- If the party does not bring a [[Frostwardens#Crews|Frostwarden Crew]] with them:
 	- DC 15 Survival Check for each day of their travel, or they lose 1/2 a day
 	- DC 15 Constitution save at the end of each day, or they gain a 2 points of exhaustion
 
@@ -79,7 +79,7 @@ tags:
 ### Post Fight with Remorhaz
 
 - Boots of the Winterlands can be found inside, DC 15 Investigation
-	- These were Mira's, from [[The Frostwarden Crews#Wolf Crew|Wolf Crew]]
+	- These were Mira's, from [[Frostwardens#Crews|Wolf Crew]]
 	- 
 
 ### Haven: The Hallow Isle
@@ -87,11 +87,11 @@ tags:
 >[!summary]+ Details
 > - A larger, stable ice island with a sunken centre, protected from storms by sheer ice cliffs. Used for multi-day rests if blizzards trap travelers.
 
-- Kellen Reeve ([[The Frostwarden Crews#Wolf Crew|Wolf Crew]]) is here, badly injured
+- Kellen Reeve ([[Frostwardens#Crews|Wolf Crew]]) is here, badly injured
 - Trying to lead the soliders into dangerous terrain then leave them
 - Got ambushed by worms before they could give them the slip
 - Didn't see what happened to Veyra or Mira
-- [[The Frostwarden Crews#Fox Crew|Fox Crew]] will want to try to save Kellen, he can't travel alone
+- [[Frostwardens#Crews|Fox Crew]] will want to try to save Kellen, he can't travel alone
 
 ### Encounter: The Shattered Fields
 

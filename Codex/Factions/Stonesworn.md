@@ -56,7 +56,17 @@ Liberation in 2507 returned the mines and the temple both to Noren hands. The gu
 
 ## Relations
 
-The Stonesworn are deeply bound to Val Noren's civic and religious life. Their relationship with [[The Stoneheart]] temple is the oldest of these — guild and temple are essentially co-institutions, sharing the armory and the devotional calendar. [[King Marius Noren]]'s court regards them as essential to the city's identity and economy; the family heirloom [[Renite Steel]] dagger presented to [[The Bloody Nails]] following the liberation was almost certainly Stonesworn work.
+The Stonesworn are deeply bound to Val Noren's civic and religious life, and most of their ties run through the city itself.
+
+### The Stoneheart
+
+Their relationship with [[The Stoneheart]] temple is the oldest of these — guild and temple are essentially co-institutions, sharing the armory and the devotional calendar.
+
+### Court of Val Noren
+
+[[King Marius Noren]]'s court regards the guild as essential to the city's identity and economy; the family heirloom [[Renite Steel]] dagger presented to [[The Bloody Nails]] following the liberation was almost certainly Stonesworn work.
+
+### Valtorran Empire
 
 Their relationship with the [[Valtorran Empire]] is one of occupation survived and not forgotten. The guild does not pursue political vengeance — that is not their function — but there is no warmth there, and the Stonesworn have no interest in working for Imperial patrons.
 

@@ -76,13 +76,13 @@ tags:
 
 ### Unguided
 
-- If the party does not bring a [[The Frostwarden Crews|Frostwarden Crew]] with them:
+- If the party does not bring a [[Frostwardens#Crews|Frostwarden Crew]] with them:
 	- DC 15 Survival Check for each day of their travel, or they lose 1/2 a day
 	- DC 15 Constitution save at the end of each day, or they gain a 2 points of exhaustion
 
 ### Discoveries
 
-- Mourning Bells, left from previous crossings by [[The Frostwardens]]
+- Mourning Bells, left from previous crossings by the [[Frostwardens]]
 - Dead soldiers who didn't make it.
 
 ### Havens

@@ -114,9 +114,9 @@ oFael
 - [x] Val Luminor
 - [x] Val Solis
 - [x] Valfyria
-- [ ] Miriel's Rest
+- [x] Miriel's Rest
 - [x] River's Watch
-- [ ] Tumbler's Crag
+- [x] Tumbler's Crag
 
 ---
 
@@ -135,7 +135,7 @@ Reformat (have content):
 - [x] Circle of Blades *(canonical after Day 1 merge)*
 - [ ] Valtorran Empire *(nation/faction)*
 - [x] [[Order of Ravens]]
-- [ ] The Green Gryphons
+- [x] The Green Gryphons
 - [ ] The Emberlight Vigil
 - [ ] Hand of The Empire
 - [ ] Eye of the Empire *(imperial spy network)*

@@ -72,7 +72,7 @@ If faith is the city's crown, the river is its identity. The [[Luminor River]] i
 
 ### The River Market
 
-The **[[Val Miriel River Market|River Market]]** is a permanent fixture spanning a long stretch of the [[Luminor River]] on both banks near [[Valena's Bridge]] — the **River Market (West)** and **River Market (East)**. Because the river touches everyone's life and nearly the whole city passes through at one time or another, the market has grown to hold something for every purse and every need, from dockside staples to luxuries off the ships. For most citizens, a visit is an ordinary part of the week.
+The [[Val Miriel River Market|River Market]] is a permanent fixture spanning a long stretch of the [[Luminor River]] on both banks near [[Valena's Bridge]] — the **River Market (West)** and **River Market (East)**. Because the river touches everyone's life and nearly the whole city passes through at one time or another, the market has grown to hold something for every purse and every need, from dockside staples to luxuries off the ships. For most citizens, a visit is an ordinary part of the week.
 
 ## Districts
 

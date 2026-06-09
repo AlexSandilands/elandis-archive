@@ -31,7 +31,7 @@ The Northern Reaches is the scattered island chain in the far north-east of [[Va
 
 ## Geography & Landscape
 
-The Northern Reaches extend north-east from [[Valtorra]]'s coast in a ragged arc of islands separated by cold, ice-prone channels. The largest island rises to a range of forested mountains in its interior; smaller islets to the south and west serve as waypoints and occasional shelter for those crossing the sea. In winter, the channels between the islands freeze into the [[Frostway]], the only reliable route to [[Val Noren]] when sea travel becomes untenable. The crossing is treacherous, managed primarily by the [[The Frostwardens|Frostwardens]], and takes the better part of a week under good conditions.
+The Northern Reaches extend north-east from [[Valtorra]]'s coast in a ragged arc of islands separated by cold, ice-prone channels. The largest island rises to a range of forested mountains in its interior; smaller islets to the south and west serve as waypoints and occasional shelter for those crossing the sea. In winter, the channels between the islands freeze into the [[Frostway]], the only reliable route to [[Val Noren]] when sea travel becomes untenable. The crossing is treacherous, managed primarily by the [[Frostwardens]], and takes the better part of a week under good conditions.
 
 The climate is harsh throughout the chain. Winters are long and punishing; summers are brief, grey, and wet. The forested hillsides of the larger islands are dark with evergreens that grow low and wind-bent, and the exposed coastlines are raw stone worn smooth by ice and tide. The sea is seldom warm even in high summer, and the prevailing winds blow cold off the open ocean to the north.
 

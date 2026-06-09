@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-Recovering from their brutal encounter with the Remorhazes, the party takes a moment to harvest resources, with [[Kai]] collecting scales for armour and [[Ryo]] scavenging arrows. Inside the belly of one beast, they discover a pair of *Boots of the Winterlands*, which [[Sela Ren]] tragically identifies as belonging to Mira Sal, and member of [[The Frostwarden Crews#Wolf Crew|Wolf Crew]], confirming the demise of more Frostwardens. The group presses on to the Hollow Isle, a sheltered haven where they find [[The Frostwarden Crews#Wolf Crew|Kellan]], the sole survivor of the Wolf Crew. Kellan reveals a harrowing truth: the monsters of the [[Frostway]] were awakened not by chance, but by the vibrations of thousands of [[Valtorran Empire|The Crimson Empire]] soldiers marching toward [[Val Noren]].
+Recovering from their brutal encounter with the Remorhazes, the party takes a moment to harvest resources, with [[Kai]] collecting scales for armour and [[Ryo]] scavenging arrows. Inside the belly of one beast, they discover a pair of *Boots of the Winterlands*, which [[Sela Ren]] tragically identifies as belonging to Mira Sal, and member of [[Frostwardens#Crews|Wolf Crew]], confirming the demise of more Frostwardens. The group presses on to the Hollow Isle, a sheltered haven where they find [[Frostwardens#Crews|Kellan]], the sole survivor of the Wolf Crew. Kellan reveals a harrowing truth: the monsters of the [[Frostway]] were awakened not by chance, but by the vibrations of thousands of [[Valtorran Empire|The Crimson Empire]] soldiers marching toward [[Val Noren]].
 
 Faced with a choice between the [[Frostway#Nature of the Frostway|Shattered Fields]] and the [[Frostway#Nature of the Frostway|Veiled Rift]], the party opts for the latter. Kai ingeniously utilizes a *Water Walk* ritual to allow the group to traverse the treacherous, snow-covered ice sheets without slipping. However, their journey is interrupted by an ambush from three Yetis. The battle is chaotic; Ryo deals devastating damage with his bow, while [[Dondar]] unleashes the fury of his pyromancy. The dwarf's second *Fireball*, while effective against the enemy, proves catastrophic for the environment, triggering a massive avalanche that sweeps down the mountainside.
 
@@ -38,12 +38,12 @@ Faced with a choice between the [[Frostway#Nature of the Frostway|Shattered Fiel
 * **Harvesting:** [[Kai]] successfully harvested approximately 20-30 lbs of Remorhaz scales, intending to have them crafted into a breastplate later.
 * **Looting:** [[Ryo]] scavenged arrows from the fallen Empire soldiers. The party found a pair of boots inside the Remorhaz that swallowed Kai.
 * **Identification:** [[Dondar]] identified the items as *Boots of the Winterlands*.
-* **Lore:** [[Sela Ren|Sela]] recognized the boots as belonging to Mira, a member of the missing [[The Frostwarden Crews#Wolf Crew|Wolf Crew]], confirming her death. [[Vaeleran]] noted that the dead soldiers found earlier were only a fraction of the full Empire force.
+* **Lore:** [[Sela Ren|Sela]] recognized the boots as belonging to Mira, a member of the missing [[Frostwardens#Crews|Wolf Crew]], confirming her death. [[Vaeleran]] noted that the dead soldiers found earlier were only a fraction of the full Empire force.
 
 ### The Hollow Isle
 
-* **Refuge:** The party arrived at the Hollow Isle, a circular, sheltered location used by [[The Frostwardens|Frostwardens]].
-* **Survivor:** They found Kellan, the last survivor of [[The Frostwarden Crews#Wolf Crew|Wolf Crew]], barely alive. [[Kai]] and [[Ryo]] used healing magic to stabilize him.
+* **Refuge:** The party arrived at the Hollow Isle, a circular, sheltered location used by the [[Frostwardens]].
+* **Survivor:** They found Kellan, the last survivor of [[Frostwardens#Crews|Wolf Crew]], barely alive. [[Kai]] and [[Ryo]] used healing magic to stabilize him.
 * **Intel:** Kellan revealed that the Wolf Crew tried to lead Empire soldiers off-path to kill them, but the vibrations of the massive army (estimated at 10,000 strong) woke the Remorhazes from the deep.
 * **Departure:** The party rested for the night. The following morning, [[Dane Verric]] volunteered to stay behind to care for Kellan, while [[Lysa]] and [[Sela Ren|Sela]] continued guiding the party.
 
