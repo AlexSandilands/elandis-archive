@@ -63,7 +63,7 @@ Down in the Greensward, deep enough that the air went warm and humid, [[Warden S
 ### The Diminished Trove
 
 * In the Etherean Canton, the party visited the Diminished Trove, run by the elderly Arcanist Levvel, pristine in blue robes.
-* The shop's stock was slim — most powerful items had gone with refugees through the Emerald Ceremony or been claimed by the city's defenders.
+* The shop's stock was slim — most powerful items had gone with the volunteers through the Emerald Ceremony or been claimed by the city's defenders.
 * **Available stock (rolled):** two potions of fire breath, one potion of heroism, one potion of gaseous form, a medallion of thoughts, an eye-emblazoned magical shield granting advantage on initiative and Perception, a pair of sending stones, and a Wand of the War Mage (+1).
 * **Major Reveal — the [[Emberblade]] awakens:** [[Eryndor]] asked her to identify the sword. She wove a ritual of purple thread around it, then stopped and stared. *"It's one of the more powerful items I think I've ever seen."*
 * She told [[Eryndor]] to put aside his component pouch and channel a spell through the [[Emberblade]] itself. He cast illusory script; the blade pulsed and glowed with arcane light.

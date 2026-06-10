@@ -9,7 +9,7 @@ Languages: Common, Elvish
 Place: "[[Sumara, The Shining City|Sumara]]"
 Connections:
   - "[[Sumara, The Shining City|Circle of the Root]]"
-  - "[[Confluence of the Seven]]"
+  - "[[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]]"
 Profession: Meridian of the Circle of the Root
 Importance: Minor
 Status: Alive
@@ -38,7 +38,7 @@ aliases:
 > Age | ~700 |
 > Languages | Common, Elvish |
 > Place | [[Sumara, The Shining City\|Sumara]] |
-> Connections | Circle of the Root<br>[[Confluence of the Seven\|The Confluence]] |
+> Connections | Circle of the Root<br>[[Sumara, The Shining City#The Confluence of the Seven\|The Confluence]] |
 > Profession | Meridian of the Circle of the Root |
 > ###### Status
 > Attribute |  Details |
@@ -57,7 +57,7 @@ Despite her reticence toward strangers, Sylvaris is not cold. Those she trusts f
 
 #### [[Session 47 - Confluence of the Seven]]
 
-Sylvaris attended the [[Confluence of the Seven]] as a member of the Council of Circles. Quiet for much of the session, she broke her silence to report that she could feel the Faewild fraying through the roots — *"Things are pressing against the mountains that don't belong here"* — a testimony that shifted the balance of the vote. She raised her hand in favour of opening the [[Vault of Memories]], joining [[Illythia Voss]], Fenian, Naivara Siannodel, and Silaqui Amastacia in a five-to-two result.
+Sylvaris attended the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] as a member of the Council of Circles. Quiet for much of the session, she broke her silence to report that she could feel the Faewild fraying through the roots — *"Things are pressing against the mountains that don't belong here"* — a testimony that shifted the balance of the vote. She raised her hand in favour of opening the [[Vault of Memories]], joining [[Illythia Voss]], Fenian, Naivara Siannodel, and Silaqui Amastacia in a five-to-two result.
 
 #### [[Session 50 - A New Morning in Sumara]]
 

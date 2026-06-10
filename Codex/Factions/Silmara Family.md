@@ -33,7 +33,7 @@ The Silmara Family is the ancient royal bloodline of the Sumaran elves — a lin
 
 ## Purpose & Goals
 
-The Silmara line exists to be custodians, not rulers. By the old compact that has shaped Sumaran society since the city's founding, the family's role is narrow and deliberate: to settle disputes when the [[Confluence of the Seven]] cannot reach agreement on its own, and to hold the keys to what only their blood can open. They do not sit on councils, do not command armies, and are not bound by any circle's charter. Their mandate sits in a different register entirely — not political authority, but something older and harder to define, closer to trusteeship than power.
+The Silmara line exists to be custodians, not rulers. By the old compact that has shaped Sumaran society since the city's founding, the family's role is narrow and deliberate: to settle disputes when the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] cannot reach agreement on its own, and to hold the keys to what only their blood can open. They do not sit on councils, do not command armies, and are not bound by any circle's charter. Their mandate sits in a different register entirely — not political authority, but something older and harder to define, closer to trusteeship than power.
 
 The Sumaran elves describe the bloodline as "Blessed by Mother," meaning the [[World Tree]], and the phrase is not merely ceremonial. The blessing is structural: every Silmara carries a binding made at the moment the bloodline was founded, a tie to the World Tree's life and magic that passes unbroken through every generation. That tie is why no one else can operate the World Gates, why the Vault of Memories opens only to their touch. The family has never fully explained this, and the circles have never fully understood it. That ambiguity is part of what keeps the relationship functional — the Silmaras are custodians of something no one else can reach, and in lieu of understanding, Sumara has offered them trust.
 
@@ -90,7 +90,7 @@ Neither of them followed. [[Dread General Gerard Blackmarsh]] found them before 
 
 ### The Circles of Sumara
 
-The Silmara relationship with the circles — [[Circle of the Weave]], [[Circle of the Blade]], and the others — is one of mutual respect built on deliberate distance. The circles govern Sumara through the [[Confluence of the Seven]]; the Silmaras sit above that compact rather than within it. The balance depends on the Silmaras not seeking power and the circles not resenting the authority they defer. It has worked for centuries because the ruling heirs have consistently understood what the role requires.
+The Silmara relationship with the circles — [[Circle of the Weave]], [[Circle of the Blade]], and the others — is one of mutual respect built on deliberate distance. The circles govern Sumara through the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]]; the Silmaras sit above that compact rather than within it. The balance depends on the Silmaras not seeking power and the circles not resenting the authority they defer. It has worked for centuries because the ruling heirs have consistently understood what the role requires.
 
 ### The Valtorran Empire
 
@@ -104,11 +104,11 @@ The [[Valtorran Empire]] marked the Silmara line for elimination as part of its 
 
 #### [[Session 46 - The Shining City]]
 
-[[Ayana Syndrosa]] revealed the staggering truth of Ryo's heritage at a specially convened [[Confluence of the Seven]] — that he is the last heir to the Silmara royal bloodline, the child of [[Ratha Silmara]] and [[Rhennaya Silmara]], and the key to the elves' potential return to [[Elandis]]. In the same briefing she disclosed that Rhennaya had a sister, [[Eirieneth Silmara]], who fell in love with a human and stayed behind — making [[Eryndor]] and Ryo first cousins, both carrying Silmara blood.
+[[Ayana Syndrosa]] revealed the staggering truth of Ryo's heritage at a specially convened [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] — that he is the last heir to the Silmara royal bloodline, the child of [[Ratha Silmara]] and [[Rhennaya Silmara]], and the key to the elves' potential return to [[Elandis]]. In the same briefing she disclosed that Rhennaya had a sister, [[Eirieneth Silmara]], who fell in love with a human and stayed behind — making [[Eryndor]] and Ryo first cousins, both carrying Silmara blood.
 
 #### [[Session 47 - Confluence of the Seven]]
 
-[[Ryo]] showed [[Illythia Voss]] the signet ring in silence; her composure cracked entirely. Before the [[Confluence of the Seven]], he stepped forward, removed his hood, and held out the ring — [[Kaelen Vayne]] called it impossible, as the ring was believed lost when Ratha and Rhennaya were murdered. Ryo used the ring to open the Vault of Memories, activating the portal dais beneath the Royal Citadel.
+[[Ryo]] showed [[Illythia Voss]] the signet ring in silence; her composure cracked entirely. Before the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], he stepped forward, removed his hood, and held out the ring — [[Kaelen Vayne]] called it impossible, as the ring was believed lost when Ratha and Rhennaya were murdered. Ryo used the ring to open the Vault of Memories, activating the portal dais beneath the Royal Citadel.
 
 #### [[Session 48 - The Vault of Memories]]
 

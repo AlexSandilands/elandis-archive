@@ -5,7 +5,7 @@ cssclasses:
 ---
 Child of [[Ratha Silmara]] and [[Rhennaya Silmara]] [[Silmara Family|Silmara]]
 
-Ryo is a member of [[The Bloody Nails]] and heir to the Silmara royal bloodline — a heritage revealed to the party by [[Ayana Syndrosa]] before the [[Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]].
+Ryo is a member of [[The Bloody Nails]] and heir to the Silmara royal bloodline — a heritage revealed to the party by [[Ayana Syndrosa]] before the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] in [[Sumara, The Shining City|Sumara]].
 
 ---
 

@@ -54,7 +54,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 ### Secrets and Shadows
 
 * [[Ayana Syndrosa|Ayana]] takes [[Ryo]] aside under the guise of collecting rewards. She magically reveals her pointed ears and forcibly reveals Ryo’s, exposing them both as Elves.
-* Ayana interrogates Ryo about his origins and the "[[The Emerald Ceremony]]." When Ryo is confused, she realizes he is unaware of his heritage.
+* Ayana interrogates Ryo about his origins and the "[[Emerald Ceremony]]." When Ryo is confused, she realizes he is unaware of his heritage.
 * To protect this secret, Ayana casts *Modify Memory* on Ryo, wiping the conversation from his mind before returning him to the group.
 * Before the party leaves, Ayana teaches [[Dondar]] the *Teleportation Circle* spell, giving him the sigils for [[Val Noren]] and [[Glimmerforge]].
 

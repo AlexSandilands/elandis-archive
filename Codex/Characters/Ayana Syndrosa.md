@@ -49,7 +49,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Ayana Syndrosa** is an elven archmage and the former Meridian of the [[Circle of the Weave]] in [[Sumara, The Shining City|Sumara]]. For centuries she was one of the most respected figures in the city, guiding the Circle through an era of isolation — until she gave it all up. Forty years ago, she departed through the [[The Emerald Ceremony]], leaving behind her position, her home, and the woman she loved, to investigate a growing darkness on the Material Plane.
+**Ayana Syndrosa** is an elven archmage and the former Meridian of the [[Circle of the Weave]] in [[Sumara, The Shining City|Sumara]]. For centuries she was one of the most respected figures in the city, guiding the Circle through an era of isolation — until she gave it all up. Forty years ago, she departed through the [[Emerald Ceremony]], leaving behind her position, her home, and the woman she loved, to investigate a growing darkness on the Material Plane.
 
 For decades she lived in secret among humans, adopting the name **Ayana Wynne** and posing as a young advisor to [[King Marius Noren|Marius Noren]] in [[Val Noren]]. It was through Marius that she first crossed paths with [[The Bloody Nails]], and she has travelled alongside them since — eventually returning to Sumara for the first time since her departure.
 
@@ -77,7 +77,7 @@ Her aptitude for magic was obvious early. By the standards of the Weave, she was
 
 Under her leadership the Circle flourished, but Ayana's attention was never confined to Sumara alone. She travelled frequently to [[Ithilmara]], the Material Plane, and over centuries she developed a genuine affection for its people. When [[Valtorran Empire]] rose a century ago and began spreading across the continent, the elves withdrew — retreating to Sumara before the Empire could reach their cities. Most were content to close the door and wait it out. Ayana was not. She recognised the patterns from her grandfather's stories. Something was building behind the Empire's rise. Something old.
 
-When the [[The Emerald Ceremony]] was called — a rite that would send one hundred elves through to the Material Plane to integrate into Valtorran society, to wait, watch, and help — Ayana volunteered without hesitation. The crossing was potentially one-way, the boundaries between planes too fragile to guarantee a return. She handed leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], and walked through without looking back. She severed contact entirely, believing it would be easier for Illythia to move on than to spend decades waiting for someone who might never come home.
+When the [[Emerald Ceremony]] was called — a rite that would send one hundred elves through to the Material Plane to integrate into Valtorran society, to wait, watch, and help — Ayana volunteered without hesitation. The crossing was potentially one-way, the boundaries between planes too fragile to guarantee a return. She handed leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], and walked through without looking back. She severed contact entirely, believing it would be easier for Illythia to move on than to spend decades waiting for someone who might never come home.
 
 ![[Ayana_Wynne.webp|right|333]]
 
@@ -93,7 +93,7 @@ Following the party's assassination of [[Dread General Gerard Blackmarsh]] and t
 
 #### [[Session 43 - The Shield of the North]]
 
-With [[Val Noren]] liberated, Ayana pulled [[Ryo]] aside under the pretence of collecting rewards. In private, she dropped her disguise, revealing her pointed ears and forcibly exposing Ryo's — confirming they were both Elves. She interrogated him about the [[The Emerald Ceremony]] and his origins, but when she realised he genuinely knew nothing of his heritage, she cast *Modify Memory* to wipe the entire encounter from his mind, unwilling to risk her secret on someone she did not yet trust. She also taught [[Dondar]] the *Teleportation Circle* spell before the party departed, providing sigils for [[Val Noren]] and [[Glimmerforge]].
+With [[Val Noren]] liberated, Ayana pulled [[Ryo]] aside under the pretence of collecting rewards. In private, she dropped her disguise, revealing her pointed ears and forcibly exposing Ryo's — confirming they were both Elves. She interrogated him about the [[Emerald Ceremony]] and his origins, but when she realised he genuinely knew nothing of his heritage, she cast *Modify Memory* to wipe the entire encounter from his mind, unwilling to risk her secret on someone she did not yet trust. She also taught [[Dondar]] the *Teleportation Circle* spell before the party departed, providing sigils for [[Val Noren]] and [[Glimmerforge]].
 
 #### [[Session 44 - The Elven Archmage]]
 
@@ -109,7 +109,7 @@ In the [[Gossamer Woods]], Ayana served as the party's guide toward [[Sumara, Th
 
 #### [[Session 46 - The Shining City]]
 
-Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Skyguard Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
+Ayana was restored to her true form by [[Elder Pip Glimmermoss]] upon the party's arrival in [[Sumara, The Shining City|Sumara]]. Her identity as the former Meridian of the [[Circle of the Weave]] left [[Skyguard Caeryn]], her former student, ashen-faced and apologetic after having arrested the party on sight. She immediately placed [[The Bloody Nails]] under her protection and called a [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], during which she revealed [[Ryo]]'s heritage as the last heir to the [[Silmara Family|Silmara]] royal bloodline. In a further revelation, she connected [[Eryndor]]'s mother, [[Eirieneth Silmara|Eirieneth]], as the sister of Ryo's mother — confirming the two as first cousins and both members of the royal family.
 
 #### [[Session 48 - The Vault of Memories]]
 
@@ -125,4 +125,4 @@ When the party climbed to the [[Locus Arcanum]] seeking a way down into the [[Va
 
 ## Trivia
 
-- Ayana was not originally an elf! She was initially just a very clever young adviser who had indeed been steering [[King Marius Noren|Marius]] in the right direction (without him even really noticing) and there was even a possible love interest there — but she was not a mastermind elf. That came later when Riv saw that this was a good opportunity to introduce the "[[The Emerald Ceremony]]" elves into the story.
+- Ayana was not originally an elf! She was initially just a very clever young adviser who had indeed been steering [[King Marius Noren|Marius]] in the right direction (without him even really noticing) and there was even a possible love interest there — but she was not a mastermind elf. That came later when Riv saw that this was a good opportunity to introduce the "[[Emerald Ceremony]]" elves into the story.

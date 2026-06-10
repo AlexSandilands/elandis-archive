@@ -29,7 +29,7 @@ aliases: [Circle of Blades, The Blades]
 > ---|---|
 > Status | Active |
 
-The **Circle of the Blade** is [[Sumara, The Shining City|Sumara]]'s military order — the martial pillar of the [[Confluence of the Seven|Council of the Seven Circles]], charged with the city's defence and the preservation of elven warcraft through the long exile. In the century since the [[Silmara Family]] royal line fell silent, the Circle's Meridian, Commander [[Kaelen Vayne]], has held the Council's practical authority — making the Blade not merely the city's sword arm, but the closest thing to a governing power Sumara has known in a hundred years.
+The **Circle of the Blade** is [[Sumara, The Shining City|Sumara]]'s military order — the martial pillar of the [[Sumara, The Shining City#The Confluence of the Seven|Council of the Seven Circles]], charged with the city's defence and the preservation of elven warcraft through the long exile. In the century since the [[Silmara Family]] royal line fell silent, the Circle's Meridian, Commander [[Kaelen Vayne]], has held the Council's practical authority — making the Blade not merely the city's sword arm, but the closest thing to a governing power Sumara has known in a hundred years.
 
 ## Purpose & Goals
 
@@ -71,13 +71,13 @@ The Exile divided the order. When the elves of Valtorra arrived through the [[Si
 
 In the century since, with the Royal Citadel sealed and the Silmara line believed extinct, the Circle became Sumara's de facto governing arm. Kaelen consolidated the council's authority quietly, and the other Circles accepted it — not out of submission, but because someone had to hold the line.
 
-Sixty years ago, [[Asha Vayne]] — Kaelen's son and a rising officer of the Circle — was killed in a border skirmish with the [[Vale of Eternal Night]]. A senior leader of the Hunt fell in the same engagement. The double loss nearly tipped the cold peace into open war; only careful negotiation at the [[Confluence of the Seven]] kept it from igniting. The peace held, and Kaelen has not forgiven it.
+Sixty years ago, [[Asha Vayne]] — Kaelen's son and a rising officer of the Circle — was killed in a border skirmish with the [[Vale of Eternal Night]]. A senior leader of the Hunt fell in the same engagement. The double loss nearly tipped the cold peace into open war; only careful negotiation at the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] kept it from igniting. The peace held, and Kaelen has not forgiven it.
 
 ## Relations
 
 ### Confluence of the Seven
 
-Commander [[Kaelen Vayne]] serves the [[Confluence of the Seven]] as the council's practical authority; the other Circles defer to his judgement on matters of security and governance, though not always without friction.
+Commander [[Kaelen Vayne]] serves the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] as the council's practical authority; the other Circles defer to his judgement on matters of security and governance, though not always without friction.
 
 ### Vale of Eternal Night
 
@@ -95,7 +95,7 @@ The party arrived in Sumara's Luminary Canton to immediate suspicion — humans 
 
 #### [[Session 47 - Confluence of the Seven]]
 
-Kaelen attended the [[Confluence of the Seven]] as one of seven deciding voices on the question of [[Ryo]]'s heritage and the city's future. He sat cold and calculating throughout, the slowest of the Meridians to extend anything that might be called trust.
+Kaelen attended the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] as one of seven deciding voices on the question of [[Ryo]]'s heritage and the city's future. He sat cold and calculating throughout, the slowest of the Meridians to extend anything that might be called trust.
 
 #### [[Session 51 - The Last Light]]
 

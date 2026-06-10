@@ -30,17 +30,17 @@ aliases:
 > ---|---|
 > Status | Active |
 
-The **Circle of the Weave** is [[Sumara, The Shining City|Sumara]]'s arcane order — keeper of the city's magical wards, researcher of planar phenomena, and trainer of its casters. Once the most resource-rich of the seven Circles, the Weave has operated in a state of quiet diminishment ever since the [[The Emerald Ceremony|Emerald Ceremony]], forty years ago, consumed the finest instruments and artifacts it possessed — a wound still visible on every shelf of the Etherean Canton's near-empty magic shop.
+The **Circle of the Weave** is [[Sumara, The Shining City|Sumara]]'s arcane order — keeper of the city's magical wards, researcher of planar phenomena, and trainer of its casters. Once the most resource-rich of the seven Circles, the Weave has operated in a state of quiet diminishment ever since the [[Emerald Ceremony]], forty years ago, consumed the finest instruments and artifacts it possessed — a wound still visible on every shelf of the Etherean Canton's near-empty magic shop.
 
 ## Purpose & Goals
 
 The Circle carries three responsibilities within Sumara's life: the maintenance of the arcane wards and defensive enchantments that keep the city sealed and safe; the study of planar and magical phenomena; and the training of new arcane practitioners. In a city that has chosen isolation as its chief defence, the Weave's warding work is the foundation of that choice — constant, invisible, and enormously demanding.
 
-When the [[Confluence of the Seven|Council of the Seven Circles]] authorised the [[The Emerald Ceremony|Emerald Ceremony]] — a controlled, heavily warded passage back to the Material Plane for intelligence-gathering — it fell to the Weave to make it possible. The Circle committed its finest instruments and artifacts to the working, the most deliberate and costly it had ever attempted. The volunteers who crossed did not return. The Weave's stores have barely recovered in the forty years since, and the Ceremony is not spoken of as a failure — but it is not celebrated.
+When the [[Sumara, The Shining City#The Confluence of the Seven|Council of the Seven Circles]] authorised the [[Emerald Ceremony]] — a controlled, heavily warded passage back to the Material Plane for intelligence-gathering — it fell to the Weave to make it possible. The Circle committed its finest instruments and artifacts to the working, the most deliberate and costly it had ever attempted. The volunteers who crossed did not return. The Weave's stores have barely recovered in the forty years since, and the Ceremony is not spoken of as a failure — but it is not celebrated.
 
 ## Structure & Leadership
 
-The Circle is led by a **Meridian**, who holds a seat on the [[Confluence of the Seven]] and represents the Weave's interests in city governance. The Meridian's authority within the Etherean Canton is absolute; by long tradition, arcane matters within Sumara defer to the Weave. Below the Meridian, the Circle organises into research working groups and warding teams, senior arcanists taking lead positions and newer casters working under their mentorship.
+The Circle is led by a **Meridian**, who holds a seat on the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] and represents the Weave's interests in city governance. The Meridian's authority within the Etherean Canton is absolute; by long tradition, arcane matters within Sumara defer to the Weave. Below the Meridian, the Circle organises into research working groups and warding teams, senior arcanists taking lead positions and newer casters working under their mentorship.
 
 [[Illythia Voss]] has led the Circle for forty years, since her predecessor stepped forward to lead the Emerald Ceremony and did not come back. She governs with precision and patience, holding the Weave's institutional interests steady in a council increasingly shaped by the weight of [[Kaelen Vayne]]'s personality. Brilliant and open-minded, she is warm beneath a composed exterior — a leader who has had forty years to learn that the council's slow rhythms require more endurance than force.
 
@@ -54,7 +54,7 @@ The Circle is led by a **Meridian**, who holds a seat on the [[Confluence of the
 
 ## Canton & Nexus
 
-The Weave is seated in the **Etherean Canton** — upper-eastern caldera rim, sky-facing towers raised on natural stone arches and spires of glass prism, among the highest and most exposed points in the city. The Nexus is the **[[Locus Arcanum]]**: a perfect sphere of translucent crystal encircled by slowly turning golden orrery rings, its interior aglow with blue-violet light, every surface etched with star charts. The Locus Arcanum is capable of lifting from its anchor and drifting above the city; when the [[Confluence of the Seven]] is called, it rises with the other six Nexuses and docks on the crystalline platform above the [[Royal Citadel of Sumara|Royal Citadel]].
+The Weave is seated in the **Etherean Canton** — upper-eastern caldera rim, sky-facing towers raised on natural stone arches and spires of glass prism, among the highest and most exposed points in the city. The Nexus is the **[[Locus Arcanum]]**: a perfect sphere of translucent crystal encircled by slowly turning golden orrery rings, its interior aglow with blue-violet light, every surface etched with star charts. The Locus Arcanum is capable of lifting from its anchor and drifting above the city; when the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] is called, it rises with the other six Nexuses and docks on the crystalline platform above the [[Royal Citadel of Sumara|Royal Citadel]].
 
 Within the Canton, the **Diminished Trove** serves as the Circle's magic-item shop — though its shelves are nearly bare, the finest items having gone with the Emerald Ceremony. Arcanist Levvel maintains it still, as much a repository of institutional memory as a functioning trade outlet.
 
@@ -70,7 +70,7 @@ The Ceremony's cost has never been recovered. The Weave continues its warding wo
 
 ### Circle of the Blade
 
-The Weave and the [[Circle of the Blade]] share the [[Confluence of the Seven|Council]], but the balance between them has shifted. Commander [[Kaelen Vayne]] has held the council's practical authority for a century, a dominance born of the Silmara line's absence and the other Circles' acquiescence. [[Illythia Voss]] navigates this with careful pragmatism, holding the Weave's institutional independence without direct confrontation.
+The Weave and the [[Circle of the Blade]] share the [[Sumara, The Shining City#The Confluence of the Seven|Council]], but the balance between them has shifted. Commander [[Kaelen Vayne]] has held the council's practical authority for a century, a dominance born of the Silmara line's absence and the other Circles' acquiescence. [[Illythia Voss]] navigates this with careful pragmatism, holding the Weave's institutional independence without direct confrontation.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -80,7 +80,7 @@ Entering Sumara for the first time, the party learned that [[Ayana Syndrosa]] �
 
 #### [[Session 47 - Confluence of the Seven]]
 
-[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and the [[Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Confluence of the Seven]].
+[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and the [[Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]].
 
 #### [[Session 50 - A New Morning in Sumara]]
 

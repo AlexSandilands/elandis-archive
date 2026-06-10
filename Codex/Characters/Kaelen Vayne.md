@@ -6,7 +6,7 @@ Gender: Male
 Pronouns: He/Him
 Place: "[[Sumara, The Shining City|Sumara]]"
 Connections:
-  - "[[Confluence of the Seven]]"
+  - "[[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]]"
 Profession: Meridian of the Blade
 Importance: Minor
 Status: Alive
@@ -33,14 +33,14 @@ aliases:
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[Sumara, The Shining City\|Sumara]] |
-> Connections | [[Confluence of the Seven]] |
+> Connections | [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] |
 > Profession | Meridian of the Blade |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Kaelen Vayne** is an elven Meridian and de facto head of the [[Confluence of the Seven]], the ruling council of [[Sumara, The Shining City|Sumara]]. He represents the Circle of the Blade, and in the century since the Exile he has become the council's most powerful voice — the man who turned silence and stability into an ideology. Heavily scarred, watchful, and dangerous when quiet, he is not cruel; he is a person who decided long ago that the best way to protect people is to control everything, and has not yet been shown to be wrong enough to stop.
+**Kaelen Vayne** is an elven Meridian and de facto head of the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], the ruling council of [[Sumara, The Shining City|Sumara]]. He represents the Circle of the Blade, and in the century since the Exile he has become the council's most powerful voice — the man who turned silence and stability into an ideology. Heavily scarred, watchful, and dangerous when quiet, he is not cruel; he is a person who decided long ago that the best way to protect people is to control everything, and has not yet been shown to be wrong enough to stop.
 
 ## Biography
 

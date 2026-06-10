@@ -136,13 +136,13 @@ Reformat (have content):
 - [ ] Valtorran Empire *(nation/faction)*
 - [x] [[Order of Ravens]]
 - [x] The Green Gryphons
-- [ ] Hand of The Empire
-- [ ] Eye of the Empire *(imperial spy network)*
+- [x] Hand of The Empire
+- [x] Eye of the Empire *(imperial spy network)*
 
 Author (empty):
 - [x] Circle of the Dawn
-- [ ] Shadow Serpents
-- [ ] Vanguard Wardens
+- [x] Shadow Serpents
+- [x] Vanguard Wardens
 
 ---
 
@@ -150,20 +150,20 @@ Author (empty):
 
 - [x] Selûne *(deity)*
 - [x] Shar *(deity)*
-- [ ] The Green Lady *(deity)*
+- [x] The Green Lady *(deity)*
 - [x] Torgar Earthshaker *(god of earth & stone)*
 - [x] Eldrin Starweaver *(god — note: not a character)*
 - [x] The Shattering *(world event)*
 - [x] Chaos Wars *(historical era)*
-- [ ] Timeline *(world history overview)*
+- [x] Timeline *(world history overview)*
 
 ---
 
 ## ✅ Day 8 — Thu 4 Jun (2h) · LORE II — World, Cosmology & Culture
 
-- [ ] The Confluence of the Seven
-- [ ] The Winter Solstice *(holiday/event)*
-- [ ] The Emerald Ceremony *(event)*
+- [x] The Confluence of the Seven
+- [x] The Winter Solstice *(holiday/event)*
+	- [ ] The Emerald Ceremony *(event)*
 - [ ] Dwarven *(race/culture)*
 - [ ] The Valtorran Elves *(race/culture)*
 - [ ] Heartstone *(petrified World Tree root — landmark relic)*

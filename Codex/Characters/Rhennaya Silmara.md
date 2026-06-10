@@ -68,7 +68,7 @@ Outside those chambers, she was a different experience entirely. Those who knew 
 
 #### Background
 
-Rhennaya was born into the [[Silmara Family]], the ancient royal line of the Sumaran elves. The Silmaras did not govern in the ordinary sense — they settled disputes when the [[Confluence of the Seven]] could not reach agreement on its own, and they alone could open the [[World Gates]] that connected Sumara to the wider world. It was a role that demanded a particular kind of authority: neither the political muscle of the Circles nor the isolation of a purely ceremonial office, but something quieter and harder to define. Rhennaya understood this instinctively. She wore it lightly in public and felt it acutely in private.
+Rhennaya was born into the [[Silmara Family]], the ancient royal line of the Sumaran elves. The Silmaras did not govern in the ordinary sense — they settled disputes when the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] could not reach agreement on its own, and they alone could open the [[World Gates]] that connected Sumara to the wider world. It was a role that demanded a particular kind of authority: neither the political muscle of the Circles nor the isolation of a purely ceremonial office, but something quieter and harder to define. Rhennaya understood this instinctively. She wore it lightly in public and felt it acutely in private.
 
 #### The Exodus from Valtorra
 

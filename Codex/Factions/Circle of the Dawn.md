@@ -38,7 +38,7 @@ The **Circle of the Dawn** is a healing order and one of the seven ancient Circl
 
 The Circle of the Dawn exists to preserve life and health within [[Sumara, The Shining City|Sumara]]. Its physicians treat the city's sick, its clerics provide spiritual and restorative care, and its alchemists develop remedies drawn from the extraordinary medicinal plants of the [[Faewild]]. Over the century since the Exile, the Circle has built one of the most sophisticated bodies of Faewild botanical knowledge in existence — a necessity in a city cut off from the herbs, roots, and reagents of the Material Plane.
 
-The Circle takes no political positions and holds no allegiances beyond Sumara itself. Within the [[Confluence of the Seven]], it is regarded as the least factional of the seven orders: where others push agendas, the Dawn tends to the city.
+The Circle takes no political positions and holds no allegiances beyond Sumara itself. Within the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], it is regarded as the least factional of the seven orders: where others push agendas, the Dawn tends to the city.
 
 ## Structure & Leadership
 
@@ -67,4 +67,4 @@ The party entered [[Sumara, The Shining City|Sumara]] through the Luminary Canto
 
 #### [[Session 47 - Confluence of the Seven]]
 
-At the [[Confluence of the Seven]], Meridian [[Elder Silaqui Amastacia]] was the first of the uncertain Meridians to engage the party directly — asking them, not Ryo, what kind of person he was. When Berberis answered plainly — *"He does what needs to be done. He keeps his word."* — Silaqui visibly softened. She raised her hand in favour of opening the [[Vault of Memories]], joining [[Illythia Voss]], [[Warden Sylvaris]], Fenian, and Naivara Siannodel in a five-to-two vote.
+At the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], Meridian [[Elder Silaqui Amastacia]] was the first of the uncertain Meridians to engage the party directly — asking them, not Ryo, what kind of person he was. When Berberis answered plainly — *"He does what needs to be done. He keeps his word."* — Silaqui visibly softened. She raised her hand in favour of opening the [[Vault of Memories]], joining [[Illythia Voss]], [[Warden Sylvaris]], Fenian, and Naivara Siannodel in a five-to-two vote.

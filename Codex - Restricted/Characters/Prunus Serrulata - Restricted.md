@@ -7,7 +7,7 @@ Pronouns: She/Her
 Place: "[[Val Aran]]"
 Connections:
   - "[[Quercus Robur - Restricted]]"
-  - "[[The Green Lady]]"
+  - "[[Green Lady]]"
 Profession: Druid
 Importance: Minor
 Status: Alive
@@ -35,7 +35,7 @@ aliases:
 > Gender | Female |
 > Pronouns | She/Her |
 > Place | [[Val Aran]] |
-> Connections | [[Quercus Robur - Restricted]]<br>[[The Green Lady]] |
+> Connections | [[Quercus Robur - Restricted]]<br>[[Green Lady]] |
 > Profession | Druid |
 > ###### Status
 > Attribute |  Details |

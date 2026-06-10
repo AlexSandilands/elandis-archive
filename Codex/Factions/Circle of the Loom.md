@@ -37,7 +37,7 @@ The Circle of the Loom tends everything the city is made of. Its remit spans con
 
 ## Structure & Leadership
 
-The Circle is led by its Meridian, **[[Master Artisan Fenian]]**, a consummate perfectionist who regards the whole of Sumara as a single ongoing work of art — one that can always be refined, never truly finished. He sits on the [[Confluence of the Seven]] as the Circle's voice on matters of city-wide governance.
+The Circle is led by its Meridian, **[[Master Artisan Fenian]]**, a consummate perfectionist who regards the whole of Sumara as a single ongoing work of art — one that can always be refined, never truly finished. He sits on the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] as the Circle's voice on matters of city-wide governance.
 
 The Loom's craftspeople work closely with two populations of the [[Sumara, The Shining City#The Fundament Canton — (Loom)|Fundament Canton]]: **Korreds** — stout, stone-skinned fae with a deep affinity for shaped stone — serve as specialist collaborators on structural enchantment, while **Fungrals**, the cheerful mushroom-capped folk of the lower cantons, provide much of the physical labour. This three-way partnership of elven enchanters, Korred stoneworkers, and Fungral hands has built everything in Sumara that stands.
 
@@ -61,4 +61,4 @@ The party visited the **Ironweave**, a forge in the Fundament Canton that works 
 
 #### [[Session 47 - Confluence of the Seven]]
 
-At the [[Confluence of the Seven]], Meridian Fenian was among the council's persuadable voices — cautious and watchful, waiting to see how the debate resolved. He ultimately raised his hand in favour of opening the [[Vault of Memories]], joining four others in a five-to-two result.
+At the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]], Meridian Fenian was among the council's persuadable voices — cautious and watchful, waiting to see how the debate resolved. He ultimately raised his hand in favour of opening the [[Vault of Memories]], joining four others in a five-to-two result.

@@ -76,7 +76,7 @@ Sumara is ruled by the **Council of the Seven Circles**, an assembly of the seve
 | [[Circle of the Loom]]   | Fundament  | Construction, artifice, infrastructure | The Architecton        | [[Master Artisan Fenian]]       |
 | [[Circle of the Root]]   | Greensward | Druidic stewardship, agriculture       | The Sanctum Canoporium | [[Warden Sylvaris]]             |
 
-The full assembly of all seven Meridians is the [[Confluence of the Seven]], called only when a matter of city-wide gravity must be decided — a handful of times in all of Sumara's history, most recently at the Exile. Above them all, in principle, stood the [[Silmara Family|Silmara]] royal line, whose seat was the Royal Citadel; with the line believed lost, the Citadel has stood sealed for a century and [[Kaelen Vayne]] has held the council's practical authority in its place.
+The full assembly of all seven Meridians is the [[#The Confluence of the Seven|Confluence of the Seven]], called only when a matter of city-wide gravity must be decided — a handful of times in all of Sumara's history, most recently at the Exile. Above them all, in principle, stood the [[Silmara Family|Silmara]] royal line, whose seat was the Royal Citadel; with the line believed lost, the Citadel has stood sealed for a century and [[Kaelen Vayne]] has held the council's practical authority in its place.
 
 ## The People
 
@@ -130,7 +130,7 @@ A magic-item shop whose shelves are nearly bare — *"Everything of note went wi
 
 ### The Ironsward Canton — (Blade)
 
-The mid-elevation western terraces: strong, angular, defensible architecture, and the only Canton with visible walls. The Circle of the Blade is the city's military arm — it trains the border guards, patrols the inner bridges, fields the [[Vanguard Wardens]], and keeps the elven martial traditions. Its Meridian, Commander [[Kaelen Vayne]], a heavily scarred veteran, has been the council's de facto authority for years. The Canton's Nexus is the Palisade Eternal, a squat fortress tower of dark grey stone with a giant elven broadsword mounted vertically on its face.
+The mid-elevation western terraces: strong, angular, defensible architecture, and the only Canton with visible walls. The Circle of the Blade is the city's military arm — it trains the border guards, patrols the inner bridges, fields the [[Sumara, The Shining City#Skyguard|Skyguard]], and keeps the elven martial traditions. Its Meridian, Commander [[Kaelen Vayne]], a heavily scarred veteran, has been the council's de facto authority for years. The Canton's Nexus is the Palisade Eternal, a squat fortress tower of dark grey stone with a giant elven broadsword mounted vertically on its face.
 
 #### Thornweave's Curiosia *(curiosity shop)*
 
@@ -180,7 +180,7 @@ The [[Heartstone]] is the natural column of white stone rising from the caldera 
 
 ### The Nexuses
 
-Each of the seven Cantons is anchored by a **Nexus** — a citadel-scale structure capable of lifting from its foundation and drifting above the city, docking again at need. When the [[Confluence of the Seven|Confluence]] is called, all seven rise together.
+Each of the seven Cantons is anchored by a **Nexus** — a citadel-scale structure capable of lifting from its foundation and drifting above the city, docking again at need. When the [[#The Confluence of the Seven|Confluence]] is called, all seven rise together.
 
 | Nexus                      | Circle                   | Description                                                                                                                                                                                          |
 | -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -194,13 +194,15 @@ Each of the seven Cantons is anchored by a **Nexus** — a citadel-scale structu
 
 ### The Confluence of the Seven
 
-The [[Confluence of the Seven|Confluence]] is the formal gathering of all seven Meridians, called only at moments of city-wide gravity. When it convenes, the seven Nexus citadels rise and dock together high above the city, joined at the peak of the Royal Citadel on a crystalline platform open to the sky, with bridges of light strung between them while the whole city watches from below.
+The Confluence of the Seven is the point at which the seven Nexus citadels converge — and, by the same name, the council of all seven Meridians that gathers there. It is at once a place and an assembly: to "call a Confluence" is to summon every Meridian of the Circles to council, and the city has done so only a handful of times in all its history, most recently at the Exile.
+
+When a Confluence convenes, the seven Nexuses lift from their cantons and rise together, docking at the peak of the Royal Citadel on a crystalline platform open to the Faewild sky, bridges of solidified light strung between them while the whole city watches from below. No matter is brought before it that could be settled in any single Canton; the Confluence exists for decisions that bind all of Sumara at once. In the century since the Silmara line was lost, its rulings have stood as the highest authority in the city, though by long custom the empty seat of the Royal Citadel is reckoned to sit above even the assembled Seven.
 
 ## Factions
 
 ### The Circles
 
-The seven Circles are the ancient orders through which Sumara governs itself, each tending one facet of the city's life and each seated in its own Canton. Their Meridians together form the [[Confluence of the Seven]], the council that holds authority over the city in the absence of the [[Silmara Family|Silmara]] royal line.
+The seven Circles are the ancient orders through which Sumara governs itself, each tending one facet of the city's life and each seated in its own Canton. Their Meridians together form the [[#The Confluence of the Seven|Confluence of the Seven]], the council that holds authority over the city in the absence of the [[Silmara Family|Silmara]] royal line.
 
 | Circle                   | Canton     | Description                                                                                                                                                              |
 | ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
