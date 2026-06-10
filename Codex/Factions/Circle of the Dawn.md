@@ -26,7 +26,7 @@ aliases:
 > Category | Healing Order |
 > Allegiance | Independent |
 > Leader | [[Elder Silaqui Amastacia]] |
-> Base | [[The Luminarium]], [[Sumara, The Shining City\|Sumara]] |
+> Base | [[Luminarium]], [[Sumara, The Shining City\|Sumara]] |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
@@ -44,7 +44,7 @@ The Circle takes no political positions and holds no allegiances beyond Sumara i
 
 The Circle is led by its **Meridian**, currently [[Elder Silaqui Amastacia]] — a soft-spoken, deeply empathetic cleric who rarely leaves the botanical infirmaries and is widely regarded as Sumara's most compassionate public figure. Decisions within the Circle are made gently, by consensus, and Silaqui's manner sets the tone: the Dawn leads with kindness before authority.
 
-The Circle's seat is the **Luminary Canton**, occupying the mid-elevation southern slopes of Sumara's caldera — the terraces turned to catch the most light. Its **Nexus**, [[The Luminarium]], is an enormous glass-and-copper conservatory with a domed roof; when it rises aloft, living vines trail beneath it like ribbons and the whole structure glows warm amber.
+The Circle's seat is the **Luminary Canton**, occupying the mid-elevation southern slopes of Sumara's caldera — the terraces turned to catch the most light. Its **Nexus**, the [[Luminarium]], is an enormous glass-and-copper conservatory with a domed roof; when it rises aloft, living vines trail beneath it like ribbons and the whole structure glows warm amber.
 
 ## Notable Members
 

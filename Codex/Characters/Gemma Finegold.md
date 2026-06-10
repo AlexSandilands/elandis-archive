@@ -71,7 +71,7 @@ When the conversation turns to [[Valtorran Empire|The Empire]], the warmth vanis
 
 #### Background
 
-Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a modest but fulfilling life as merchants, trading goods with the nearby [[Dwarven]] cities and always returning to their beloved home. For the first nine years of her life, Gemma’s days were marked by warmth and routine—until tragedy shattered her world. One fateful day, her mother tried to protect a thief who had stolen a loaf of bread. In an act of merciless authority, both her mother and the thief were executed publicly by the [[Valtorran Empire|Empire]], leaving Gemma and her father devastated.
+Gemma was born in the year 2475 in the city of [[Silverdeep]]. Her family led a modest but fulfilling life as merchants, trading goods with the nearby Dwarven cities and always returning to their beloved home. For the first nine years of her life, Gemma’s days were marked by warmth and routine—until tragedy shattered her world. One fateful day, her mother tried to protect a thief who had stolen a loaf of bread. In an act of merciless authority, both her mother and the thief were executed publicly by the [[Valtorran Empire|Empire]], leaving Gemma and her father devastated.
 
 The aftermath changed them both forever. Her father, [[Harland Finegold|Harland]], lost his passion for work, becoming increasingly distant and spending more time trying to guide Gemma to becoming who she is today. Gemma, however, channelled her grief and anger into a burning hatred for the Empire, vowing to oppose them and aid anyone crushed under their oppressive rule.
 
@@ -139,4 +139,4 @@ A chance encounter on the streets of [[Val Miriel]] reunited the party with Gemm
 ## Trivia
 
 - Gemma was the first friendly NPC [[The Bloody Nails]] met
-- On a whim during [[Session 01 - The Rusty Nail]], Riv decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many [[Dwarven|Dwarves]]. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so Riv had to practice Scottish accents in order to keep it going.
+- On a whim during [[Session 01 - The Rusty Nail]], Riv decided to use a Scottish accent for Gemma, as she grew up in [[Silverdeep]] around many Dwarves. She was never intended to be a long term character, but instead ended up being a long term friend of the party and so Riv had to practice Scottish accents in order to keep it going.

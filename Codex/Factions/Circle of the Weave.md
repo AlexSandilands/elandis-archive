@@ -3,7 +3,9 @@ Type: Faction
 Category: Arcane Order
 Allegiance: Independent
 Leader: "[[Illythia Voss]]"
-Base: "[[Locus Arcanum]], [[Sumara, The Shining City|Sumara]]"
+Base: 
+  - "[[Locus Arcanum]]"
+  - "[[Sumara, The Shining City|Sumara]]"
 Importance: Major
 Status: Active
 NoteIcon: faction

@@ -45,7 +45,7 @@ The Loom's craftspeople work closely with two populations of the [[Sumara, The S
 
 The Circle seats itself in the **Fundament Canton**, the lowest level of Sumara's caldera, where the Shivering Veil waterfall reaches the valley floor. It is a working district — forge-halls and workshops rather than towers, the air thick with the ring of hammers and the hum of enchantments being set into stone — its walls always under some form of scaffold or geometric measurement mark. Nowhere in Sumara shows more clearly that the city is still being made.
 
-The Circle's Nexus is **[[The Architecton]]**: a great building covered in permanent decorative scaffolding and cranes frozen mid-swing, as though the master architect stepped away for a moment and has simply not returned. Among the Circle, this is not an embarrassment but a statement of intent — the city will always have more to become.
+The Circle's Nexus is the **[[Architecton]]**: a great building covered in permanent decorative scaffolding and cranes frozen mid-swing, as though the master architect stepped away for a moment and has simply not returned. Among the Circle, this is not an embarrassment but a statement of intent — the city will always have more to become.
 
 ## History
 

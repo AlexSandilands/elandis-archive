@@ -26,7 +26,7 @@ aliases:
 > ---|---|
 > Status | Lost |
 
-Ithilmara was the crown city of the [[The Valtorran Elves|Valtorran Elves]] on the Material Plane — the great seat from which the [[Silmara Family]] royal line governed the elves' presence in the world of Elandis. It was never the true heart of elven civilisation: that was [[Sumara, The Shining City|Sumara]], hidden in the [[Faewild]]. Ithilmara was Sumara's extension — the face the elves turned toward the material world, and the door through which they passed when they finally left it behind. A century ago the elves withdrew through the [[World Gates|World Gate]] housed within its walls, sealing the city and the whole of [[Erivan Island]] against the rising [[Valtorran Empire]]. The city has stood empty since, its elegant white stone slowly swallowed by a hundred years of unchecked growth.
+Ithilmara was the crown city of the Valtorran Elves on the Material Plane — the great seat from which the [[Silmara Family]] royal line governed the elves' presence in the world of Elandis. It was never the true heart of elven civilisation: that was [[Sumara, The Shining City|Sumara]], hidden in the [[Faewild]]. Ithilmara was Sumara's extension — the face the elves turned toward the material world, and the door through which they passed when they finally left it behind. A century ago the elves withdrew through the [[World Gates|World Gate]] housed within its walls, sealing the city and the whole of [[Erivan Island]] against the rising [[Valtorran Empire]]. The city has stood empty since, its elegant white stone slowly swallowed by a hundred years of unchecked growth.
 
 ## Geography & Layout
 

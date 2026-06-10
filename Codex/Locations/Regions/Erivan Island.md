@@ -25,7 +25,7 @@ tags:
 > ---|---|
 > Status | Lost |
 
-Erivan Island is the ancestral homeland of [[The Valtorran Elves|the Valtorran Elves]], rising from the Erivan Strait off [[Valtorra]]'s southern coast. A century ago its people departed through [[Ithilmara]]'s [[World Gates|World Gate]], sealed their cities behind wards lethal to any non-elf, and withdrew into the [[Faewild]] — leaving a land wholly intact but entirely empty, slowly returning to wilderness.
+Erivan Island is the ancestral homeland of the Valtorran Elves, rising from the Erivan Strait off [[Valtorra]]'s southern coast. A century ago its people departed through [[Ithilmara]]'s [[World Gates|World Gate]], sealed their cities behind wards lethal to any non-elf, and withdrew into the [[Faewild]] — leaving a land wholly intact but entirely empty, slowly returning to wilderness.
 
 ## Geography & Landscape
 

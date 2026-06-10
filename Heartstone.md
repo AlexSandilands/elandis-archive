@@ -1,4 +1,0 @@
-- Broken root of the world tree, petrified and left within the centre of the [[Shimmering Peaks]]
-- [[Sumara, The Shining City|Sumara]] was built around this as a starting point, it was revered by the early elves, as the [[World Tree]] still is today
-- The royal citadel of the elves was built upon the top of it
-- The [[Vault of Memories]] is found within it

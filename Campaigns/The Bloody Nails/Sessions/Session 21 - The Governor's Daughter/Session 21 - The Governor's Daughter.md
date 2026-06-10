@@ -66,6 +66,6 @@ There, they meet [[Governor Tarlis Evandron|Tarlis]], the Governor of [[Val Miri
     * **[[Val Aran]]:** Rumors suggest the dead are walking in the [[Borealia Forest]]; the Governor may be distracted.
     * **[[Val Solis]]:** Has been isolated for a century; no agents have ever returned from infiltration attempts.
     * **[[Glimmerforge]]:** The current Dwarven stewards are Imperial puppets; the party must find a sympathetic faction.
-    * **[[The Valtorran Elves]]:** Missing for a century. The party is tasked with finding any leads on their disappearance or location (suspected to be the [[Isle of Erivin]]).
+    * **[[Sumara, The Shining City|The Valtorran Elves]]:** Missing for a century. The party is tasked with finding any leads on their disappearance or location (suspected to be the [[Isle of Erivin]]).
 * Tarlis warns them about the "[[Eye of the Empire|Eyes of the Empire]]," elite assassins and spies.
 * The party leaves the crypt, bluffing their way past the guards again, and returns to the tavern to plan their next move, now with free rein over their destination.

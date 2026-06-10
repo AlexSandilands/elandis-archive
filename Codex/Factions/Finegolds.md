@@ -66,7 +66,7 @@ Under the merchant trade, the caravan has run a string of jobs for the resistanc
 
 ## History
 
-The Finegolds began as a modest family trading house out of [[Silverdeep]], where for three generations they ran goods to the nearby [[Dwarven]] cities and always came home — a heritage still legible in the crew, from [[Doran Ironfist|Doran]] at the forge to the Dwarvish on Gemma's tongue.
+The Finegolds began as a modest family trading house out of [[Silverdeep]], where for three generations they ran goods to the nearby Dwarven cities and always came home — a heritage still legible in the crew, from [[Doran Ironfist|Doran]] at the forge to the Dwarvish on Gemma's tongue.
 
 The family's war with the Empire is personal, not commercial. When Gemma was nine, the Empire publicly executed her mother in the streets of Silverdeep for the crime of shielding a thief who had stolen bread. The killing hollowed [[Harland Finegold|Harland]], who lost his passion for the trade and withdrew into grief, and it forged in Gemma a cold, settled hatred of the Empire that would define the rest of her life. In the years since, she became the true engine of the business while Harland remained its figurehead — and, quietly, she bent the caravan's freedom toward the resistance.
 

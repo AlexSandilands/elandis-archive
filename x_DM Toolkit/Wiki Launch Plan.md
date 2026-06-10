@@ -133,7 +133,7 @@ Reformat (have content):
 - [x] Silmara Family
 - [x] Circle of the Weave
 - [x] Circle of Blades *(canonical after Day 1 merge)*
-- [ ] Valtorran Empire *(nation/faction)*
+- [x] Valtorran Empire *(nation/faction)*
 - [x] [[Order of Ravens]]
 - [x] The Green Gryphons
 - [x] Hand of The Empire
@@ -163,13 +163,13 @@ Author (empty):
 
 - [x] The Confluence of the Seven
 - [x] The Winter Solstice *(holiday/event)*
-	- [ ] The Emerald Ceremony *(event)*
-- [ ] Dwarven *(race/culture)*
-- [ ] The Valtorran Elves *(race/culture)*
-- [ ] Heartstone *(petrified World Tree root — landmark relic)*
+- [x] The Emerald Ceremony *(event)*
+- [x] Dwarven *(race/culture)*
+- [x] The Valtorran Elves *(race/culture)*
+- [x] Heartstone *(petrified World Tree root — landmark relic)*
 - [x] World Tree
 - [x] World Gates
-- [ ] Locus Arcanum *(triage: lore concept vs site)*
+- [x] Locus Arcanum *(triage: lore concept vs site)*
 
 ---
 
@@ -275,6 +275,8 @@ Landmarks & structures:
 - [ ] **No files left at vault root** except `CLAUDE.md`, `README.md`, `Scratch Notes.md`, and this plan.
 - [ ] Add location images taken from the parchment map to each location where relevant
 - [ ] City / Town Maps
+- [ ] Add Landing page
+- [ ] Setup git subtree for codex
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.
