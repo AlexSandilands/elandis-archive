@@ -47,7 +47,7 @@ tags:
 
 Hugor styled his hair cropped close in imitation of the Imperial soldiers who passed through Lighthaven — a small, telling gesture of a young man who had decided which future he wanted. Working the counter at the Verdant Rose, he occupied a useful position: the apothecary saw every traveller in town, and Hugor fed what he learned to Captain Draegor in exchange for the promise of a place in the Vanguard or the Imperial ranks.
 
-That arrangement collapsed when the Bloody Nails arrived in Lighthaven. The party observed him in conversation with Draegor at the apothecary, identified him as an informant, and abducted him the moment he left work — hauling him into [[The Darkwood]] under a shroud of magical silence. Pinned and terrified, Hugor confessed. Rather than killing him, [[Ryo]] offered a deal: carry a fabricated report back to Draegor — a "lone elf" spotted in the woods — and walk free. Hugor ran back to town and delivered the message, unwittingly sealing the captain's fate.
+That arrangement collapsed when the Bloody Nails arrived in Lighthaven. The party observed him in conversation with Draegor at the apothecary, identified him as an informant, and abducted him the moment he left work — hauling him into the [[Darkwood]] under a shroud of magical silence. Pinned and terrified, Hugor confessed. Rather than killing him, [[Ryo]] offered a deal: carry a fabricated report back to Draegor — a "lone elf" spotted in the woods — and walk free. Hugor ran back to town and delivered the message, unwittingly sealing the captain's fate.
 
 He was never seen in Lighthaven again after the party departed. Whether he fled the town, went into hiding, or simply vanished into the countryside is unknown.
 

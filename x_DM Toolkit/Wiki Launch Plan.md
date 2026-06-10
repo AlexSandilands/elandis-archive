@@ -1,8 +1,10 @@
 # 🏰 Elandis Wiki Launch Plan
 
-**Goal:** Migrate and populate every root-level note into the Codex, and build a Codex skill reference for each entry type, so the player-facing wiki is ready.
+**Goal:** Migrate and populate every remaining root-level note into the Codex so the player-facing wiki is ready.
 
-**Target launch:** **Saturday 6 June 2026** (core complete and live; a thin tail of minor Points of Interest may finish 7–9 June).
+**Target launch:** **Sunday 21 June 2026, 10:00 pm** (full quality on every entry; the POI long tail is the slip absorber).
+
+> Revised 10 Jun 2026. The original 6 Jun target passed with the bulk of the work done — all 84 characters, the major cities, core factions, the pantheon, and a large batch of *new* pages not on the first list are already migrated. What remains is almost entirely empty 0-line stubs, which the `/codex` skill authors quickly from synopsis research.
 
 ---
 
@@ -11,36 +13,49 @@
 - **~2h** on weekday evenings after work.
 - **No work** Monday or Wednesday evenings.
 - **~4h** on weekend days (Sat/Sun).
-- **Quality bar:** full publication-quality on *every* entry — no light stubs. Deadline may slip slightly past 6 June for the long tail; that's accepted.
+- **Quality bar:** full publication-quality on *every* entry — no light stubs.
 - Each file is done **with the `/codex` skill** (it researches synopses, gathers your notes, generates the entry, then you confirm stub deletion).
-- **Total available before 6 June:** ~28 hours across 10 sessions.
+- **Available before the 21 Jun 10pm deadline:** ~26 hours across 9 sessions (Thu 11 → Sun 21).
 
 ---
 
 ## 📊 Scope at a glance
 
-The 84 characters are already migrated and their stubs cleaned up. Remaining root content ≈ **126 files**:
+~**104 entries** to author, almost all empty stubs. Plus a short housekeeping pass (6 stale deletes, 4 duplicate merges).
 
-| Category | Count | Notes |
+| Batch | Category | Count |
 |---|---|---|
-| Skill references to write | 5 | locations, factions, items, lore, continents |
-| Continents / World | 4 | Elandis, Valtorra, Faelon, Faewild |
-| Stray characters | 2 | Valen Leafwhisper; Joffee (triage) |
-| Cities | ~22 | 10 have content (reformat), ~12 empty (author) |
-| Factions | ~17 | after de-duplication |
-| Lore | ~17 | deities, events, cosmology, culture |
-| Items | ~11 | weapons, artifacts, ships, materials |
-| Regions | ~19 | forests, waters, geographic features |
-| Points of Interest | ~30 | taverns, temples, districts, landmarks |
+| 0 | Housekeeping (deletes + dup merges) | — |
+| 1 | Continents | 3 |
+| 2 | Pantheon / Deities | 7 |
+| 3 | Characters | 11 |
+| 4 | Factions | 8 |
+| 5 | Cities & Towns | 14 |
+| 6 | Regions & Wilds | 15 |
+| 7 | Items | 8 |
+| 8 | Institutions & Lore misc | 6 |
+| 9 | POI — Taverns, Shops & Temples | 15 |
+| 10 | POI — Landmarks & Structures | 17 |
 
-**Duplicates to merge (pick one canonical, fold in the other's content, delete the extra):**
-- `Circle of Blades` ↔ `Circle of the Blade`
-- `Pool of Reflection` ↔ `The Pool of Reflection`
-- `Raven's Nest` ↔ `The Raven's Nest of Val Miriel`
+---
 
-**Watch for restricted content** during migration (a `## Restricted` section or `RESTRICTED CODEX ONLY` line in the stub → create a companion doc in `Codex - Restricted/`). Known so far: **Arkangel**.
+## 🧹 Batch 0 — Housekeeping (do first, ~20 min)
 
-> Category assignments below are a strong starting point, not gospel. Confirm the right Codex folder at migration time — a few files (Joffee, Tumbler's Crag, The Underrun, Locus Arcanum, The Maw) are genuinely ambiguous and tagged **triage**.
+**Stale leftovers — already migrated, root copy never deleted.** Glance at the Codex version, confirm it's the good one, then delete the root stub:
+- [x] `Darmouth` → `Codex/Locations/Cities/Darmouth.md` *(root still has the old 152-line draft)*
+- [x] `Point Blackrock` → `Codex/Locations/Cities/Point Blackrock.md` *(old 154-line draft)*
+- [x] `Renite Steel` → `Codex/Items/Renite Steel.md`
+- [x] `Shield Wall` → `Codex/Locations/Points of Interest/Shield Wall.md`
+- [x] `Stonesworn` → `Codex/Factions/Stonesworn.md`
+- [x] `Isle of Erivin` → `Codex/Locations/Regions/Erivan Island.md` *(renamed — delete the old stub)*
+
+**Duplicate pairs — pick the canonical, fold in any content, delete the other:**
+- [x] `Darkwood` ↔ `The Darkwood` → canonical region page
+- [x] `Pool of Reflection` ↔ `The Pool of Reflection` → one POI
+- [x] `Theater of Dreams` ↔ `The Theatre of Dreams` → one POI
+- [x] `Raven's Nest` ↔ `The Raven's Nest of Val Miriel` → one POI (Order of Ravens HQ)
+
+> ⚠️ Two items marked done in the old plan were **never actually migrated** — `River's Watch` and `World Gates` are back in the lists below.
 
 ---
 
@@ -50,233 +65,201 @@ For each file in a session:
 - [ ] Run `/codex` → migrate `<Name>`
 - [ ] Review the research it surfaces; add your DM notes
 - [ ] Check all wikilinks resolve to real page names (no ghost pages)
-- [ ] If the stub had restricted content, confirm the companion doc
+- [ ] If the stub had restricted content, confirm the companion doc in `Codex - Restricted/`
 - [ ] Confirm deletion of the root stub once the Codex entry is written
 
 ---
 
 # 📅 The Schedule
 
-## ✅ Day 1 — Sun 24 May (4h) · FOUNDATION
-*Unblocks every later evening. Build the tooling first, then a few quick wins.*
+## Thu 11 Jun (2h) · HOUSEKEEPING + CONTINENTS + PANTHEON
+*Clear the deck, then knock out the high-value top-level pages.*
 
-- [x] **Write the 5 skill references** (mirror `.claude/skills/codex/references/character.md`):
-  - [x] `references/locations.md` (cities, regions, points of interest — one ref, sub-types inside)
-  - [x] `references/factions.md`
-  - [x] `references/items.md`
-  - [x] `references/lore.md` (deities, events, cosmology, culture)
-  - [x] `references/continents.md`
-- [x] **Update `codex/SKILL.md`** routing table + description so it dispatches to all categories (currently characters-only).
-- [x] **Resolve the 3 duplicate pairs** (merge + delete extras).
-- [x] **Continents / World (4):**
-  - [x] Elandis *(world overview / top-level landing page)*
-  - [x] Valtorra
-  - [x] Faelon
-  - [x] Faewild
+- [x] Batch 0 housekeeping (deletes + dup merges)
 
----
-oFael
-## ✅ Day 2 — Tue 26 May (2h) · MAJOR CITIES I
-*Heavy reformats of your richest existing pages.*
+**Batch 1 — Continents (3)** *(major top-level pages; the names are deceptive — these are landmasses)*
+- [ ] Aetheris *(central continent, site of The Shattering)*
+- [ ] Seraphon *(smaller northern continent, oldest cultures)*
+- [ ] Eldara *(largest continent, mercantile heart of the world)*
 
-- [x] Sumara, The Shining City
-- [x] Val Miriel
-- [x] Lighthaven
+**Batch 2 — Pantheon / Deities (7)**
+- [ ] Mystra
+- [ ] Lathander
+- [ ] Tiamat
+- [ ] Grumbar *(elemental — earth)*
+- [ ] Istishia *(elemental — water)*
+- [ ] Kossuth *(elemental — fire)*
+- [ ] Forna *(triage — likely a deity; confirm at migration)*
 
 ---
 
-## ✅ Day 3 — Thu 28 May (2h) · MAJOR CITIES II
+## Fri 12 Jun (2h) · CHARACTERS
 
-- [x] Val Noren
-- [x] Point Blackrock
-- [x] Darmouth
-
----
-
-## ✅ Day 4 — Fri 29 May (2h) · CITIES III + RESTRICTED
-
-- [x] Camaar
-- [x] Farhaven
-- [x] Ithilmara *(elven capital — short but has content)*
-- [x] Arkangel *(flying city — has `RESTRICTED CODEX ONLY` content → create companion doc)*
-
----
-
-## ✅ Day 5 — Sat 30 May (4h) · CITY STUBS (author from research)
-*All empty — research synopses, generate, fill gaps with your notes.*
-
-- [x] Caer Nystral
-- [x] Glimmerforge
-- [x] Silverdeep
-- [x] Skyreach
-- [x] Val Aerie
-- [x] Val Aran
-- [x] Val Luminor
-- [x] Val Solis
-- [x] Valfyria
-- [x] Miriel's Rest
-- [x] River's Watch
-- [x] Tumbler's Crag
+**Batch 3 — Characters (11)**
+- [ ] Ebon *(the Grand Raven — Order of Ravens)*
+- [ ] Elder Silaqui Amastacia
+- [ ] Justiciar Naivara Siannodel
+- [ ] Korvin Blackfeather
+- [ ] Master Artisan Fenian
+- [ ] Freya Ironsong
+- [ ] Thora Ironsong
+- [ ] Thorgar Ummal
+- [ ] Hilda Ummal
+- [ ] Hrothgar
+- [ ] Hvedra
 
 ---
 
-## ✅ Day 6 — Sun 31 May (4h) · FACTIONS
-*Mostly content-rich → reformat to the new faction template. The big two (Mawbreakers, Frostwarden Crews) eat the most time.*
+## Sat 13 Jun (4h) · FACTIONS + CITIES & TOWNS
 
-Reformat (have content):
-- [x] The Mawbreakers
-- [x] The Frostwarden Crews
-- [x] The Frostwardens
-- [x] The Finegolds
-- [x] Veiled Cubs
-- [x] The Red Priests
-- [x] Silmara Family
-- [x] Circle of the Weave
-- [x] Circle of Blades *(canonical after Day 1 merge)*
-- [x] Valtorran Empire *(nation/faction)*
-- [x] [[Order of Ravens]]
-- [x] The Green Gryphons
-- [x] Hand of The Empire
-- [x] Eye of the Empire *(imperial spy network)*
+**Batch 4 — Factions (8)**
+- [ ] Cindercloaks
+- [ ] Circle of the Root
+- [ ] Circle of the Scales
+- [ ] Circle of the Scroll
+- [ ] Court of Fallen Leaves
+- [ ] Darkwood Vanguard
+- [ ] Emberlight Vigil
+- [ ] Skyguard
 
-Author (empty):
-- [x] Circle of the Dawn
-- [x] Shadow Serpents
-- [x] Vanguard Wardens
-
----
-
-## ✅ Day 7 — Tue 2 Jun (2h) · LORE I — Pantheon & History
-
-- [x] Selûne *(deity)*
-- [x] Shar *(deity)*
-- [x] The Green Lady *(deity)*
-- [x] Torgar Earthshaker *(god of earth & stone)*
-- [x] Eldrin Starweaver *(god — note: not a character)*
-- [x] The Shattering *(world event)*
-- [x] Chaos Wars *(historical era)*
-- [x] Timeline *(world history overview)*
+**Batch 5 — Cities & Towns (14)** *(the Luminor Plains farming towns make a natural sub-batch)*
+- [ ] Shardcrest *(Imperial coastal city)*
+- [ ] Nyrieth *(western port city)*
+- [ ] Everfall *(cold northern city)*
+- [ ] Silverforge
+- [ ] Brightwater
+- [ ] Valewatch *(watch-town)*
+- [ ] Sabine *(Gulf of Miriel town)*
+- [ ] River's Watch
+- [ ] Isle of Solenne
+- [ ] Redhaven *(Luminor Plains)*
+- [ ] Nightstone *(Luminor Plains)*
+- [ ] Hillcrest *(Luminor Plains)*
+- [ ] Goldcrest *(Luminor Plains)*
+- [ ] Ravencrest *(Luminor Plains)*
 
 ---
 
-## ✅ Day 8 — Thu 4 Jun (2h) · LORE II — World, Cosmology & Culture
+## Sun 14 Jun (4h) · REGIONS + ITEMS
 
-- [x] The Confluence of the Seven
-- [x] The Winter Solstice *(holiday/event)*
-- [x] The Emerald Ceremony *(event)*
-- [x] Dwarven *(race/culture)*
-- [x] The Valtorran Elves *(race/culture)*
-- [x] Heartstone *(petrified World Tree root — landmark relic)*
-- [x] World Tree
-- [x] World Gates
-- [x] Locus Arcanum *(triage: lore concept vs site)*
-
----
-
-## ✅ Day 9 — Fri 5 Jun (2h) · ITEMS
-
-- [ ] Emberblade *(weapon)*
-- [ ] Riftshard
-- [ ] Dread's Hunger *(weapon)*
-- [x] Amulet of the Arachnid Queen
-- [ ] Moonlit Aegis *(shield — currently untracked, `git add` it)*
-- [x] Belinda's Chest
-- [ ] The Albatross *(Mawbreakers' flagship)*
-- [ ] The Kraken *(ship/crew)*
-- [ ] Gossamer Dust *(material)*
-- [ ] Moonstone *(material)*
-- [x] Renite Steel *(material)*
-
----
-
-## ✅ Day 10 — Sat 6 Jun (4h) · REGIONS + 🚀 LAUNCH PASS
-*All empty/short — fast batch. Then run the pre-launch QA below and publish.*
+**Batch 6 — Regions & Wilds (15)**
 
 Forests & wilds:
-- [x] Ancient Woods
 - [ ] Whispering Woods
-- [x] Borealia Forest
-- [x] Farhaven Forest
-- [x] Bioluminescent Forest
-- [ ] The Darkwood
+- [ ] Darkwood *(canonical after Batch 0 merge)*
 - [ ] Gossamer Woods *(Faewild)*
-- [x] Briarshade *(Faewild)*
 - [ ] Reveller's Glade *(Faewild)*
 - [ ] Shimmering Peaks *(Faewild)*
 
 Geographic features:
-- [x] Aeolian Chasm
 - [ ] Vale of Eternal Night
-- [ ] Isle of Erivin
 - [ ] Frostway
-- [x] Gulf of Miriel
 - [ ] Liar's River
 - [ ] Luminor River
-- [ ] The Maw *(whirlpool — triage: region vs landmark)*
-- [ ] The Underrun *(triage: region vs point of interest)*
+- [ ] Luminor Plains
+- [ ] Borealia Range *(mountains)*
+- [ ] Silver Mountains
+- [ ] Southern Highlands
+- [ ] Xericana Sands *(desert)*
+- [ ] The Underrun *(triage — region vs POI)*
 
-Then → **Pre-launch QA** (see checklist below) → **publish**.
+**Batch 7 — Items (8)**
+- [ ] Emberblade *(weapon)*
+- [ ] Dread's Hunger *(weapon)*
+- [ ] Riftshard
+- [ ] Moonlit Aegis *(shield — `git add` if untracked)*
+- [ ] The Kraken *(ship)*
+- [ ] Gossamer Dust *(material)*
+- [ ] Moonstone *(material)*
+- [ ] Zephyr Cuffs
 
 ---
 
-## ⏭️ Overflow — Points of Interest (likely 7–9 Jun)
-*~30 files, mostly empty. These are the long tail and the most likely to slip past launch. The taverns/temples your players actually frequent should jump the queue if time is tight.*
+## Tue 16 Jun (2h) · INSTITUTIONS + LORE + TAVERNS (start)
 
-### Sun 7 Jun (4h) — POIs batch 1
+**Batch 8 — Institutions & Lore misc (6)**
+- [ ] Arcana Luminorium *(arcane academy, Val Luminor)*
+- [ ] Imperial Academy
+- [ ] Eternal Forge
+- [ ] Red Bastion *(fortress in Val Miriel)*
+- [ ] World Gates *(lore concept)*
+- [ ] Fungrals *(triage — people/culture; appears in Bioluminescent Forest & Sumara)*
 
-Taverns, inns & shops:
+**Batch 9a — Taverns & shops (start, ~4)**
 - [ ] Rusty Nail
 - [ ] The Gilded Crow
 - [ ] The Fur and Fang
 - [ ] The Red Leaf
-- [ ] The Lion *(Inn)*
+
+---
+
+## Thu 18 Jun (2h) · TAVERNS (finish) + TEMPLES & WAYS
+
+**Batch 9b — Taverns & shops (finish)**
+- [ ] The Lion *(inn)*
 - [ ] Drunken Quay
-- [ ] Gilded Grimoire *(magic shop — note: not an item)*
+- [ ] Gilded Grimoire *(magic shop — not an item)*
 - [ ] Val Miriel River Market
 
-Temples & religious sites:
-- [ ] The Stoneheart *(large temple — 148 lines, allow extra time)*
+**Batch 9c — Temples & Sumara Ways (7)**
+- [ ] The Stoneheart *(large temple — 148 lines of existing content, allow extra time)*
 - [ ] St. Avelines
-- [ ] The High Sept
-
-Sumara districts ("Ways"):
+- [ ] High Sept
 - [ ] The Royal Way
 - [ ] The Military Way
 - [ ] The Artisan Way
 - [ ] The Divine Way
 
-### Tue 9 Jun (2h) — POIs batch 2 + final review
+---
 
-Landmarks & structures:
+## Fri 19 Jun (2h) · POI LANDMARKS I  *(slip absorber begins here)*
+
+**Batch 10a — Landmarks & structures (9)**
 - [ ] Royal Citadel of Sumara
 - [ ] The Bastion
 - [ ] The Miriel Bastion
 - [ ] Valena's Bridge
 - [ ] The Bridge of Stars
 - [ ] The Portal
-- [ ] The Theatre of Dreams
+- [ ] Theatre of Dreams *(canonical after Batch 0 merge)*
 - [ ] Serenity Plaza
 - [ ] The Emberspire
+
+---
+
+## Sat 20 Jun (4h) · POI LANDMARKS II + POLISH
+
+**Batch 10b — Landmarks & structures (8)**
 - [ ] The Ashen Forge
 - [ ] The Coal
 - [ ] Vault of Memories
-- [ ] Pool of Reflection *(canonical after Day 1 merge)*
-- [ ] The Raven's Nest of Val Miriel *(canonical after Day 1 merge — Order of Ravens HQ)*
-- [ ] The Veiled Den
-- [ ] Blackrock Shelters
+- [ ] Pool of Reflection *(canonical after Batch 0 merge)*
+- [ ] Val Miriel - Governor's Keep
 - [ ] Goblin Lair
 - [ ] Ruby Falls Goldmine
+
+Then, with remaining time:
+- [ ] Image-prompt pass on any entry still missing art
+- [ ] City / town maps (run `/city-map` where a sketch exists)
+- [ ] Catch up on any batch that slipped
+
+---
+
+## Sun 21 Jun (4h, deadline 10pm) · 🚀 LAUNCH PASS
+
+Run the Pre-launch QA below, then publish.
 
 ---
 
 ## 🚀 Pre-launch QA checklist
-*Run on Day 10 (and again after the overflow days).*
 
 - [ ] **No files left at vault root** except `CLAUDE.md`, `README.md`, `Scratch Notes.md`, and this plan.
-- [ ] Add location images taken from the parchment map to each location where relevant
-- [ ] City / Town Maps
-- [ ] Add Landing page
-- [ ] Setup git subtree for codex
+- [ ] Add location images taken from the parchment map to each location where relevant.
+- [ ] City / town maps.
+- [ ] Add landing page.
+- [ ] Setup git subtree for codex.
+	- [ ] readme
+	- [ ] ensure anything that shouldn't be here is moved to restricted
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.
@@ -290,4 +273,6 @@ Landmarks & structures:
 
 ## 🎯 If you fall behind
 
-You chose full quality on everything, so the slip absorber is the **POI overflow (7–9 Jun)** — those are the least-trafficked pages. If a weekday session runs short, push that day's *empty* stubs (not the content reformats) into the next weekend's 4h block; the reformats are higher-value and should hold their slots.
+Full quality on everything is the bar, so the slip absorber is **Batch 10 — POI Landmarks (Fri 19 / Sat 20)**: the least-trafficked pages. If a weekday session runs short, push that day's stubs into the next 4h weekend block; never sacrifice the continents, pantheon, factions, or cities — those are the high-value spine of the wiki and hold their slots.
+
+The pacing (~4 entries/hr) matches what the earlier migration days actually hit, so the plan fits the 26 hours with thin slack — but it *is* thin. If you gain a Mon/Wed evening, spend it on Batch 10.

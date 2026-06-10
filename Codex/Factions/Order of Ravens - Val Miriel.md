@@ -13,7 +13,9 @@ cssclasses:
 tags:
   - faction
   - faction/chapter
-aliases: [Val Miriel Nest]
+aliases:
+  - Val Miriel Nest
+  - The Raven's Nest of Val Miriel
 ---
 > [!infobox|wikipedia]
 > # Order of Ravens — Val Miriel

@@ -114,7 +114,7 @@ Link: [[Bioluminescent Forest]]
 
 ### The Pool of Reflection
 
-Link: [[The Pool of Reflection]]
+Link: [[Pool of Reflection]]
 
 - Noticeably colder
 - Actual stone stalagmites and stalactites

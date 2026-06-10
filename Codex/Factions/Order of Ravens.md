@@ -56,7 +56,7 @@ The Order keeps Nests in cities across Valtorra. Each operates with near-total l
 
 | City                                         | Status    | Key Figures                                                         |
 | -------------------------------------------- | --------- | ------------------------------------------------------------------- |
-| [[Order of Ravens — Val Miriel\|Val Miriel]] | Active    | [[Thaddeus Karr\|Thaddeus "Ravenwing" Karr]] (Nest Father), [[Lia]] |
+| [[Order of Ravens - Val Miriel\|Val Miriel]] | Active    | [[Thaddeus Karr\|Thaddeus "Ravenwing" Karr]] (Nest Father), [[Lia]] |
 | [[Darmouth]]                                 | Active    | [[Ella Sable]], [[Uric Graad]]                                      |
 | [[Camaar]]                                   | Active    | Unknown                                                             |
 | [[Val Aran]]                                 | Active    | Unknown                                                             |

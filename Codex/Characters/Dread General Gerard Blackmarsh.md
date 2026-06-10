@@ -81,7 +81,7 @@ The party infiltrated the besieged streets of [[Val Noren]] under cover of darkn
 
 #### [[Session 39 - The Stoneheart]]
 
-The party infiltrated [[The Stoneheart]] and witnessed a meeting between Blackmarsh, [[General Korvas]], and a coven of five [[Red Priests]] from a concealed balcony above the cathedral chamber. Blackmarsh dispatched Korvas to [[The Darkwood]] and remained with the single Red Priest left behind, taking the captive [[King Marius Noren]] into the catacombs below. When the party emerged from the crypts at the session's end, they found him waiting for them in the centre of the chamber. "Well he was right then," he said. "How interesting."
+The party infiltrated [[The Stoneheart]] and witnessed a meeting between Blackmarsh, [[General Korvas]], and a coven of five [[Red Priests]] from a concealed balcony above the cathedral chamber. Blackmarsh dispatched Korvas to the [[Darkwood]] and remained with the single Red Priest left behind, taking the captive [[King Marius Noren]] into the catacombs below. When the party emerged from the crypts at the session's end, they found him waiting for them in the centre of the chamber. "Well he was right then," he said. "How interesting."
 
 #### [[Session 40 - General Blackmarsh]]
 

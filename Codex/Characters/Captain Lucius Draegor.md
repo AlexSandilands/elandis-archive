@@ -58,7 +58,7 @@ Draegor was observed by the party at the Verdant Rose apothecary, chatting casua
 
 #### [[Session 30 - The Darkwood Ambush]]
 
-Draegor led his soldiers into [[The Darkwood]] in response to Hugor's report and walked directly into the party's kill zone. He fell immediately into a concealed pit trap, was incapacitated by a *Hideous Laughter* spell, and was pinned to the ground with an *Immovable Rod* while his squad was annihilated around him. Pinned and helpless, he was interrogated by Ryo, revealing that it was [[Dhorik]], the local blacksmith, who had betrayed the ranger to the Empire. Ryo executed him shortly after.
+Draegor led his soldiers into the [[Darkwood]] in response to Hugor's report and walked directly into the party's kill zone. He fell immediately into a concealed pit trap, was incapacitated by a *Hideous Laughter* spell, and was pinned to the ground with an *Immovable Rod* while his squad was annihilated around him. Pinned and helpless, he was interrogated by Ryo, revealing that it was [[Dhorik]], the local blacksmith, who had betrayed the ranger to the Empire. Ryo executed him shortly after.
 
 #### [[Session 32 - The Road to Point Blackrock]]
 

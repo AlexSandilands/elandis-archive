@@ -46,4 +46,4 @@ Tobias has run the Foggy Tankard for years, becoming a fixture of Lighthaven lif
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-Welcomed [[The Bloody Nails]] to the Foggy Tankard on the eve of [[Emberlight Vigil]]. Recognised [[Vaeleran]] from a visit years before, recounting that the elf had been rambling about a lake deep in [[The Darkwood]] and acting wild-eyed before vanishing from town. Also appeared briefly when [[Belinda Bubblegum]] stormed in demanding hop seeds for one of her experiments.
+Welcomed [[The Bloody Nails]] to the Foggy Tankard on the eve of [[Emberlight Vigil]]. Recognised [[Vaeleran]] from a visit years before, recounting that the elf had been rambling about a lake deep in the [[Darkwood]] and acting wild-eyed before vanishing from town. Also appeared briefly when [[Belinda Bubblegum]] stormed in demanding hop seeds for one of her experiments.

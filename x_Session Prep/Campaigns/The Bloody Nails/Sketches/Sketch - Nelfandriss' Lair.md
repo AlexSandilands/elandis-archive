@@ -27,7 +27,7 @@ Nursery ^CHI8h1Dr
 The Fungal Forest ^TO5bCooq
 
 ## Element Links
-eWWaZNe5: [[The Pool of Reflection]]
+eWWaZNe5: [[Pool of Reflection]]
 
 %%
 ## Drawing

@@ -16,7 +16,7 @@ The conditioning's susceptibility to Riftshards explains two incidents the party
 
 ## The Fracture — What Actually Happened in the Darkwood
 
-Before the campaign's events, Korvas was dispatched to [[The Darkwood]] on an Imperial mission. The exact orders are unknown, but the mission took him into a sunken temple within a lake deep in the forest. That temple contains a very large Riftshard.
+Before the campaign's events, Korvas was dispatched to the [[Darkwood]] on an Imperial mission. The exact orders are unknown, but the mission took him into a sunken temple within a lake deep in the forest. That temple contains a very large Riftshard.
 
 Proximity to it caused the Empress's conditioning to fracture completely. The effect was not a clean removal: both the loyalty and the memories were disrupted together. Korvas did not simply become a free man who remembered who he was — the fracture stripped him of his past identity entirely, leaving a person with his instincts, skills, and physicality but no accessible memories of his life before. This was the man who eventually came to call himself Vaeleran.
 

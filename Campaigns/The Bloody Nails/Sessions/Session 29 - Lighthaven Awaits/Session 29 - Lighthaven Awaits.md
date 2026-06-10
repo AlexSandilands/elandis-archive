@@ -26,7 +26,7 @@ tags:
 
 After a long journey, the party arrives at the mist-shrouded town of [[Lighthaven]] just as the populace prepares for the upcoming [[Emberlight Vigil]]. [[Ryo]], adopting the alias "Leo" to avoid recognition from a past arrest, is consumed by a need for vengeance against the local Imperial Captain, [[Captain Lucius Draegor|Lucius Draegor]], and the unknown informant who betrayed him months prior. Their arrival at the local tavern leads to a reunion of sorts; the innkeeper recognises [[Vaeleran]] from a fugue-state visit years ago, and the group encounters an eccentric Dwarven Artificer named [[Belinda Bubblegum]]. Belinda offers the party a high-stakes contract: plant a magical conduit into the ancient [[The Emberspire|Emberspire]] during the festival to help her harness its energy, in exchange for the crafting of a powerful rare magical item.
 
-While investigating the town's shops, the party identifies their target. At the Verdant Rose apothecary, they spot a young halfling assistant named [[Hugor]] fraternising with Captain Draegor. Suspecting him to be the informant, the party executes a ruthless kidnapping immediately after he leaves work. Using magical silence and commands, they drag the terrified youth into the pitch-black depths of [[The Darkwood]].
+While investigating the town's shops, the party identifies their target. At the Verdant Rose apothecary, they spot a young halfling assistant named [[Hugor]] fraternising with Captain Draegor. Suspecting him to be the informant, the party executes a ruthless kidnapping immediately after he leaves work. Using magical silence and commands, they drag the terrified youth into the pitch-black depths of the [[Darkwood]].
 
 Under the threat of torture and death, Hugor confesses to selling information to the Imperials to gain favor. Rather than killing him, Ryo orchestrates a trap. He forces Hugor to run back to the Captain with a fabricated story of spotting a "lone elf" camping in the woods. The session concludes with Hugor sprinting back to town and the party entrenching themselves in the treeline, setting snares and preparing to ambush the Imperial garrison in the darkness of the forest.
 
@@ -59,7 +59,7 @@ Under the threat of torture and death, Hugor confesses to selling information to
 ### The Ambush Setup
 
 * The party waits for [[Hugor]] to leave work. [[Kai]] uses *Command* and [[Ryo]] uses *Silence* to quietly tackle and bag the halfling.
-* They drag Hugor into [[The Darkwood]] using *Pass Without Trace*.
+* They drag Hugor into the [[Darkwood]] using *Pass Without Trace*.
 * **Interrogation:** Hugor is pinned with pitons and an Immovable Rod. He confesses to being a snitch to get a job with the Vanguard or Imperials.
 * **The Plan:** Ryo cuts a deal. Hugor is released on the condition he runs directly to [[Captain Lucius Draegor|Captain Draegor]] and claims he saw a "lone elf" camping in the woods, acting as bait to draw the garrison out.
 * Hugor is released and runs back to town.

@@ -44,7 +44,7 @@ Four further causeways — **the Ways** — run the length of the city, north to
 - **The Military Way** descends from the [[Red Bastion]] down the western bank to the rough **Grey Docks**.
 - **The Royal Way** runs from the [[Val Miriel - Governor's Keep|Governor's Keep]] through the city's old money on the western bank.
 - **The Divine Way** falls from the [[High Sept]] down the eastern bank to the cleaner **Green Docks**.
-- **The Artisan Way** runs from the [[Theater of Dreams]] through the city's wealth and craft on the eastern bank.
+- **The Artisan Way** runs from the [[Theatre of Dreams]] through the city's wealth and craft on the eastern bank.
 
 Where the Luminor meets the gulf lie the docks, and they keep a clear social gradient: the **Grey Docks** to the west are the rough, working, dangerous edge of the city, while the **Green Docks** to the east are cleaner and more reputable, with **Mawbreakers Hold** standing out among them.
 
@@ -145,7 +145,7 @@ A grand old library of thousands of ancient texts and scrolls, drawing scholars 
 
 ### Artisan Way
 
-The quarter of craft, wealth, and culture, running from the [[Theater of Dreams]] down the eastern bank. The finest shops, the high-end trade, and the city's cultural life.
+The quarter of craft, wealth, and culture, running from the [[Theatre of Dreams]] down the eastern bank. The finest shops, the high-end trade, and the city's cultural life.
 
 #### Silverforge *(armoury — ornamental)*
 
@@ -192,7 +192,7 @@ The [[High Sept]] is the vast circular cathedral of the Seven crowning the Divin
 
 ### Theater of Dreams
 
-The [[Theater of Dreams]] is the grand, ornate theatre at the head of the Artisan Way, the cultural centrepiece of the city.
+The [[Theatre of Dreams]] is the grand, ornate theatre at the head of the Artisan Way, the cultural centrepiece of the city.
 
 ### Underrun
 
@@ -206,7 +206,7 @@ The [[Green Gryphons|Green Gryphons]] mercenary guild keeps a busy hall on the M
 
 ### Order of Ravens
 
-The [[Order of Ravens — Val Miriel|Order of Ravens]] maintains a nest in the city, led by Nest Father [[Thaddeus Karr]], with operatives including [[Trak Aeris]] and [[Gideon Blackthorn]]. Its full structure is detailed on the Order's own page.
+The [[Order of Ravens - Val Miriel|Order of Ravens]] maintains a nest in the city, led by Nest Father [[Thaddeus Karr]], with operatives including [[Trak Aeris]] and [[Gideon Blackthorn]]. Its full structure is detailed on the Order's own page.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -228,7 +228,7 @@ With the city locked down under curfew after the unrest, [[Kai]] and [[Dondar]] 
 
 #### [[Session 28 - The Underrun]]
 
-The party left Val Miriel for good through the [[The Underrun|Underrun]], guided by [[Trak Aeris]] of the [[Order of Ravens — Val Miriel|Order of Ravens]]. After a gruelling passage through flooded tunnels, heat-hungry brown mould, and corrosive black puddings, they surfaced in the wintry grasslands north of the city.
+The party left Val Miriel for good through the [[The Underrun|Underrun]], guided by [[Trak Aeris]] of the [[Order of Ravens - Val Miriel|Order of Ravens]]. After a gruelling passage through flooded tunnels, heat-hungry brown mould, and corrosive black puddings, they surfaced in the wintry grasslands north of the city.
 
 ## Trivia
 

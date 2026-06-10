@@ -29,7 +29,7 @@ The session began with the party finalising their escape from [[Val Miriel]]. Af
 
 The journey beneath the city was gruelling. The group navigated submerged tunnels filled with filth and barely survived a deadly encounter with heat-absorbing *brown mould*, which [[Dondar]] inadvertently fed with fire before [[Kai]] neutralised it with cold magic. Further in, they were ambushed by Black Puddings. The skirmish was chaotic and costly; the oozes split when slashed and corroded the party's gear, destroying [[Ryo]]'s sword and damaging armour. Battered and covered in sludge, the party utilised the *[[Amulet of the Arachnid Queen]]* and a *Rope of Climbing* to exit through a ceiling fissure, emerging into the fresh air of the wintry grasslands north of the city.
 
-On the road to [[Lighthaven]], the party encountered farmers robbed of their crops by Imperial soldiers, prompting Kai to feed them with *Goodberry* magic. Later, they stumbled upon the aftermath of an Imperial ambush. Finding a group of Hobgoblins looting dead soldiers, the party engaged, killing several before Vaeleran tackled and intimidated the survivor. In a twist of strategic ruthlessness, Vaeleran struck a deal: the Hobgoblins were spared on the condition they exclusively raid Imperial supply lines to starve the army. To seal the pact and prove their anti-Empire alignment, Ryo executed the lone surviving Imperial soldier. The session concluded with the party cresting a hill to view the gloomy, fog-shrouded town of [[Lighthaven]] and the ominous [[The Darkwood|Darkwood]] beyond, marking their arrival and a milestone in their power (Level Up).
+On the road to [[Lighthaven]], the party encountered farmers robbed of their crops by Imperial soldiers, prompting Kai to feed them with *Goodberry* magic. Later, they stumbled upon the aftermath of an Imperial ambush. Finding a group of Hobgoblins looting dead soldiers, the party engaged, killing several before Vaeleran tackled and intimidated the survivor. In a twist of strategic ruthlessness, Vaeleran struck a deal: the Hobgoblins were spared on the condition they exclusively raid Imperial supply lines to starve the army. To seal the pact and prove their anti-Empire alignment, Ryo executed the lone surviving Imperial soldier. The session concluded with the party cresting a hill to view the gloomy, fog-shrouded town of [[Lighthaven]] and the ominous [[Darkwood]] beyond, marking their arrival and a milestone in their power (Level Up).
 
 ## Details
 
@@ -41,7 +41,7 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 ### The Raven's Nest & The Underrun
 
-* **Lia's Confession:** Inside [[The Raven's Nest of Val Miriel]], accessed via [[The Gilded Crow]], the party met [[Lia]]. She admitted she went rogue to assassinate [[General Varan Brado]] because he executed her parents in [[Camaar]].
+* **Lia's Confession:** Inside [[Order of Ravens - Val Miriel|The Raven's Nest of Val Miriel]], accessed via [[The Gilded Crow]], the party met [[Lia]]. She admitted she went rogue to assassinate [[General Varan Brado]] because he executed her parents in [[Camaar]].
 * **Guidance:** [[Eryndor]] returned Lia's dagger. The party advised her to be patient and learn from the Nest rather than acting recklessly.
 * **The Sewers:** [[Trak Aeris]] led them through [[The Underrun]]. The initial architecture was grand, but they were forced into a filth-ridden maintenance tunnel.
 * **Hazards:**
@@ -75,7 +75,7 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 ### Arrival at Lighthaven
 
-* **Visuals:** The town is nestled in a hollow, shrouded in perpetual fog and snow. A massive ancient tower looms over the east side, while the dense, foreboding [[The Darkwood|Darkwood]] borders the town.
+* **Visuals:** The town is nestled in a hollow, shrouded in perpetual fog and snow. A massive ancient tower looms over the east side, while the dense, foreboding [[Darkwood]] borders the town.
 * **Atmosphere:** The town appeared depressed and fearful, with residents moving quickly with heads down.
 * **Milestone:** The party achieved **Level 7**.
 

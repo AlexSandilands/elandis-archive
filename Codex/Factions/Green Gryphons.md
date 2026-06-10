@@ -56,7 +56,7 @@ The chapter head is the authority within their hall. Titles vary by posting (Com
 
 | City           | Status | Key Figures            | Notes                                                                      |
 | -------------- | ------ | ---------------------- | -------------------------------------------------------------------------- |
-| [[Val Miriel]] | Active | [[Porta Hale]]         | Military Way; see [[Green Gryphons — Val Miriel\|the Val Miriel chapter]]  |
+| [[Val Miriel]] | Active | [[Porta Hale]]         | Military Way; see [[Green Gryphons - Val Miriel\|the Val Miriel chapter]]  |
 | [[Darmouth]]   | Active | Commander Alaric Brack | Main avenue, Civic Quarter; first chapter the party contracted with        |
 | [[Camaar]]     | Active |                        | Docklands hall                                                             |
 | [[Farhaven]]   | Active |                        | Central crossroads; most prominent intersection in the city                |
@@ -102,7 +102,7 @@ In [[Camaar]], the party visited the Docklands chapter and took a short-term con
 
 #### [[Session 20 - The Streets of Val Miriel]] onward
 
-The party's most sustained dealings with the guild took place at the [[Val Miriel]] chapter, spanning Sessions 20 through 27 — multiple contracts, a prolonged stay at the guildhall during a period of Imperial martial law, and an Imperial raid on the hall itself. See [[Green Gryphons — Val Miriel\|the Val Miriel chapter]] for the full account.
+The party's most sustained dealings with the guild took place at the [[Val Miriel]] chapter, spanning Sessions 20 through 27 — multiple contracts, a prolonged stay at the guildhall during a period of Imperial martial law, and an Imperial raid on the hall itself. See [[Green Gryphons - Val Miriel\|the Val Miriel chapter]] for the full account.
 
 ## Trivia
 

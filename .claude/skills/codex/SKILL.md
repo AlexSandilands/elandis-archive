@@ -43,6 +43,7 @@ These rules hold regardless of category. The reference docs assume them.
 - **Wikilinks** on first mention of every proper noun (character, place, faction, item). Before writing a wikilink, verify the exact page name with `find` or `ls` — don't assume the name. A wrong link creates a ghost page in Obsidian.
 - **Alias lookup:** If a term in prose doesn't match any page name directly (e.g. "Empire", "Barak", "Gemma"), grep the vault for it as a frontmatter alias before leaving it unlinked: `grep -rl "  - <Term>" <vault>/ --include="*.md"`. If a match is found, write `[[Full Page Name|Display Term]]` — e.g. `[[Valtorran Empire|Empire]]`.
 - **Page naming convention:** Vault pages use bare proper nouns without a leading article — `Veiled Cubs`, `Order of Ravens`, `Mawbreakers`. In prose, supply the article *outside* the brackets: `the [[Veiled Cubs]]`, `the [[Order of Ravens]]`. Never include "The" inside a wikilink unless that is literally how the page is named (e.g. `[[The Albatross]]` for the ship).
+- **Filename character safety:** Page filenames must contain only plain ASCII characters. Never use em dashes (`—`), en dashes (`–`), curly quotes, or other Unicode punctuation in a filename. Use a regular hyphen-minus (`-`) instead. This applies to the `.md` filename and any asset filenames — special characters break git and URL-based tooling.
 - **Transcripts are off-limits.** Never read `Transcript.md` files in session folders, even when grepping. Search synopses only.
 
 ## Adding a new category

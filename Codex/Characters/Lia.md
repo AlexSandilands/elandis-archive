@@ -91,7 +91,7 @@ Upon reaching [[Val Miriel]], the handover was completed with quiet efficiency. 
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 
-When [[Eryndor]] passed through the [[Order of Ravens]]' headquarters beneath the [[The Raven's Nest of Val Miriel|The Gilded Crow]] on personal business, he caught a brief glimpse of Lia in the training hall — moving through rapier drills with focused intensity, already beginning to grow into the operative she intended to become.
+When [[Eryndor]] passed through the [[Order of Ravens]]' headquarters beneath the [[The Gilded Crow]] on personal business, he caught a brief glimpse of Lia in the training hall — moving through rapier drills with focused intensity, already beginning to grow into the operative she intended to become.
 
 #### [[Session 27 - The Wanted Dwarf]]
 

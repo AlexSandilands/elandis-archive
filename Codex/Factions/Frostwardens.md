@@ -73,7 +73,7 @@ There are currently seven active crews. An eighth, the Falcon Crew, once operate
 
 ## History
 
-The Frostwardens trace their origins to a small band of disillusioned [[Lighthaven#The Duskwardens|Duskwardens]] — rangers and scouts who had spent their careers guarding the boundaries of [[Lighthaven]] and [[The Darkwood]]. Believing their skills were wasted in the mist-wrapped forests of the south, they migrated north to [[Point Blackrock]] centuries ago, drawn by tales of a wilder and less-governed frontier.
+The Frostwardens trace their origins to a small band of disillusioned [[Lighthaven#The Duskwardens|Duskwardens]] — rangers and scouts who had spent their careers guarding the boundaries of [[Lighthaven]] and the [[Darkwood]]. Believing their skills were wasted in the mist-wrapped forests of the south, they migrated north to [[Point Blackrock]] centuries ago, drawn by tales of a wilder and less-governed frontier.
 
 They arrived as the [[Frostway]] was beginning to be crossed with any regularity, and became some of the first consistent guides of the newly-forming route. The knowledge they built — of ice behaviour, of the crossing's rhythms, of its seasonal dangers and hidden hazards — they kept close and passed down through generations. Over time, their descendants shed the Duskwarden identity entirely and became something new: the Frostwardens, shaped by the frozen sea rather than the shadowed wood.
 

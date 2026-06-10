@@ -20,7 +20,7 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|13th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|14th Water, 2nd - 2507]] |
-> Location | [[Lighthaven]]<br>[[The Darkwood]]
+> Location | [[Lighthaven]]<br>[[Darkwood]]
 > Characters | [[Captain Lucius Draegor]]<br>[[Dhorik]] |
 
 ## Summary

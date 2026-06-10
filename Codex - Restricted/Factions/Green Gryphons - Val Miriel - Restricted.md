@@ -3,7 +3,7 @@ Type: Faction
 tags:
   - dm-notes
 ---
-> [!abstract] Public Entry: *[[Green Gryphons — Val Miriel]]*
+> [!abstract] Public Entry: *[[Green Gryphons - Val Miriel]]*
 
 ## The Mine Deception
 

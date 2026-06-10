@@ -112,7 +112,7 @@ On the road north from Camaar, the party encountered a column of a hundred Imper
 
 #### [[Session 27 - The Wanted Dwarf]]
 
-A Hand raided the [[Green Gryphons — Val Miriel|Green Gryphons]] guildhall in Val Miriel, searching for a druid and a "half-folk" magic user — a targeted law enforcement action aimed directly at party members. [[Porta Hale]] deflected the search with complete composure, and the Hand withdrew. The encounter illustrated the order's civilian enforcement function: not a military deployment, but a pointed investigation with the full authority to search and seize.
+A Hand raided the [[Green Gryphons - Val Miriel|Green Gryphons]] guildhall in Val Miriel, searching for a druid and a "half-folk" magic user — a targeted law enforcement action aimed directly at party members. [[Porta Hale]] deflected the search with complete composure, and the Hand withdrew. The encounter illustrated the order's civilian enforcement function: not a military deployment, but a pointed investigation with the full authority to search and seize.
 
 #### [[Session 32 - The Road to Point Blackrock]]
 

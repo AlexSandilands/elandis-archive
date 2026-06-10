@@ -1,6 +1,6 @@
 ---
 Type: City
-Region: "[[The Darkwood]]"
+Region: "[[Darkwood]]"
 Defining Feature: The Emberspire, an ancient tower whose light wards off the Darkwood
 Population: ~1,000
 Government: Independent mayoralty under Gideon Valtros
@@ -21,7 +21,7 @@ tags:
 > Attribute |  Details |
 > ---|---|
 > Type | City |
-> Region | [[The Darkwood]] |
+> Region | [[Darkwood]] |
 > Defining Feature | The Emberspire, an ancient tower whose light wards off the Darkwood |
 > Population | ~1,000 |
 > Government | Independent mayoralty under Gideon Valtros |
@@ -31,7 +31,7 @@ tags:
 > ---|---|
 > Status | Active |
 
-**Lighthaven** is a small, fog-shrouded frontier town on the north-eastern edge of [[Valtorra]], built in a natural hollow at the very boundary of [[The Darkwood]] — a dense and monstrous forest that presses against its eastern streets. Life here turns on a single fact: the [[The Emberspire|Emberspire]], an ancient tower that predates the town, whose summit magically glows to ward off the horrors that spill from the wood. Fertile farmland to the west and the exotic materials harvested from the Darkwood sustain a modest economy, while the townsfolk — hardy, insular, and slow to trust outsiders — keep their own counsel beneath the long shadow of the [[Valtorran Empire|Empire]] they barely tolerate.
+**Lighthaven** is a small, fog-shrouded frontier town on the north-eastern edge of [[Valtorra]], built in a natural hollow at the very boundary of the [[Darkwood]] — a dense and monstrous forest that presses against its eastern streets. Life here turns on a single fact: the [[The Emberspire|Emberspire]], an ancient tower that predates the town, whose summit magically glows to ward off the horrors that spill from the wood. Fertile farmland to the west and the exotic materials harvested from the Darkwood sustain a modest economy, while the townsfolk — hardy, insular, and slow to trust outsiders — keep their own counsel beneath the long shadow of the [[Valtorran Empire|Empire]] they barely tolerate.
 
 ## Geography & Layout
 
@@ -41,7 +41,7 @@ The town's defining axis runs east to west. To the **east**, where the streets g
 
 ## History
 
-Lighthaven was built upon the ruins of an ancient city whose name and origins are long forgotten. The clearest relic of that lost age is the [[The Emberspire|Emberspire]], the lighthouse-like tower on the eastern skyline, said to predate even the earliest recorded settlements in the region. Its original purpose is unknown, but over generations the townsfolk have come to rely on its beacon to ward off incursions from [[The Darkwood]] — and the secret of how to light and maintain its great brazier has been preserved by the Emberwardens, the keepers who tend it.
+Lighthaven was built upon the ruins of an ancient city whose name and origins are long forgotten. The clearest relic of that lost age is the [[The Emberspire|Emberspire]], the lighthouse-like tower on the eastern skyline, said to predate even the earliest recorded settlements in the region. Its original purpose is unknown, but over generations the townsfolk have come to rely on its beacon to ward off incursions from the [[Darkwood]] — and the secret of how to light and maintain its great brazier has been preserved by the Emberwardens, the keepers who tend it.
 
 Though the ruins hint that the town was once part of a grander civilisation, most locals regard the past with little curiosity, their attention fixed on the dangers of the present. Occasional expeditions into the old ruins have turned up fragments of forgotten lore and the odd artifact, but never any clear answer about who built the city — or the Spire — or why they vanished.
 
@@ -51,7 +51,7 @@ Lighthaven technically falls under the jurisdiction of the [[Valtorran Empire|Em
 
 ## The People
 
-The people of Lighthaven are a hardy and mistrustful lot, shaped by the constant threat of monster attacks and the oppressive shadow of [[The Darkwood]]. They are fiercely loyal to one another but offer little hospitality to outsiders — generations of stories about betrayal and disaster brought by wandering travellers have hardened that caution into custom. Despite it, they take real pride in their resilience: farmers work the rich soil west of town, blacksmiths and carpenters and apothecaries keep the place running, and the brave few of the Darkwood Vanguard venture into the forest to bring back what the rest of the world will pay for.
+The people of Lighthaven are a hardy and mistrustful lot, shaped by the constant threat of monster attacks and the oppressive shadow of the [[Darkwood]]. They are fiercely loyal to one another but offer little hospitality to outsiders — generations of stories about betrayal and disaster brought by wandering travellers have hardened that caution into custom. Despite it, they take real pride in their resilience: farmers work the rich soil west of town, blacksmiths and carpenters and apothecaries keep the place running, and the brave few of the Darkwood Vanguard venture into the forest to bring back what the rest of the world will pay for.
 
 ## Culture & Faith
 
@@ -67,7 +67,7 @@ Lighthaven is too small for formal quarters, but it falls naturally into three a
 
 ### The Embermarket & the Eastern Edge
 
-The eastern side of town, where the streets climb toward the [[The Emberspire|Emberspire]] and the treeline of [[The Darkwood]] looms closest. The market rings the Spire's base, and the buildings that face the forest most directly stand here.
+The eastern side of town, where the streets climb toward the [[The Emberspire|Emberspire]] and the treeline of the [[Darkwood]] looms closest. The market rings the Spire's base, and the buildings that face the forest most directly stand here.
 
 #### The Embermarket *(market — bustling)*
 
@@ -76,7 +76,7 @@ Encircling the base of the Emberspire, the Embermarket is a lively marketplace w
 - Arlen Greyvine *(farmer)* — a kindly grower of the freshest vegetables and fruit, beloved for his generosity and humour.
 - Myra Pindlebock *(travelling merchant)* — a halfling dealer in oddities and minor magical curios, with an enigmatic charm that keeps customers coming back.
 - Ilya Caross *(merchant)* — a shady tiefling who fronts for the [[Darkwood Vanguard]], quietly selling the valuable monster parts the guild retrieves.
-- [[Jek]] *(explorer)* — an older gnome who has braved [[The Darkwood]] for years to bring back exotic materials, working entirely on his own and unaffiliated with the Vanguard.
+- [[Jek]] *(explorer)* — an older gnome who has braved the [[Darkwood]] for years to bring back exotic materials, working entirely on his own and unaffiliated with the Vanguard.
 
 #### The Shadowguard Barracks *(Imperial garrison)*
 
@@ -87,7 +87,7 @@ A modest but well-fortified structure of stone and timber, base to both the Impe
 
 #### The Darkwood Vanguard Hall *(adventurers' guild)*
 
-A sturdy stone-and-timber hall near the eastern edge of town, hard against [[The Darkwood]]. Its walls are hung with the trophies of past expeditions — monstrous skulls, rare pelts, weapons forged from exotic materials — and inside, a roaring hearth warms the room where the guild's members plan their forays, recount their harrowing tales, and process the materials they bring back. The hall holds an armoury, a map room of marked routes and dangers, and a workshop. (See the [[Darkwood Vanguard]] below.)
+A sturdy stone-and-timber hall near the eastern edge of town, hard against the [[Darkwood]]. Its walls are hung with the trophies of past expeditions — monstrous skulls, rare pelts, weapons forged from exotic materials — and inside, a roaring hearth warms the room where the guild's members plan their forays, recount their harrowing tales, and process the materials they bring back. The hall holds an armoury, a map room of marked routes and dangers, and a workshop. (See the [[Darkwood Vanguard]] below.)
 
 - Garrick Thornshield *(guildmaster)* — a grizzled dwarven veteran with a missing eye and a prosthetic hand fashioned from the claws of a Darkwood beast; respected for both strategy and diplomacy.
 - Silva Greybough *(scout & herbalist)* — a seasoned woman with a keen eye for valuable materials and an encyclopaedic knowledge of the forest's terrain and dangers.
@@ -167,17 +167,17 @@ A somber building of dark stone on the outskirts of town. Its front room serves 
 
 ### The Emberspire
 
-The [[The Emberspire|Emberspire]] is the ancient, blackened tower that dominates Lighthaven's eastern skyline — the relic of a forgotten civilisation and the reason the town endures. When the Emberwardens raise its brazier to the right heat and luminosity, a persistent enchantment causes the tower's summit to blaze with light, warding off the monsters of [[The Darkwood]]. It is the heart of the Emberlight Vigil and the single most important structure in the town.
+The [[The Emberspire|Emberspire]] is the ancient, blackened tower that dominates Lighthaven's eastern skyline — the relic of a forgotten civilisation and the reason the town endures. When the Emberwardens raise its brazier to the right heat and luminosity, a persistent enchantment causes the tower's summit to blaze with light, warding off the monsters of the [[Darkwood]]. It is the heart of the Emberlight Vigil and the single most important structure in the town.
 
 ## Factions
 
 ### The Darkwood Vanguard
 
-The [[Darkwood Vanguard]] is the town's adventurers' guild, expert at navigating [[The Darkwood]] to retrieve exotic flora and fauna for trade. They work from their trophy-hung hall on the eastern edge under guildmaster Garrick Thornshield, and move their goods quietly through Ilya Caross at the Embermarket.
+The [[Darkwood Vanguard]] is the town's adventurers' guild, expert at navigating the [[Darkwood]] to retrieve exotic flora and fauna for trade. They work from their trophy-hung hall on the eastern edge under guildmaster Garrick Thornshield, and move their goods quietly through Ilya Caross at the Embermarket.
 
 ### The Duskwardens
 
-The Duskwardens are Lighthaven's own guard, trained specifically to repel incursions from [[The Darkwood]]. Based at the Shadowguard Barracks under Sergeant Kael Morryn and holding the respect the Imperial soldiers do not, they bear the real burden of the town's defence.
+The Duskwardens are Lighthaven's own guard, trained specifically to repel incursions from the [[Darkwood]]. Based at the Shadowguard Barracks under Sergeant Kael Morryn and holding the respect the Imperial soldiers do not, they bear the real burden of the town's defence.
 
 ### The Emberwardens
 
@@ -187,11 +187,11 @@ The Emberwardens are the keepers of the [[The Emberspire|Emberspire]], guardians
 
 #### [[Session 28 - The Underrun]]
 
-After surfacing from the Underrun and travelling the northern road, the party crested a hill at last to look down on the gloomy, fog-shrouded town of Lighthaven and the ominous [[The Darkwood]] beyond — their first sight of the frontier town that would consume the days to come.
+After surfacing from the Underrun and travelling the northern road, the party crested a hill at last to look down on the gloomy, fog-shrouded town of Lighthaven and the ominous [[Darkwood]] beyond — their first sight of the frontier town that would consume the days to come.
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-The party arrived at dusk as the town prepared for [[Emberlight Vigil]], lodging at The Foggy Tankard, where [[Tobias Gristle]] recognised [[Vaeleran]] from a fugue-state visit years before. They met the eccentric artificer [[Belinda Bubblegum]], who offered a high-stakes contract: plant a magical conduit in the [[The Emberspire|Emberspire]] during the festival so she could harness its power. While scouting the shops, they marked [[Captain Lucius Draegor]] as [[Ryo]]'s target and spotted his contact — the apothecary's assistant [[Hugor]] — whom they abducted into [[The Darkwood]] on suspicion he was the informant who had betrayed Ryo.
+The party arrived at dusk as the town prepared for [[Emberlight Vigil]], lodging at The Foggy Tankard, where [[Tobias Gristle]] recognised [[Vaeleran]] from a fugue-state visit years before. They met the eccentric artificer [[Belinda Bubblegum]], who offered a high-stakes contract: plant a magical conduit in the [[The Emberspire|Emberspire]] during the festival so she could harness its power. While scouting the shops, they marked [[Captain Lucius Draegor]] as [[Ryo]]'s target and spotted his contact — the apothecary's assistant [[Hugor]] — whom they abducted into the [[Darkwood]] on suspicion he was the informant who had betrayed Ryo.
 
 #### [[Session 30 - The Darkwood Ambush]]
 

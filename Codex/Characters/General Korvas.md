@@ -104,7 +104,7 @@ Witnesses to the kidnapping of [[King Marius Noren]] identified the leader of th
 
 #### [[Session 39 - The Stoneheart]]
 
-From a concealed balcony, the party observed a meeting between Blackmarsh, Korvas, and five [[Red Priests]] in the great chamber of [[The Stoneheart]]. Blackmarsh ordered Korvas to travel immediately to [[The Darkwood]] to retrieve "the jewel," and Korvas departed without question. The King later warned the party that Korvas had anticipated their infiltration and that Blackmarsh would be waiting.
+From a concealed balcony, the party observed a meeting between Blackmarsh, Korvas, and five [[Red Priests]] in the great chamber of [[The Stoneheart]]. Blackmarsh ordered Korvas to travel immediately to the [[Darkwood]] to retrieve "the jewel," and Korvas departed without question. The King later warned the party that Korvas had anticipated their infiltration and that Blackmarsh would be waiting.
 
 #### [[Session 44 - The Elven Archmage]]
 
