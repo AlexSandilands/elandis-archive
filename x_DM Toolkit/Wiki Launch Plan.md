@@ -78,18 +78,18 @@ For each file in a session:
 - [x] Batch 0 housekeeping (deletes + dup merges)
 
 **Batch 1 — Continents (3)** *(major top-level pages; the names are deceptive — these are landmasses)*
-- [ ] Aetheris *(central continent, site of The Shattering)*
-- [ ] Seraphon *(smaller northern continent, oldest cultures)*
-- [ ] Eldara *(largest continent, mercantile heart of the world)*
+- [x] Aetheris *(central continent, site of The Shattering)*
+- [x] Seraphon *(smaller northern continent, oldest cultures)*
+- [x] Eldara *(largest continent, mercantile heart of the world)*
 
 **Batch 2 — Pantheon / Deities (7)**
-- [ ] Mystra
-- [ ] Lathander
-- [ ] Tiamat
-- [ ] Grumbar *(elemental — earth)*
-- [ ] Istishia *(elemental — water)*
-- [ ] Kossuth *(elemental — fire)*
-- [ ] Forna *(triage — likely a deity; confirm at migration)*
+- [x] Mystra
+- [x] Lathander
+- [x] Tiamat
+- [x] Grumbar *(elemental — earth)*
+- [x] Istishia *(elemental — water)*
+- [x] Kossuth *(elemental — fire)*
+- [x] Forna *(triage — likely a deity; confirm at migration)*
 
 ---
 
@@ -103,10 +103,10 @@ For each file in a session:
 - [ ] Master Artisan Fenian
 - [ ] Freya Ironsong
 - [ ] Thora Ironsong
-- [ ] Thorgar Ummal
-- [ ] Hilda Ummal
-- [ ] Hrothgar
-- [ ] Hvedra
+- [x] Thorgar Ummal
+- [x] Hilda Ummal
+- [x] Hrothgar
+- [x] Hvedra
 
 ---
 
@@ -259,7 +259,10 @@ Run the Pre-launch QA below, then publish.
 - [ ] Add landing page.
 - [ ] Setup git subtree for codex.
 	- [ ] readme
+	- [ ] Add Campaign folder
 	- [ ] ensure anything that shouldn't be here is moved to restricted
+	- [ ] Review the Campaign Folder - Ensure no spoilers in player characters
+- [ ] Review DMG Cities Properties
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.

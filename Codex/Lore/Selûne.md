@@ -75,9 +75,9 @@ The moon faith keeps its calendar by the two moons that hang over the world, Sel
 - **Silvernight** falls on the fifteenth of every month, when the greater moon Sel rides full — the ordinary moon-night of prayer.
 - **The Unshadowed** comes four times a year, on the rare nights when Sel is full while the lesser moon Sha is dark and unseen. These are the faith's highest holy nights, given over to ritual, to the asking of favours, and above all to **the Pardon** — the seeking and granting of forgiveness, when the faithful confess old wrongs and absolve them. That the rite of mercy should fall precisely when the dark moon vanishes is a thing the faith observes without explaining.
 
-### Relics & Prophecy
+### Prophecy
 
-The faith preserves two treasures that the oldest records name as Selûne's own. The first is the **Moon's Tear**, an opalescent teardrop amulet said to grant visions and guidance in the darkest night, and to steer the bearer truly — by sea and road, and in spirit. The second is the **prophecy of the Moon's Chosen**: that when great evil gathers, the Lady of the Moon will raise up a mortal to swing the balance of light and shadow. The Chosen must wander the world bringing redemption to the fallen, healing to the sick, and hope in their wake; then gather the **three Stones of the Moon**, whereupon the hidden **Celestial Cavern** will reveal itself, and the one who enters it will emerge as her champion.
+The faith preserves the **prophecy of the Moon's Chosen**, which the oldest records name as Selûne's own: that when great evil gathers, the Lady of the Moon will raise up a mortal to swing the balance of light and shadow. The Chosen must wander the world bringing redemption to the fallen, healing to the sick, and hope in their wake; then gather the **three Stones of the Moon**, whereupon the hidden **Celestial Cavern** will reveal itself, and the one who enters it will emerge as her champion.
 
 ## In Memory & Belief
 
