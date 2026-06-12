@@ -130,7 +130,7 @@ The hub of Darmouth's merchant class — a place for negotiations, trade agreeme
 
 A smithy and adjacent lumber workshop sharing a courtyard on the southern edge of the trading quarter. The forge produces weapons and armour of genuine quality; the lumberloft handles custom woodwork.
 
-- [[Thora Ironsong]] *(blacksmith)* and [[Freya Ironsong]] *(woodworker)* — twin gnomish sisters in their late twenties with wavy brown hair tied back in matching pigtails. Thora is eager to discuss her craft at length; Freya is quieter but no less skilled.
+- [[Thora Ironsong]] *(blacksmith)* and [[Freya Ironsong]] *(woodworker)* — twin gnomish sisters in their late twenties, hair tied back in matching pigtails: Thora's bright blue, Freya's soft pink. Thora is eager to discuss her craft at length; Freya is quieter but no less skilled.
 
 #### The Tidal Pearl *(jeweller — high-end)*
 

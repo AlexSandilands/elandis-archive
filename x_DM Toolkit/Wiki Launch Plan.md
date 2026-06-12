@@ -156,12 +156,12 @@ This turns "I try to remember" into "it can't leak."
 
 **Batch 3 — Characters (11)**
 - [ ] Ebon *(the Grand Raven — Order of Ravens)*
-- [ ] Elder Silaqui Amastacia
-- [ ] Justiciar Naivara Siannodel
+- [x] Elder Silaqui Amastacia
+- [x] Justiciar Naivara Siannodel
 - [ ] Korvin Blackfeather
-- [ ] Master Artisan Fenian
-- [ ] Freya Ironsong
-- [ ] Thora Ironsong
+- [x] Master Artisan Fenian
+- [x] Freya Ironsong
+- [x] Thora Ironsong
 - [x] Thorgar Ummal
 - [x] Hilda Ummal
 - [x] Hrothgar

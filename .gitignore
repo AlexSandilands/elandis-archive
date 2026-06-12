@@ -4,4 +4,4 @@
 .obsidian/plugins/
 .claude/sessions/
 .claude/worktrees
-
+*.png
