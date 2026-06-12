@@ -65,8 +65,67 @@ For each file in a session:
 - [ ] Run `/codex` → migrate `<Name>`
 - [ ] Review the research it surfaces; add your DM notes
 - [ ] Check all wikilinks resolve to real page names (no ghost pages)
-- [ ] If the stub had restricted content, confirm the companion doc in `Codex - Restricted/`
+- [ ] If the stub had restricted content, confirm the companion doc in `Codex-Restricted/`
 - [ ] Confirm deletion of the root stub once the Codex entry is written
+
+---
+
+## 🔒 Restricted content & the git subtree
+
+**Decision:** keep the two-file split (`Codex/X.md` public + `Codex-Restricted/.../X - Restricted.md` private). With players contributing via a git subtree they clone the *actual files and history* — anything inline (stripped-at-publish DM sections, `%%secret%%` blocks) would land in the public repo's history and could never be redacted without rewriting it under contributors. File-level separation is the only safe boundary.
+
+### Target structure
+
+```
+Elandis/                      ← private vault repo (the whole Obsidian vault)
+├── Wiki/                     ← subtree root → public repo
+│   ├── Codex/
+│   └── Campaigns/
+├── Codex-Restricted/         ← never leaves the private repo
+├── x_Session Prep/
+└── x_DM Toolkit/ ...
+```
+
+### The linking rule: restricted → public only
+
+Public pages must **never** link into `Codex-Restricted/`. A dead `[[X - Restricted]]` link on the wiki advertises that a secret exists — the link text itself is the spoiler.
+
+- Public pages link the plain name (`[[Elaris Moonsong]]`, `[[Vallarra Miriel]]`). If no public page exists yet, an unresolved link just reads as "page not written yet" — normal wiki behaviour.
+- Restricted notes link freely to public pages.
+- Nothing is lost in Obsidian: the backlinks panel on any public page surfaces its `- Restricted` companion, and the quick switcher finds it by name.
+- Promotion stays clean: when a secret becomes table knowledge, fold content from `X - Restricted.md` into `X.md` (or `git mv` a restricted-only page into the Codex) — existing links already point at the right name.
+
+**Known violations to fix before the subtree goes live** (public files currently linking `- Restricted` pages):
+- [ ] `Codex/Characters/Vallania Miriel.md` *(frontmatter + connections table + biography)*
+- [ ] `Codex/Characters/High Priest Oldir.md`
+- [ ] `Campaigns/The Bloody Nails/Characters/Berberis.md`
+- [ ] `Session 04 - To Free a Raven`
+- [ ] `Session 20 - The Streets of Val Miriel`
+- [ ] `Session 26 - A Midnight Romp`
+- [ ] `Session 27 - The Wanted Dwarf`
+
+### Naming convention inside `Codex-Restricted/`
+
+Two kinds of file live there — keep the distinction deliberate:
+- `X - Restricted.md` → a **permanent DM shadow page**; a public `Codex/X.md` with the same base name exists. The suffix avoids Obsidian name collisions and keeps `[[X]]` resolving to the public page.
+- `X.md` (canonical name, e.g. `Forna.md`, `Hrothgar.md`) → a **not-yet-published entry**; no public counterpart. Promotion = `git mv` into `Codex/`.
+
+So the suffix always means "a public page with this name exists."
+
+### Migration notes (the `Wiki/` folder move)
+
+- Wikilinks survive untouched — Obsidian resolves them vault-wide.
+- ~176 files use path-style markdown links (`](Codex/Assets/...)` cover images). Do the move **inside Obsidian** with "automatically update internal links" on, then grep-sweep for any stragglers (`](Codex/` → `](Wiki/Codex/`).
+- Check `publish.js` / `publish.css` for hardcoded `Codex/` paths.
+
+### Leak guard (make the convention enforceable)
+
+Add a pre-push hook or CI check on the public repo that **fails** if anything under `Wiki/` matches:
+- `- Restricted]]`
+- `Codex-Restricted/`
+- `## DM Notes`
+
+This turns "I try to remember" into "it can't leak."
 
 ---
 
@@ -257,17 +316,19 @@ Run the Pre-launch QA below, then publish.
 - [ ] Add location images taken from the parchment map to each location where relevant.
 - [ ] City / town maps.
 - [ ] Add landing page.
-- [ ] Setup git subtree for codex.
+- [ ] Setup git subtree for codex *(structure + rules: see "Restricted content & the git subtree" above)*.
+	- [ ] Move `Codex/` + `Campaigns/` under `Wiki/` (inside Obsidian), sweep `](Codex/` path links
 	- [ ] readme
-	- [ ] Add Campaign folder
 	- [ ] ensure anything that shouldn't be here is moved to restricted
+	- [ ] Fix the public → restricted link violations (list in the subtree section)
+	- [ ] Add the leak-guard check (pre-push hook or CI)
 	- [ ] Review the Campaign Folder - Ensure no spoilers in player characters
 - [ ] Review DMG Cities Properties
 - [ ] **Broken-link sweep** — no ghost/unresolved `[[wikilinks]]`.
 - [ ] **Orphan check** — every Codex page is reachable from a landing/index page.
 - [ ] **Category landing pages** exist (Characters, Locations, Factions, Items, Lore, Continents) and link their children.
 - [ ] **Images** — each entry has its image prompt; generated art lives in `Codex/Assets/...`.
-- [ ] **Restricted content** is in `Codex - Restricted/`, never leaked into a public page.
+- [ ] **Restricted content** is in `Codex-Restricted/`, never leaked into a public page.
 - [ ] **Spot-check 5 random pages** against the gold-standard formatting.
 - [ ] **Publish/sync to the web wiki** (confirm the publish pipeline) and view as a player.
 - [ ] `git add` + commit the migrated Codex.

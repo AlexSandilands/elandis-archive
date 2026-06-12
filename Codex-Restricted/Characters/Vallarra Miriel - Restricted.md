@@ -14,7 +14,9 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - character
-aliases: [Vallarra]
+aliases:
+  - Vallarra
+  - Vallarra Miriel
 ---
 > [!infobox|wikipedia]
 > # Vallarra Miriel
