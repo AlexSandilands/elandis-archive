@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-Following the failure of their magical approach due to [[The Emberspire]]'s anti-magic field, the party regrouped in an alleyway to devise a mechanical solution. They decided to purchase a heavy crossbow from the local blacksmith, [[Dhorik]], and modify a bolt to hold the magical piton. While [[Ryo]] and [[Eryndor]] positioned themselves on a rooftop under the guise of invisibility, [[Vaeleran]] and [[Dondar]] created a diversion at the festival's "Dwarven Hammer" game. Timing the shot perfectly with the ringing of the bell and the evening fireworks, Ryo successfully embedded the piton into the tower unnoticed, securing the link needed for the coming ritual.
+Following the failure of their magical approach due to the [[Emberspire]]'s anti-magic field, the party regrouped in an alleyway to devise a mechanical solution. They decided to purchase a heavy crossbow from the local blacksmith, [[Dhorik]], and modify a bolt to hold the magical piton. While [[Ryo]] and [[Eryndor]] positioned themselves on a rooftop under the guise of invisibility, [[Vaeleran]] and [[Dondar]] created a diversion at the festival's "Dwarven Hammer" game. Timing the shot perfectly with the ringing of the bell and the evening fireworks, Ryo successfully embedded the piton into the tower unnoticed, securing the link needed for the coming ritual.
 
 At midnight, the [[Emberlight Vigil]] began, illuminating [[Lighthaven]] with golden energy. Inside [[Belinda Bubblegum]]'s workshop, Dondar proved to be a prodigy of enchantment. assisting Belinda in siphoning the tower's power. Through a series of flawless decisions, Dondar forged the [[Emberblade]], a stunning gold-and-obsidian rapier with a pommel carved in his own likeness, gifting it to Eryndor. [[Kai]] managed to purchase a *Cloak of Billowing*.
 
@@ -36,7 +36,7 @@ The following morning, the party returned to the forge to confront Dhorik. When 
 ### Planning and Preparation
 
 * **Recovery:** [[Kai]] healed [[Eryndor]] after his 100-foot fall from the tower.
-* **The Plan:** Realising magic would fail near the [[The Emberspire]], the group decided to shoot the piton in using a heavy crossbow.
+* **The Plan:** Realising magic would fail near the [[Emberspire]], the group decided to shoot the piton in using a heavy crossbow.
 * **Shopping:** The group visited [[Dhorik]] at the forge. [[Ryo]] refused to enter due to their history. [[Vaeleran]] purchased a heavy crossbow for 50 gold pieces (bolts included).
 * **Modifications:** The group visited [[Belinda Bubblegum]]. Vaeleran (woodworking) and [[Dondar]] (smithing) successfully modified a crossbow bolt to hold the piton, though the balance was imperfect.
 * **Additional Shopping:**

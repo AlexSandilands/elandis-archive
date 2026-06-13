@@ -35,7 +35,7 @@ Belinda's Chest sat in [[Lighthaven]], a misty town in the [[Darkwood]], directl
 
 Inside, the front room was a cheerful clutter of small enchanted items, for [[Belinda Bubblegum]] was an experimenter who loved the little things as much as the great ones. Her speciality was turning mundane objects into enchanted tools that quietly helped people — the sort of place one might buy a hand towel that dried the dishes on its own. The back room, where she actually worked, was markedly more orderly than the chaos out front.
 
-Day to day the shop sold only minor trinkets, but Belinda would offer to craft a single *rare* magical item for anyone willing to help her with the task that had brought her to town. To that end she kept a device in the workshop built to drink the bursts of power the [[The Emberspire|Emberspire]] released at the height of [[Emberlight Vigil]], channelling that energy directly into her crafting.
+Day to day the shop sold only minor trinkets, but Belinda would offer to craft a single *rare* magical item for anyone willing to help her with the task that had brought her to town. To that end she kept a device in the workshop built to drink the bursts of power the [[Emberspire]] released at the height of [[Emberlight Vigil]], channelling that energy directly into her crafting.
 
 ## A Temporary Front
 
@@ -45,7 +45,7 @@ For all its trinkets and sparks, the shop was only ever a means to an end. Belin
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-The party tracked [[Belinda Bubblegum]] from the local tavern to her shop, where she made her proposition: plant a siphoning device in [[The Emberspire|the Emberspire]] during the festival, and she would craft them a rare magical item in return.
+The party tracked [[Belinda Bubblegum]] from the local tavern to her shop, where she made her proposition: plant a siphoning device in the [[Emberspire]] during the festival, and she would craft them a rare magical item in return.
 
 #### [[Session 30 - The Darkwood Ambush]]
 

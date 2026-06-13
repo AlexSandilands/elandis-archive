@@ -76,7 +76,7 @@ For some time, one of her primary goals was to reach [[Arkangel]], the legendary
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-The party arrived in [[Lighthaven]] as the town prepared for the upcoming [[Emberlight Vigil]] festival. Belinda introduced herself memorably — storming into the local tavern to demand hop seeds from the innkeeper for an unspecified experiment — before the group tracked her to her workshop, **Belinda's Chest**. There she made her proposition: plant a custom magical conduit inside [[The Emberspire]] during the festival to siphon a fraction of the tower's energy, and she would craft the party a rare magical item in exchange for the risk. She took a particular interest in [[Kai]]'s water magic and in [[Dondar]]'s connection to the dwarves.
+The party arrived in [[Lighthaven]] as the town prepared for the upcoming [[Emberlight Vigil]] festival. Belinda introduced herself memorably — storming into the local tavern to demand hop seeds from the innkeeper for an unspecified experiment — before the group tracked her to her workshop, **Belinda's Chest**. There she made her proposition: plant a custom magical conduit inside the [[Emberspire]] during the festival to siphon a fraction of the tower's energy, and she would craft the party a rare magical item in exchange for the risk. She took a particular interest in [[Kai]]'s water magic and in [[Dondar]]'s connection to the dwarves.
 
 #### [[Session 30 - The Darkwood Ambush]]
 

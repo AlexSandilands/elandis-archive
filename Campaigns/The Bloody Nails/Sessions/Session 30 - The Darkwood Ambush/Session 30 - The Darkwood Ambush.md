@@ -29,7 +29,7 @@ The session began under the cover of darkness in the woods outside [[Lighthaven]
 
 The interrogation revealed a personal betrayal: the local blacksmith, [[Dhorik]], was the one who sold Ryo out to the Empire. With the information secured, Ryo executed the Captain, and the party disposed of the bodies in the pit trap, looting a set of plate armour and a *Driftglobe* before returning to town. The following morning was dedicated to preparation for the upcoming Winter Solstice festival. The group visited The Ember Market to purchase rare ingredients - a Hydra Scale and Sap from an Elder Oak - commissioning a magical Rapier from [[Belinda Bubblegum]]'s list of potential enchantments. During their shopping, they uncovered lore regarding the Elves' disappearance a century ago, involving a mysterious screaming baby.
 
-The session culminated in a daring but disastrous attempt to insert Belinda’s magical piton into [[The Emberspire]]. The plan relied on Dondar casting *Fly* and *Invisibility* on Eryndor to reach the tower's summit unnoticed. However, upon landing on the roof, Eryndor discovered that the Spire emits a potent anti-magic field. The spells instantly failed, causing the rogue to plummet from the heights and crash into the courtyard below. [[Kai]] and the others were unable to intervene due to the magic dampening. Thinking quickly, Vaeleran gaslighted the gathering crowd and the approaching Wardens, claiming Eryndor was his "special" brother who had simply climbed too high, narrowly avoiding arrest as the party retreated to rethink their strategy.
+The session culminated in a daring but disastrous attempt to insert Belinda’s magical piton into the [[Emberspire]]. The plan relied on Dondar casting *Fly* and *Invisibility* on Eryndor to reach the tower's summit unnoticed. However, upon landing on the roof, Eryndor discovered that the Spire emits a potent anti-magic field. The spells instantly failed, causing the rogue to plummet from the heights and crash into the courtyard below. [[Kai]] and the others were unable to intervene due to the magic dampening. Thinking quickly, Vaeleran gaslighted the gathering crowd and the approaching Wardens, claiming Eryndor was his "special" brother who had simply climbed too high, narrowly avoiding arrest as the party retreated to rethink their strategy.
 
 ## Details
 
@@ -71,7 +71,7 @@ The session culminated in a daring but disastrous attempt to insert Belinda’s 
 
 ### The Tower Incident
 
-* **The Plan:** [[Dondar]] cast *Fly* and *Invisibility* on [[Eryndor]] so he could fly to the top of [[The Emberspire]] and hammer in the piton, while [[Kai]] prepared *Silence*.
+* **The Plan:** [[Dondar]] cast *Fly* and *Invisibility* on [[Eryndor]] so he could fly to the top of the [[Emberspire]] and hammer in the piton, while [[Kai]] prepared *Silence*.
 * **The Failure:** As Eryndor landed on the tower's roof, all magic ceased. The tower is surrounded by ancient runes that generate a permanent anti-magic field.
 * **The Fall:** Eryndor plummeted 100 feet, taking 12 damage upon impact. Kai attempted to catch him with vines and an *Unseen Servant*, but the spells failed due to the field.
 * **The Cover-up:** [[Vaeleran]] successfully deceived the crowd and the Wardens, claiming Eryndor was his mentally challenged brother who had climbed up and fallen, preventing the party from being detained.

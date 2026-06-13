@@ -35,7 +35,7 @@ tags:
 > ---|---|
 > Status | Alive |
 
-**Jek** is a gnomish hunter and adventurer who makes his living in the [[Darkwood]], venturing deep into its shadows to retrieve rare materials harvested from the creatures that dwell there. Blunt-spoken and no-nonsense, he is nonetheless a man of considerable warmth — the sort who says little but does much.
+**Jek** is a gnomish hunter and adventurer who makes his living in the [[Darkwood]], venturing deep into its shadows to retrieve rare materials harvested from the creatures that dwell there. A senior member and old hand of the [[Darkwood Vanguard]], Lighthaven's adventurers' guild, he is blunt-spoken and no-nonsense — and nonetheless a man of considerable warmth, the sort who says little but does much.
 
 ## Biography
 

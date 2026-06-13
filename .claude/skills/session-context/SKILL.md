@@ -97,7 +97,7 @@ Session 46. The party enters Sumara, the hidden elven city in the Faewild, and a
 - Elder Silaqui Amastacia: Leader of the Circle of the Dawn.
 - Warden Sylvaris: Leader of the Circle of the Root.
 - Fenian / Master Artisan Fenian: Leader of the Circle of the Loom.
-- Warden Caeryn: Lead arresting officer. Trained under Ayana.
+- Skyguard Caeryn: Lead arresting officer. Trained under Ayana.
 - Warden-Elder Thessan: Caeryn's superior.
 - Elder Pip Glimmermoss: Pixie healer. Reverses the Gossamer Dust on Ayana.
 - Torgrun Brasswick: Dwarf tavern owner, from Glimmerforge.
@@ -105,7 +105,7 @@ Session 46. The party enters Sumara, the hidden elven city in the Faewild, and a
 - Thenrel Arith: Elf road worker on the mountain approach.
 
 **Spelling Reference:**
-Syndrosa (not Sindrosa), Kharazoth (not Karazoth), Silmara (not Silmira), Illythia (not Ilithia), Siannodel (not Sianodel), Amastacia (not Anastacia), Gemflower (not Gem Flower), Thessan (not Thesson), Glimmerforge, Vanguard Wardens, Gossamer Dust, Locus Arcanum, Palisade Eternal, Luminarium, Oraculum, Verdant Vault, Rite of Ascension, Confluence of the Seven
+Syndrosa (not Sindrosa), Kharazoth (not Karazoth), Silmara (not Silmira), Illythia (not Ilithia), Siannodel (not Sianodel), Amastacia (not Anastacia), Gemflower (not Gem Flower), Thessan (not Thesson), Glimmerforge, Skyguard, Gossamer Dust, Locus Arcanum, Palisade Eternal, Luminarium, Oraculum, Verdant Vault, Rite of Ascension, Confluence of the Seven
 ````
 
 ---

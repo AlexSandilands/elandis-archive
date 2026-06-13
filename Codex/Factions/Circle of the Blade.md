@@ -53,11 +53,9 @@ Commander [[Kaelen Vayne]] has held the Meridian post for over a century. A heav
 
 ## Military Units
 
-The Circle fields two specialist corps beneath its broader rank-and-file.
+The bulk of the Circle's strength is its rank-and-file: disciplined soldiers in silver-and-grey armour bearing the crests of the Blade, who patrol the border approaches and staff Sumara's internal security. They are the Circle's visible presence within the city itself — the border guards a visitor passes and the watch that keeps the inner bridges.
 
-The **Vanguard Wardens** are the Circle's ground forces: disciplined soldiers in silver-and-grey armour bearing the crests of the Blade, who patrol the border approaches and staff Sumara's internal security. They are the Circle's visible presence within the city itself.
-
-The **[[Skyguard]]** are the Circle's airborne arm — cavalry riders on silvery wyverns who patrol Sumara's high approaches and descend swiftly on any unexpected arrival. They are typically the first force a visitor encounters, and the last they want to face.
+Above them stands the Circle's one specialist corps, the **[[Skyguard]]** — its airborne arm, cavalry riders on silver-scaled wyverns native to the [[Shimmering Peaks]] who hold Sumara's high approaches and descend swiftly on any unexpected arrival. They are typically the first force a visitor encounters, and the last they want to face.
 
 ## Martial Tradition
 

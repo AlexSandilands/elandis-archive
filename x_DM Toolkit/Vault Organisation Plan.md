@@ -7,7 +7,7 @@
 - [x] Create all 7 Codex document templates (Character, City, Region, POI, Faction, Lore, Item, Restricted)
 - [x] `campaign-audit` skill — built and tested on Ayana Syndrosa
 - [x] `shrink-image` skill — built (uses ImageMagick to generate 500px-wide `_small` thumbnails)
-- [x] Warden Caeryn created as Minor character gold standard reference
+- [x] Skyguard Caeryn created as Minor character gold standard reference
 - [x] Minor character format established (short opening paragraph + Biography + Campaign section with bullet-per-session)
 - [x] Naming conventions documented (Section 8) — "The" rule, session title convention
 - [ ] Update session prep template (x_Templates/Prep/Prep - Session.md)
@@ -280,7 +280,7 @@ Fun facts, voice notes, behind-the-scenes details.
 ```
 
 ### Character - Minor
-Reference: `Codex/Characters/Warden Caeryn.md`
+Reference: `Codex/Characters/Skyguard Caeryn.md`
 
 ```markdown
 > [!infobox|wikipedia]

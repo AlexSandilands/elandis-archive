@@ -31,7 +31,7 @@ tags:
 
 Arkangel has no fixed address. It moves above [[Elandis]] at altitude, its position at any given moment unknown to the public and apparently governed by no predictable schedule. It tends to avoid the skies over major cities, making deliberate sightings rare and happenstance glimpses the stuff of travellers' tales. From a distance, it presents as a broad floating platform bearing a cluster of elegant arcane spires — graceful, impossibly large, and held aloft by means that no external scholar has been able to fully document. Up close, runes glow faintly across the stone foundations, and the hum of ancient enchantments is a constant, ambient presence.
 
-Approaching Arkangel is a significant undertaking. Arcane wards encircle the platform, and determining the city's location in the first place requires considerable ingenuity. Part of the unspoken rite of entry is solving the problem of arrival independently — there is no prescribed method, and no one can simply be escorted there by a friend who already knows the way. Valid approaches have ranged from the elegant to the audacious: [[Belinda Bubblegum]] constructed a teleportation rod calibrated to the city's position using energy drawn from [[The Emberspire]] during the Solstice. A mage capable of flight could in principle reach it by air — but only if they could determine precisely when and where the city would be, and then navigate the wards.
+Approaching Arkangel is a significant undertaking. Arcane wards encircle the platform, and determining the city's location in the first place requires considerable ingenuity. Part of the unspoken rite of entry is solving the problem of arrival independently — there is no prescribed method, and no one can simply be escorted there by a friend who already knows the way. Valid approaches have ranged from the elegant to the audacious: [[Belinda Bubblegum]] constructed a teleportation rod calibrated to the city's position using energy drawn from the [[Emberspire]] during the Solstice. A mage capable of flight could in principle reach it by air — but only if they could determine precisely when and where the city would be, and then navigate the wards.
 
 ## History
 
@@ -49,7 +49,7 @@ Mages come and go freely. No one lives in Arkangel permanently, and no record is
 
 #### [[Session 29 - Lighthaven Awaits]]
 
-In [[Lighthaven]], the party encountered [[Belinda Bubblegum]], an artificer who had spent years working toward a means of reaching Arkangel. She proposed a bargain: if they would hammer a specially-prepared piton into the side of [[The Emberspire]] during the Solstice — harnessing the tower's surge of energy — she could use that power to construct a teleportation rod calibrated to the city's location. The party agreed and aided her in completing the task, providing Belinda with the means to achieve a goal she had pursued for years.
+In [[Lighthaven]], the party encountered [[Belinda Bubblegum]], an artificer who had spent years working toward a means of reaching Arkangel. She proposed a bargain: if they would hammer a specially-prepared piton into the side of the [[Emberspire]] during the Solstice — harnessing the tower's surge of energy — she could use that power to construct a teleportation rod calibrated to the city's location. The party agreed and aided her in completing the task, providing Belinda with the means to achieve a goal she had pursued for years.
 
 ## Trivia
 

@@ -29,7 +29,7 @@ Glob for `Session <N> - * - Prep.md` in the prep directory. Read the full file.
 
 Gather every proper noun in these categories:
 
-- **NPCs** — full names, titles, and any aliases or alternate names mentioned in the text (e.g. if the prep reveals "Caeryn" is also called "Warden Caeryn", include both; if Ayana is revealed to have a secret name like "Lady Syndrosa", include that too). The NPC Quick Reference table at the bottom of most prep files is the most reliable source.
+- **NPCs** — full names, titles, and any aliases or alternate names mentioned in the text (e.g. if the prep reveals "Caeryn" is also called "Skyguard Caeryn", include both; if Ayana is revealed to have a secret name like "Lady Syndrosa", include that too). The NPC Quick Reference table at the bottom of most prep files is the most reliable source.
 - **Locations** — place names from `[[WikiLinks]]`, scene headings, and descriptions. Include both the proper name and any colloquial shorthand used in the text.
 - **Lore terms** — faction names, artefacts, historical events, spells, creatures, and world-specific vocabulary.
 
@@ -76,6 +76,6 @@ D&D session in Valtorra. DM: Riv. Players: Kiwi (Dondar), Lacer (Kai), Deathmous
 ## Example — Session 46
 
 ```
-"D&D session in Valtorra. DM: Riv. Players: Kiwi (Dondar), Lacer (Kai), Deathmouse (Eryndor), JC (Ryo), Vael (Berberis/Vaeleran). Session 46 in Sumara, the Shining City, Faewild. NPCs: Ayana Syndrosa, Lady Syndrosa, Illythia Voss, Kaelen Vayne, Naivara Siannodel, Elrohir Gemflower, Silaqui Amastacia, Fenian, Warden Sylvaris, Thenrel Arith, Warden Caeryn, Warden-Elder Thessan, Elder Pip Glimmermoss, Torgrun Brasswick, Syriel Brasswick, Lyris Thornweave, Sporryn, Ferethis, Arcanist Levvel. Locations: Shimmering Peaks, Heartstone Commons, Locus Arcanum, Luminarium, Palisade Eternal, Oraculum, Ironsward Canton, Royal Citadel, Verdant Vault, Liar's River, Glimmerforge. Lore: Kharazoth the Crimson Shadow, Chaos Wars, Gossamer Dust, Emerald Ceremony, Rite of Ascension, Vanguard Wardens, Ratha Silmara, Rhennaya Silmara, Crimson Empire."
+"D&D session in Valtorra. DM: Riv. Players: Kiwi (Dondar), Lacer (Kai), Deathmouse (Eryndor), JC (Ryo), Vael (Berberis/Vaeleran). Session 46 in Sumara, the Shining City, Faewild. NPCs: Ayana Syndrosa, Lady Syndrosa, Illythia Voss, Kaelen Vayne, Naivara Siannodel, Elrohir Gemflower, Silaqui Amastacia, Fenian, Warden Sylvaris, Thenrel Arith, Skyguard Caeryn, Warden-Elder Thessan, Elder Pip Glimmermoss, Torgrun Brasswick, Syriel Brasswick, Lyris Thornweave, Sporryn, Ferethis, Arcanist Levvel. Locations: Shimmering Peaks, Heartstone Commons, Locus Arcanum, Luminarium, Palisade Eternal, Oraculum, Ironsward Canton, Royal Citadel, Verdant Vault, Liar's River, Glimmerforge. Lore: Kharazoth the Crimson Shadow, Chaos Wars, Gossamer Dust, Emerald Ceremony, Rite of Ascension, Skyguard, Ratha Silmara, Rhennaya Silmara, Crimson Empire."
 ```
 *857 characters*

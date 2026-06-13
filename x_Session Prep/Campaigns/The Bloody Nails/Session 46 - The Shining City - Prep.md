@@ -14,7 +14,7 @@ tags:
 - [x] Scene 1: The Mountain Road (Thenrel Arith)
 - [x] Scene 2: First Look at Sumara (read aloud)
 - [x] Scene 3: Entering the City
-- [x] Scene 4: The Arrest (Warden Caeryn)
+- [x] Scene 4: The Arrest (Skyguard Caeryn)
 - [x] Scene 5: Interrogation & Ayana's Restoration (Elder Pip)
 - [x] Scene 6: Calling the Confluence (Sending stone)
 - [x] Scene 7: City Exploration (sandbox)
@@ -78,18 +78,18 @@ Let the moment breathe. Give players time to react. Child-Ayana may react with s
 
 ## Scene 4: The Arrest
 
-Three Faewild Wyverns descend from the Palisade Eternal — sleek, iridescent-scaled, smaller than Material Plane wyverns, built for speed and agility, with a faintly luminescent blue-green shimmer to their scales.
+Three silver-scaled wyverns of the [[Shimmering Peaks]] descend from the Palisade Eternal — sleek, smaller than Material Plane wyverns, built for speed and agility, with a faint silvery sheen to their scales.
 
-Their riders: **Vanguard Wardens** — elite elven soldiers of the Ironsward, fitted silver-and-grey armour, crests of the Circle of the Blade.
+Their riders: **Skyguard** — elite elven soldiers of the Ironsward, fitted silver-and-grey armour, crests of the Circle of the Blade.
 
-**Lead Warden: Warden Caeryn** — young, nervous but disciplined.
+**Lead rider: Skyguard Caeryn** — young, nervous but disciplined.
 
 - *"By order of Commander Vayne and the Council of the Seven Circles, you are required to present yourselves for questioning. Please come peacefully."*
 - Not unkind. Just very out of his depth with this situation.
 - If pushed: *"I am trying to do this with dignity. Please. Do not make me use force in the middle of the Commons."*
 
 > [!info]+ Recommended Path
-> Allow themselves to be taken. Fighting Vanguard Wardens in the Commons would be catastrophic politically. Child-Ayana will be cooperative and excited: *"Are we being arrested? Woooo!"*
+> Allow themselves to be taken. Fighting Skyguard in the Commons would be catastrophic politically. Child-Ayana will be cooperative and excited: *"Are we being arrested? Woooo!"*
 
 > [!danger]+ If They Resist
 > The city goes quiet. More wardens on rooftops. The crowd pulls back. Make clear this is not a fight they want.
@@ -99,7 +99,7 @@ Their riders: **Vanguard Wardens** — elite elven soldiers of the Ironsward, fi
 > [!summary]+ Setting
 > A clean but severe receiving hall in the Ironsward Canton. Stone floors, long table, oil lamps.
 
-**The Interrogation** — Warden Caeryn takes their details:
+**The Interrogation** — Skyguard Caeryn takes their details:
 - *"How did you cross the Liar's River?"*
 - *"What is your purpose here?"*
 - *"Where did you come from on the Material Plane?"*
@@ -387,7 +387,7 @@ She returns to Kharazoth. To the evidence the Bloody Nails have gathered. To wha
 | NPC | Role | Manner | Key Note |
 |---|---|---|---|
 | Thenrel Arith | Road maintenance elf | Solitary, observant, stunned | Runs ahead to tell the city |
-| Warden Caeryn | Lead arresting officer | Nervous, disciplined, not unkind | Ayana trained him years ago; first to say "Lady Syndrosa" aloud |
+| Skyguard Caeryn | Lead arresting officer | Nervous, disciplined, not unkind | Ayana trained him years ago; first to say "Lady Syndrosa" aloud |
 | Warden-Elder Thessan | Caeryn's superior | Grey, experienced, pragmatic | Recognizes Gossamer Dust; sends for Elder Pip |
 | Elder Pip Glimmermoss | Pixie healer (Dawn) | Ancient, tiny, rapid, all-business | Reverses Gossamer Dust |
 | Torgrun Brasswick | Dwarf curiosity shop | Nostalgic, cheerful, sad eyes | Hasn't seen a dwarf in 100 years; from Glimmerforge |

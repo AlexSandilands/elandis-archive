@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-After a long journey, the party arrives at the mist-shrouded town of [[Lighthaven]] just as the populace prepares for the upcoming [[Emberlight Vigil]]. [[Ryo]], adopting the alias "Leo" to avoid recognition from a past arrest, is consumed by a need for vengeance against the local Imperial Captain, [[Captain Lucius Draegor|Lucius Draegor]], and the unknown informant who betrayed him months prior. Their arrival at the local tavern leads to a reunion of sorts; the innkeeper recognises [[Vaeleran]] from a fugue-state visit years ago, and the group encounters an eccentric Dwarven Artificer named [[Belinda Bubblegum]]. Belinda offers the party a high-stakes contract: plant a magical conduit into the ancient [[The Emberspire|Emberspire]] during the festival to help her harness its energy, in exchange for the crafting of a powerful rare magical item.
+After a long journey, the party arrives at the mist-shrouded town of [[Lighthaven]] just as the populace prepares for the upcoming [[Emberlight Vigil]]. [[Ryo]], adopting the alias "Leo" to avoid recognition from a past arrest, is consumed by a need for vengeance against the local Imperial Captain, [[Captain Lucius Draegor|Lucius Draegor]], and the unknown informant who betrayed him months prior. Their arrival at the local tavern leads to a reunion of sorts; the innkeeper recognises [[Vaeleran]] from a fugue-state visit years ago, and the group encounters an eccentric Dwarven Artificer named [[Belinda Bubblegum]]. Belinda offers the party a high-stakes contract: plant a magical conduit into the ancient [[Emberspire]] during the festival to help her harness its energy, in exchange for the crafting of a powerful rare magical item.
 
 While investigating the town's shops, the party identifies their target. At the Verdant Rose apothecary, they spot a young halfling assistant named [[Hugor]] fraternising with Captain Draegor. Suspecting him to be the informant, the party executes a ruthless kidnapping immediately after he leaves work. Using magical silence and commands, they drag the terrified youth into the pitch-black depths of the [[Darkwood]].
 
@@ -44,7 +44,7 @@ Under the threat of torture and death, Hugor confesses to selling information to
 
 * The group tracks [[Belinda Bubblegum|Belinda]] to her shop, [[Belinda's Chest]].
 * Belinda, an Artificer from the Academy at [[Glimmerforge]], is impressed by [[Kai]]'s water magic and [[Dondar]]'s connection to the dwarves.
-* She offers a quest: She needs a magical piton hammered into the side of the [[The Emberspire]] during the Solstice to harness the tower's energy.
+* She offers a quest: She needs a magical piton hammered into the side of the [[Emberspire]] during the Solstice to harness the tower's energy.
 * **Goal:** She intends to create a rod to teleport herself to the floating city of [[Arkangel]].
 * **Reward:** She provides a list of rare magical items (e.g., *Horn of Blasting*, *Cloak of Displacement*) and promises to craft *one* for the party if they succeed.
 

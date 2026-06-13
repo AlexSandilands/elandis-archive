@@ -172,14 +172,14 @@ This turns "I try to remember" into "it can't leak."
 ## Sat 13 Jun (4h) · FACTIONS + CITIES & TOWNS
 
 **Batch 4 — Factions (8)**
-- [ ] Cindercloaks
+- [x] Cindercloaks
 - [x] Circle of the Root
 - [x] Circle of the Scales
 - [x] Circle of the Scroll
-- [ ] Court of Fallen Leaves
-- [ ] Darkwood Vanguard
-- [ ] Emberlight Vigil
-- [ ] Skyguard
+- [x] Court of Fallen Leaves
+- [x] Darkwood Vanguard
+- [x] Emberlight Vigil
+- [x] Skyguard
 
 **Batch 5 — Cities & Towns (14)** *(the Luminor Plains farming towns make a natural sub-batch)*
 - [ ] Shardcrest *(Imperial coastal city)*
@@ -282,7 +282,7 @@ Geographic features:
 - [ ] The Portal
 - [ ] Theatre of Dreams *(canonical after Batch 0 merge)*
 - [ ] Serenity Plaza
-- [ ] The Emberspire
+- [x] The Emberspire
 
 ---
 

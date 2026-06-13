@@ -10,7 +10,7 @@ Place: "[[Sumara, The Shining City|Sumara]]"
 Connections:
   - "[[Ayana Syndrosa]]"
   - "[[Circle of the Blade]]"
-Profession: Vanguard Warden
+Profession: Skyguard
 Importance: Minor
 Status: Alive
 NoteIcon: npc
@@ -22,7 +22,7 @@ aliases:
   - Caeryn
 ---
 > [!infobox|wikipedia]
-> # Warden Caeryn
+> # Skyguard Caeryn
 > [![[Codex/Assets/Characters/Skyguard_Caeryn_small.webp|cover hsmall]]](Codex/Assets/Characters/Skyguard_Caeryn.webp)
 > ###### Basic Information
 > Attribute |  Details |
@@ -39,13 +39,13 @@ aliases:
 > Languages | Common, Elvish |
 > Place | [[Sumara, The Shining City\|Sumara]] |
 > Connections | [[Ayana Syndrosa]], [[Circle of the Blade]] |
-> Profession | Vanguard Warden |
+> Profession | Skyguard |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-Warden Caeryn is a young elven soldier of [[Sumara, The Shining City|Sumara]]'s Ironsward, serving as a Vanguard Warden under the [[Circle of the Blade]]. Disciplined and earnest, he cuts a composed figure in his silver-and-grey armour — though those who look closely will notice the tells of a man who is very much still finding his footing.
+Skyguard Caeryn is a young elven soldier of [[Sumara, The Shining City|Sumara]]'s Ironsward, serving as a Skyguard under the [[Circle of the Blade]]. Disciplined and earnest, he cuts a composed figure in his silver-and-grey armour — though those who look closely will notice the tells of a man who is very much still finding his footing.
 
 ## Biography
 

@@ -305,6 +305,6 @@ If a root-level stub was detected in Step 2, ask the user to confirm deletion of
 Read these if you want to see the exact style to match:
 
 - **Major:** `Codex/Characters/Ayana Syndrosa.md` — literary prose, YAML list Connections, `\|` pipe escaping in the infobox, full campaign section, Trivia.
-- **Minor:** `Codex/Characters/Warden Caeryn.md` — short 2–3 sentence opening, concise Biography prose (no Background sub-heading for Minor entries), bullet-style campaign entries. Ignore the `eWarden` typo at the start of that file — it's a source error.
+- **Minor:** `Codex/Characters/Skyguard Caeryn.md` — short 2–3 sentence opening, concise Biography prose (no Background sub-heading for Minor entries), bullet-style campaign entries. Ignore the `eWarden` typo at the start of that file — it's a source error.
 
 These are the bar. Match them.

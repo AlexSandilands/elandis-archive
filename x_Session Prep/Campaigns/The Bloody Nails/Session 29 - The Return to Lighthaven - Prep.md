@@ -117,7 +117,7 @@ tags:
 > > - A small stone bird that sits above on the door frame chirps "Visitor!!!" when it opens
 - Belinda is currently manically working in the back room
 - [Magic Item Tables](https://www.dndbeyond.com/sources/dnd/xgte/magic-item-tables)
-- Has only magical trinkets at the moment, but will create a rare magic item of their choice if they help her implant a device into the side of [[The Emberspire]], which she believes will tap into some of the power that is concentrated by the tower at the moment of the Solstice.
+- Has only magical trinkets at the moment, but will create a rare magic item of their choice if they help her implant a device into the side of the [[Emberspire]], which she believes will tap into some of the power that is concentrated by the tower at the moment of the Solstice.
 	- She is trying to create a magical rod that will teleport her to [[Arkangel]], the flying airship of arcane knowledge
 
 - Will ask the group if they are outsides and just passing through
