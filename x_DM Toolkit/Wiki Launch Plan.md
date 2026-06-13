@@ -182,20 +182,20 @@ This turns "I try to remember" into "it can't leak."
 - [x] Skyguard
 
 **Batch 5 — Cities & Towns (14)** *(the Luminor Plains farming towns make a natural sub-batch)*
-- [ ] Shardcrest *(Imperial coastal city)*
-- [ ] Nyrieth *(western port city)*
-- [ ] Everfall *(cold northern city)*
-- [ ] Silverforge
-- [ ] Brightwater
-- [ ] Valewatch *(watch-town)*
-- [ ] Sabine *(Gulf of Miriel town)*
-- [ ] River's Watch
-- [ ] Isle of Solenne
-- [ ] Redhaven *(Luminor Plains)*
-- [ ] Nightstone *(Luminor Plains)*
-- [ ] Hillcrest *(Luminor Plains)*
-- [ ] Goldcrest *(Luminor Plains)*
-- [ ] Ravencrest *(Luminor Plains)*
+- [x] Shardcrest *(Imperial coastal city)*
+- [x] Xenith *(western port city)*
+- [x] Everfall *(cold northern city)*
+- [x] Silverforge
+- [x] Brightwater
+- [x] Valewatch *(watch-town)*
+- [x] Sabine *(Gulf of Miriel town)*
+- [x] River's Watch
+- [x] Isle of Solenne
+- [x] Redhaven *(Luminor Plains)*
+- [x] Nightstone *(Luminor Plains)*
+- [x] Hillcrest *(Luminor Plains)*
+- [x] Goldcrest *(Luminor Plains)*
+- [x] Ravencrest *(Luminor Plains)*
 
 ---
 

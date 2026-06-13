@@ -18,6 +18,12 @@ tags:
 ## Istishia, the Water Lord
 - Among the most withdrawn of the Gods of Old. He has no active faith, no current champions, and no clear designs on the world. Whether he is stirring, as [[Selûne]] is, remains an open question.
 
+## The Temple on Solenne
+- A new movement of Wavecaller worshippers, led by a fanatic, is occupying and restoring a massive ancient temple on the [[Isle of Solenne]] in the [[Gulf of Miriel]], believing it an ancestral seat of her faith.
+- In truth it is a pre-Shattering temple of **[[Istishia]]** — a water-god's house they have mistaken for the water goddess's, because the god it was built for has been forgotten and Maris now carries his sphere. They are re-consecrating an elder god's temple to the saint who replaced him, without knowing he ever existed.
+- A water-aligned [[Riftshard]] lies within it. The movement's zeal to cleanse and dig out the temple risks disturbing both the Riftshard and whatever its builders left. See [[Isle of Solenne]] for the full site.
+
 ## Open Threads
 - Umberlee's Grasp is a direct material link to [[Istishia]].
 - What the Wavecaller herself understands of her own origins, and whether Istishia is aware of a second Shattering approaching, are unresolved.
+- Whether the Solenne movement's leader senses the temple's true power, or is an earnest zealot serving as an unwitting instrument of something older.

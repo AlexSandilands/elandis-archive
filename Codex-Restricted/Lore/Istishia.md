@@ -52,3 +52,9 @@ Like the other Gods of Old, Istishia withdrew from the mortal world after the [[
 ## In Memory & Belief
 
 Istishia is not worshipped. The reverence sailors and coast-folk still hold for the sea they now offer to [[Maris Wavecaller]], for fair weather and safe passage. Istishia's own name lingers only in mariners' invocations and the marginalia of pre-Shattering texts — uttered, by most, without any notion that a god once answered to it.
+
+## The Temple on Solenne
+
+One of his temples still stands. On the [[Isle of Solenne]] in the [[Gulf of Miriel]] a massive temple of Istishia survives from before the [[The Shattering|Shattering]] — raised in the [[Chaos Wars]] or earlier, and so one of the oldest structures left in the world. After *Umberlee's Grasp*, it is the most significant surviving trace of the forgotten god anywhere.
+
+It is being reclaimed by people who do not know whose it is. A new movement of [[Maris Wavecaller]] worshippers, led by a fanatic, has begun occupying and restoring the temple, mistaking it for an ancestral site of the Wavecaller's faith; its cresting-wave iconography and pre-Shattering inscriptions go unread. A [[Riftshard]] lies within — a plane-leak toward the Elemental Plane of Water, fitting for the King of the Water Elementals — and the movement's zeal to cleanse the temple risks waking it, and whatever else its builders bound there. See [[Isle of Solenne]].
