@@ -7,8 +7,8 @@ A single reference covers **all kinds of faction**; the *kind* is captured in a 
 ## Vault locations
 
 - **Public factions:** `Codex/Factions/<Name>.md`
-- **Restricted companion docs:** `Codex - Restricted/Factions/<Name> - Restricted.md`
-- **Local chapters:** `Codex/Factions/<Faction> — <City>.md` (restricted companion, if any: `Codex - Restricted/Factions/<Faction> — <City> - Restricted.md`)
+- **Restricted companion docs:** `Codex-Restricted/Factions/<Name> - Restricted.md`
+- **Local chapters:** `Codex/Factions/<Faction> — <City>.md` (restricted companion, if any: `Codex-Restricted/Factions/<Faction> — <City> - Restricted.md`)
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Factions/` (published) and `x_Assets/Factions/` (working copies). Underscores, no spaces — `Order_of_Ravens_small.webp` / `Order_of_Ravens.webp`.
 
@@ -220,7 +220,7 @@ Factions use a fixed three-section backbone, with bespoke sections slotted betwe
 
 Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
-Write to: `Codex - Restricted/Factions/<Name> - Restricted.md`
+Write to: `Codex-Restricted/Factions/<Name> - Restricted.md`
 
 ### What the restricted document is
 
@@ -314,7 +314,7 @@ A **Local Chapter** is a faction's branch in a single city — the Order of Rave
 
 **Naming:** `<Faction> — <City>` with a spaced em dash — e.g. `Order of Ravens — Val Miriel`, `Green Gryphons — Darmouth`. In the parent doc and in prose, link with a display alias for the natural phrasing: `[[Order of Ravens — Val Miriel\|the Val Miriel Nest]]`. Add the natural phrasing as an `alias` on the chapter doc (e.g. `Val Miriel Nest`) so it resolves both ways.
 
-**Paths:** `Codex/Factions/<Faction> — <City>.md` (restricted companion, if the local branch holds its own secrets: `Codex - Restricted/Factions/<Faction> — <City> - Restricted.md`).
+**Paths:** `Codex/Factions/<Faction> — <City>.md` (restricted companion, if the local branch holds its own secrets: `Codex-Restricted/Factions/<Faction> — <City> - Restricted.md`).
 
 ### Chapter frontmatter
 
@@ -400,7 +400,7 @@ A local chapter does **not** get its own image prompt or its own asset. It share
 
 ## Gold standard
 
-- **Faction (Major, with restricted companion + chapter):** `Codex/Factions/Order of Ravens.md` + `Codex - Restricted/Factions/Order of Ravens - Restricted.md` — the three-section backbone, bespoke `Known Nests`/`Operations`/`Symbols` sections, a chapter roster table linking out, `Leader: Identity concealed` in public with the true Grand Raven revealed in the restricted version.
+- **Faction (Major, with restricted companion + chapter):** `Codex/Factions/Order of Ravens.md` + `Codex-Restricted/Factions/Order of Ravens - Restricted.md` — the three-section backbone, bespoke `Known Nests`/`Operations`/`Symbols` sections, a chapter roster table linking out, `Leader: Identity concealed` in public with the true Grand Raven revealed in the restricted version.
 - **Local Chapter:** `Codex/Factions/Order of Ravens — Val Miriel.md` — the slim chapter template, Parent Faction/City anchors, local roster, and local operations.
 
 These are the bar. Match them.

@@ -27,12 +27,12 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 
 | Subtype | Public folder | Restricted folder |
 |---|---|---|
-| World | `Codex/Locations/Worlds/<Name>.md` | `Codex - Restricted/Locations/Worlds/<Name> - Restricted.md` |
-| Continent | `Codex/Locations/Continents/<Name>.md` | `Codex - Restricted/Locations/Continents/<Name> - Restricted.md` |
-| Plane | `Codex/Locations/Planes/<Name>.md` | `Codex - Restricted/Locations/Planes/<Name> - Restricted.md` |
-| Region | `Codex/Locations/Regions/<Name>.md` | `Codex - Restricted/Locations/Regions/<Name> - Restricted.md` |
-| City | `Codex/Locations/Cities/<Name>.md` | `Codex - Restricted/Locations/Cities/<Name> - Restricted.md` |
-| Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
+| World | `Codex/Locations/Worlds/<Name>.md` | `Codex-Restricted/Locations/Worlds/<Name> - Restricted.md` |
+| Continent | `Codex/Locations/Continents/<Name>.md` | `Codex-Restricted/Locations/Continents/<Name> - Restricted.md` |
+| Plane | `Codex/Locations/Planes/<Name>.md` | `Codex-Restricted/Locations/Planes/<Name> - Restricted.md` |
+| Region | `Codex/Locations/Regions/<Name>.md` | `Codex-Restricted/Locations/Regions/<Name> - Restricted.md` |
+| City | `Codex/Locations/Cities/<Name>.md` | `Codex-Restricted/Locations/Cities/<Name> - Restricted.md` |
+| Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex-Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
 
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Worlds/` for Worlds, `Codex/Assets/Locations/Continents/` for Continents, `Codex/Assets/Locations/Planes/` for Planes, `Codex/Assets/Locations/Regions/` for Regions, `Codex/Assets/Locations/Cities/` for Cities, `Codex/Assets/Locations/Points_of_Interest/` for POIs (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
@@ -137,9 +137,9 @@ Assemble the **frontmatter, infobox, and body** from the templates in the subtyp
 Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
 Write to the subtype's restricted folder:
-- POI: `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md`
-- Region: `Codex - Restricted/Locations/Regions/<Name> - Restricted.md`
-- City: `Codex - Restricted/Locations/Cities/<Name> - Restricted.md`
+- POI: `Codex-Restricted/Locations/Points of Interest/<Name> - Restricted.md`
+- Region: `Codex-Restricted/Locations/Regions/<Name> - Restricted.md`
+- City: `Codex-Restricted/Locations/Cities/<Name> - Restricted.md`
 
 ### What the restricted document is
 

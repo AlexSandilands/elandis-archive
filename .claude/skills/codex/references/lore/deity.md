@@ -5,7 +5,7 @@ Deity-specific content for the codex skill. Read this **together with `reference
 A **Deity** is a god or divine being — a power that is *worshipped, prayed to, or reckoned divine*. Unlike a Concept (a timeless structure or force) or an Event (a happening), a deity is a *being* with a will, a portfolio of things it governs, and a relationship — present or lost — with the mortals who do or don't revere it. It is the one Lore subtype centred on a *person-like* figure, which is why it borrows the portrait framing of a Character for its art.
 
 - **Public:** `Codex/Lore/<Name>.md`
-- **Restricted:** `Codex - Restricted/Lore/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Lore/<Name> - Restricted.md`
 
 ---
 
@@ -226,7 +226,7 @@ Derive `[SUBJECT]`, `[POSE]`, `[SETTING]`, and `[LIGHTING]` from the god's portf
 
 ## Gold standard
 
-`Codex/Lore/Selûne.md` (+ `Codex - Restricted/Lore/Selûne - Restricted.md`) — the gold standard for Deities, and specifically for a **forgotten God of Old**: a world-focused opening, `## Overview` lead, a `## Divinity` section on the moon/light/forgiveness portfolio and her standing among the gods, a `## Worship` section carrying the moon faith and its holy days (Silvernight, the Unshadowed, the Pardon) — *attributed by the world to her champion, not to her* — and an `## In Memory & Belief` that scopes how thoroughly she has been forgotten, with the truth (that she is a living God of Old, reaching directly into the world because she fears a second Shattering) held in the restricted companion. Note the public/restricted gap is the *whole entry*: the public page is a faded memory; the restricted page is a god in motion.
+`Codex/Lore/Selûne.md` (+ `Codex-Restricted/Lore/Selûne - Restricted.md`) — the gold standard for Deities, and specifically for a **forgotten God of Old**: a world-focused opening, `## Overview` lead, a `## Divinity` section on the moon/light/forgiveness portfolio and her standing among the gods, a `## Worship` section carrying the moon faith and its holy days (Silvernight, the Unshadowed, the Pardon) — *attributed by the world to her champion, not to her* — and an `## In Memory & Belief` that scopes how thoroughly she has been forgotten, with the truth (that she is a living God of Old, reaching directly into the world because she fears a second Shattering) held in the restricted companion. Note the public/restricted gap is the *whole entry*: the public page is a faded memory; the restricted page is a god in motion.
 
 For the contrasting **no-worship** case, see `Codex/Lore/Shar.md` (+ its restricted companion) — a God of Old with no faith, no temples, and no public face at all (known only as "the Lady of Vengeance"), whose entry is almost entirely restricted: how to write a deity the world doesn't know it has. Match these bars.
 ```

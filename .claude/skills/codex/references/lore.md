@@ -18,7 +18,7 @@ Shared lore workflow for the codex skill. Read this when creating any lore entry
 Both subtypes share one folder; the subtype is captured in the `Category` frontmatter field rather than in separate folders.
 
 - **Public:** `Codex/Lore/<Name>.md`
-- **Restricted companion:** `Codex - Restricted/Lore/<Name> - Restricted.md`
+- **Restricted companion:** `Codex-Restricted/Lore/<Name> - Restricted.md`
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Lore/` (published) and `x_Assets/Lore/` (working copies). Underscores, no spaces — `World_Tree_small.webp` / `World_Tree.webp`.
 
@@ -150,7 +150,7 @@ aliases: [AltName]
 
 Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
-Write to: `Codex - Restricted/Lore/<Name> - Restricted.md`
+Write to: `Codex-Restricted/Lore/<Name> - Restricted.md`
 
 ### What the restricted document is
 

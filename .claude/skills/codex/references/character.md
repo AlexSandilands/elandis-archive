@@ -5,7 +5,7 @@ Character-specific workflow for the codex skill. Read this when the user is crea
 ## Vault locations
 
 - **Public characters:** `Codex/Characters/<Name>.md`
-- **Restricted companion docs:** `Codex - Restricted/Characters/<Name> - Restricted.md`
+- **Restricted companion docs:** `Codex-Restricted/Characters/<Name> - Restricted.md`
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Characters/` and `x_Assets/Characters/`
 
@@ -230,7 +230,7 @@ Brief summary of their appearance in this session — one sentence or a short bu
 
 Create this when: the stub file had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
-Write to: `Codex - Restricted/Characters/<Name> - Restricted.md`
+Write to: `Codex-Restricted/Characters/<Name> - Restricted.md`
 
 ### What the restricted document is
 

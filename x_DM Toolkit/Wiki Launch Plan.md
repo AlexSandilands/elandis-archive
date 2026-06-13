@@ -155,10 +155,10 @@ This turns "I try to remember" into "it can't leak."
 ## Fri 12 Jun (2h) · CHARACTERS
 
 **Batch 3 — Characters (11)**
-- [ ] Ebon *(the Grand Raven — Order of Ravens)*
+- [x] Ebon *(the Grand Raven — Order of Ravens)*
 - [x] Elder Silaqui Amastacia
 - [x] Justiciar Naivara Siannodel
-- [ ] Korvin Blackfeather
+- [x] Korvin Blackfeather
 - [x] Master Artisan Fenian
 - [x] Freya Ironsong
 - [x] Thora Ironsong
@@ -173,9 +173,9 @@ This turns "I try to remember" into "it can't leak."
 
 **Batch 4 — Factions (8)**
 - [ ] Cindercloaks
-- [ ] Circle of the Root
-- [ ] Circle of the Scales
-- [ ] Circle of the Scroll
+- [x] Circle of the Root
+- [x] Circle of the Scales
+- [x] Circle of the Scroll
 - [ ] Court of Fallen Leaves
 - [ ] Darkwood Vanguard
 - [ ] Emberlight Vigil

@@ -5,7 +5,7 @@ Culture-specific content for the codex skill. Read this **together with `referen
 A **Culture** is the living (or lost) fabric of how a people exists — their customs, ceremonies, values, social structures, arts, and traditions. Unlike an Event, it has no single *when*; unlike a Concept, it is not a cosmic or metaphysical feature of the world — it is what a *people* does and is. Its page describes who these people are, what defines them, and how their way of life manifests in the world of [[Elandis]].
 
 - **Public:** `Codex/Lore/<Name>.md`
-- **Restricted:** `Codex - Restricted/Lore/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Lore/<Name> - Restricted.md`
 
 ## Scope — the culture and the people who hold it
 

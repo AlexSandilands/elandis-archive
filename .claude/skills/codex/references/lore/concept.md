@@ -5,7 +5,7 @@ Concept-specific content for the codex skill. Read this **together with `referen
 A **Cosmology / Concept** is a timeless feature of how the world *is* — a cosmic structure, a plane, a force, a phenomenon, or a tradition. Unlike an Event, it has no single *when*; it *exists*. Its page describes what it is, how it works, its nature, and (where it has one) the defining event in its history, told here in summary.
 
 - **Public:** `Codex/Lore/<Name>.md`
-- **Restricted:** `Codex - Restricted/Lore/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Lore/<Name> - Restricted.md`
 
 ## Scope — the thing and its event
 
@@ -176,4 +176,4 @@ The shared painterly landscape style and 16:9 format are in `lore.md`. For a Con
 
 ## Gold standard
 
-`Codex/Lore/World Tree.md` (+ `Codex - Restricted/Lore/World Tree - Restricted.md`) — the gold standard for Concepts: a world-focused opening, `## Overview` lead, a `## Nature` section that leans into deliberate mystery, bespoke middle sections (`## The World Gates`, `## The Sundering` told in summary with the fuller tale on [[Ryordan Silmara]]), and an `## In Memory & Belief` that scopes who even knows of it — with the cosmic hierarchy and the Material Plane's origin held in the restricted companion. Match this bar.
+`Codex/Lore/World Tree.md` (+ `Codex-Restricted/Lore/World Tree - Restricted.md`) — the gold standard for Concepts: a world-focused opening, `## Overview` lead, a `## Nature` section that leans into deliberate mystery, bespoke middle sections (`## The World Gates`, `## The Sundering` told in summary with the fuller tale on [[Ryordan Silmara]]), and an `## In Memory & Belief` that scopes who even knows of it — with the cosmic hierarchy and the Material Plane's origin held in the restricted companion. Match this bar.

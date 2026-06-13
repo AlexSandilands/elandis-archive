@@ -5,7 +5,7 @@ Point-of-Interest-specific content for the codex skill. Read this **together wit
 A Point of Interest is a single notable place — a ruin, landmark, natural feature, structure, or site within a larger region or city.
 
 - **Public:** `Codex/Locations/Points of Interest/<Name>.md`
-- **Restricted:** `Codex - Restricted/Locations/Points of Interest/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Locations/Points of Interest/<Name> - Restricted.md`
 
 ---
 

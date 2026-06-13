@@ -5,7 +5,7 @@ Event-specific content for the codex skill. Read this **together with `reference
 An **Event** is a discrete historical or cosmological happening with a place in time: a cataclysm, war, founding, pact, or turning point. It has a *when*, causes that led to it, and a legacy that outlasts it.
 
 - **Public:** `Codex/Lore/<Name>.md`
-- **Restricted:** `Codex - Restricted/Lore/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Lore/<Name> - Restricted.md`
 
 ## Scope — event vs. the thing it changed
 
@@ -178,4 +178,4 @@ The shared painterly landscape style and 16:9 format are in `lore.md`. For an Ev
 
 ## Gold standard
 
-`Codex/Lore/The Shattering.md` (+ `Codex - Restricted/Lore/The Shattering - Restricted.md`) — the gold standard for Events: a world-focused opening, `## Overview` lead, then a `## History` umbrella holding the chronological beats as `###` subsections (`### The World Before` — the Lost Age and the Dragon Queen's aim; the bespoke `### The Chaos Wars` and `### The Sacrifice of the Seven`; `### Aftermath & Legacy` — the Riftshards and the reset), and an `## In Memory & Belief` that presents the folk myth while the restricted companion carries the cosmic truth. Note the antagonist is unnamed on the public page ("the Dragon Queen") with the true name ([[Tiamat]]) held in restricted. Match this bar.
+`Codex/Lore/The Shattering.md` (+ `Codex-Restricted/Lore/The Shattering - Restricted.md`) — the gold standard for Events: a world-focused opening, `## Overview` lead, then a `## History` umbrella holding the chronological beats as `###` subsections (`### The World Before` — the Lost Age and the Dragon Queen's aim; the bespoke `### The Chaos Wars` and `### The Sacrifice of the Seven`; `### Aftermath & Legacy` — the Riftshards and the reset), and an `## In Memory & Belief` that presents the folk myth while the restricted companion carries the cosmic truth. Note the antagonist is unnamed on the public page ("the Dragon Queen") with the true name ([[Tiamat]]) held in restricted. Match this bar.

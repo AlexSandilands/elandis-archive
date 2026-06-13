@@ -5,7 +5,7 @@ Region-specific content for the codex skill. Read this **together with `referenc
 A Region is a broad geographic area (a forest, gulf, mountain range) within a Continent or Plane that **contains and links to** the Cities and Points of Interest inside it — it is both a lore article and the map-hub that ties its child places together. Regions sit one scale below Continents/Planes; for an entire continent or plane, use `continent.md` instead.
 
 - **Public:** `Codex/Locations/Regions/<Name>.md`
-- **Restricted:** `Codex - Restricted/Locations/Regions/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Locations/Regions/<Name> - Restricted.md`
 
 ---
 

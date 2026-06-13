@@ -7,7 +7,7 @@ An Item entry can be a **single named object** (a unique artifact like an amulet
 ## Vault locations
 
 - **Public items:** `Codex/Items/<Name>.md` (flat folder — no per-item subfolder)
-- **Restricted companion docs:** `Codex - Restricted/Items/<Name> - Restricted.md`
+- **Restricted companion docs:** `Codex-Restricted/Items/<Name> - Restricted.md`
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Items/` (published) and `x_Assets/Items/` (working copies). Filenames use underscores, no spaces, and **strip apostrophes** — `Rhun'zar` → `Rhunzar_small.webp` / `Rhunzar.webp`.
 
@@ -233,7 +233,7 @@ Brief summary of how the item featured this session — one sentence or a short 
 
 Create this when: the stub file had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3. Cursed, sentient, or deity-bound items almost always warrant one — the item's true nature is exactly the kind of thing the players shouldn't read.
 
-Write to: `Codex - Restricted/Items/<Name> - Restricted.md` (create the `Codex - Restricted/Items/` folder if it doesn't exist yet).
+Write to: `Codex-Restricted/Items/<Name> - Restricted.md` (create the `Codex-Restricted/Items/` folder if it doesn't exist yet).
 
 ### What the restricted document is
 

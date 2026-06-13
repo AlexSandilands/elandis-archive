@@ -94,7 +94,7 @@ Do **not** add articles inside: frontmatter fields, infobox table cells, tag lis
 
 ## Step 3 — Fix the renamed page itself
 
-Obsidian renames the file and updates inbound links, but it does **not** touch the page's own contents. Open the renamed page (`Frostwardens.md`, and any restricted companion like `Codex - Restricted/Factions/Frostwardens - Restricted.md`) and reconcile:
+Obsidian renames the file and updates inbound links, but it does **not** touch the page's own contents. Open the renamed page (`Frostwardens.md`, and any restricted companion like `Codex-Restricted/Factions/Frostwardens - Restricted.md`) and reconcile:
 
 - **H1 / title heading** — if it reads `# The Frostwardens`, decide with the user whether the title should stay `The Frostwardens` (some names keep the article as a display title even when the page name drops it) or become `Frostwardens`. Default to matching the new bare name unless the user wants the article kept as a display title.
 - **Infobox `name` / title field** — same decision as the H1; keep them consistent.

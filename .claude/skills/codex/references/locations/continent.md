@@ -10,7 +10,7 @@ Both use this same reference because their structure, scale, and hub function ar
 
 - **Continent public:** `Codex/Locations/Continents/<Name>.md`
 - **Plane public:** `Codex/Locations/Planes/<Name>.md`
-- **Restricted:** `Codex - Restricted/Locations/Continents/<Name> - Restricted.md` (Continents) or `Codex - Restricted/Locations/Planes/<Name> - Restricted.md` (Planes)
+- **Restricted:** `Codex-Restricted/Locations/Continents/<Name> - Restricted.md` (Continents) or `Codex-Restricted/Locations/Planes/<Name> - Restricted.md` (Planes)
 
 ---
 

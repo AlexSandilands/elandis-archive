@@ -5,7 +5,7 @@ World-specific content for the codex skill. Read this **together with `reference
 A World is the highest-level geographic entry in the Codex. It has **no parent anchor** — it is the world itself (Elandis, the material-plane setting). A World page is the grand hub: it links out to every Continent, lists known Planes, and provides the cosmological and historical overview that gives all other location entries their context.
 
 - **Public:** `Codex/Locations/Worlds/<Name>.md`
-- **Restricted:** `Codex - Restricted/Locations/Worlds/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Locations/Worlds/<Name> - Restricted.md`
 
 ---
 

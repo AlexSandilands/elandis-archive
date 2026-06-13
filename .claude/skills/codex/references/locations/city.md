@@ -5,7 +5,7 @@ City-specific content for the codex skill. Read this **together with `references
 A City is a settlement — town, city, or port. Unlike a POI (a single site) it is itself a **hub**: the canonical at-a-glance page for the landmarks, establishments, and people within it, built on the tiered hub-and-spoke model below.
 
 - **Public:** `Codex/Locations/Cities/<Name>.md`
-- **Restricted:** `Codex - Restricted/Locations/Cities/<Name> - Restricted.md`
+- **Restricted:** `Codex-Restricted/Locations/Cities/<Name> - Restricted.md`
 
 ---
 
