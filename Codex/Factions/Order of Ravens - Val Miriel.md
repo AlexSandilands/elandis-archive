@@ -37,9 +37,11 @@ The **Val Miriel Nest** is the [[Order of Ravens]]' chapter in [[Val Miriel]] �
 
 ## Overview & Base
 
-The Nest is headquartered beneath [[The Gilded Crow]], a tavern on the Artisan Way, with its entrance concealed behind a keg in the cellar; past it, the chapter is built directly into the [[The Underrun|Underrun]], the warren of passages beneath Val Miriel. Entry is granted to those who give the passphrase — *"I'll have one of your sharpest drinks"* — spoken to the right ear at the bar above.
+The Nest is headquartered beneath [[The Gilded Crow]], a tavern on the Artisan Way, with its entrance concealed behind a keg in the cellar; past it, the chapter is built directly into the [[Underrun]], the warren of passages beneath Val Miriel. Entry is granted to those who give the passphrase — *"I'll have one of your sharpest drinks"* — spoken to the right ear at the bar above.
 
 From this hidden seat Thaddeus "Ravenwing" Karr directs the Order's work in the city: gathering intelligence on the Imperial presence, sheltering operatives passing through, and running the jobs handed down from above. The chapter keeps the tight, compartmentalised discipline the Order is built on, and the Nest Father expects word sent ahead from other Nests to be honoured when contacts arrive.
+
+A side chamber of the Nest holds the Order's own door onto the [[Underrun]] proper — a section of wall that slides back to open into the tunnels beyond, with a pair of eyeholes set into it so a Raven can check the passage is clear before stepping through. It gives the Nest a quiet way in and out beneath the city, away from the cellar stair, and it is the route by which Ravens guide trusted contacts out of Val Miriel entirely.
 
 ## Notable Members
 

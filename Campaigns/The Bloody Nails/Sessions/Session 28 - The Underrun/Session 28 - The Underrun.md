@@ -43,7 +43,7 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 * **Lia's Confession:** Inside [[Order of Ravens - Val Miriel|The Raven's Nest of Val Miriel]], accessed via [[The Gilded Crow]], the party met [[Lia]]. She admitted she went rogue to assassinate [[General Varan Brado]] because he executed her parents in [[Camaar]].
 * **Guidance:** [[Eryndor]] returned Lia's dagger. The party advised her to be patient and learn from the Nest rather than acting recklessly.
-* **The Sewers:** [[Trak Aeris]] led them through [[The Underrun]]. The initial architecture was grand, but they were forced into a filth-ridden maintenance tunnel.
+* **The Sewers:** [[Trak Aeris]] led them through the [[Underrun]]. The initial architecture was grand, but they were forced into a filth-ridden maintenance tunnel.
 * **Hazards:**
     * **Submerged Tunnel:** The party swam through sewage; [[Kai]] used *Lesser Restoration* to cure the resulting nausea.
     * **Brown Mold:** A patch of freezing brown mould nearly froze the party. [[Dondar]] struck it with *Fire Bolt*, causing it to expand instantly. They realised cold damage destroys it.

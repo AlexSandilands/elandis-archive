@@ -212,15 +212,15 @@ Forests & wilds:
 
 Geographic features:
 - [ ] Vale of Eternal Night
-- [ ] Frostway
+- [x] Frostway
 - [ ] Liar's River
-- [ ] Luminor River
-- [ ] Luminor Plains
-- [ ] Borealia Range *(mountains)*
-- [ ] Silver Mountains
-- [ ] Southern Highlands
+- [x] Luminor River
+- [x] Luminor Plains
+- [x] Borealia Range *(mountains)*
+- [x] Silver Mountains
+- [x] Southern Highlands
 - [ ] Xericana Sands *(desert)*
-- [ ] The Underrun *(triage — region vs POI)*
+- [x] The Underrun
 
 **Batch 7 — Items (8)**
 - [ ] Emberblade *(weapon)*

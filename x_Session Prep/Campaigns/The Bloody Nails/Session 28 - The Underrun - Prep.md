@@ -64,8 +64,8 @@ tags:
 > - Concerned about her future
 > - No one has asked her what she wants
 > - She wants to kill [[General Varan Brado]], after that will do whatever people want from her.  
-- Turns out the [[Raven's Nest|Nest]] is actually built into part of [[The Underrun]], so the architecture is similar.
-- There is a secret entrance in one of the side chambers, where a wall will slide back and open to the main [[The Underrun|Underrun]].
+- Turns out the [[Raven's Nest|Nest]] is actually built into part of the [[Underrun]], so the architecture is similar.
+- There is a secret entrance in one of the side chambers, where a wall will slide back and open to the main [[Underrun]].
 - There are a couple of eyeholes so a [[Order of Ravens|Raven]] can look out to check no one is on the other side.
 
 ### Travelling Through the Underrun

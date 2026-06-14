@@ -196,7 +196,7 @@ The [[Theatre of Dreams]] is the grand, ornate theatre at the head of the Artisa
 
 ### Underrun
 
-The [[The Underrun|Underrun]] is the city's vast underground network of tunnels and reservoirs, fed by the [[Luminor River]], that carries Val Miriel's waste out beyond the walls.
+The [[Underrun]] is the city's vast underground network of tunnels and reservoirs, fed by the [[Luminor River]], that carries Val Miriel's waste out beyond the walls.
 
 ## Factions
 
@@ -228,7 +228,7 @@ With the city locked down under curfew after the unrest, [[Kai]] and [[Dondar]] 
 
 #### [[Session 28 - The Underrun]]
 
-The party left Val Miriel for good through the [[The Underrun|Underrun]], guided by [[Trak Aeris]] of the [[Order of Ravens - Val Miriel|Order of Ravens]]. After a gruelling passage through flooded tunnels, heat-hungry brown mould, and corrosive black puddings, they surfaced in the wintry grasslands north of the city.
+The party left Val Miriel for good through the [[Underrun]], guided by [[Trak Aeris]] of the [[Order of Ravens - Val Miriel|Order of Ravens]]. After a gruelling passage through flooded tunnels, heat-hungry brown mould, and corrosive black puddings, they surfaced in the wintry grasslands north of the city.
 
 ## Trivia
 
