@@ -204,11 +204,11 @@ This turns "I try to remember" into "it can't leak."
 **Batch 6 — Regions & Wilds (15)**
 
 Forests & wilds:
-- [ ] Whispering Woods
-- [ ] Darkwood *(canonical after Batch 0 merge)*
-- [ ] Gossamer Woods *(Faewild)*
-- [ ] Reveller's Glade *(Faewild)*
-- [ ] Shimmering Peaks *(Faewild)*
+- [x] Whispering Woods
+- [x] Darkwood *(canonical after Batch 0 merge)*
+- [x] Gossamer Woods *(Faewild)*
+- [x] Reveller's Glade *(Faewild)*
+- [x] Shimmering Peaks *(Faewild)*
 
 Geographic features:
 - [ ] Vale of Eternal Night

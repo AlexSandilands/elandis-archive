@@ -23,6 +23,12 @@ tags:
 - A youngest Dwarven Prince named Goren was taken into the Underdark before the fall of Glimmerforge. [[Gromdal]] witnessed it but has no further details — he does not know who took the prince, for what purpose, or whether Goren survived.
 - The Ummal Regency rests on the assumption that the old royal bloodline is extinguished. If Goren is alive, there is a legitimate claimant to the dwarven crown.
 
+## The Red Jewel
+
+- Glimmerforge holds a great red jewel, mined in ages past from the deepest workings of the [[Silver Mountains]]. It is one of a matched pair; its sister is the emerald set into the altar of the Sunken Temple beneath the [[Darkwood]]'s central lake.
+- The two jewels are the power source for [[Kharazoth the Crimson Shadow]]'s ritual to bring about the Second Shattering. Because the [[Valtorran Empire]] holds the dwarven kingdom, the red jewel is already effectively in Kharazoth's hands — only the Darkwood emerald is still out of reach (which is why [[General Korvas]] was sent for it; Session 39).
+- The dwarves who keep or revere the jewel have no idea what it truly is, any more than the Darkwood merfolk understand the emerald.
+
 ## The Prismatic Academy — Hidden Facts
 
 - The permanent teleportation circle in the Academy's lower vaults is a guarded institutional secret. Its sigil is not shared with students.

@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Everfall
-> [![[Codex/Assets/Locations/Cities/Everfall_small.webp|cover hsmall]]](Codex/Assets/Locations/Cities/Everfall.webp)
+> [![[Codex-Restricted/Assets/Locations/Cities/Everfall_small.webp|cover hsmall]]](Codex-Restricted/Assets/Locations/Cities/Everfall.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

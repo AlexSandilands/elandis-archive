@@ -22,8 +22,14 @@ Proximity to it caused the Empress's conditioning to fracture completely. The ef
 
 The fracture was total enough that no trace of Korvas's loyalty to the Empress surfaced until Blackmarsh deployed the purple jewel in [[Val Noren]] — a concentrated application of the orb's power that overrode the Riftshard damage and restored the conditioning wholesale.
 
+## The Return — He Is Being Sent Back
+
+- The sunken temple that unmade Korvas is now developed (see [[Darkwood]] restricted): it sits beneath the forest's central lake, holds the great Plane-of-Water Riftshard, and is the home and religious centre of a faction of merfolk who worship the shard. Set into its altar is an emerald jewel — one of the twin keys to [[Kharazoth the Crimson Shadow]]'s Second Shattering.
+- [[Dread General Gerard Blackmarsh|Blackmarsh]] has sent the re-conditioned Korvas back to that very temple to retrieve the emerald (Session 39) — unknowingly returning him to the one place that once stripped his Imperial conditioning away.
+- Open thread: whether proximity to the same great Riftshard fractures his freshly-restored conditioning a second time. If it does, "Vaeleran" and Korvas could collide at the altar, possibly in front of the party. This is a deliberate dramatic loaded gun — resolve when it serves the story.
+
 ## DM Notes
 
-- The sunken temple in the Darkwood and its Riftshard are undeveloped. They may become a location of interest if the party ever investigates Korvas's past or looks for a way to permanently break reconditioning.
+- The temple may become a location of interest if the party investigates Korvas's past, races Korvas for the jewel, or looks for a way to permanently break reconditioning.
 - The party does not yet know that Riftshards disrupt the Empress's magic. If they figure this out, it has significant implications — not just for Korvas but for all conditioned Hands and Voices.
 - The public entry describes the conditioning fracture as "circumstances that remain unclear." This is accurate from the world's perspective; no one in the Empire understands what happened to Korvas or why the conditioning failed.

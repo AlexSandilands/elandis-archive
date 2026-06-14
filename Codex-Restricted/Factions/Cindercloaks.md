@@ -17,7 +17,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Cindercloaks
-> [![[Codex/Assets/Factions/Cindercloaks_small.webp|cover hsmall]]](Codex/Assets/Factions/Cindercloaks.webp)
+> [![[Cindercloaks_small.webp|cover hsmall]]](Cindercloaks.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|
@@ -48,6 +48,8 @@ The Cindercloaks answer directly to the regents, [[Thorgar Ummal]] and [[Hilda U
 The corps relies on fear as much as force. Visible patrols and checkpoints keep the districts cowed; beneath them runs a quieter machinery of paid informants, surveillance of suspected sympathisers, and arrests carried out away from witnesses. Control of the gem shipments doubles as control of the city's lifeblood — the same hands that guard the convoys can choke a neighbourhood that steps out of line.
 
 ## History
+
+![[Cindercloaks_2_small.webp|left|190]]
 
 The Cindercloaks were raised in the aftermath of Glimmerforge's fall, when [[Thorgar Ummal]] and [[Hilda Ummal]] betrayed the dwarven rebellion and handed the city to the [[Valtorran Empire|Empire]] in exchange for riches and the regency. The corps was built to hold what that betrayal won — to suppress the dissent the occupation bred and to ensure the broken rebellion could never reform. As the [[Eternal Forge]] has risen to take up the old cause, the Cindercloaks have become the Regency's blade against it.
 

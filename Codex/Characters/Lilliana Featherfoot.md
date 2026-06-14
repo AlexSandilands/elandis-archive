@@ -48,7 +48,7 @@ aliases:
 
 ## Biography
 
-Lilliana was born to a human mother and an elven father, and it is her father's heritage she speaks of most freely — not from sentimentality, but because his death shaped everything that followed. Imperial soldiers killed him in a raid on the [[Whispering Woods]], a massacre that also claimed the family of [[Eirieneth Silmara]]. The loss bound Lilliana's worldview tight around a quiet but enduring hostility toward the Empire, one she channels not through weapons but through words and well-placed intelligence.
+Lilliana was born to a human mother and an elven father, and it is her father's heritage she speaks of most freely — not from sentimentality, but because his death shaped everything that followed. Imperial soldiers killed him in the raid that swept the elven communities of the [[Whispering Woods]] during the elves' withdrawal from [[Valtorra]], a massacre that also claimed the family of [[Eirieneth Silmara]]. The loss bound Lilliana's worldview tight around a quiet but enduring hostility toward the Empire, one she channels not through weapons but through words and well-placed intelligence.
 
 She joined the [[Finegolds]] some years later, finding in the troupe both livelihood and cover. As its performer and seer, she uses cards, song, and inherited clerical instincts to divine what she can — part genuine gift, part theatre, and entirely her own.
 

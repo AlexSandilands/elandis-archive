@@ -9,9 +9,15 @@ tags:
 
 ## True Role & Endgame
 - Importance is **Major**, not Minor. His full profession/role: *Ancient Dragon, Architect of the Second Shattering.*
-- He is the architect, patient and methodical, of a **second world-ending Shattering** — the destruction and recreation of the current age. The precise mechanism and timing are still TBD; develop further before it becomes plot-relevant.
+- He is the architect, patient and methodical, of a **second world-ending Shattering** — the destruction and recreation of the current age. The ritual's power source is the twin jewels (see below); the exact timing is still open.
 - He emerged from the Chaos Wars believing the world had been **reset improperly** and set about the long work of "correcting" it. Centuries passed; the world forgot him. That was the point.
 - The [[Valtorran Empire]] is his instrument — its reach and resources the mechanism by which he intends to gather the power necessary for another Shattering.
+
+## The Ritual Mechanism — The Twin Jewels
+- The Second Shattering ritual is powered by a matched pair of jewels, both mined from the deepest dwarven workings in the [[Silver Mountains]] and gifted to the ancient Chaos-Wars civilisations that received them.
+- The red jewel rests in [[Glimmerforge]]. Kharazoth effectively already holds it — the [[Valtorran Empire]] controls the dwarven kingdom, so it is his by proxy.
+- The emerald jewel is set into the altar of the Sunken Temple beneath the central lake of the [[Darkwood]], guarded (unwittingly) by a faction of merfolk who worship the temple's Riftshard. This is the missing key.
+- This is why [[Dread General Gerard Blackmarsh|Blackmarsh]] dispatched [[General Korvas]] to the [[Darkwood]] to retrieve "the jewel" (Session 39). Korvas is en route to the Sunken Temple now; the emerald is the last piece Kharazoth needs.
 
 ## Appearance (in true dragon form)
 - Enormous even by the scale of ancient dragons; crimson scales deepened to a dark arterial red at the edges, as though scorched by ages of dark magic.

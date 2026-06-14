@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Xenith
-> [![[Codex/Assets/Locations/Cities/Xenith_small.webp|cover hsmall]]](Codex/Assets/Locations/Cities/Xenith.webp)
+> [![[Codex-Restricted/Assets/Locations/Cities/Xenith_small.webp|cover hsmall]]](Codex-Restricted/Assets/Locations/Cities/Xenith.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

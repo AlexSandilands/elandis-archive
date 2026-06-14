@@ -11,6 +11,7 @@ tags:
 - The Emberspire is a structure of the [[Chaos Wars]], raised by powerful arcanists as a **defensive bastion against the hordes of monsters pouring through the planar Rifts** of that age — the breaches torn open by [[The Shattering]].
 - It is the **residual arcane power** still bound in the tower, all these centuries later, that protects [[Lighthaven]] today. The wards never fully faded; the town simply inherited a working war-engine it no longer understands and learned to wake its light.
 - The [[Darkwood]] is *not* part of the Spire's origin — the forest overgrew the region long after, as the ancient world fell to ruin. The Spire predates it and merely holds it back now, doing incidentally what it was built to do deliberately.
+- The reason the wood is so monstrous: it is riddled with [[Riftshard]]s, and riftshards attract and breed monsters. The Spire was raised to repel exactly that. So holding back the Darkwood's horrors is not a coincidence of geography — it is the tower still doing its original job against the same kind of threat, with a great Plane-of-Water shard sitting in the Sunken Temple at the forest's heart (see [[Darkwood]] restricted).
 
 ## Place in the Cosmology
 
