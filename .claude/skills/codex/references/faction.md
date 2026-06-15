@@ -7,7 +7,7 @@ A single reference covers **all kinds of faction**; the *kind* is captured in a 
 ## Vault locations
 
 - **Public factions:** `Codex/Factions/<Name>.md`
-- **Restricted companion docs:** `Codex-Restricted/Factions/<Name> - Restricted.md`
+- **Restricted companion docs:** `Codex-Restricted/Factions/<Name> - Restricted.md` (restricted-*only* entries with no public page drop the suffix — bare `Codex-Restricted/Factions/<Name>.md`; see Step 5)
 - **Local chapters:** `Codex/Factions/<Faction> — <City>.md` (restricted companion, if any: `Codex-Restricted/Factions/<Faction> — <City> - Restricted.md`)
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Factions/` (published) and `x_Assets/Factions/` (working copies). Underscores, no spaces — `Order_of_Ravens_small.webp` / `Order_of_Ravens.webp`.
@@ -220,7 +220,7 @@ Factions use a fixed three-section backbone, with bespoke sections slotted betwe
 
 Create this when: the stub had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
-Write to: `Codex-Restricted/Factions/<Name> - Restricted.md`
+Write to: `Codex-Restricted/Factions/<Name> - Restricted.md`. This ` - Restricted` path is for the slim delta that accompanies an existing public page; for the standalone-full-entry / "restricted only" case (below), drop the suffix and use the bare `Codex-Restricted/Factions/<Name>.md`.
 
 ### What the restricted document is
 
@@ -230,7 +230,11 @@ For factions the most common secret is **who really leads, and to what end** —
 
 **Do not duplicate the public doc.** No copied frontmatter, infobox, body prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. The public doc owns the public truth (with `Leader: Identity concealed` or the figurehead); the restricted doc owns the reserve (the real leader and agenda).
 
-> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the faction is public-facing, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+> **Exception — standalone full entry (the "restricted only" case).** Sometimes the DM wants the entry to live *only* in restricted for now — a complete entry drafted before the faction is public-facing, to be promoted to the public Codex as-is later. **Triggers:** the user says "restricted only", "just the restricted [page]", "no public page yet". In this case build the full public-style article — full frontmatter, infobox, body, and image prompt (Steps 4 & 6) — **not** the slim delta, and:
+> - Name it with the **bare page name, no ` - Restricted` suffix** (e.g. `Codex-Restricted/Factions/<Name>.md`), so public-page wikilinks `[[<Name>]]` resolve straight to it.
+> - Add a `> [!warning]` DM-only callout immediately after the infobox, noting the party hasn't encountered them and that material should be promoted to a public entry as it's revealed.
+>
+> The slim delta below — which *does* take the ` - Restricted` suffix and accompanies an existing public page — is the default.
 
 ### Restricted document structure (slim delta — the default)
 
@@ -298,7 +302,7 @@ Assemble the **public document** in this order:
 
 Assemble a **local chapter doc** in the same order *but with no image-prompt code block* (item 1 is skipped — chapters reuse the parent's art): frontmatter → infobox (embedding the parent's asset path) → opening paragraph → body sections.
 
-Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above — bare `<Name>.md` filename, no suffix, with a `> [!warning]` DM-only callout right after the infobox.)
 
 Write each file to its correct path. Report all paths written when done.
 

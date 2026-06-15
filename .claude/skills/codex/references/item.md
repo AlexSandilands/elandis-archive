@@ -7,7 +7,7 @@ An Item entry can be a **single named object** (a unique artifact like an amulet
 ## Vault locations
 
 - **Public items:** `Codex/Items/<Name>.md` (flat folder — no per-item subfolder)
-- **Restricted companion docs:** `Codex-Restricted/Items/<Name> - Restricted.md`
+- **Restricted companion docs:** `Codex-Restricted/Items/<Name> - Restricted.md` (restricted-*only* entries with no public page drop the suffix — bare `Codex-Restricted/Items/<Name>.md`; see Step 5)
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Items/` (published) and `x_Assets/Items/` (working copies). Filenames use underscores, no spaces, and **strip apostrophes** — `Rhun'zar` → `Rhunzar_small.webp` / `Rhunzar.webp`.
 
@@ -70,6 +70,10 @@ Based on this, I'd suggest: [Major/Minor] — [one sentence reasoning].
 
 What would you like to add before I generate the entry? Drop in any bullet notes —
 appearance, properties, origin, who has held it, secrets, anything not in the synopses.
+
+Also: do you have an **in-game item text** block — the literal mechanical/stat-block
+text from your VTT item card or notes (passive benefits, activated effects, named
+features)? If so, paste it and I'll include it verbatim as a game-text callout.
 ```
 
 Wait for the user's notes, then proceed to generate. Don't ask a structured question list in migration mode — the user's notes are freeform and that's fine.
@@ -94,6 +98,7 @@ Ask for everything in **one message**. Only ask for what isn't already provided 
 - Status (Active / Lost / Destroyed / Dormant / Sealed / Unknown)
 - Aliases (alternate names)
 - Campaign appearances (session numbers + what happened)
+- In-game item text (the literal mechanical/stat-block text from the item card or VTT, if one exists — passive benefits, activated effects, named features). Ask explicitly; many items have one and it should be reproduced verbatim.
 - If creating a restricted companion: any curse, hidden powers, secret history, true purpose, or plot hooks tied to the item
 
 **Minor item** — ask for:
@@ -102,6 +107,7 @@ Ask for everything in **one message**. Only ask for what isn't already provided 
 - A brief description (1–3 sentences) — appearance, what it does
 - Status
 - Campaign appearances (session numbers + brief notes)
+- In-game item text (the literal mechanical/stat-block text from the item card or VTT, if one exists)
 - If creating a restricted companion: the secrets to document
 
 ---
@@ -183,6 +189,13 @@ The section set **flexes to fit the item**. The opening paragraph and `## Descri
 
 [What the item does. Lead with the observed, in-world effects — what those who have used or witnessed it have seen it do. If exact mechanics are known and public, state them plainly; keep curses, dormant powers, and hidden effects for the restricted companion.]
 
+[If the user supplied an **in-game item text** block (a VTT item card or stat block), reproduce it verbatim *after* the in-world prose as a game-text callout — the in-world description carries the page, the callout preserves the literal rules text. Use this exact format:]
+
+> [!example] ***In Game Item Text:***
+> [The literal item-card text, line for line. Preserve its own structure — lists of passive benefits, activated effects, and named features. Bold a named feature with `***Feature Name.***` inline, as on the card. Keep secret/restricted mechanics out — only the player-facing card text belongs here.]
+
+[Only include the callout when such text exists — never invent a stat block. See `Codex/Items/Amulet of the Arachnid Queen.md` and `Codex/Items/Rusty Nail.md` for the format in use.]
+
 ## History
 
 [Provenance: who made it, where it came from, who has borne it before, and the deeds it has been part of. Full paragraphs. For a crafted class of item, rename to `## Creation` and describe how each is made.]
@@ -233,7 +246,7 @@ Brief summary of how the item featured this session — one sentence or a short 
 
 Create this when: the stub file had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3. Cursed, sentient, or deity-bound items almost always warrant one — the item's true nature is exactly the kind of thing the players shouldn't read.
 
-Write to: `Codex-Restricted/Items/<Name> - Restricted.md` (create the `Codex-Restricted/Items/` folder if it doesn't exist yet).
+Write to: `Codex-Restricted/Items/<Name> - Restricted.md` (create the `Codex-Restricted/Items/` folder if it doesn't exist yet). This ` - Restricted` path is for the slim delta that accompanies an existing public page; for the standalone-full-entry / "restricted only" case (below), drop the suffix and use the bare `Codex-Restricted/Items/<Name>.md`.
 
 ### What the restricted document is
 
@@ -241,7 +254,11 @@ The restricted document holds **only the DM-reserve delta** — the curse, dorma
 
 **Do not duplicate the public doc.** No copied frontmatter, infobox, body prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. The public doc owns the public truth; the restricted doc owns the reserve.
 
-> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the players have encountered the item, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+> **Exception — standalone full entry (the "restricted only" case).** Sometimes the DM wants the entry to live *only* in restricted for now — a complete entry drafted before the players have encountered the item, to be promoted to the public Codex as-is later. **Triggers:** the user says "restricted only", "just the restricted [page]", "no public page yet". In this case build the full public-style article — full frontmatter, infobox, body, and image prompt (Steps 4 & 6) — **not** the slim delta, and:
+> - Name it with the **bare page name, no ` - Restricted` suffix** (e.g. `Codex-Restricted/Items/<Name>.md`), so public-page wikilinks `[[<Name>]]` resolve straight to it.
+> - Add a `> [!warning]` DM-only callout immediately after the infobox, noting the party hasn't found it and that material should be promoted to a public entry as it's revealed.
+>
+> The slim delta below — which *does* take the ` - Restricted` suffix and accompanies an existing public page — is the default.
 
 ### Restricted document structure (slim delta — the default)
 
@@ -297,7 +314,7 @@ Assemble the **public document** in this order:
 4. Opening paragraph
 5. Remaining body sections
 
-Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above — bare `<Name>.md` filename, no suffix, with a `> [!warning]` DM-only callout right after the infobox.)
 
 Write each file to its correct path. Report all paths written when done.
 

@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-The session began with the party regrouping at the [[River's Watch]] tavern, discussing the revelations regarding [[Eryndor]]'s lineage and the mysterious sending stones. The morning was dedicated to preparation and gathering resources across [[Val Miriel]]. The group visited [[The Bridge of Stars]], a magic shop run by the eccentric [[Felix]], where they acquired new arcane tools and learned of a legendary "Ring of Protection." A subsequent visit to [[The Fur and Fang]] trapper shop saw [[Kai]] prove his strength in an arm-wrestling match against [[Gaara]], earning the party a contract to hunt a massive, lizard-like beast rumoured to be the size of a house near [[Farhaven]].
+The session began with the party regrouping at the [[River's Watch]] tavern, discussing the revelations regarding [[Eryndor]]'s lineage and the mysterious sending stones. The morning was dedicated to preparation and gathering resources across [[Val Miriel]]. The group visited [[The Bridge of Stars]], a magic shop run by the eccentric [[Felix]], where they acquired new arcane tools and learned of a legendary "Ring of Protection." A subsequent visit to the [[Fur and Fang]] trapper shop saw [[Kai]] prove his strength in an arm-wrestling match against [[Gaara]], earning the party a contract to hunt a massive, lizard-like beast rumoured to be the size of a house near [[Farhaven]].
 
 The investigation into the [[Green Gryphons]] contract led the party to the noble estate of [[Lord Norak Vara]]. The meeting was tense, punctuated by [[Dondar]] magically slamming doors to unnerve the staff. Norak Varra and his butler, revealed that not only have shipments ceased, but multiple squads - including elite Empire soldiers - have vanished at the mine without a trace. The party, sensing a deep conspiracy or a threat beyond simple banditry, decided to prepare their wagon for travel.
 
@@ -52,7 +52,7 @@ The session concluded with an explosive climax at [[Serenity Plaza]]. Stumbling 
 ### Shopping: Fur and Fang
 
 * The group noticed they were being tailed by a slender figure in a green hood while crossing the city.
-* They arrived at the trapper's shop, [[The Fur and Fang]], run by [[Gaara]] and his niece [[Kira]].
+* They arrived at the trapper's shop, [[Fur and Fang]], run by [[Gaara]] and his niece [[Kira]].
 * **The Test:** [[Kai]] challenged Gaara to an arm-wrestling match. With magical assistance from the party, Kai won decisively, earning the trapper's respect.
 * **The Hunt:** Gaara shared rumors of a "lizard-like monster the size of a house" in the woods north of [[Farhaven]].
 * **Contract:** The party negotiated a reward of 1,000g plus 100g per trophy for killing the beast.

@@ -34,6 +34,7 @@ Each subtype writes to its own folder; everything else (stubs, assets) is shared
 | City | `Codex/Locations/Cities/<Name>.md` | `Codex-Restricted/Locations/Cities/<Name> - Restricted.md` |
 | Point of Interest | `Codex/Locations/Points of Interest/<Name>.md` | `Codex-Restricted/Locations/Points of Interest/<Name> - Restricted.md` |
 
+- **Restricted-only entries (no public page yet):** drop the ` - Restricted` suffix — write the bare `<Name>.md` into the restricted folder so public-page wikilinks `[[<Name>]]` resolve straight to it. The ` - Restricted` suffix above is only for a slim delta that accompanies an existing public page. See Step 5.
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** published under a subtype subfolder with **underscores, no spaces** — `Codex/Assets/Locations/Worlds/` for Worlds, `Codex/Assets/Locations/Continents/` for Continents, `Codex/Assets/Locations/Planes/` for Planes, `Codex/Assets/Locations/Regions/` for Regions, `Codex/Assets/Locations/Cities/` for Cities, `Codex/Assets/Locations/Points_of_Interest/` for POIs (working copies under `x_Assets/Locations/`). The infobox path must include this subfolder.
 
@@ -141,13 +142,19 @@ Write to the subtype's restricted folder:
 - Region: `Codex-Restricted/Locations/Regions/<Name> - Restricted.md`
 - City: `Codex-Restricted/Locations/Cities/<Name> - Restricted.md`
 
+These ` - Restricted` paths are for the slim delta that accompanies an existing public page. For the standalone-full-entry / "restricted only" case (below), drop the suffix and use the bare `<Name>.md` in the same folder.
+
 ### What the restricted document is
 
 The restricted document holds **only the DM-reserve delta** — the hidden features, secret history, concealed powers, undiscovered locations, and plot hooks deliberately kept *out* of the public entry. It is **not** a copy of the public article. The public entry stays the single source of truth for what the players have found; the restricted doc carries just the reserve, in a lightweight notes format that's quick to jot and edit and detailed enough to fold into the public entry later, when the place is explored or the secret revealed.
 
 **Do not duplicate the public doc.** No copied frontmatter, infobox, geography prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. The public doc owns what's discovered; the restricted doc owns the reserve.
 
-> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the party has reached the place, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body using the subtype's heading set, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+> **Exception — standalone full entry (the "restricted only" case).** Sometimes the DM wants the entry to live *only* in restricted for now — a complete entry drafted before the party has reached the place, to be promoted to the public Codex as-is later. **Triggers:** the user says "restricted only", "just the restricted [page]", "no public page yet", or the place is wholly undiscovered. In this case build the full public-style article — full frontmatter, infobox, body using the subtype's heading set, and image prompt (Steps 4 & 6) — **not** the slim delta, and:
+> - Name it with the **bare page name, no ` - Restricted` suffix** (e.g. `Codex-Restricted/Locations/Points of Interest/<Name>.md`), so public-page wikilinks `[[<Name>]]` resolve straight to it.
+> - Add a `> [!warning]` DM-only callout immediately after the infobox, noting the party hasn't visited and that material should be promoted to a public entry as it's discovered.
+>
+> The slim delta below — which *does* take the ` - Restricted` suffix and accompanies an existing public page — is the default.
 
 ### Restricted document structure (slim delta — the default)
 
@@ -206,7 +213,7 @@ Assemble the **public document** in this order:
 4. Opening paragraph
 5. Remaining body sections
 
-Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above — bare `<Name>.md` filename, no suffix, with a `> [!warning]` DM-only callout right after the infobox.)
 
 Write each file to its correct path. Report all paths written when done.
 

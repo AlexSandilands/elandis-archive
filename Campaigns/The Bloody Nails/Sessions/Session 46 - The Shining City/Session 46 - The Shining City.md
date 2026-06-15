@@ -64,7 +64,7 @@ The session concluded at the Fading Stars Tavern in the [[Sumara, The Shining Ci
 * **Rewards Obtained:**
     * **[[Berberis]]**: Obtained a Heartwood Bound Shield. It features "Root Memory," allowing it to entangle attackers when the wielder is wounded.
     * **[[Ryo]]**: Obtained a Shield of Living Memory. It possesses the ability causing it to return to his arm automatically if dropped or thrown.
-    * **[[Eryndor]]**: Commissioned "Rusty Nail the Third," a custom nail forged from Starfall Iron and his original rusty nail.
+    * **[[Eryndor]]**: Commissioned the reforging of "[[Rusty Nail|Rusty Nail the Second]]," his rusty nail keepsake blended and enhanced with Starfall Iron.
     * **[[Dondar]]**: Ordered an elegant headband/circlet to hide his [[Rhun'zar]].
 
 ### The Fading Stars and the Bloodline Reveal

@@ -8,7 +8,7 @@ Age: Late teens
 Place: "[[Val Miriel]]"
 Connections:
   - "[[Gaara]]"
-  - "[[The Fur and Fang]]"
+  - "[[Fur and Fang]]"
 Profession: Trapper's apprentice
 Importance: Minor
 Status: Alive
@@ -34,14 +34,14 @@ tags:
 > Pronouns | She/Her |
 > Age | Late teens |
 > Place | [[Val Miriel]] |
-> Connections | [[Gaara]]<br>[[The Fur and Fang]] |
+> Connections | [[Gaara]]<br>[[Fur and Fang]] |
 > Profession | Trapper's apprentice |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Alive |
 
-**Kira** is a halfling trapper's apprentice of [[Val Miriel]], and the niece of [[Gaara]], owner of [[The Fur and Fang]]. Sharp-eyed and restless by nature, she works alongside her uncle at the shop while learning the trade — though her heart plainly belongs to the open country beyond the city walls.
+**Kira** is a halfling trapper's apprentice of [[Val Miriel]], and the niece of [[Gaara]], owner of the [[Fur and Fang]]. Sharp-eyed and restless by nature, she works alongside her uncle at the shop while learning the trade — though her heart plainly belongs to the open country beyond the city walls.
 
 ## Biography
 
@@ -51,7 +51,7 @@ Kira grew up listening to her uncle Gaara's stories of the wilderness, and by th
 
 #### [[Session 22 - Inferno at Serenity Plaza]]
 
-The party visited [[The Fur and Fang]] and met Kira alongside her uncle [[Gaara]], who took on a contract to hunt a large creature reportedly lurking in the woods north of [[Farhaven]].
+The party visited the [[Fur and Fang]] and met Kira alongside her uncle [[Gaara]], who took on a contract to hunt a large creature reportedly lurking in the woods north of [[Farhaven]].
 
 #### [[Session 25 - The Chimera]]
 

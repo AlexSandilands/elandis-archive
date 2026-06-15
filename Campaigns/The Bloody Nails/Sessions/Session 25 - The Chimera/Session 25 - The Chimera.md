@@ -27,7 +27,7 @@ Leaving the depths of the earth behind, the party secures the legacy of the [[Ru
 
 Upon arriving at [[Val Miriel]], the group finds the city transformed into a dystopian police state. The gates are barred, martial law is in effect, and the streets are scarred by recent riots. Through a combination of quick thinking and [[Vaeleran]]'s smooth talking, utilizing their [[Green Gryphons]] credentials, they bypass the blockade. Inside, they discover a city on edge, plastered with revolutionary propaganda detailing [[Valtorran Empire|The Empire]]'s draconian new taxes and conscription laws—documents stolen during a daring heist on [[The Bastion]].
 
-The session concludes with the party capitalising on their hunt. They sell the Chimera carcass to the hunters at [[The Fur and Fang]] for a substantial sum before reporting back to the [[Green Gryphons]]. Deceiving their guild leadership, they claim the gold mine had naturally collapsed and was empty, securing their payment while keeping the true nature of the mine a secret. As night falls, the party prepares to navigate the curfew, with plans to visit the temple and contact their rebellion allies.
+The session concludes with the party capitalising on their hunt. They sell the Chimera carcass to the hunters at the [[Fur and Fang]] for a substantial sum before reporting back to the [[Green Gryphons]]. Deceiving their guild leadership, they claim the gold mine had naturally collapsed and was empty, securing their payment while keeping the true nature of the mine a secret. As night falls, the party prepares to navigate the curfew, with plans to visit the temple and contact their rebellion allies.
 
 ## Details
 

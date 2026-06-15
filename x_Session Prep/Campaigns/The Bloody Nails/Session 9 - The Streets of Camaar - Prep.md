@@ -107,7 +107,7 @@ tags:
 
 #### Faelon
 - Small town about half a day's ride inland (west) of [[Camaar]]
-- The inn is called [[The Red Leaf]] (forest nearby has a lot of beautiful red trees)
+- The inn is called the [[Redleaf Inn]] (forest nearby has a lot of beautiful red trees)
 	- Dammond and Ania run the place
 	- 2s per room per night
 

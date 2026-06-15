@@ -5,7 +5,7 @@ Character-specific workflow for the codex skill. Read this when the user is crea
 ## Vault locations
 
 - **Public characters:** `Codex/Characters/<Name>.md`
-- **Restricted companion docs:** `Codex-Restricted/Characters/<Name> - Restricted.md`
+- **Restricted companion docs:** `Codex-Restricted/Characters/<Name> - Restricted.md` (restricted-*only* entries with no public page drop the suffix — bare `Codex-Restricted/Characters/<Name>.md`; see Step 5)
 - **Root-level stubs:** `<Name>.md` at vault root (migration case)
 - **Image assets:** `Codex/Assets/Characters/` and `x_Assets/Characters/`
 
@@ -230,7 +230,7 @@ Brief summary of their appearance in this session — one sentence or a short bu
 
 Create this when: the stub file had a `## Restricted` section, the user asked for a restricted doc, or the user flagged restricted content during Step 3.
 
-Write to: `Codex-Restricted/Characters/<Name> - Restricted.md`
+Write to: `Codex-Restricted/Characters/<Name> - Restricted.md`. This ` - Restricted` path is for the slim delta that accompanies an existing public page; for the standalone-full-entry / "restricted only" case (below), drop the suffix and use the bare `Codex-Restricted/Characters/<Name>.md`.
 
 ### What the restricted document is
 
@@ -238,7 +238,11 @@ The restricted document holds **only the DM-reserve delta** — the secrets, hid
 
 **Do not duplicate the public doc.** No copied frontmatter, infobox, body prose, session logs, or image prompt. If a fact already appears in the public entry, it does not belong here. This keeps the two files from drifting out of sync — the public doc owns the public truth, the restricted doc owns the reserve.
 
-> **Exception — standalone full entry.** Sometimes the DM writes a *complete* entry in restricted first, before the players have met the character, intending to move it to the public Codex as-is later. Only when the user explicitly says this is a not-yet-public full entry, build the full public-style article here (full frontmatter, infobox, body, image prompt — Steps 4 & 6) instead of the slim delta. The slim delta below is the default.
+> **Exception — standalone full entry (the "restricted only" case).** Sometimes the DM wants the entry to live *only* in restricted for now — a complete entry drafted before the players have met the character, to be promoted to the public Codex as-is later. **Triggers:** the user says "restricted only", "just the restricted [page]", "no public page yet". In this case build the full public-style article — full frontmatter, infobox, body, and image prompt (Steps 4 & 6) — **not** the slim delta, and:
+> - Name it with the **bare page name, no ` - Restricted` suffix** (e.g. `Codex-Restricted/Characters/<Name>.md`), so public-page wikilinks `[[<Name>]]` resolve straight to it.
+> - Add a `> [!warning]` DM-only callout immediately after the infobox, noting the party hasn't met them and that material should be promoted to a public entry as it's revealed.
+>
+> The slim delta below — which *does* take the ` - Restricted` suffix and accompanies an existing public page — is the default.
 
 ### Restricted document structure (slim delta — the default)
 
@@ -292,7 +296,7 @@ Assemble the **public document** in this order:
 4. Opening paragraph
 5. Remaining body sections
 
-Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above.)
+Assemble the **slim restricted doc** (if any) in its own order: minimal frontmatter (`Type` + `dm-notes` tag) → a `> [!abstract] Public Entry: *[[<Name>]]*` callout → themed reserve sections. No H1 title (Obsidian shows the note title already), no image prompt, no infobox. (A standalone full restricted entry instead follows the public order above — bare `<Name>.md` filename, no suffix, with a `> [!warning]` DM-only callout right after the infobox.)
 
 Write each file to its correct path. Report all paths written when done.
 

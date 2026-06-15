@@ -237,27 +237,27 @@ Geographic features:
 ## Tue 16 Jun (2h) · INSTITUTIONS + LORE + TAVERNS (start)
 
 **Batch 8 — Institutions & Lore misc (6)**
-- [ ] Arcana Luminorium *(arcane academy, Val Luminor)*
-- [ ] Imperial Academy
-- [ ] Eternal Forge
-- [ ] Red Bastion *(fortress in Val Miriel)*
-- [ ] World Gates *(lore concept)*
-- [ ] Fungrals *(triage — people/culture; appears in Bioluminescent Forest & Sumara)*
+- [x] Arcana Luminorium *(arcane academy, Val Luminor)*
+- [x] Imperial Academy
+- [x] Eternal Forge
+- [x] Red Bastion *(fortress in Val Miriel)*
+- [x] World Gates *(lore concept)*
+- [x] Fungrals *(triage — people/culture; appears in Bioluminescent Forest & Sumara)*
 
 **Batch 9a — Taverns & shops (start, ~4)**
-- [ ] Rusty Nail
-- [ ] The Gilded Crow
-- [ ] The Fur and Fang
-- [ ] The Red Leaf
+- [x] Rusty Nail
+- [x] The Gilded Crow
+- [x] The Fur and Fang
+- [x] The Red Leaf
 
 ---
 
 ## Thu 18 Jun (2h) · TAVERNS (finish) + TEMPLES & WAYS
 
 **Batch 9b — Taverns & shops (finish)**
-- [ ] The Lion *(inn)*
-- [ ] Drunken Quay
-- [ ] Gilded Grimoire *(magic shop — not an item)*
+- [x] The Lion *(inn)*
+- [x] Drunken Quay
+- [x] Gilded Grimoire *(magic shop — not an item)*
 - [ ] Val Miriel River Market
 
 **Batch 9c — Temples & Sumara Ways (7)**

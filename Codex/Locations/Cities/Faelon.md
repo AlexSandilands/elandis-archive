@@ -41,11 +41,11 @@ The [[Everred Forest]] is Faelon's most striking feature. Its canopy remains a d
 
 Faelon's residents are, almost to a person, people who preferred the mountains to whatever they left behind. The town draws those inclined to hard, physical work in a place that asks few questions: miners who came up from the coast a generation ago and never went back, families who settled the foothills before Camaar was much more than a dock, and a steady trickle of individuals who simply wanted distance from the wider world. The [[Valtorran Empire|Empire]] has no presence here and the locals have no interest in acquiring one.
 
-Governance is entirely informal. **Durras Velt**, a weathered half-dwarf who has worked the mines longer than anyone else can remember, is the closest thing Faelon has to an authority — he sets work schedules, arbitrates disputes, and speaks for the town to any outsiders who come asking. He holds no title and no office; it is simply the arrangement everyone accepts. Serious disagreements find their resolution at the Redleaf Inn over ale.
+Governance is entirely informal. **Durras Velt**, a weathered half-dwarf who has worked the mines longer than anyone else can remember, is the closest thing Faelon has to an authority — he sets work schedules, arbitrates disputes, and speaks for the town to any outsiders who come asking. He holds no title and no office; it is simply the arrangement everyone accepts. Serious disagreements find their resolution at the [[Redleaf Inn]] over ale.
 
 ## Establishments
 
-#### The Redleaf Inn *(inn — modest)*
+#### [[Redleaf Inn]] *(inn — modest)*
 
 Faelon's only inn, named for the forest that surrounds it. It is a low, wide building with heavy timber beams, a fire that burns through the mountain winters, and a permanent smell of woodsmoke and pine resin. Dammond and Ania — the couple who have run the place for as long as most can recall — keep a clean room and a serviceable kitchen. Rooms run at two silver a night.
 
