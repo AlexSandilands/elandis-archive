@@ -56,7 +56,7 @@ tags:
 ### The High Sept
 
 - Inside [[The Hight Sept]], they may find the alter of the moon god and someone will mention:
-	- "This is a moonstone of [[Elaris Moonsong - Restricted]]! It's said that before he left this world with the rest of the gods to wander the realms, he left behind three enchanted stones that when brought together could be used to open [[The Vault of the Moon]]!"
+	- "This is a moonstone of [[Elaris Moonsong - Restricted]]! It's said that before he left this world with the rest of the gods to wander the realms, he left behind three enchanted stones that when brought together could be used to open the [[Vault of the Moon]]!"
 
 ### Gemma
 

@@ -4,7 +4,7 @@ Region: "[[Xericana Sands]]"
 Defining Feature: Lawless western desert port; melting-pot of the Sands' monstrous peoples
 Population: Tens of thousands
 Government: No single ruler — merchant interests and the strongest factions
-Imperial Presence: Light — effectively beyond Imperial order
+Imperial Presence: Symbolic — a token embassy, no real authority
 Importance: Major
 Status: Active
 NoteIcon: city
@@ -25,7 +25,7 @@ tags:
 > Defining Feature | Lawless western desert port |
 > Population | Tens of thousands |
 > Government | Merchant interests and the strongest factions |
-> Imperial Presence | Light — beyond Imperial order |
+> Imperial Presence | Symbolic — a token embassy |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
@@ -39,4 +39,4 @@ Xenith clings to the far western coast of [[Valtorra]], where the [[Xericana San
 
 ## The People & Trade
 
-Unlike the human cities of the Empire, Xenith belongs to the monstrous peoples who claim the [[Xericana Sands]]. Goblinoids of every stripe — goblins, hobgoblins, and bugbears — rub shoulders with orcs, with the giantkin ogres and trolls, and with bestial folk such as minotaurs and centaurs, alongside any number of other peoples the Empire would name monsters. Its markets run on the valuables recovered, mined, and extracted from the desert, and it is a rough, polyglot trading port where the law is whatever the strongest interests make it.
+Unlike the human cities of the Empire, Xenith belongs to the monstrous peoples who claim the [[Xericana Sands]]. Goblinoids of every stripe — goblins, hobgoblins, and bugbears — rub shoulders with orcs, with the giantkin ogres and trolls, and with bestial folk such as minotaurs and centaurs, alongside any number of other peoples the Empire would name monsters. Its markets run on the valuables recovered, mined, and extracted from the desert, and it is a rough, polyglot trading port where the law is whatever the strongest interests make it. The Empire, having never managed to bring the [[Xericana Sands]] under any real control, keeps only a small symbolic presence here — a token embassy maintained for the sake of a face and some measure of diplomacy, with no authority to speak of.

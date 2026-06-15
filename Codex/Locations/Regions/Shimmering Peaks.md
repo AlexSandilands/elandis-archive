@@ -53,16 +53,16 @@ The interior of the Peaks belongs to the Sumaran elves of [[Sumara, The Shining 
 
 The wider region beyond the city is sparsely peopled by stoic, ancient guardians bound by millennia-old pacts — silver-barked treants, galeb duhr formed from white marble, and high archfae emissaries who patrol the bounds. Strictly lawful and neutral, they are indifferent to travellers and will not interfere unless the ancient rules and borders of the Peaks are disrespected.
 
-## The Spatial Wards & the Guardian Bridges
+## The Spatial Wards & the Guardian Bridge
 
 The looping [[Liar's River]] is the region's true moat, and the physics around it are deliberately weaponised. The water is warded against crossing: any attempt to swim, wade, or sail it summons grasping hands of starlight and water elementals to drag the intruder under. Nor can the river simply be flown over or walked around — the geometry of the Peaks is non-Euclidean, and any such attempt triggers a severe spatial distortion in which the mountains and hidden city appear to recede hundreds of miles into the distance. Travellers who follow the river's bank in search of a narrow crossing find themselves trapped in an endless, receding circle.
 
-The destination holds fixed only for one standing directly before one of the few ancient stone Guardian Bridges that span the river — the sole authorised entries into the mountain passes. These bridges are held by appointed wardens, often menacing in form: towering trolls of moss-covered obsidian in dark iron, or massive minotaurs of white stone. By ancient law they demand that travellers complete the "Ancient Rites" to pass, threatening dire consequences for failure — but centuries of isolation have devolved the rites into bored games of logic, chance, and riddle, and the threatened consequences into harmless, cosmetic fey curses. The wardens, in truth, are simply lonely, and want a game.
+The destination holds fixed only for one standing directly before the ancient stone Guardian Bridge that spans the river — the sole authorised entry into the mountain passes. The bridge is held by its appointed warden, [[Grumble, The Anniahilator|Grumble]], menacing in form: a towering troll of moss-covered obsidian in dark iron. By ancient law he demands that travellers complete the "Ancient Rites" to pass, threatening dire consequences for failure — but centuries of isolation have devolved the rites into bored games of logic, chance, and riddle, and the threatened consequences into harmless, cosmetic fey curses. The warden, in truth, is simply lonely, and wants a game.
 
 ## Settlements & Sites
 
 - [[Sumara, The Shining City]] — the ancient elven city at the centre of the caldera, the warded heart the whole region exists to protect.
-- [[Liar's River]] — the gravity-defying loop of starlit water that encircles and moats the range, crossed only at the Guardian Bridges.
+- [[Liar's River]] — the gravity-defying loop of starlit water that encircles and moats the range, crossed only at the Guardian Bridge.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

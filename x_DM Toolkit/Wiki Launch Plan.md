@@ -211,26 +211,26 @@ Forests & wilds:
 - [x] Shimmering Peaks *(Faewild)*
 
 Geographic features:
-- [ ] Vale of Eternal Night
+- [x] Vale of Eternal Night
 - [x] Frostway
-- [ ] Liar's River
+- [x] Liar's River
 - [x] Luminor River
 - [x] Luminor Plains
 - [x] Borealia Range *(mountains)*
 - [x] Silver Mountains
 - [x] Southern Highlands
-- [ ] Xericana Sands *(desert)*
+- [x] Xericana Sands *(desert)*
 - [x] The Underrun
 
 **Batch 7 — Items (8)**
-- [ ] Emberblade *(weapon)*
-- [ ] Dread's Hunger *(weapon)*
-- [ ] Riftshard
-- [ ] Moonlit Aegis *(shield — `git add` if untracked)*
-- [ ] The Kraken *(ship)*
-- [ ] Gossamer Dust *(material)*
-- [ ] Moonstone *(material)*
-- [ ] Zephyr Cuffs
+- [x] Emberblade *(weapon)*
+- [x] Dread's Hunger *(weapon)*
+- [x] Riftshard
+- [x] Moonlit Aegis *(shield — `git add` if untracked)*
+- [x] The Kraken *(ship)*
+- [x] Gossamer Dust *(material)*
+- [x] Moonstone *(material)*
+- [x] Zephyr Cuffs
 
 ---
 

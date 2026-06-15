@@ -184,7 +184,14 @@ The default restricted companion is a **slim DM-reserve delta** — themed notes
 
 ## Image prompt framing
 
-The shared painterly landscape style is in `location.md`. For a Region, choose a single *characteristic vista* that captures the whole area — the view that says "this is the region" (e.g. for the [[Vale of Eternal Night]], a sunless blackthorn forest under a bruised-iron sky). Convey scale and breadth rather than one object.
+The shared painterly landscape style is in `location.md`. For a Region, choose a single *characteristic vista* that captures the whole area — the view that says "this is the region," seen from a high or distant vantage looking out across it (e.g. for the [[Vale of Eternal Night]], a high ridge above a vast sunless valley, the black eclipse-moon and its beam tiny in the far distance).
+
+**Scale is the whole point of a Region image — and the most common way it goes wrong.** A Region is a broad area, so its picture must read as *big*. The failure mode is over-specifying: every small feature you name (individual trees, fungi, the near bank of a river, a particular thicket) is treated by the generator as a must-include, so it crams those details into the foreground at large size. The result is an up-close, cluttered scene that feels small and looks ugly — the opposite of a sweeping region. Avoid it:
+
+- **Describe the whole, not the parts.** Lead with the overall form and breadth — "a vast forested valley sweeping away into hazy mountains," "an endless expanse of black dunes under a white sky." Name only the few identity-defining anchors (a river, a mountain range, a dominant colour or material, one signature landmark).
+- **Keep landmarks small and distant.** Identity features like a city, a tower, or a hanging moon belong far off and tiny — "small and far away across the valley," "dwarfed by the scale of the vista" — never large in the foreground.
+- **Sell scale through distance and haze.** Vastness reads from a high vantage and atmospheric depth, not from detail — "high ridge looking out over," "atmospheric haze deepening into the distance," "stretching beyond what the eye can hold." This is the single biggest cue that says *huge*.
+- **Let mood and light do the work, not a catalogue of objects.** A few evocative mood and lighting words conjure a place better than a list of the things in it.
 
 ---
 

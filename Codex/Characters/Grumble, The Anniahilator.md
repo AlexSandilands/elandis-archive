@@ -37,7 +37,7 @@ aliases: [Grumble, Uncle Grumble]
 > ---|---|
 > Status | Alive |
 
-**Grumble, The Anniahilator** is an ancient black-skinned fae of fearsome aspect who has guarded the bridges spanning the [[Liar's River]] at the approaches to [[Sumara, The Shining City|Sumara]] for longer than any living soul can remember. Despite the dread his name and reputation inspire, Grumble is less a monster than a fixture of the landscape — an immovable piece of a world that has been turning since before most of the civilisations around him were founded, with a fondness for games and a laugh that carries across the water.
+**Grumble, The Anniahilator** is an ancient black-skinned fae of fearsome aspect who has guarded the bridge spanning the [[Liar's River]] at the approach to [[Sumara, The Shining City|Sumara]] for longer than any living soul can remember. Despite the dread his name and reputation inspire, Grumble is less a monster than a fixture of the landscape — an immovable piece of a world that has been turning since before most of the civilisations around him were founded, with a fondness for games and a laugh that carries across the water.
 
 ## Biography
 

@@ -63,7 +63,7 @@ tags:
 ## Side Quests
 
 - Missing Person reported by the [[Cobblestone Alchemists]]
-- Crew of [[The Kraken]] need help with a "security" situation - [[Drunken Quay]]
+- Crew of The Kraken need help with a "security" situation - [[Drunken Quay]]
 
 ### Missing Alchemist
 
@@ -107,7 +107,7 @@ tags:
 - Some "merchants" (smugglers) want help clearing a coastal cave around half a day north of the city in a hidden cove
 - Some of their crew didn't return from storing some supplies and when investigating heard terrifying sounds
 - Clear the cave of danger
-- They are docked on a boat called [[The Kraken]]
+- They are docked on a boat called The Kraken
 	- Captain's name is Erin Nayla
 	- Half Orc, very serious, scar across one eye that is white
 	- Person who came back from the cave was Olly - topman of the ship - skittery fast speaking nervous fellow
