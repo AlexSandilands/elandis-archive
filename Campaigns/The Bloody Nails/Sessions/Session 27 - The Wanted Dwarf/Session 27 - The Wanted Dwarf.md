@@ -50,7 +50,7 @@ Seeking a way out, the party liquidates their monster harvest at the [[Fur and F
 * **The Rendezvous:** [[Vaeleran]] spots the terrible disguise immediately on the main street and pulls [[Kai]] and [[Dondar]] into an alley. Dondar is hidden in the back of the cart under canvas sacks to avoid Imperial patrols.
 * **Liquidating Assets:** [[Ryo]] and [[Eryndor]] visit the [[Fur and Fang]]. [[Gaara]] and [[Kira]] have finished analysing the Chimera.
 * **The Payout:** They offer a total of roughly 2,900 gold pieces for the Chimera parts and 40 gold for tiger pelts. They receive an upfront payment of approximately 2,000 gold pieces (with some held back for processing). Ryo quietly pockets the 40 gold from the tiger pelts for himself.
-* **Shopping Trip:** The party moves to [[The Artisan Way]]. Dondar buys fine paper for his spellbook, and Kai buys ruby dust from [[Felix]] at [[The Bridge of Stars]], apologising for his previous attempt to charm the shopkeeper.
+* **Shopping Trip:** The party moves to the [[Artisan Way]]. Dondar buys fine paper for his spellbook, and Kai buys ruby dust from [[Felix]] at [[The Bridge of Stars]], apologising for his previous attempt to charm the shopkeeper.
 
 ### The Ravens and the Exit Strategy
 

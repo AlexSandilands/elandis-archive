@@ -4,7 +4,7 @@ Category: Local Chapter
 Parent Faction: "[[Green Gryphons]]"
 City: "[[Val Miriel]]"
 Leader: "[[Porta Hale]]"
-Base: "[[The Military Way]]"
+Base: "[[Military Way]]"
 Importance: Major
 Status: Active
 NoteIcon: faction
@@ -13,7 +13,9 @@ cssclasses:
 tags:
   - faction
   - faction/chapter
-aliases: [Val Miriel Gryphons, Val Miriel chapter]
+aliases:
+  - Val Miriel Gryphons
+  - Val Miriel chapter
 ---
 > [!infobox|wikipedia]
 > # Green Gryphons — Val Miriel
@@ -25,17 +27,17 @@ aliases: [Val Miriel Gryphons, Val Miriel chapter]
 > Parent Faction | [[Green Gryphons]] |
 > City | [[Val Miriel]] |
 > Leader | [[Porta Hale]] |
-> Base | [[The Military Way]] |
+> Base | [[Military Way]] |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Active |
 
-The Val Miriel Gryphons are the [[Green Gryphons]]' chapter in [[Val Miriel]] — a guildhall on [[The Military Way]] under the steady command of Captain [[Porta Hale]], and the most active chapter the [[The Bloody Nails|Bloody Nails]] have dealt with in the course of their travels. Of all the guild's presences encountered so far, this one has seen the most of what the party are capable of — and has kept its professional composure throughout.
+The Val Miriel Gryphons are the [[Green Gryphons]]' chapter in [[Val Miriel]] — a guildhall on [[Military Way]] under the steady command of Captain [[Porta Hale]], and the most active chapter the [[The Bloody Nails|Bloody Nails]] have dealt with in the course of their travels. Of all the guild's presences encountered so far, this one has seen the most of what the party are capable of — and has kept its professional composure throughout.
 
 ## Overview & Base
 
-The chapter occupies a hall on [[The Military Way]], in the quarter where soldiers, hired swords, and merchants move in constant traffic. There is nothing concealed about it. The guildhall is where it is because that is where people look for dangerous work, and the [[Green Gryphons]] want to be easy to find.
+The chapter occupies a hall on [[Military Way]], in the quarter where soldiers, hired swords, and merchants move in constant traffic. There is nothing concealed about it. The guildhall is where it is because that is where people look for dangerous work, and the [[Green Gryphons]] want to be easy to find.
 
 Under Captain [[Porta Hale]], the hall has built a reputation for quiet competence. Contracts come in from merchants, nobles, and civic bodies; they are handled, paid, and closed. During [[Val Miriel]]'s slide into martial law, the guildhall functioned as an unlikely refuge — a professionally run, stubbornly neutral space in a city fracturing along Imperial fault lines. Porta runs it with the pragmatism of a man who has absorbed too much to be surprised by anything and who knows the exact distance between tolerating trouble and inviting it.
 

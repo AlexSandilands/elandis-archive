@@ -12,7 +12,7 @@ Torgar Earthshaker was a **mortal dwarf druid** — the champion chosen by **[[G
 Same pattern as restricted [[The Pantheon]] and [[The Shattering]]: Grumbar, a true ancient power, could not enter the Chaos Wars directly, so raised a dwarf druid as champion. That champion held the line, gave everything at the Shattering's end, and ascended to the demigodhood now called Torgar Earthshaker. Grumbar withdrew into silence behind him, and the worship that once flowed to the elder god has flowed ever since to his champion.
 
 ## The Relic Thread
-The relic **Grumbar's Fist** names the elder god openly — the clearest fragment of the buried truth in plain sight. In the mountain holds it survives as a soldier's oath whose source the faith no longer traces; exactly the kind of thread that unravels the whole history for anyone who pulls on it. The [[The Stoneheart|Stoneheart]] of [[Val Noren]] is the chief seat of this displaced worship.
+The relic **Grumbar's Fist** names the elder god openly — the clearest fragment of the buried truth in plain sight. In the mountain holds it survives as a soldier's oath whose source the faith no longer traces; exactly the kind of thread that unravels the whole history for anyone who pulls on it. The [[Stoneheart]] of [[Val Noren]] is the chief seat of this displaced worship.
 
 ## DM Notes
 - **Core secret:** mortal dwarf druid, champion of [[Grumbar]] (a God of Old), ascended to demigodhood at the Shattering. Keep consistent with restricted [[The Pantheon]], [[World Tree]], [[The Shattering]].

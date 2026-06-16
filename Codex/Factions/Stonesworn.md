@@ -26,13 +26,13 @@ tags:
 > ---|---|
 > Status | Active |
 
-The Stonesworn are [[Val Noren]]'s ancient guild of master smiths — and, in equal measure, its most devoted servants of [[Torgar Earthshaker]]. In Val Noren, faith and craft have never been separate things, and the Stonesworn are the fullest expression of that tradition: a brotherhood where the quality of a blade is an act of worship, the forge is a sacred space, and membership is a lifelong vow to both the craft and the god. They hold the most coveted [[Renite Steel]] commissions in [[Valtorra]], maintain the armory of [[The Stoneheart]] temple, and mark every generation of the city's finest smiths with their seal.
+The Stonesworn are [[Val Noren]]'s ancient guild of master smiths — and, in equal measure, its most devoted servants of [[Torgar Earthshaker]]. In Val Noren, faith and craft have never been separate things, and the Stonesworn are the fullest expression of that tradition: a brotherhood where the quality of a blade is an act of worship, the forge is a sacred space, and membership is a lifelong vow to both the craft and the god. They hold the most coveted [[Renite Steel]] commissions in [[Valtorra]], maintain the armory of the [[Stoneheart]] temple, and mark every generation of the city's finest smiths with their seal.
 
 ## Purpose & Goals
 
 The Stonesworn exist to uphold the standard. Their purpose is threefold: to master the working of [[Renite Steel]] to its highest possible expression, to serve [[Torgar Earthshaker]] through that mastery, and to ensure that Val Noren's craft tradition survives whatever the world does to the city around it.
 
-In practice this means controlling the quality of elite commissions, apprenticing young smiths in both metallurgy and religious devotion, and keeping the armory and sacred metalwork of [[The Stoneheart]] in a state worthy of the god. They do not pursue wealth for its own sake — though a Stonesworn commission commands a price that reflects its rarity — and they do not pursue political influence. They are craftspeople and devotees first, and the guild exists to protect and perpetuate the work.
+In practice this means controlling the quality of elite commissions, apprenticing young smiths in both metallurgy and religious devotion, and keeping the armory and sacred metalwork of the [[Stoneheart]] in a state worthy of the god. They do not pursue wealth for its own sake — though a Stonesworn commission commands a price that reflects its rarity — and they do not pursue political influence. They are craftspeople and devotees first, and the guild exists to protect and perpetuate the work.
 
 ## Structure & Leadership
 
@@ -44,7 +44,7 @@ Admission is not merely a matter of skill. Candidates are assessed on both craft
 
 The guild's faith holds that metal remembers the hands that worked it, and that a smith's devotion — or its absence — passes into the blade. A weapon made with reverence strikes truer. A weapon made in anger or indifference is dangerous in ways that go beyond the physical. Whether this is metaphysics or simply a rationale for rigorous craft, the result is the same: Stonesworn smiths work slowly, deliberately, and in ritual silence at key stages of the forging process.
 
-Completed works of significance are presented at [[The Stoneheart]] before delivery. Weapons intended for the temple armory are forged according to a specific liturgical sequence that can take days. The rarest commissions — great blades, consecrated armour — are held to require divine assent; a smith who feels the work has not been blessed will melt it down and begin again rather than deliver it.
+Completed works of significance are presented at the [[Stoneheart]] before delivery. Weapons intended for the temple armory are forged according to a specific liturgical sequence that can take days. The rarest commissions — great blades, consecrated armour — are held to require divine assent; a smith who feels the work has not been blessed will melt it down and begin again rather than deliver it.
 
 ## History
 
@@ -60,7 +60,7 @@ The Stonesworn are deeply bound to Val Noren's civic and religious life, and mos
 
 ### The Stoneheart
 
-Their relationship with [[The Stoneheart]] temple is the oldest of these — guild and temple are essentially co-institutions, sharing the armory and the devotional calendar.
+Their relationship with the [[Stoneheart]] temple is the oldest of these — guild and temple are essentially co-institutions, sharing the armory and the devotional calendar.
 
 ### Court of Val Noren
 

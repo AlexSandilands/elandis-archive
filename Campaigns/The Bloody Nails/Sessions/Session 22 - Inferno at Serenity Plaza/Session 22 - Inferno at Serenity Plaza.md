@@ -42,7 +42,7 @@ The session concluded with an explosive climax at [[Serenity Plaza]]. Stumbling 
 
 ### Shopping: The Bridge of Stars
 
-* The party visited a magic shop located on [[The Artisan Way]], run by a wizard named [[Felix]]. 
+* The party visited a magic shop located on the [[Artisan Way]], run by a wizard named [[Felix]]. 
 * **Purchases:**
     * [[Dondar]] purchased an **Enduring Spellbook** for 150g.
     * [[Vaeleran]] purchased an **Immovable Rod** for 250g (after an awkward moment where [[Kai]] attempted to cast *Command* for a discount).
@@ -59,7 +59,7 @@ The session concluded with an explosive climax at [[Serenity Plaza]]. Stumbling 
 
 ### The Benefactor: Norak Varra
 
-* The party visited the home of [[Lord Norak Vara]] on [[The Royal Way]] to discuss the mine contract.
+* The party visited the home of [[Lord Norak Vara]] on the [[Royal Way]] to discuss the mine contract.
 * **The Butler:** They were met by Nihilus, a haughty servant. [[Dondar]] used *Prestidigitation* to repeatedly slam the doors, causing chaos and making Nihilus believe the windows were drafty.
 * **The Intel:**
     * The mine usually has 10-15 guards and ~30 miners.

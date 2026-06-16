@@ -25,7 +25,7 @@ tags:
 > ---|---|
 > Status | Active |
 
-The Gilded Crow is the most luxurious tavern in [[Val Miriel]], set in the heart of [[The Artisan Way]] on the eastern bank of the [[Luminor River]]. Behind its golden accents and velvet seating, the Crow keeps a second life: its cellar hides the entrance to the [[Order of Ravens - Val Miriel|Val Miriel Nest]], the thieves' and spies' chapter built into the [[Underrun]] beneath the city.
+The Gilded Crow is the most luxurious tavern in [[Val Miriel]], set in the heart of the [[Artisan Way]] on the eastern bank of the [[Luminor River]]. Behind its golden accents and velvet seating, the Crow keeps a second life: its cellar hides the entrance to the [[Order of Ravens - Val Miriel|Val Miriel Nest]], the thieves' and spies' chapter built into the [[Underrun]] beneath the city.
 
 ## Location & Geography
 

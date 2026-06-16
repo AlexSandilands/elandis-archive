@@ -27,7 +27,7 @@ tags:
 
 The party begins their day in [[Val Miriel]] at [[River's Watch]], where [[Kai]] offers comfort to a grieving [[Gemma Finegold]], whose resolve against [[Valtorran Empire|The Crimson Empire]] is hardening following her father's murder. After gathering intelligence on the city's layout from the barmaid [[Lila Spring]], the group splits their focus between securing better equipment and investigating the mysterious note inviting them to a midnight meeting. Their journey takes them through the bustling markets, where they overhear whispers of a gathering at [[Serenity Plaza]], hinting at the city's bubbling political unrest.
 
-The quest for armaments proves a study in contrasts. At the ostentatious [[Silverforge]] on [[The Artisan Way]], the party clashes with a pretentious proprietor who values form over function. However, [[Vaeleran]] learns that his mysterious greatsword bears the markings of Northern steelcraft, likely from [[Val Aran]]. Finding more practical success at [[The Coal]] in the military district, they meet [[Ingrid]], a rugged smith who confirms the sword's Northern origins and supplies the group with sturdy weaponry. At the [[Green Gryphons]], the party reunites with [[Ryo]] and speaks with [[Porta Hale]], securing potential contracts involving a silent gold mine and a ghostly merchant ship, while learning that the "beasts" they tracked in the woods were likely dangerous Displacer Beasts.
+The quest for armaments proves a study in contrasts. At the ostentatious [[Silverforge]] on the [[Artisan Way]], the party clashes with a pretentious proprietor who values form over function. However, [[Vaeleran]] learns that his mysterious greatsword bears the markings of Northern steelcraft, likely from [[Val Aran]]. Finding more practical success at [[The Coal]] in the military district, they meet [[Ingrid]], a rugged smith who confirms the sword's Northern origins and supplies the group with sturdy weaponry. At the [[Green Gryphons]], the party reunites with [[Ryo]] and speaks with [[Porta Hale]], securing potential contracts involving a silent gold mine and a ghostly merchant ship, while learning that the "beasts" they tracked in the woods were likely dangerous Displacer Beasts.
 
 The session culminates in two significant discoveries. A scouting mission to [[Miriel's Rest]], the royal cemetery, reveals it to be the meeting spot for the midnight summons. While investigating, [[Ryo]] uncovers a magical six-sided die radiating transmutation magic hidden on a grave. Meanwhile, [[Kai]] visits the [[High Sept]] to understand his growing powers. In a private audience with [[High Priest Oldir]], Kai reveals his starry form, prompting a terrified and earth-shattering revelation: the celebrated Seven Gods of the realm are merely ascended champions, false idols masking the existence of the "True Gods." [[High Priest Oldir|Oldir]] reveals that Kai has been touched by [[Selûne]], the true Goddess of the Moon, and warns that her dark sister, the Lady of Vengeance, has also taken an interest in him.
 
@@ -43,7 +43,7 @@ The session culminates in two significant discoveries. A scouting mission to [[M
 ### Shopping at the Silverforge
 
 * The group travels through the crowded market, using intimidation and stealth to navigate, and hears rumours of a gathering at Serenity Plaza.
-* They arrive at [[Silverforge]] on [[The Artisan Way]], a high-end, decorative armoury.
+* They arrive at [[Silverforge]] on the [[Artisan Way]], a high-end, decorative armoury.
 * The proprietor, a half-elf with silver makeup, is dismissive of [[Eryndor]]'s request for functional, unadorned weapons.
 * [[Vaeleran]] shows the proprietor his greatsword; the smith identifies the craftsmanship as Northern steel, likely forged in or near [[Val Aran]].
 * The party leaves without purchasing weapons; Eryndor spitefully scatters ball bearings on the floor as they exit.
@@ -51,7 +51,7 @@ The session culminates in two significant discoveries. A scouting mission to [[M
 
 ### The Coal & The Green Gryphon
 
-* The party locates [[The Coal]] on [[The Military Way]], a run-down but practical smithy run by [[Ingrid]], a massive, no-nonsense woman.
+* The party locates [[The Coal]] on the [[Military Way]], a run-down but practical smithy run by [[Ingrid]], a massive, no-nonsense woman.
 * [[Eryndor]] purchases two balanced daggers, and [[Kai]] successfully buys a whip.
 * [[Ingrid]] examines [[Vaeleran]]'s greatsword, confirming it bears a Northern owner's mark, not a maker's mark.
 * The group proceeds to the [[Green Gryphons]] mercenary guildhall and reunites with [[Ryo]].

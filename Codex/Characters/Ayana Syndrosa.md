@@ -89,7 +89,7 @@ It was through Marius that she met [[The Bloody Nails]], and something about the
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 
-Following the party's assassination of [[Dread General Gerard Blackmarsh]] and their escape from [[The Stoneheart]], Ayana participated in the war council at [[Val Noren]] alongside [[King Marius Noren|Marius]] and [[Barak Stormrider]]. Still operating under her disguise as **Ayana Wynne**, she helped assess the military stalemate and devise the two-pronged strategy — a public demand for parley backed by a flanking manoeuvre using a pontoon bridge — to break the Imperial siege.
+Following the party's assassination of [[Dread General Gerard Blackmarsh]] and their escape from the [[Stoneheart]], Ayana participated in the war council at [[Val Noren]] alongside [[King Marius Noren|Marius]] and [[Barak Stormrider]]. Still operating under her disguise as **Ayana Wynne**, she helped assess the military stalemate and devise the two-pronged strategy — a public demand for parley backed by a flanking manoeuvre using a pontoon bridge — to break the Imperial siege.
 
 #### [[Session 43 - The Shield of the North]]
 

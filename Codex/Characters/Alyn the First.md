@@ -57,7 +57,7 @@ Among the refugees crossing the Frostway from Point Blackrock, Alyn was the sole
 
 #### [[Session 43 - The Shield of the North]]
 
-Kai and [[Eryndor]] visited [[St. Avelines]] to meet Alyn and Brother Callum. When the holy smith Helda later forged the [[Moonlit Aegis]] from metal purified by Kai's faith, Alyn set Kai's own moonstone into the finished shield, where it slotted magnetically into place — imbuing it with the power to blind those who strike its bearer.
+Kai and [[Eryndor]] visited [[St. Avelines]] to meet Alyn and Brother Calem. When the holy smith Helda later forged the [[Moonlit Aegis]] from metal purified by Kai's faith, Alyn set Kai's own moonstone into the finished shield, where it slotted magnetically into place — imbuing it with the power to blind those who strike its bearer.
 
 #### [[Session 44 - The Elven Archmage]]
 

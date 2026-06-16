@@ -40,7 +40,7 @@ Venturing into the mine, the investigation turned from mystery to horror. The pa
 
 ### The Raven's Nest (Eryndor's Arc)
 
-* **The Hideout:** [[Trak Aeris|Trak]] led [[Eryndor]] through [[The Artisan Way]] and into a luxurious, gold-trimmed tavern called [[The Gilded Crow]]. A secret entrance behind a keg led to The Nest, a massive underground base with a river running through its centre. 
+* **The Hideout:** [[Trak Aeris|Trak]] led [[Eryndor]] through the [[Artisan Way]] and into a luxurious, gold-trimmed tavern called [[The Gilded Crow]]. A secret entrance behind a keg led to The Nest, a massive underground base with a river running through its centre. 
 * **Jerek:** Eryndor was taken to his father, [[Jarek]], who had collapsed from exhaustion. They shared a brief, emotional conversation where Jerek revealed a lead on Eryndor’s mother: a Raven named Jema in [[Val Luminor]] believes Elves are being held in the dungeons there.
 * **The Nestfather:** Eryndor met with [[Thaddeus Karr]], the Nestfather. Thaddeus provided a Raven brooch and agreed to send word to the Nest in [[Val Aran]] to expect "[[The Bloody Nails]]."
 * **Departure:** Eryndor briefly saw the young girl [[Lia]] training with a rapier before securing a horse from Lady Marielle at The Gilded Crow to rush back to the party.

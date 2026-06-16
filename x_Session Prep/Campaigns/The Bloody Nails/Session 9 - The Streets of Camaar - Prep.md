@@ -70,7 +70,7 @@ tags:
 > - Inside is quite nice, kids plenty of room across the 3 stories
 > - Enough food and supplies for everyone, they share the wealth fairly equally
 > - Kids have living quarters on the top two floors, play areas, escape routes etc
-> - [[Elesar]] stays to the bottom floor as he can't walk well, his room is here along with the main dining area
+> - [[Ellesar]] stays to the bottom floor as he can't walk well, his room is here along with the main dining area
 
 ### Entry
 - Can enter either through hatches on the 2nd or 3rd floors
@@ -86,7 +86,7 @@ tags:
 
 ### Veiled Cubs Part 2
 
-- One of the nights a kid will enter through a window and say that [[Elesar]] wants to talk to them.
+- One of the nights a kid will enter through a window and say that [[Ellesar]] wants to talk to them.
 - He wants them to take a package to [[Val Miriel]]
 - The package is [[Lia]], who is being contracted out to the [[Order of Ravens|OOR]] in [[Val Miriel]] for a job that requires a tiny person
 

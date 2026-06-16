@@ -36,7 +36,7 @@ Related:
 
 ## Overview
 
-Torgar Earthshaker holds the sphere of earth among the [[The Pantheon|Seven Divines]], his portfolio spanning the ground underfoot, the mountains, the ore in the dark, and the more abstract qualities that stone has always stood for — endurance, permanence, and the stubborn refusal to yield. His relic, **Grumbar's Fist**, is said to have been wielded in the war that ended the old world; its name is used in prayer and oath throughout the mountain holds — *by Grumbar's Fist* is the common swear of the north — though most who say it have long since lost sight of it as a name at all. His chief seat of worship is the [[The Stoneheart|Stoneheart]] of [[Val Noren]], a great temple hewn from the living rock of the city.
+Torgar Earthshaker holds the sphere of earth among the [[The Pantheon|Seven Divines]], his portfolio spanning the ground underfoot, the mountains, the ore in the dark, and the more abstract qualities that stone has always stood for — endurance, permanence, and the stubborn refusal to yield. His relic, **Grumbar's Fist**, is said to have been wielded in the war that ended the old world; its name is used in prayer and oath throughout the mountain holds — *by Grumbar's Fist* is the common swear of the north — though most who say it have long since lost sight of it as a name at all. His chief seat of worship is the [[Stoneheart]] of [[Val Noren]], a great temple hewn from the living rock of the city.
 
 ## Worship
 
@@ -52,7 +52,7 @@ Torgar is widely worshipped across [[Elandis]], and revered above all in the mou
 
 #### [[Session 38 - A Trail of Blood]]
 
-Tracking the kidnapped [[King Marius Noren]] through occupied [[Val Noren]], the party learned the [[The Stoneheart|Stoneheart]] was the most likely place the King was being held — its prominence in the city making it a natural Imperial stronghold.
+Tracking the kidnapped [[King Marius Noren]] through occupied [[Val Noren]], the party learned the [[Stoneheart]] was the most likely place the King was being held — its prominence in the city making it a natural Imperial stronghold.
 
 #### [[Session 39 - The Stoneheart]]
 
@@ -68,4 +68,4 @@ The battle against Blackmarsh and [[Marcelle the Broken]] was fought in the Ston
 
 #### [[Session 43 - The Shield of the North]]
 
-Brother Callum — a devoted follower of the Earthshaker — was persuaded by [[Kai]]'s display of divine power to allow Selûne's rites to be taught to his acolytes, one faith making room for another within the Stoneheart's walls.
+Brother Calem — a devoted follower of the Earthshaker — was persuaded by [[Kai]]'s display of divine power to allow Selûne's rites to be taught to his acolytes, one faith making room for another within the Stoneheart's walls.

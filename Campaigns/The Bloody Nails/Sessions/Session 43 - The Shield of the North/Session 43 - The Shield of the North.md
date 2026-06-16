@@ -66,7 +66,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 ### The Test of Faith
 
-* [[Kai]] and [[Eryndor]] visit [[St. Avelines]] to meet Brother Callum and [[Alyn the First]].
+* [[Kai]] and [[Eryndor]] visit [[St. Avelines]] to meet Brother Calem and [[Alyn the First]].
 * Kai displays the power of his Twilight Sanctuary. Despite Callum's devotion to [[Torgar Earthshaker]], he is convinced by the display and agrees to let Kai teach his rituals to the acolytes.
 * Kai attempts to purify the Dread General's cursed armour. Upon touching it, he enters a trance and is pulled into a vision of the Astral Plane.
 * Kai faces a shadow reflection of himself in combat, taking levels of exhaustion as physical attacks fail to destroy the entity.

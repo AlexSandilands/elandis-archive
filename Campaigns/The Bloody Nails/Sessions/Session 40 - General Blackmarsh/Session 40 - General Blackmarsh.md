@@ -25,7 +25,7 @@ tags:
 
 ## Summary
 
-The session opens with high tension as the party bursts from the crypts beneath [[The Stoneheart]] only to find [[Dread General Gerard Blackmarsh]] waiting for them in the main cathedral chamber. Alongside him stands the red cloaked elven mage [[Marcelle the Broken]] and a host of undead hidden within the pews. The battle erupts instantly; [[Ryo]] acts as the primary striker, raining precision arrows upon the enemy, while [[Kai]] summons a Twilight Sanctuary to bolster the party's defences against the General's terrifying aura of dread.
+The session opens with high tension as the party bursts from the crypts beneath the [[Stoneheart]] only to find [[Dread General Gerard Blackmarsh]] waiting for them in the main cathedral chamber. Alongside him stands the red cloaked elven mage [[Marcelle the Broken]] and a host of undead hidden within the pews. The battle erupts instantly; [[Ryo]] acts as the primary striker, raining precision arrows upon the enemy, while [[Kai]] summons a Twilight Sanctuary to bolster the party's defences against the General's terrifying aura of dread.
 
 The combat is brutal and chaotic. Marcelle attempts to take a strategic position on the high balcony, raining arcane bursts down on the party, but she is swiftly neutralised by a combination of [[Berberis]]'s mobility and Ryo's deadly aim. However, General Blackmarsh proves to be a juggernaut, unleashing a destructive wave of energy that nearly wipes the party, knocking several members unconscious. In a turning point, [[King Marius Noren]] overcomes his trauma to heal Kai, who in turn revives Ryo, keeping the team in the fight. Berberis summons a giant badger which proves surprisingly effective at distracting the General.
 
@@ -35,7 +35,7 @@ In the final desperate moments, [[Dondar]] unleashes a volley of Magic Missiles 
 
 ### The Ambush at the Altar
 
-* The party emerges from the crypts into the main chamber of [[The Stoneheart]].
+* The party emerges from the crypts into the main chamber of the [[Stoneheart]].
 * [[Dread General Gerard Blackmarsh]] mocks their arrival, stating he expected them.
 * [[Ryo]] opens hostilities immediately, utilising Sharpshooter and Hunter's Mark to deal massive damage to [[Marcelle the Broken]].
 * Zombies burst from sarcophagi around the room, attempting to swarm the party.

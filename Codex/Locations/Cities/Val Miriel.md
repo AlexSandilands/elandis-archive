@@ -41,10 +41,10 @@ Old grey curtain walls ring the city, pierced by three gatehouses — **Valena's
 
 Four further causeways — **the Ways** — run the length of the city, north to south, perpendicular to the main road. Each begins at a monumental building on the high northern ground and runs down toward the water, and each gives its quarter of the city its character:
 
-- **The Military Way** descends from the [[Red Bastion]] down the western bank to the rough **Grey Docks**.
-- **The Royal Way** runs from the [[Val Miriel - Governor's Keep|Governor's Keep]] through the city's old money on the western bank.
-- **The Divine Way** falls from the [[High Sept]] down the eastern bank to the cleaner **Green Docks**.
-- **The Artisan Way** runs from the [[Theatre of Dreams]] through the city's wealth and craft on the eastern bank.
+- The [[Military Way]] descends from the [[Red Bastion]] down the western bank to the rough **Grey Docks**.
+- The [[Royal Way]] runs from the [[Val Miriel - Governor's Keep|Governor's Keep]] through the city's old money on the western bank.
+- The [[Divine Way]] falls from the [[High Sept]] down the eastern bank to the cleaner **Green Docks**.
+- The [[Artisan Way]] runs from the [[Theatre of Dreams]] through the city's wealth and craft on the eastern bank.
 
 Where the Luminor meets the gulf lie the docks, and they keep a clear social gradient: the **Grey Docks** to the west are the rough, working, dangerous edge of the city, while the **Green Docks** to the east are cleaner and more reputable, with **Mawbreakers Hold** standing out among them.
 

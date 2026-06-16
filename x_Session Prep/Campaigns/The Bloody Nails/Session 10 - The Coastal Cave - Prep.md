@@ -32,14 +32,14 @@ tags:
 > - Inside is quite nice, kids plenty of room across the 3 stories
 > - Enough food and supplies for everyone, they share the wealth fairly equally
 > - Kids have living quarters on the top two floors, play areas, escape routes etc
-> - [[Elesar]] stays to the bottom floor as he can't walk well, his room is here along with the main dining area
+> - [[Ellesar]] stays to the bottom floor as he can't walk well, his room is here along with the main dining area
 
 ### Meeting Elesar
 
 >[!cite]+ Read
 > "Well well this is exciting! It's been a long while since one of my cubs were caught, let alone leading people back to our den! You must be very a resourceful group"
 
-- [[Elesar]] will give back gold + 20 extra per person
+- [[Ellesar]] will give back gold + 20 extra per person
 
 ### Quest: Veiled Cubs Part 2
 

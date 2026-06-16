@@ -41,7 +41,7 @@ Beyond that battlefield purpose, their aims are opaque even to those who employ 
 
 The Red Priests are necromancers above all. At Val Noren they raised the city's own dead — townsfolk in life — and sent them shuffling against the gates to detonate in great fireballs that shattered the defences. Cornered in the royal crypt, one priestess animated a wight and swarms of crawling hands from the surrounding sarcophagi, fought with a scythe, and loosed a psychic *Spirit Wail* upon those who closed with her.
 
-They are also slippery quarry: four of the five priests at [[The Stoneheart]] dissolved into vapour and simply vanished, leaving no body to pursue. Each priest bears the order's mark — a serpentine, fire-breathing dragon scarred across the back, the same device on every one of them. When one captured priestess was compelled to speak from beyond death, she named the order's one weakness in a single word: *knowledge*.
+They are also slippery quarry: four of the five priests at the [[Stoneheart]] dissolved into vapour and simply vanished, leaving no body to pursue. Each priest bears the order's mark — a serpentine, fire-breathing dragon scarred across the back, the same device on every one of them. When one captured priestess was compelled to speak from beyond death, she named the order's one weakness in a single word: *knowledge*.
 
 ## History
 
@@ -59,7 +59,7 @@ A captured guard spoke of the Red Priests near the General, describing them as u
 
 #### [[Session 39 - The Stoneheart]]
 
-At [[The Stoneheart]], the party witnessed five Red Priests meeting with Blackmarsh and [[General Korvas]] over the captive [[King Marius Noren]]. Four of the priests dissolved into vapour and vanished, claiming their master had need of them elsewhere; the one who remained dragged the King down into the catacombs and, cornered there, raised a wight and swarms of crawling hands before she was finally cut down.
+At the [[Stoneheart]], the party witnessed five Red Priests meeting with Blackmarsh and [[General Korvas]] over the captive [[King Marius Noren]]. Four of the priests dissolved into vapour and vanished, claiming their master had need of them elsewhere; the one who remained dragged the King down into the catacombs and, cornered there, raised a wight and swarms of crawling hands before she was finally cut down.
 
 #### [[Session 40 - General Blackmarsh]]
 

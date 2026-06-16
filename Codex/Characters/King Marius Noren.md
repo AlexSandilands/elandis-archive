@@ -52,7 +52,7 @@ Marius was born into the governorship of [[Val Noren]], heir to a family whose r
 
 When the uprising finally came, Marius did not take to its theatrics. He wore plain clothes when protocol permitted, converted the Keep's great hall into a refugee shelter during the Imperial siege, and was still moving among displaced families when [[The Bloody Nails]] were brought before him. What concerned him most in that first meeting was not the military stalemate on the river barricades, but the mention of the [[Red Priests]] — a threat he recognised as something beyond ordinary Imperial cruelty.
 
-That caution proved well-founded. Imperial agents used an undead assault on the barricades as cover to breach the Keep and seize him. He was held in the lower crypts of [[The Stoneheart]], bound and subjected to mental torment, before the party fought their way through to free him. When the battle in the cathedral turned against them, Marius shook off his stupor and cast *Healing Word* to pull [[Kai]] back from the edge.
+That caution proved well-founded. Imperial agents used an undead assault on the barricades as cover to breach the Keep and seize him. He was held in the lower crypts of the [[Stoneheart]], bound and subjected to mental torment, before the party fought their way through to free him. When the battle in the cathedral turned against them, Marius shook off his stupor and cast *Healing Word* to pull [[Kai]] back from the edge.
 
 After the liberation of [[Val Noren]], Marius received the party at court, rewarded them with platinum, potions, and a family heirloom blade of [[Renite Steel]], and began turning his attention toward [[Val Miriel]] and the wider fate of the north.
 
@@ -64,7 +64,7 @@ First encountered by the party in the Keep of [[Val Noren]], where he was person
 
 #### [[Session 39 - The Stoneheart]]
 
-Discovered bound and under guard in the royal crypt of [[The Stoneheart]], held by a [[Red Priests|Red Priest]] following interrogation and mental torture. Freed by the party after they fought through the temple's undead defences.
+Discovered bound and under guard in the royal crypt of the [[Stoneheart]], held by a [[Red Priests|Red Priest]] following interrogation and mental torture. Freed by the party after they fought through the temple's undead defences.
 
 #### [[Session 40 - General Blackmarsh]]
 

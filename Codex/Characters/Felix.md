@@ -38,7 +38,7 @@ tags:
 > ---|---|
 > Status | Alive |
 
-**Felix** is a human merchant of [[Val Miriel]] who operates [[The Bridge of Stars]], an eccentric magic shop on [[The Artisan Way]]. Obsessed with the acquisition and trade of arcane curiosities salvaged from ruins scattered across the land, he has cultivated a reputation as one of the city's most knowledgeable — and most peculiar — dealers in magical goods.
+**Felix** is a human merchant of [[Val Miriel]] who operates [[The Bridge of Stars]], an eccentric magic shop on the [[Artisan Way]]. Obsessed with the acquisition and trade of arcane curiosities salvaged from ruins scattered across the land, he has cultivated a reputation as one of the city's most knowledgeable — and most peculiar — dealers in magical goods.
 
 ## Biography
 

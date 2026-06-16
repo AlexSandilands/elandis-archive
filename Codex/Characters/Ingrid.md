@@ -40,7 +40,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Ingrid** is a master blacksmith of [[Val Miriel]] and the proprietor of [[The Coal]], a smithy on [[The Military Way]] with a quiet but hard-earned reputation among those who know the difference between armour worn to be seen and armour worn to survive. She does not make fine things. She makes weapons that hold an edge and armour that holds a life.
+**Ingrid** is a master blacksmith of [[Val Miriel]] and the proprietor of [[The Coal]], a smithy on the [[Military Way]] with a quiet but hard-earned reputation among those who know the difference between armour worn to be seen and armour worn to survive. She does not make fine things. She makes weapons that hold an edge and armour that holds a life.
 
 ## Biography
 

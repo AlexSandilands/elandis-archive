@@ -54,4 +54,4 @@ The party encountered their first confirmed Voice in [[Val Noren]], when [[Dread
 
 #### [[Session 39 - The Stoneheart]]
 
-Marcelle made her final appearance at [[The Stoneheart]] in [[Val Noren]], raining arcane bursts from an upper balcony as the party burst from the crypts below. A critical arrow from [[Ryo]] brought her down against the railing — she did not rise. Her death preceded Blackmarsh's by minutes, ending the party's direct encounters with the Voice of the Empire.
+Marcelle made her final appearance at the [[Stoneheart]] in [[Val Noren]], raining arcane bursts from an upper balcony as the party burst from the crypts below. A critical arrow from [[Ryo]] brought her down against the railing — she did not rise. Her death preceded Blackmarsh's by minutes, ending the party's direct encounters with the Voice of the Empire.

@@ -55,7 +55,7 @@ He joined the [[Order of Ravens]] in the aftermath — not to find answers he di
 
 #### [[Session 23 - Ruby Falls Goldmine]]
 
-In the chaotic aftermath of the explosion at Serenity Plaza, Trak appeared at [[River's Watch]] and pulled [[Eryndor]] aside, separating him from the rest of the party. He led Eryndor through [[The Artisan Way]] and into [[The Gilded Crow]], where a hidden entrance behind a keg opened onto the Ravens' underground sanctuary. There, Eryndor was brought to his dying father [[Jarek]]'s bedside for a final reunion. Trak facilitated the meeting without fanfare and withdrew, his role as guide quietly complete.
+In the chaotic aftermath of the explosion at Serenity Plaza, Trak appeared at [[River's Watch]] and pulled [[Eryndor]] aside, separating him from the rest of the party. He led Eryndor through the [[Artisan Way]] and into [[The Gilded Crow]], where a hidden entrance behind a keg opened onto the Ravens' underground sanctuary. There, Eryndor was brought to his dying father [[Jarek]]'s bedside for a final reunion. Trak facilitated the meeting without fanfare and withdrew, his role as guide quietly complete.
 
 #### [[Session 28 - The Underrun]]
 

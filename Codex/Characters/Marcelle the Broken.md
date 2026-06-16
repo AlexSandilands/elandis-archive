@@ -61,4 +61,4 @@ When [[Dread General Gerard Blackmarsh]] confronted the party in the occupied st
 
 #### [[Session 40 - General Blackmarsh]]
 
-At [[The Stoneheart]], Marcelle stood alongside Blackmarsh in the cathedral chamber as the party burst from the crypts below. She climbed to the upper balcony to rain arcane bursts down onto the party from above, but [[Ryo]] put a critical arrow through the gap between the pillars — she fell back against the railing and did not rise. Her death preceded Blackmarsh's by minutes.
+At the [[Stoneheart]], Marcelle stood alongside Blackmarsh in the cathedral chamber as the party burst from the crypts below. She climbed to the upper balcony to rain arcane bursts down onto the party from above, but [[Ryo]] put a critical arrow through the gap between the pillars — she fell back against the railing and did not rise. Her death preceded Blackmarsh's by minutes.

@@ -78,7 +78,7 @@ God of magic, [[Eldrin Starweaver]] is the patron of the arcane and of knowledge
 
 ## The Faith
 
-The worship of the Seven is woven through every part of ordinary life, and its temples are among the grandest works of the age. The [[High Sept]] of [[Val Miriel]] stands at the apex of the official hierarchy, where the Seven are venerated together and their rites maintained; the [[The Stoneheart|Stoneheart]] of [[Val Noren]] is the great seat of the Earthshaker's worship, with its own clergy, virtues, and sacred halls. Lesser temples and shrines beyond counting — like the serene temple of the Seven at [[Darmouth]] — carry the faith into every town and along every road.
+The worship of the Seven is woven through every part of ordinary life, and its temples are among the grandest works of the age. The [[High Sept]] of [[Val Miriel]] stands at the apex of the official hierarchy, where the Seven are venerated together and their rites maintained; the [[Stoneheart]] of [[Val Noren]] is the great seat of the Earthshaker's worship, with its own clergy, virtues, and sacred halls. Lesser temples and shrines beyond counting — like the serene temple of the Seven at [[Darmouth]] — carry the faith into every town and along every road.
 
 Most of the faithful revere all Seven, calling on each as need demands, while many keep a particular patron suited to their craft or temperament — a sailor to the Wavecaller, a smith to the Flametongue, a healer to the Dawnbringer. Their priests tend the sick, bless the harvest and the voyage, attend the dead, and keep the calendar of holy days by which the year is measured.
 

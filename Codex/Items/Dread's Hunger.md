@@ -77,13 +77,13 @@ Among the lives it took were those of [[Ratha Silmara|Ratha]] and [[Rhennaya Sil
 
 ## Current Owner
 
-The blade now belongs to [[Ryo]], who claimed it from Blackmarsh's corpse after the [[The Bloody Nails|Bloody Nails]] destroyed the General beneath [[The Stoneheart]]. Wary of its evident malevolence, the party has kept it stowed in their bag of holding rather than wield it. When Arcanist Levvel offered to take the sword off their hands, Ryo, after a pause, slid it back into the bag — for him it is the blade that killed his parents, and it is not yet something he is willing to give up.
+The blade now belongs to [[Ryo]], who claimed it from Blackmarsh's corpse after the [[The Bloody Nails|Bloody Nails]] destroyed the General beneath the [[Stoneheart]]. Wary of its evident malevolence, the party has kept it stowed in their bag of holding rather than wield it. When Arcanist Levvel offered to take the sword off their hands, Ryo, after a pause, slid it back into the bag — for him it is the blade that killed his parents, and it is not yet something he is willing to give up.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 40 - General Blackmarsh]]
 
-The party faced the sword in the hands of its master. In the cathedral of [[The Stoneheart]], [[Dread General Gerard Blackmarsh|Blackmarsh]] met them wielding the blade, his aura of dread forcing [[Kai]] to raise a Twilight Sanctuary against the necrotic chill; a slam of the sword into the ground loosed a destructive shock-wave that battered the party. After [[Dondar]] severed the General's arm and ended him, [[Ryo]] claimed the dark blade from the body.
+The party faced the sword in the hands of its master. In the cathedral of the [[Stoneheart]], [[Dread General Gerard Blackmarsh|Blackmarsh]] met them wielding the blade, his aura of dread forcing [[Kai]] to raise a Twilight Sanctuary against the necrotic chill; a slam of the sword into the ground loosed a destructive shock-wave that battered the party. After [[Dondar]] severed the General's arm and ended him, [[Ryo]] claimed the dark blade from the body.
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 

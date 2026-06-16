@@ -70,7 +70,7 @@ The combination of deep faith, specialist craft, and a wealth built on a single 
 
 ### The Stonesworn
 
-The [[Stonesworn]] are Val Noren's guild of master smiths and the highest institutional expression of the city's combined faith and craft. They hold the most prestigious [[Renite Steel]] commissions, train apprentices in both metallurgy and religious practice, and maintain the armory of [[The Stoneheart]] temple. Their mark on a blade is among the strongest guarantors of quality in Valtorra. Membership is selective and their standards exacting; the guild predates the [[Valtorran Empire]] by centuries.
+The [[Stonesworn]] are Val Noren's guild of master smiths and the highest institutional expression of the city's combined faith and craft. They hold the most prestigious [[Renite Steel]] commissions, train apprentices in both metallurgy and religious practice, and maintain the armory of the [[Stoneheart]] temple. Their mark on a blade is among the strongest guarantors of quality in Valtorra. Membership is selective and their standards exacting; the guild predates the [[Valtorran Empire]] by centuries.
 
 ### Renite Steel
 
@@ -108,7 +108,7 @@ The eastern face of the city, where the Renite River approaches its mouth and th
 
 #### Saint Aveline's Cloister *(monastery and infirmary)*
 
-A centuries-old monastery dedicated to a healer-saint, half-ruined by siege bombardment. Its stone cloister and chapel served as the city's main infirmary throughout the occupation — crowded with cots, refugees, and the smell of incense struggling against blood. The armour purification that produced the Moonlit Aegis was performed within these walls.
+[[Saint Aveline's Cloister]] is a centuries-old monastery dedicated to a healer-saint, half-ruined by siege bombardment. Its stone cloister and chapel served as the city's main infirmary throughout the occupation — crowded with cots, refugees, and the smell of incense struggling against blood. The armour purification that produced the Moonlit Aegis was performed within these walls.
 
 - Brother Calem (priest) — weary, selfless, spent of nearly everything but still present.
 - Dara Ironleaf (druid, herbalist) — runs makeshift gardens on the roof; supplies what the healers need.
@@ -137,7 +137,7 @@ A formerly ordinary inn, its signboard now painted with a red nail. The cellars 
 
 ### The Stoneheart
 
-[[The Stoneheart]] is the great temple of [[Torgar Earthshaker]] at the city's centre — an ancient structure set within a stone courtyard that holds a towering statue of the god, depicted looking upward with one fist raised. The main doors open to a long hall leading to an octagonal central chamber, with two lateral wings. It predates the [[Valtorran Empire]] and, by local tradition, is the oldest continuously active place of worship in the north of Valtorra.
+The [[Stoneheart]] is the great temple of [[Torgar Earthshaker]] at the city's centre — an ancient structure set within a stone courtyard that holds a towering statue of the god, depicted looking upward with one fist raised. The main doors open to a long hall leading to an octagonal central chamber, with two lateral wings. It predates the [[Valtorran Empire]] and, by local tradition, is the oldest continuously active place of worship in the north of Valtorra.
 
 ### The Ratways
 
@@ -173,7 +173,7 @@ The party met [[King Marius Noren]] in the rebel Keep and found him personally e
 
 #### [[Session 39 - The Stoneheart]]
 
-The party fought through undead-held tunnels and crypts beneath [[The Stoneheart]], found Marius bound and under guard in the royal vault, and freed him from a Red Priest's custody.
+The party fought through undead-held tunnels and crypts beneath the [[Stoneheart]], found Marius bound and under guard in the royal vault, and freed him from a Red Priest's custody.
 
 #### [[Session 40 - General Blackmarsh]]
 
@@ -189,7 +189,7 @@ In a coordinated pre-dawn operation, the party infiltrated and silenced both riv
 
 #### [[Session 43 - The Shield of the North]]
 
-The morning after liberation. Marius received the party in formal audience — rewarding them with twenty thousand gold in platinum, Greater Healing Potions, and a family heirloom [[Renite Steel]] dagger. [[Ayana Syndrosa|Ayana Wynne]] taught [[Dondar]] the Teleportation Circle sigil for Val Noren and [[Glimmerforge]]. [[Kai]] visited [[The Stoneheart]], negotiated permission to teach Selune's rituals to the acolytes, and then purified the Dread General's cursed armour in a vision of the Astral Plane. The refined metal was forged into the Moonlit Aegis by Helda Coalbraid at the Ashen Forge in a divine fugue state.
+The morning after liberation. Marius received the party in formal audience — rewarding them with twenty thousand gold in platinum, Greater Healing Potions, and a family heirloom [[Renite Steel]] dagger. [[Ayana Syndrosa|Ayana Wynne]] taught [[Dondar]] the Teleportation Circle sigil for Val Noren and [[Glimmerforge]]. [[Kai]] visited the [[Stoneheart]], negotiated permission to teach Selune's rituals to the acolytes, and then purified the Dread General's cursed armour in a vision of the Astral Plane. The refined metal was forged into the Moonlit Aegis by Helda Coalbraid at the Ashen Forge in a divine fugue state.
 
 ## Trivia
 

@@ -25,11 +25,11 @@ tags:
 > ---|---|
 > Status | Active |
 
-**Silverforge** is an ostentatious armoury on [[The Artisan Way]] in [[Val Miriel]], catering to wealthy patrons who prize the look of a weapon over its bite. Its wares gleam with engraving, gilding, and silver-leaf, and its proprietor regards plain, serviceable steel with open disdain.
+**Silverforge** is an ostentatious armoury on the [[Artisan Way]] in [[Val Miriel]], catering to wealthy patrons who prize the look of a weapon over its bite. Its wares gleam with engraving, gilding, and silver-leaf, and its proprietor regards plain, serviceable steel with open disdain.
 
 ## Location & Geography
 
-Silverforge stands among the boutiques and galleries of [[The Artisan Way]], one of [[Val Miriel]]'s more refined commercial thoroughfares, well removed from the soot and clamour of the city's working smithies. A polished storefront fronts the street — a wide display window arranges ornate breastplates and decorative blades on velvet stands, and silver trim catches the daylight. Inside, the shop trades in armour and weaponry made as much for show as for war.
+Silverforge stands among the boutiques and galleries of the [[Artisan Way]], one of [[Val Miriel]]'s more refined commercial thoroughfares, well removed from the soot and clamour of the city's working smithies. A polished storefront fronts the street — a wide display window arranges ornate breastplates and decorative blades on velvet stands, and silver trim catches the daylight. Inside, the shop trades in armour and weaponry made as much for show as for war.
 
 ## The Armoury
 

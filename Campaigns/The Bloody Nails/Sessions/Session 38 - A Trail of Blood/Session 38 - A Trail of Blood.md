@@ -29,7 +29,7 @@ The session begins in the chaotic aftermath of the undead attack on [[Val Noren]
 
 Determined to retrieve [[King Marius Noren]], the party investigates a bloody trail leading away from the Keep. Their tracking skills lead them to a nondescript building against the eastern wall, revealing a hidden smuggler's tunnel beneath the city. Navigating the subterranean passage, they overcome a massive cave-in through a combination of brute badger strength and [[Dondar]]'s arcane fabrication, eventually emerging in a cellar within Imperial-controlled territory.
 
-Upon surfacing, the group executes a chaotic ambush on two guards stationed outside. After a brutal interrogation where [[Ryo]] executes one prisoner to break the other's resolve, they learn the King has likely been taken to [[The Stoneheart]], the massive temple to the Earth God. [[Kai]] confirms this via aerial reconnaissance and magic. The session concludes with the party stealthily traversing the occupied city, establishing a forward operating base in a building overlooking the temple courtyard, poised to plan their rescue operation against overwhelming odds.
+Upon surfacing, the group executes a chaotic ambush on two guards stationed outside. After a brutal interrogation where [[Ryo]] executes one prisoner to break the other's resolve, they learn the King has likely been taken to the [[Stoneheart]], the massive temple to the Earth God. [[Kai]] confirms this via aerial reconnaissance and magic. The session concludes with the party stealthily traversing the occupied city, establishing a forward operating base in a building overlooking the temple courtyard, poised to plan their rescue operation against overwhelming odds.
 
 ## Details
 
@@ -61,7 +61,7 @@ Upon surfacing, the group executes a chaotic ambush on two guards stationed outs
 
 * [[Kai]] attempts to interrogate one guard, but the soldier is defiant.
 * [[Ryo]] executes the gagged guard to intimidate the survivor.
-* The surviving guard reveals that while he doesn't know the exact location, he suspects the King was taken to [[The Stoneheart]] (Temple of [[Torgar Earthshaker]]) due to increased activity.
+* The surviving guard reveals that while he doesn't know the exact location, he suspects the King was taken to the [[Stoneheart]] (Temple of [[Torgar Earthshaker]]) due to increased activity.
 * The guard mentions the presence of the "[[Red Priests]]" near the General, describing them as unsettling and "hungry."
 * Kai knocks the remaining guard unconscious and stages the room to look like a struggle, locking him in a bedroom.
 * Kai summons a familiar (Raven) and uses *Wild Shape* (Mouse) to fly over the city. using *Locate Object* on the King's shirt.
@@ -71,5 +71,5 @@ Upon surfacing, the group executes a chaotic ambush on two guards stationed outs
 
 * Realising a frontal assault is impossible, the party decides to move closer to the target.
 * Utilising *Pass Without Trace*, the group stealthily navigates the occupied streets, avoiding patrols.
-* They locate a multi-story building overlooking [[The Stoneheart]]'s courtyard to use as a hideout and observation point.
+* They locate a multi-story building overlooking the [[Stoneheart]]'s courtyard to use as a hideout and observation point.
 * The session ends with the party holed up near the temple, preparing to plan their next move.

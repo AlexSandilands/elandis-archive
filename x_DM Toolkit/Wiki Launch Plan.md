@@ -258,16 +258,16 @@ Geographic features:
 - [x] The Lion *(inn)*
 - [x] Drunken Quay
 - [x] Gilded Grimoire *(magic shop — not an item)*
-- [ ] Val Miriel River Market
+- [x] Val Miriel River Market
 
 **Batch 9c — Temples & Sumara Ways (7)**
-- [ ] The Stoneheart *(large temple — 148 lines of existing content, allow extra time)*
-- [ ] St. Avelines
-- [ ] High Sept
-- [ ] The Royal Way
-- [ ] The Military Way
-- [ ] The Artisan Way
-- [ ] The Divine Way
+- [x] The Stoneheart *(large temple — 148 lines of existing content, allow extra time)*
+- [x] St. Avelines
+- [x] High Sept
+- [x] The Royal Way
+- [x] The Military Way
+- [x] The Artisan Way
+- [x] The Divine Way
 
 ---
 
@@ -279,7 +279,7 @@ Geographic features:
 - [ ] The Miriel Bastion
 - [ ] Valena's Bridge
 - [ ] The Bridge of Stars
-- [ ] The Portal
+- [x] The Portal
 - [ ] Theatre of Dreams *(canonical after Batch 0 merge)*
 - [ ] Serenity Plaza
 - [x] The Emberspire

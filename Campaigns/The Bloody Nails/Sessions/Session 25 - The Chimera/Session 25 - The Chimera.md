@@ -51,7 +51,7 @@ The session concludes with the party capitalising on their hunt. They sell the C
 * **The Warning:** On the road, the party encounters merchants fleeing [[Val Miriel]]. They warn that the city is in total lockdown and denied entry to anyone without official Empire business.
 * **The Gates:** Arriving at the city, they find a heavy military presence and a [[Hand of The Empire]] commander watching the line.
 * **Entry:** [[Vaeleran]] bluffs the gate captain, using the [[Green Gryphons]] token and claiming official business regarding [[Lord Norak Vara]]'s mine. The guard reluctantly allows them entry but warns them against causing trouble.
-* **State of the City:** The city is in disarray. There is evidence of recent riots, rubble blocking [[The Divine Way]], and graffiti. Gatherings of more than six people are banned.
+* **State of the City:** The city is in disarray. There is evidence of recent riots, rubble blocking the [[Divine Way]], and graffiti. Gatherings of more than six people are banned.
 * **Propaganda:** [[Eryndor]] uses *Mage Hand* to snatch a fresh poster from a wall. It reveals stolen Empire plans for extreme tax hikes, mandatory conscription, and increased arrests.
 
 ### Business in the City
