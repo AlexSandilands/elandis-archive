@@ -16,6 +16,7 @@ tags:
 aliases:
   - Val Miriel Nest
   - The Raven's Nest of Val Miriel
+  - Nest
 ---
 > [!infobox|wikipedia]
 > # Order of Ravens — Val Miriel

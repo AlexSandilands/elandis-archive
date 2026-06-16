@@ -25,11 +25,11 @@ tags:
 > ---|---|
 > Status | Active |
 
-The Royal Way is the seat of rule and old money in [[Val Miriel]] — one of the four great causeways, or Ways, that run north to south through the city, each taking its character from the monumental building at its head. The Royal Way runs from the [[Val Miriel - Governor's Keep|Governor's Keep]] through the city's old noble quarter on the western bank, home to the nobility, the administration of the city, and the well-heeled who keep their wealth behind walls and good manners.
+The Royal Way is the seat of rule and old money in [[Val Miriel]] — one of the four great causeways, or Ways, that run north to south through the city, each taking its character from the monumental building at its head. The Royal Way runs from the [[Miriel Keep]] through the city's old noble quarter on the western bank, home to the nobility, the administration of the city, and the well-heeled who keep their wealth behind walls and good manners.
 
 ## Location & Geography
 
-The Royal Way descends the western bank of the [[Luminor River]], sharing that side of the city with the Military Way but feeling a world apart from it. At its head stands the [[Val Miriel - Governor's Keep|Governor's Keep]], the sprawling fortress of [[Governor Tarlis Evandron]] overlooking the [[Gulf of Miriel]] — ancient Miriel walls blended with newer Imperial stonework. Below it the Way is the quietest and most orderly quarter in the city: clean streets, old family seats, quiet monuments, and the slow, unhurried business of governing Val Miriel in the Miriel name.
+The Royal Way descends the western bank of the [[Luminor River]], sharing that side of the city with the Military Way but feeling a world apart from it. At its head stands the [[Miriel Keep]], the sprawling fortress of [[Governor Tarlis Evandron]] overlooking the [[Gulf of Miriel]] — ancient Miriel walls blended with newer Imperial stonework. Below it the Way is the quietest and most orderly quarter in the city: clean streets, old family seats, quiet monuments, and the slow, unhurried business of governing Val Miriel in the Miriel name.
 
 ## The Quarter
 

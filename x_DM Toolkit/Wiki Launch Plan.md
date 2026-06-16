@@ -289,13 +289,13 @@ Geographic features:
 ## Sat 20 Jun (4h) · POI LANDMARKS II + POLISH
 
 **Batch 10b — Landmarks & structures (8)**
-- [ ] The Ashen Forge
-- [ ] The Coal
-- [ ] Vault of Memories
-- [ ] Pool of Reflection *(canonical after Batch 0 merge)*
-- [ ] Val Miriel - Governor's Keep
-- [ ] Goblin Lair
-- [ ] Ruby Falls Goldmine
+- [x] The Ashen Forge
+- [x] The Coal
+- [x] Vault of Memories
+- [x] Pool of Reflection *(canonical after Batch 0 merge)*
+- [x] Miriel Keep
+- [x] Goblin Lair
+- [x] Ruby Falls Goldmine
 
 Then, with remaining time:
 - [ ] Image-prompt pass on any entry still missing art

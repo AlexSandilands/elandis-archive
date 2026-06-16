@@ -90,7 +90,7 @@ The densest concentration of ancient stonework in the city, centred on the great
 
 #### Ashen Forge *(smithy — Stonesworn guild forge)*
 
-An ancient smithy, its roof blackened from siege fires but its forges still burning. The [[Stonesworn]] have worked iron and [[Renite Steel]] on these anvils for generations. In the days following the liberation, the divine crafting of the Moonlit Aegis took place here — the smith who forged it woke from the work with no memory of doing so.
+The [[Ashen Forge]] is an ancient smithy, its roof blackened from siege fires but its forges still burning. The [[Stonesworn]] have worked iron and [[Renite Steel]] on these anvils for generations. In the days following the liberation, the divine crafting of the Moonlit Aegis took place here — the smith who forged it woke from the work with no memory of doing so.
 
 - Helda Coalbraid (master smith, Stonesworn) — tireless and blunt, celebrated across the city for the Moonlit Aegis.
 - Milo Drass (apprentice) — teenage, eager, usually in the way.

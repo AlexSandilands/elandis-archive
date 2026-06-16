@@ -29,7 +29,7 @@ Miriel's Rest is the royal cemetery of [[Val Miriel]], where the city's old rule
 
 ## Location & Geography
 
-Miriel's Rest sits in the Royal Way, the district of rule and old money on the western bank of [[Val Miriel]], wedged at the very heart of the quarter between the river on one side and the curtain walls of the [[Val Miriel - Governor's Keep]] on the other. It is a walled and gated ground of weathered monuments and family tombs set among manicured lawns, watched over by the keep's guards, with the grand Miriel family crypt standing as its centrepiece. A still, dignified place set a little apart from the noise of the living city.
+Miriel's Rest sits in the Royal Way, the district of rule and old money on the western bank of [[Val Miriel]], wedged at the very heart of the quarter between the river on one side and the curtain walls of the [[Miriel Keep]] on the other. It is a walled and gated ground of weathered monuments and family tombs set among manicured lawns, watched over by the keep's guards, with the grand Miriel family crypt standing as its centrepiece. A still, dignified place set a little apart from the noise of the living city.
 
 ## Those Who Lie Here
 

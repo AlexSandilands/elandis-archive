@@ -12,7 +12,7 @@ cssclasses:
 tags:
   - character
 ---
-
+> [!infobox|wikipedia]
 > # Bjorn Aran
 > [![[Bjorn_Aran_small.webp|cover hsmall]]](Codex-Restricted/Assets/Characters/Bjorn_Aran.webp)
 > ###### Basic Information

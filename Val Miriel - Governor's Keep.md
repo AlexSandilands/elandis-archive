@@ -1,4 +1,0 @@
----
-aliases:
-  - Governor's Keep
----

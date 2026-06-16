@@ -29,7 +29,7 @@ As the storm finally breaks over [[Val Noren]], the party wakes to a city celebr
 
 In the halls of the Keep, [[King Marius Noren]] rewards the heroes with platinum and rare [[Renite Steel]], but the true intrigue unfolds behind closed doors. The King’s advisor, [[Ayana Syndrosa|Ayana Wynne]], isolates Ryo and shatters his reality by revealing they are both Elves—a race thought lost. She interrogates him about an "Emerald Ceremony," but upon realising he knows nothing of his heritage, she ruthlessly casts *Modify Memory*, wiping the encounter from his mind to protect her secret. Meanwhile, [[Berberis]] interrogates Imperial prisoners, confirming that the Red Priests serve a master darker than the Empress, and releases a captive with a warning message for the Empire to "clean its house."
 
-The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purify the cursed armour of the Dread General, [[Kai]] is pulled into a perilous vision within the Astral Plane. Forced to battle a shadowy reflection of himself, he realises that violence only feeds the curse. Guided by the goddess Selune, Kai chooses redemption over destruction, healing his shadow self to break the corruption. He emerges from the trance with the metal purified, allowing Helda the smith at [[The Ashen Forge]] to craft a legendary, moon-touched shield in a divine fugue state.
+The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purify the cursed armour of the Dread General, [[Kai]] is pulled into a perilous vision within the Astral Plane. Forced to battle a shadowy reflection of himself, he realises that violence only feeds the curse. Guided by the goddess Selune, Kai chooses redemption over destruction, healing his shadow self to break the corruption. He emerges from the trance with the metal purified, allowing Helda the smith at the [[Ashen Forge]] to craft a legendary, moon-touched shield in a divine fugue state.
 
 ## Details
 
@@ -74,7 +74,7 @@ The session culminates in a test of spirit at [[St. Avelines]]. Seeking to purif
 
 ### The Moonlit Shield
 
-* Exhausted, [[Kai]] takes the purified metal to Helda at [[The Ashen Forge]].
+* Exhausted, [[Kai]] takes the purified metal to Helda at the [[Ashen Forge]].
 * Helda enters a trance, her eyes glowing blue with channeled divine energy. She works the metal with superhuman speed and skill for hours.
 * She forges the **Moonlit Aegis** (+1 Shield). When [[Alyn the First]] provides a moonstone, it magnetically slots into the shield, unlocking a reaction ability to blind attackers.
 * Helda wakes from the trance with no memory of forging the item. Kai leaves 200 gold in payment.

@@ -54,7 +54,7 @@ Seeking a way out, the party liquidates their monster harvest at the [[Fur and F
 
 ### The Ravens and the Exit Strategy
 
-* **The Safehouse:** [[Eryndor]] uses the passphrase ("I'll have one of your sharpest drinks") to enter the [[Order of Ravens]] [[Raven's Nest|Nest]] beneath the [[The Gilded Crow]].
+* **The Safehouse:** [[Eryndor]] uses the passphrase ("I'll have one of your sharpest drinks") to enter the [[Order of Ravens]] [[Order of Ravens - Val Miriel|Nest]] beneath the [[The Gilded Crow]].
 * **Leah's Betrayal:** [[Thaddeus Karr]] reveals that [[Lia]] went rogue during the heist. Instead of escaping, she tried to cut [[General Varan Brado]]'s throat. She is now detained by the Ravens as a security risk, and Thaddeus is debating whether she can be allowed to live.
 * **Escape Options:** Thaddeus outlines three ways out of the locked-down city:
     * **The Fisherman:** A smuggler named Holdar at the docks (expensive).

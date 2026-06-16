@@ -44,4 +44,4 @@ Sheltering in rebel-held [[Val Noren]], [[Kai]] and [[Ryordan Silmara|Ryo]] were
 
 #### [[Session 43 - The Shield of the North]]
 
-[[Kai]] returned to the cloister to purify the cursed armour of the Dread General, and was drawn into a vision in the Astral Plane where he chose to heal his own shadow rather than fight it — cleansing the metal under the guidance of [[Selûne]]. The purified steel was later forged into the [[Moonlit Aegis]] at [[The Ashen Forge]]. Kai and [[Eryndor]] also visited to meet Brother Calem and [[Alyn the First]].
+[[Kai]] returned to the cloister to purify the cursed armour of the Dread General, and was drawn into a vision in the Astral Plane where he chose to heal his own shadow rather than fight it — cleansing the metal under the guidance of [[Selûne]]. The purified steel was later forged into the [[Moonlit Aegis]] at the [[Ashen Forge]]. Kai and [[Eryndor]] also visited to meet Brother Calem and [[Alyn the First]].

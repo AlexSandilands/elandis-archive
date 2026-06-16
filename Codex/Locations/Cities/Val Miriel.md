@@ -42,7 +42,7 @@ Old grey curtain walls ring the city, pierced by three land gatehouses — one t
 Four further causeways — **the Ways** — run the length of the city, north to south, perpendicular to the main road. Each begins at a monumental building on the high northern ground and runs down toward the water, and each gives its quarter of the city its character:
 
 - The [[Military Way]] descends from the [[Red Bastion]] down the western bank to the rough **Grey Docks**.
-- The [[Royal Way]] runs from the [[Val Miriel - Governor's Keep|Governor's Keep]] through the city's old money on the western bank.
+- The [[Royal Way]] runs from the [[Miriel Keep|Governor's Keep]] through the city's old money on the western bank.
 - The [[Divine Way]] falls from the [[High Sept]] down the eastern bank to the cleaner **Green Docks**.
 - The [[Artisan Way]] runs from the [[Theatre of Dreams]] through the city's wealth and craft on the eastern bank.
 
@@ -113,7 +113,7 @@ A rough dockside tavern down by the Grey Docks: creaking floors, dim light, stal
 
 ### Royal Way
 
-The seat of rule and old money, running from the [[Val Miriel - Governor's Keep]] through the western bank. Nobility, administration, and the city's well-heeled.
+The seat of rule and old money, running from the [[Miriel Keep]] through the western bank. Nobility, administration, and the city's well-heeled.
 
 #### Miriel's Rest *(royal cemetery)*
 
@@ -184,7 +184,7 @@ The [[Red Bastion]] is the red-walled fortress at the head of the Military Way, 
 
 ### Governor's Keep
 
-The [[Val Miriel - Governor's Keep|Governor's Keep]] is the sprawling fortress at the head of the Royal Way, overlooking the [[Gulf of Miriel]] — ancient Miriel walls blended with newer Imperial fortifications, and seat of [[Governor Tarlis Evandron]]. Once known as Miriel Castle.
+The [[Miriel Keep|Governor's Keep]] is the sprawling fortress at the head of the Royal Way, overlooking the [[Gulf of Miriel]] — ancient Miriel walls blended with newer Imperial fortifications, and seat of [[Governor Tarlis Evandron]]. Once known as Miriel Castle.
 
 ### High Sept
 

@@ -29,7 +29,7 @@ The Theatre of Dreams is the grand theatre that crowns the [[Artisan Way]] in [[
 
 ## Location & Geography
 
-The Theatre of Dreams stands on the high northern ground of [[Val Miriel]]'s eastern bank, at the head of the [[Artisan Way]] and hard against the old grey curtain wall that rings the city. From its steps the Artisan Way descends toward the [[Luminor River]] as the quarter of craft, wealth, and culture — gilt and velvet, fine shops, and live music — so that the Theatre presides over the glittering face of the city. It is a grand, ornate building, the cultural counterpart to the [[Red Bastion]], the [[Val Miriel - Governor's Keep|Governor's Keep]], and the [[High Sept]] that crown the other three Ways.
+The Theatre of Dreams stands on the high northern ground of [[Val Miriel]]'s eastern bank, at the head of the [[Artisan Way]] and hard against the old grey curtain wall that rings the city. From its steps the Artisan Way descends toward the [[Luminor River]] as the quarter of craft, wealth, and culture — gilt and velvet, fine shops, and live music — so that the Theatre presides over the glittering face of the city. It is a grand, ornate building, the cultural counterpart to the [[Red Bastion]], the [[Miriel Keep|Governor's Keep]], and the [[High Sept]] that crown the other three Ways.
 
 ## The Stages
 

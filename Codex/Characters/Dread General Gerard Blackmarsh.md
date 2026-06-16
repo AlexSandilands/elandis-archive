@@ -89,7 +89,7 @@ The battle in the [[Stoneheart]]'s main cathedral was brutal. Alongside [[Marcel
 
 #### [[Session 41 - Reclaim the Reclaimer]]
 
-In the immediate aftermath, the party looted Blackmarsh's armour — non-magical plate, but radiating a profound historical evil that caused [[The Ashen Forge|Helda]] to recoil from touching it. The blade [[Dread's Hunger]] was identified as a cursed weapon that consumes the wielder's life force to power its necrotic strikes and reanimate the dead. The party chose to stow it away.
+In the immediate aftermath, the party looted Blackmarsh's armour — non-magical plate, but radiating a profound historical evil that caused [[Ashen Forge|Helda]] to recoil from touching it. The blade [[Dread's Hunger]] was identified as a cursed weapon that consumes the wielder's life force to power its necrotic strikes and reanimate the dead. The party chose to stow it away.
 
 #### [[Session 43 - The Shield of the North]]
 
@@ -102,5 +102,5 @@ A vision granted by an ancient dragon revealed to [[Ryo]] the memory he had neve
 ## Trivia
 
 - Session 40 bears Blackmarsh's name as its title — a distinction that marks him as one of the campaign's most significant antagonists. He is one of very few characters to have an entire session named after their defeat.
-- His armour's evil was so potent that [[The Ashen Forge|Helda the smith]] at the Ashen Forge could not bring herself to work with it for materials. [[Kai]] paid her the full commission fee anyway, moving her to tears. The armour's metal was later purified through a spiritual ordeal in the Astral Plane and reborn as a moon-touched shield.
+- His armour's evil was so potent that [[Ashen Forge|Helda the smith]] at the Ashen Forge could not bring herself to work with it for materials. [[Kai]] paid her the full commission fee anyway, moving her to tears. The armour's metal was later purified through a spiritual ordeal in the Astral Plane and reborn as a moon-touched shield.
 - Blackmarsh is directly responsible for the deaths of [[Ryo]]'s parents — a connection the party did not learn until Session 49, long after his defeat.
