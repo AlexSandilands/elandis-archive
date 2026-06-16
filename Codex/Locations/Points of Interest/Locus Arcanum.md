@@ -29,7 +29,7 @@ The **Locus Arcanum** is the Nexus of the [[Circle of the Weave]], the floating 
 
 ## Location & Geography
 
-The Locus Arcanum rises from the Etherean Canton, on the upper-eastern rim of Sumara's caldera, among sky-facing towers raised on natural stone arches and spires of glass prism. The citadel itself is a flawless sphere of translucent crystal, ringed by golden orrery bands that turn slowly about it; within, a blue-violet light glows through walls etched on every surface with star charts, so that it reads as much an observatory of the planes as a tower of magic. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Locus Arcanum rises from the Etherean Canton, on the upper-eastern rim of Sumara's caldera, among sky-facing towers raised on natural stone arches and spires of glass prism. The citadel itself is a flawless sphere of translucent crystal, ringed by golden orrery bands that turn slowly about it; within, a blue-violet light glows through walls etched on every surface with star charts, so that it reads as much an observatory of the planes as a tower of magic. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Weave
 

@@ -54,7 +54,7 @@ A side chamber of the Nest holds the Order's own door onto the [[Underrun]] prop
 
 ## Local Operations
 
-- **The Bastion heist.** The Nest broke into [[The Bastion]] and stole sensitive Imperial documents. The job went clean until the Fledgling Lia abandoned the plan to attempt the assassination of [[General Varan Brado]] without sanction — an act that helped ignite the Val Miriel riots and left her fate an unresolved problem for Thaddeus to manage.
+- **The Bastion heist.** The Nest broke into the [[Red Bastion]] and stole sensitive Imperial documents. The job went clean until the Fledgling Lia abandoned the plan to attempt the assassination of [[General Varan Brado]] without sanction — an act that helped ignite the Val Miriel riots and left her fate an unresolved problem for Thaddeus to manage.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 

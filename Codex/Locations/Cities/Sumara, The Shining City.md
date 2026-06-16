@@ -168,7 +168,7 @@ The lowest Canton: bioluminescent terraced farms and druidic groves, where the b
 
 ### Royal Citadel of Sumara
 
-The [[Royal Citadel of Sumara]] stands on the white-stone pinnacle at the caldera's centre, reached only across the Bridge of Recollection — the seat of the [[Silmara Family|Silmara]] royal line and the symbolic heart of elven civilization, sealed and silent for a hundred years.
+The [[Royal Citadel]] stands on the white-stone pinnacle at the caldera's centre, reached only across the Bridge of Recollection — the seat of the [[Silmara Family|Silmara]] royal line and the symbolic heart of elven civilization, sealed and silent for a hundred years.
 
 ### Vault of Memories
 
@@ -234,7 +234,7 @@ Ayana led the party cloaked through the Etherean Canton to the [[Locus Arcanum]]
 
 #### [[Session 48 - The Vault of Memories]]
 
-Beneath the [[Royal Citadel of Sumara]], the party descended into the [[Vault of Memories]], grinding down its immortal stone guardians and crossing an invisible bridge over a purple void to reach the chamber's sealed heart.
+Beneath the [[Royal Citadel]], the party descended into the [[Vault of Memories]], grinding down its immortal stone guardians and crossing an invisible bridge over a purple void to reach the chamber's sealed heart.
 
 #### [[Session 49 - The Silver Sage]]
 
@@ -242,7 +242,7 @@ Resting in the city, [[Kai]] looked up to count three moons above Sumara — one
 
 #### [[Session 50 - A New Morning in Sumara]]
 
-Morning broke unusually warm over the [[Royal Citadel of Sumara]], which had woken to its rightful heir. Crossing into the Heartstone Commons, the party found the city beginning to whisper that *"Ryordana has returned, the daughter of the Silmara,"* and Warden Sylvaris confirmed that the Citadel was [[Ryo]]'s by right.
+Morning broke unusually warm over the [[Royal Citadel]], which had woken to its rightful heir. Crossing into the Heartstone Commons, the party found the city beginning to whisper that *"Ryordana has returned, the daughter of the Silmara,"* and Warden Sylvaris confirmed that the Citadel was [[Ryo]]'s by right.
 
 #### [[Session 51 - The Last Light]]
 

@@ -274,14 +274,14 @@ Geographic features:
 ## Fri 19 Jun (2h) · POI LANDMARKS I  *(slip absorber begins here)*
 
 **Batch 10a — Landmarks & structures (9)**
-- [ ] Royal Citadel of Sumara
-- [ ] The Bastion
-- [ ] The Miriel Bastion
-- [ ] Valena's Bridge
-- [ ] The Bridge of Stars
+- [x] Royal Citadel of Sumara
+- [x] The Bastion
+- [x] The Miriel Bastion
+- [x] Valena's Bridge
+- [x] The Bridge of Stars
 - [x] The Portal
-- [ ] Theatre of Dreams *(canonical after Batch 0 merge)*
-- [ ] Serenity Plaza
+- [x] Theatre of Dreams *(canonical after Batch 0 merge)*
+- [x] Serenity Plaza
 - [x] The Emberspire
 
 ---

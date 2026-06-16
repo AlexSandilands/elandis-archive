@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 
-Morning broke warmer than usual over [[Sumara, The Shining City|Sumara]], and the [[Royal Citadel of Sumara]] woke with it. [[Kai]] clanked through royal cupboards to find fae eggs with purple whites and green yolks, and built a passable breakfast over them while [[Eryndor]] pelted his back with ball bearings from the corner he'd slept in. [[Dondar]] woke from a nightmare with a shout the others heard down the hall. When they crossed the Bridge of Recollection and stepped into the Heartstone Commons, the city noticed them — eyes followed, gossip moved with them, and a graying old farmer named Gav whispered that strange words had landed in his mind when he saw the group come down: *"Ryordana has returned, the daughter of the Silmara."* [[Berberis]] tapped the side of his nose and said nothing. Gav's whole face changed.
+Morning broke warmer than usual over [[Sumara, The Shining City|Sumara]], and the [[Royal Citadel]] woke with it. [[Kai]] clanked through royal cupboards to find fae eggs with purple whites and green yolks, and built a passable breakfast over them while [[Eryndor]] pelted his back with ball bearings from the corner he'd slept in. [[Dondar]] woke from a nightmare with a shout the others heard down the hall. When they crossed the Bridge of Recollection and stepped into the Heartstone Commons, the city noticed them — eyes followed, gossip moved with them, and a graying old farmer named Gav whispered that strange words had landed in his mind when he saw the group come down: *"Ryordana has returned, the daughter of the Silmara."* [[Berberis]] tapped the side of his nose and said nothing. Gav's whole face changed.
 
 The errands took most of the morning. At the Ironweave Blacksmith, Ferethis pressed [[Dondar]]'s new fae-metal headband onto his brow — a quiet thing that fit perfectly over the [[Rhun'zar]] — and handed over a second item wrapped in leather and a small silver pin. Across the city in the Etherean Canton's Diminished Trove, the ancient Arcanist Levvel threaded purple light around the [[Emberblade]] and went still. *"It's one of the more powerful items I think I've ever seen."* She told [[Eryndor]] to set down his component pouch and channel his magic through the sword instead, and when he did it was like a key turning in a lock — a vast ocean of power beneath the blade, the steel pulsing with a faint glow, and the unmistakable sense that the sword could yet grow. The party also showed her [[Dread's Hunger]]. She read it only briefly before flinching away — through the blade she had seen [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]] killed, and offered to take it from them; [[Ryo]], after a beat, slid it back into the bag of holding. [[Dondar]] left with a Wand of the War Mage; [[Kai]] left with a needle bound for a calligrapher at the Pale Brush.
 
@@ -34,7 +34,7 @@ Down in the Greensward, deep enough that the air went warm and humid, [[Warden S
 
 ### A Warmer Morning
 
-* The party woke in the [[Royal Citadel of Sumara]] to a noticeably brighter, warmer light spilling over the Shimmering Peaks — unusual for the perpetual Faewild twilight.
+* The party woke in the [[Royal Citadel]] to a noticeably brighter, warmer light spilling over the Shimmering Peaks — unusual for the perpetual Faewild twilight.
 * [[Kai]] went to the royal kitchens and found pantries stocked with bread, oats, fresh fruit, and eggs whose whites were purple and yolks were green.
 * [[Eryndor]], having slept off the wine in the corner, threw a handful of ball bearings at [[Kai]]'s back, then asked for breakfast.
 * [[Dondar]] woke screaming from a nightmare — a new occurrence, only recent.
@@ -95,7 +95,7 @@ Down in the Greensward, deep enough that the air went warm and humid, [[Warden S
 * **Recommendation — Zephyr Cuffs:** Sylvaris suggested the party seek out a set of *Zephyr Cuffs*, enchanted bracers used by a local sport that allow a wearer to leap from the peaks and glide; she pointed them to [[Ayana Syndrosa|Ayana]].
 * **Sending Stones — strategic placement:** The party decided to leave a sending stone with Sylvaris for the Council and to reserve stones for distribution to allies on the Material Plane.
 * They briefly checked stones already in their possession.
-* **Character Moment — the Royal Citadel:** Sylvaris confirmed the [[Royal Citadel of Sumara]] is [[Ryo]]'s by right and offered to help him reshape it however he wished. The kitchen's food had appeared through old magical enchantments that detected guests.
+* **Character Moment — the Royal Citadel:** Sylvaris confirmed the [[Royal Citadel]] is [[Ryo]]'s by right and offered to help him reshape it however he wished. The kitchen's food had appeared through old magical enchantments that detected guests.
 * **Character Moment — flowers:** As they took their leave, [[Berberis]] grew Material Plane wildflowers around the new oak's base. Sylvaris knelt, smelled them, and grew fae flowers among them — a bed of mixed worlds at the foot of the tree.
 
 ### The Locus Arcanum

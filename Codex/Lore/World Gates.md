@@ -61,7 +61,7 @@ Only a handful of World Gates are spoken of, and each sits at a seat of the [[Si
 
 The Gate of [[Ithilmara]] stood at the heart of the Arcaneum, the great arcane institution of the elves' crown city on the Material Plane. It was the door the elves turned toward the world of [[Elandis]] — the mechanism, older than the Circles, through which the Silmara rulers crossed to govern their people's material affairs, and through which an entire civilization would one day pass to safety. Its dais bore the slot that received the signet ring; with the city sealed and empty for a century, the Gate has stood silent within it ever since.
 
-A second Gate lies within the [[Royal Citadel of Sumara]], crowning the [[Heartstone]] at the centre of the hidden city. It is the Gate by which the elves arrived in the [[Faewild]] at the end of their exodus, and the one that still serves Sumara's rare traffic with the worlds beyond. Where the Gate of Ithilmara was the door out of the Material Plane, the Citadel's Gate is the door home.
+A second Gate lies within the [[Royal Citadel]], crowning the [[Heartstone]] at the centre of the hidden city. It is the Gate by which the elves arrived in the [[Faewild]] at the end of their exodus, and the one that still serves Sumara's rare traffic with the worlds beyond. Where the Gate of Ithilmara was the door out of the Material Plane, the Citadel's Gate is the door home.
 
 ## The Exile of the Elves
 
@@ -83,7 +83,7 @@ The deepest truth of the Gates — that the roads they open are the literal root
 
 #### [[Session 51 - The Last Light]]
 
-In the archives of the Circle of the Scroll, an old elven archivist told the party how [[Ryordan Silmara]], First of His Name, sundered the [[World Tree]] to save creation and bound his bloodline to it forever — and why, in consequence, the Silmara alone may command the World Gates. In the same days the party weighed using the [[Royal Citadel of Sumara|Citadel's]] World Gate to send [[Ayana Syndrosa|Ayana]] home and to visit [[Praetor'Varanous]] once more on the way.
+In the archives of the Circle of the Scroll, an old elven archivist told the party how [[Ryordan Silmara]], First of His Name, sundered the [[World Tree]] to save creation and bound his bloodline to it forever — and why, in consequence, the Silmara alone may command the World Gates. In the same days the party weighed using the [[Royal Citadel|Citadel's]] World Gate to send [[Ayana Syndrosa|Ayana]] home and to visit [[Praetor'Varanous]] once more on the way.
 
 ## Trivia
 

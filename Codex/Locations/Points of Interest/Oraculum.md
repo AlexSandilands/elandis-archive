@@ -29,7 +29,7 @@ The **Oraculum** is the Nexus of the [[Circle of the Scroll]], the floating cita
 
 ## Location & Geography
 
-The Oraculum anchors the Mnemorium Canton, on the upper northern face of Sumara's caldera — half carved into the cliff and half standing above it, its deep stone halls kept in a perennial dim light. The citadel is a tower of indigo stone that seems to drink the light around it, crowned by a slowly turning crystal lens that throws shifting glyphs across the sky. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Oraculum anchors the Mnemorium Canton, on the upper northern face of Sumara's caldera — half carved into the cliff and half standing above it, its deep stone halls kept in a perennial dim light. The citadel is a tower of indigo stone that seems to drink the light around it, crowned by a slowly turning crystal lens that throws shifting glyphs across the sky. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Scroll
 

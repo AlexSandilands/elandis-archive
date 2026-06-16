@@ -16,7 +16,7 @@ tags:
 - Fates have diverged over the decades: some were caught and killed by the [[Valtorran Empire|Empire]]; some have gone dark; others remain patiently in cover, gathering intelligence and aiding where they can.
 
 ## Felix
-- [[Felix]] is one of the hundred. He came through the Ceremony alongside Ayana and anchored in [[Val Miriel]], establishing [[The Bridge of Stars]] as both a legitimate business and an agent's cover.
+- [[Felix]] is one of the hundred. He came through the Ceremony alongside Ayana and anchored in [[Val Miriel]], establishing the [[Bridge of Stars]] as both a legitimate business and an agent's cover.
 - Unrevealed to the party: that Felix is an elf, that he is magically disguised, or that he has any connection to Ayana or the Emerald Ceremony. He stays off the public Ceremony page for this reason.
 
 ## Ryo and the Overturned Premise

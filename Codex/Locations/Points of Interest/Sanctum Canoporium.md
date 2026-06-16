@@ -29,7 +29,7 @@ The **Sanctum Canoporium** is the Nexus of the [[Circle of the Root]], the float
 
 ## Location & Geography
 
-The Sanctum Canoporium anchors the Greensward Canton, the lowest Canton of Sumara, amid bioluminescent terraced farms and druidic groves where the buildings are barely distinguishable from the living landscape. The citadel is smothered in moss, flowering vine, and luminescent fungus, so that its stone is all but lost beneath green; when it takes to the air, soil and trailing roots hang beneath it. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Sanctum Canoporium anchors the Greensward Canton, the lowest Canton of Sumara, amid bioluminescent terraced farms and druidic groves where the buildings are barely distinguishable from the living landscape. The citadel is smothered in moss, flowering vine, and luminescent fungus, so that its stone is all but lost beneath green; when it takes to the air, soil and trailing roots hang beneath it. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Root
 

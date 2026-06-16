@@ -160,7 +160,7 @@ After some time
 ### Thaddeus
 
 - [[Thaddeus Karr|Thaddeus]] is concerned about the problem of [[Lia]]
-	- She was supposed to assist them by breaking into [[The Miriel Bastion|The Bastion]] and opening the way for the rest of their infiltrators, and then leave
+	- She was supposed to assist them by breaking into [[Red Bastion|The Bastion]] and opening the way for the rest of their infiltrators, and then leave
 	- She climbed a very small garbage disposal shoot, reached the roof, dropped a rope, which allowed the ravens to quickly ascend in between patrol timings by the guards
 	- [[Lia]] was nowhere to be found, as she snuck through the halls and tried to kill [[General Varan Brado]]  
 	- [[Order of Ravens|Ravens]] usually stay with the order until they die or retire, so as to keep their secrets secure
@@ -173,7 +173,7 @@ After some time
 
 ### Taken to The Bastion
 
-- Taken to a cell within [[The Miriel Bastion|The Bastion]]
+- Taken to a cell within [[Red Bastion|The Bastion]]
 
 > [!info]- Action
 > - Equipment taken

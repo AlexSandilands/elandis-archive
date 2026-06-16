@@ -34,13 +34,13 @@ aliases:
 > ---|---|
 > Status | Active |
 
-The Heartstone is the petrified tip of the sundered root of the [[World Tree]] — a colossal spire of white stone rising from a chasm at the centre of [[Sumara, The Shining City|Sumara]], the hidden elven city in the [[Shimmering Peaks]]. It is the oldest thing in the city and the ground from which the city grew: the foundation on which the [[Royal Citadel of Sumara]] stands, the seat of the elven royal line, and the magical and spiritual heart of the Sumaran people. To the elves it is no mere landmark but the one physical presence of Mother left in the world.
+The Heartstone is the petrified tip of the sundered root of the [[World Tree]] — a colossal spire of white stone rising from a chasm at the centre of [[Sumara, The Shining City|Sumara]], the hidden elven city in the [[Shimmering Peaks]]. It is the oldest thing in the city and the ground from which the city grew: the foundation on which the [[Royal Citadel]] stands, the seat of the elven royal line, and the magical and spiritual heart of the Sumaran people. To the elves it is no mere landmark but the one physical presence of Mother left in the world.
 
 ## Overview
 
 After the Sundering, the great root [[Ryordan Silmara]] had severed petrified where it lay at the centre of the Shimmering Peaks, and it was around this stone that the elves raised their city. Sumara was built upon the Heartstone deliberately, as the starting point of elven civilization in the Faewild — the first structure the early elves raised stood at its base, and the city of alabaster and glass spread outward through the caldera with the spire at its heart. The [[Silmara Family]], bound to the root by their ancestor's act, made it the seat of their reign: their citadel was raised upon its summit, and the elves have revered the stone — the severed tip of a root of the [[World Tree]], still warm with the living magic of the Tree that grew it — as the one physical presence of Mother ever since.
 
-Today the Heartstone is the fixed centre of Sumara in every sense. The [[Royal Citadel of Sumara]] crowns its summit; the [[Vault of Memories]] descends into its depths; the great civic space of the city, the Heartstone Commons, rings the chasm that surrounds it. It is the point the whole of elven civilization in the Faewild is arranged around — and the point its history began.
+Today the Heartstone is the fixed centre of Sumara in every sense. The [[Royal Citadel]] crowns its summit; the [[Vault of Memories]] descends into its depths; the great civic space of the city, the Heartstone Commons, rings the chasm that surrounds it. It is the point the whole of elven civilization in the Faewild is arranged around — and the point its history began.
 
 ## The Heart of Sumara
 
@@ -52,7 +52,7 @@ A deep gulf surrounds the Heartstone on every side, dropping away into darkness 
 
 ### The Citadel and the Vault
 
-The [[Royal Citadel of Sumara]] is built upon the top of the spire, reached only by the Bridge of Recollection — the seat of the Silmara royal line, raised on the very foundation their blood is bound to. Deep within the stone, descending beneath the city, lies the [[Vault of Memories]]: an immense sealed chamber in the void the World Tree's root once filled, opened by Silmara blood alone and watched over by its bound guardian, the ancient silver dragon [[Praetor'Varanous]]. The Citadel above and the Vault below make the Heartstone a single column of elven power, rising from the city's most sacred ground.
+The [[Royal Citadel]] is built upon the top of the spire, reached only by the Bridge of Recollection — the seat of the Silmara royal line, raised on the very foundation their blood is bound to. Deep within the stone, descending beneath the city, lies the [[Vault of Memories]]: an immense sealed chamber in the void the World Tree's root once filled, opened by Silmara blood alone and watched over by its bound guardian, the ancient silver dragon [[Praetor'Varanous]]. The Citadel above and the Vault below make the Heartstone a single column of elven power, rising from the city's most sacred ground.
 
 ## The Sundered Root
 
@@ -68,13 +68,13 @@ Within Sumara it is different. The Heartstone is held as a holy place, the one p
 
 #### [[Session 50 - A New Morning in Sumara]]
 
-Descending from the [[Royal Citadel of Sumara]] the morning after [[Ryo]] proved his claim, the party crossed the Bridge of Recollection — the long span over the gulf that surrounds the Heartstone, the sundered root of the [[World Tree]] on which the Citadel sits — and stepped into the Heartstone Commons. The city had begun to notice them, and word was already spreading of the lights that had woken the Citadel the night before.
+Descending from the [[Royal Citadel]] the morning after [[Ryo]] proved his claim, the party crossed the Bridge of Recollection — the long span over the gulf that surrounds the Heartstone, the sundered root of the [[World Tree]] on which the Citadel sits — and stepped into the Heartstone Commons. The city had begun to notice them, and word was already spreading of the lights that had woken the Citadel the night before.
 
 #### [[Session 51 - The Last Light]]
 
-On their last morning in Sumara, griffin-riders of the mage guard carried the party out over the Heartstone and the [[Royal Citadel of Sumara]] to the waterfall cliffs at the caldera's rim, where vast stone elevators descend the rock face — the party's final pass over the spire before they turned toward the dark of the [[Vale of Eternal Night]].
+On their last morning in Sumara, griffin-riders of the mage guard carried the party out over the Heartstone and the [[Royal Citadel]] to the waterfall cliffs at the caldera's rim, where vast stone elevators descend the rock face — the party's final pass over the spire before they turned toward the dark of the [[Vale of Eternal Night]].
 
 ## Trivia
 
-- The Heartstone Commons, the Bridge of Recollection, and the [[Royal Citadel of Sumara]] are all arranged around the spire — the entire layout of Sumara radiates from the single point where the elves first built.
+- The Heartstone Commons, the Bridge of Recollection, and the [[Royal Citadel]] are all arranged around the spire — the entire layout of Sumara radiates from the single point where the elves first built.
 - Though the Sumarans have always revered the Heartstone as the root of Mother, the full history of the Sundering that left it behind is among the most fragmentary and contested lore in the city — even Sumara's own archives contradict one another on what truly happened.

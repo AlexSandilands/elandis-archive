@@ -9,7 +9,7 @@ Place: "[[Val Miriel]]"
 Connections:
   - "[[Valtorran Empire]]"
   - "[[Governor Tarlis Evandron]]"
-  - "[[The Bastion]]"
+  - "[[Red Bastion]]"
 Profession: Imperial General
 Importance: Minor
 Status: Alive
@@ -37,7 +37,7 @@ aliases:
 > Pronouns | He/Him |
 > Age | Middle-aged |
 > Place | [[Val Miriel]] |
-> Connections | [[Valtorran Empire\|The Crimson Empire]]<br>[[Governor Tarlis Evandron]]<br>[[The Bastion]] |
+> Connections | [[Valtorran Empire\|The Crimson Empire]]<br>[[Governor Tarlis Evandron]]<br>[[Red Bastion]] |
 > Profession | Imperial General |
 > ###### Status
 > Attribute |  Details |
@@ -50,13 +50,13 @@ aliases:
 
 Brado has long served the [[Valtorran Empire|Empire]] as an instrument of enforcement rather than governance. His approach to order is deliberately punitive: the display of power matters as much as its exercise, and occasional cruelty is, in his view, a form of civic maintenance. When he was dispatched to make an example of the outlying city of [[Camaar]], he selected citizens at random for public execution — not for any crime, but to remind the region that Imperial reach has no borders. Among those killed were the parents of a girl named [[Lia]], who survived, found refuge with the [[Veiled Cubs]], and has carried the ambition to kill Brado ever since.
 
-Back in Val Miriel, Brado operates from [[The Bastion]], the Imperial military headquarters in the city. Under his authority, more citizens have been hauled in on minor pretexts — funnelled into military service or shipped to the labour operations at [[Skyreach]]. Governor Tarlis holds the nominal title, but the general's will runs through the city's institutions unchallenged.
+Back in Val Miriel, Brado operates from the [[Red Bastion]], the Imperial military headquarters in the city. Under his authority, more citizens have been hauled in on minor pretexts — funnelled into military service or shipped to the labour operations at [[Skyreach]]. Governor Tarlis holds the nominal title, but the general's will runs through the city's institutions unchallenged.
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 27 - The Wanted Dwarf]]
 
-Brado survived an assassination attempt at [[The Bastion]] — an unsanctioned solo strike by [[Lia]], who slipped away from the party during a heist and tried to cut his throat. the [[Order of Ravens]] detained her immediately after, debating what to do with a young operative who had gone dangerously rogue. Governor Tarlis sent a message to the party demanding answers; they denied involvement.
+Brado survived an assassination attempt at the [[Red Bastion]] — an unsanctioned solo strike by [[Lia]], who slipped away from the party during a heist and tried to cut his throat. the [[Order of Ravens]] detained her immediately after, debating what to do with a young operative who had gone dangerously rogue. Governor Tarlis sent a message to the party demanding answers; they denied involvement.
 
 #### [[Session 28 - The Underrun]]
 

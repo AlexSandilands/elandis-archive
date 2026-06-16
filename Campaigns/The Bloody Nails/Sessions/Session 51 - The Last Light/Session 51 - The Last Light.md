@@ -51,7 +51,7 @@ They did not cross it blindly. [[Kai]] sent his little bat through the veil and 
 
 ### The Circle of the Scroll
 
-* Griffin-riders of the mage guard flew the party past the [[Royal Citadel of Sumara|Royal Citadel]] and [[Heartstone]] to a waterfall cliff, where vast magical stone elevators slide endlessly up and down the rock face.
+* Griffin-riders of the mage guard flew the party past the [[Royal Citadel|Royal Citadel]] and [[Heartstone]] to a waterfall cliff, where vast magical stone elevators slide endlessly up and down the rock face.
 * A hunched old faun librarian, **Silvana**, led them to the public archives; at the desk sat an elderly elven archivist, **Aaroun**.
 * **Aaroun** was reluctant — knowledge of [[Caer Nystral, The Dawnless City]] and the Vale is closely guarded and rarely sought.
 * [[Ryo]] and [[Eryndor]] talked their way in: claiming [[Kaelen Vayne|Lord Kaelen]]'s sanction (a deception) and arguing that as outsiders they were *"comparatively expendable"* and nothing would trace back to him.

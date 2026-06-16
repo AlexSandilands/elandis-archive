@@ -29,7 +29,7 @@ The **Justicium** is the Nexus of the [[Circle of the Scales]], the floating cit
 
 ## Location & Geography
 
-The Justicium anchors the Judicant's Canton, a centrally placed mid-elevation Canton of balanced, symmetric architecture and a formal welcome hall. The citadel is split cleanly down its length — one half gleaming white marble, the other polished black stone — with a great set of scales adorning its roofline, the whole an emblem of judgement weighed. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Justicium anchors the Judicant's Canton, a centrally placed mid-elevation Canton of balanced, symmetric architecture and a formal welcome hall. The citadel is split cleanly down its length — one half gleaming white marble, the other polished black stone — with a great set of scales adorning its roofline, the whole an emblem of judgement weighed. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Scales
 

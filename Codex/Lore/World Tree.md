@@ -87,7 +87,7 @@ As the Tree retracted from reality, the world above the [[Shimmering Peaks]] cou
 
 ### The Sundered Root
 
-The great root [[Ryordan Silmara]] severed did not vanish. Over uncounted centuries it petrified into white stone, and its tip lies buried still beneath the [[Shimmering Peaks]]. The top of that sundered root is the [[Heartstone]], upon which the [[Royal Citadel of Sumara]] is built; the [[Vault of Memories]] lies *inside* the root, running down beneath the city. The Heartstone carries the Tree's living magic yet, and is the magical pulse of [[Sumara, The Shining City|Sumara]] above — a fragment of the world's foundation, still warm with the Tree that grew it.
+The great root [[Ryordan Silmara]] severed did not vanish. Over uncounted centuries it petrified into white stone, and its tip lies buried still beneath the [[Shimmering Peaks]]. The top of that sundered root is the [[Heartstone]], upon which the [[Royal Citadel]] is built; the [[Vault of Memories]] lies *inside* the root, running down beneath the city. The Heartstone carries the Tree's living magic yet, and is the magical pulse of [[Sumara, The Shining City|Sumara]] above — a fragment of the world's foundation, still warm with the Tree that grew it.
 
 ## In Memory & Belief
 

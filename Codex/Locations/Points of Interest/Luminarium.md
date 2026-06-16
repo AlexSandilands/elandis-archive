@@ -29,7 +29,7 @@ The **Luminarium** is the Nexus of the [[Circle of the Dawn]], the floating cita
 
 ## Location & Geography
 
-The Luminarium anchors the Luminary Canton, on the mid-elevation southern slopes of Sumara's caldera, turned to catch the sun amid tiered gardens and greenhouse halls — the Canton through which a stranger first enters the city, where the great waterfall of the Shivering Veil crashes through before its waters are channelled away. The citadel is a vast conservatory of glass and copper under a domed roof, glowing warm amber from within; when it takes to the air, living vines trail beneath it like ribbons. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Luminarium anchors the Luminary Canton, on the mid-elevation southern slopes of Sumara's caldera, turned to catch the sun amid tiered gardens and greenhouse halls — the Canton through which a stranger first enters the city, where the great waterfall of the Shivering Veil crashes through before its waters are channelled away. The citadel is a vast conservatory of glass and copper under a domed roof, glowing warm amber from within; when it takes to the air, living vines trail beneath it like ribbons. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Dawn
 

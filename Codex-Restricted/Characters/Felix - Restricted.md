@@ -12,10 +12,12 @@ Restricted-only frontmatter facts: Species **Elf** (public lists Human); added C
 - He is one of the [[Valtorran Empire]]'s most quietly active opponents, embedded in the heart of one of its most important cities. The shop is genuine obsession as well as cover; his enthusiasm for arcane curios is entirely his own.
 
 ## Background
-- Felix came through the [[Emerald Ceremony]] alongside [[Ayana Syndrosa]], arriving in [[Val Miriel]] as part of a coordinated effort to place agents against the Empire from within. Ayana's path led elsewhere; Felix anchored in the artisan quarter, establishing [[The Bridge of Stars]] as a legitimate business and a useful cover.
+- Felix came through the [[Emerald Ceremony]] alongside [[Ayana Syndrosa]], arriving in [[Val Miriel]] as part of a coordinated effort to place agents against the Empire from within. Ayana's path led elsewhere; Felix anchored in the artisan quarter, establishing the [[Bridge of Stars]] as a legitimate business and a useful cover.
 
 ## Serenity Plaza
-- The explosion that incinerated the Imperial soldiers and ignited two Fire Elementals during the anti-Empire rally was **Felix's doing**, witnessed by [[The Bloody Nails]] from the middle of the chaos — but the party did not identify its source. The act was precise (the soldiers were the target) and he has shown no regret. Open hook if they ever investigate.
+- Felix was the street-preacher leading the anti-Empire rally at [[Serenity Plaza]] that night — the firebrand orator the party watched the Imperial soldiers move to arrest.
+- The explosion that incinerated those soldiers and ignited two Fire Elementals was **Felix's own doing**: he triggered the blast and summoned the elementals, targeting the guards precisely, then used the chaos as cover to slip away. To every witness — [[The Bloody Nails]] included — it looked as though the speaker had been vaporised in his own fire. The party never identified the source, and believe the orator died. He has shown no regret. Open hook if they ever investigate, or ever connect the "dead" preacher to the living shopkeeper.
+- His action here is the visible edge of a long radicalization: decades of hardening against the [[Valtorran Empire|Empire]], sharply accelerated by the worsening imperial oppression of [[Val Miriel]].
 
 ## DM Notes
 - **Unrevealed to party:** That Felix is an elf, that he is magically disguised, or that he has any connection to [[Ayana Syndrosa]] or the [[Emerald Ceremony]].

@@ -29,7 +29,7 @@ The **Architecton** is the Nexus of the [[Circle of the Loom]], the floating cit
 
 ## Location & Geography
 
-The Architecton anchors the Fundament Canton, the lower Canton where the waterfall reaches the valley floor, amid workshops, aqueducts, and forge-halls marked with geometric measurement lines. The citadel is covered in permanent decorative scaffolding and cranes caught mid-swing, so that it reads less as a building site than as a standing statement that the work of Sumara is never finished. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Architecton anchors the Fundament Canton, the lower Canton where the waterfall reaches the valley floor, amid workshops, aqueducts, and forge-halls marked with geometric measurement lines. The citadel is covered in permanent decorative scaffolding and cranes caught mid-swing, so that it reads less as a building site than as a standing statement that the work of Sumara is never finished. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Loom
 

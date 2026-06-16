@@ -37,7 +37,7 @@ tags:
 
 Val Miriel sits in the north-west of the [[Gulf of Miriel]], on the south-eastern coast of [[Valtorra]], at the point where the [[Luminor River]] reaches the sea. It is the seaward gate of the Empire's central river artery — the bottleneck through which the continent's southern shipping must pass on its way upriver to the capital. The city is huge: it takes the better part of a day to walk from one side to the other, and roughly half an hour to cross between any two of its great avenues.
 
-Old grey curtain walls ring the city, pierced by three gatehouses — **Valena's Portal** in the north-west, a gate to the south-west, and the eastern gate. A single broad causeway runs the width of the city from west to east, entering at Valena's Portal and crossing the river at **[[Valena's Bridge]]** before climbing to the eastern gate. The [[Luminor River]] itself cuts north-west to south-east through the heart of the city, dividing it into a western bank and an eastern bank joined at that one great span.
+Old grey curtain walls ring the city, pierced by three land gatehouses — one to the north-west, one to the south-west, and the eastern gate — and, where the [[Luminor River]] runs in through the northern wall, by Valena's Portal: a great portcullis that can be lowered across the water to seal the river entrance. A single broad causeway runs the width of the city from west to east, entering at the north-west gate and crossing the river at [[Valena's Bridge]] before climbing to the eastern gate. The [[Luminor River]] itself cuts north-west to south-east through the heart of the city, dividing it into a western bank and an eastern bank joined at that one great span.
 
 Four further causeways — **the Ways** — run the length of the city, north to south, perpendicular to the main road. Each begins at a monumental building on the high northern ground and runs down toward the water, and each gives its quarter of the city its character:
 
@@ -232,5 +232,5 @@ The party left Val Miriel for good through the [[Underrun]], guided by [[Trak Ae
 
 ## Trivia
 
-- The city's central gate and river-crossing — **Valena's Portal** and **[[Valena's Bridge]]** — are named for **Valena**, a founding-era ancestor of House Miriel, forebear of [[Vallania Miriel]] and her late mother Vallarra.
+- The river-gate and the river-crossing — Valena's Portal and [[Valena's Bridge]] — are named for Valena, a founding-era ancestor of House Miriel, forebear of [[Vallania Miriel]] and her late mother Vallarra.
 - The Empire is sometimes called the Crimson Empire, and the red walls of the [[Red Bastion]] fly its colours over the old grey stone of the Kingdoms of Old — a visual reminder of who now holds the city.

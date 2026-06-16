@@ -45,7 +45,7 @@ tags:
 - Previously [[Vaeleran]]: "Just got back to town, clusterfuck, are things under control on your end?"
 
 >[!summary]- What Tarlis is thinking
-> - Suspicious [[The Miriel Bastion|The Bastion]] infiltration and assassination might have been from the [[The Bloody Nails|Nails]]
+> - Suspicious [[Red Bastion|The Bastion]] infiltration and assassination might have been from the [[The Bloody Nails|Nails]]
 > - Questions about the sightings of the Nail symbol after [[Serenity Plaza]]
 > - Cannot actively go against the will of [[Valtorran Empire|The Empire]], but plans to try to calm the population
 > - Wants to connect with [[Val Noren]] as soon as possible to try form an alliance and take control of [[Val Miriel]] away from [[Valtorran Empire|The Empire]]
@@ -161,7 +161,7 @@ If the players go around town, they may here that [[Governor Tarlis Evandron|Tar
 If discussing with [[Thaddeus Karr|Thaddeus]]:
 > [!info]- Action
 > - [[Thaddeus Karr|Thaddeus]] is concerned about the problem of [[Lia]]
-> - She was supposed to assist them by breaking into [[The Miriel Bastion|The Bastion]] and opening the way for the rest of their infiltrators, and then leave
+> - She was supposed to assist them by breaking into [[Red Bastion|The Bastion]] and opening the way for the rest of their infiltrators, and then leave
 > - She climbed a very small garbage disposal shoot, reached the roof, dropped a rope, which allowed the ravens to quickly ascend in between patrol timings by the guards
 > - Lia was nowhere to be found, as she snuck through the halls and tried to kill [[General Varan Brado]]
 > - [[Order of Ravens|Ravens]] usually stay with the order until they die or retire, so as to keep their secrets secure
@@ -172,7 +172,7 @@ If discussing with [[Thaddeus Karr|Thaddeus]]:
 
 ## If Captured
 
-- Taken to a cell within [[The Miriel Bastion]]
+- Taken to a cell within the [[Red Bastion]]
 - Equipment taken
 - [[Dondar]] recognised as a [[Dwarven Arcanist]], his [[Ruhnzâr]] (rune of power) will be removed from forehead
 - If [[Kai]] does any shape shifting he will have magical bracers placed on his wrists that prevents wild shape

@@ -3,7 +3,7 @@ Type: Faction
 Category: Royal Bloodline
 Allegiance: Independent
 Leader: Seat vacant
-Base: "[[Royal Citadel of Sumara]]"
+Base: "[[Royal Citadel]]"
 Importance: Major
 Status: Active
 NoteIcon: faction
@@ -11,7 +11,8 @@ cssclasses:
   - hide-header-underline-3
 tags:
   - faction
-aliases: [Silmara]
+aliases:
+  - Silmara
 ---
 > [!infobox|wikipedia]
 > # Silmara Family
@@ -23,7 +24,7 @@ aliases: [Silmara]
 > Category | Royal Bloodline |
 > Allegiance | Independent |
 > Leader | Seat vacant |
-> Base | [[Royal Citadel of Sumara]] |
+> Base | [[Royal Citadel]] |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
@@ -41,7 +42,7 @@ The Sumaran elves describe the bloodline as "Blessed by Mother," meaning the [[W
 
 The bloodline passes to the eldest child. There is no council, no election, no formal investiture ceremony beyond the signet ring — the [[World Gates|gate-key]] that confirms access and signals readiness to serve. The ruler of the line settles disputes at the Confluence of the Seven as a voice above the factions rather than a voice within them, and exercises no other formal authority. The circles govern; the Silmaras stand apart.
 
-The seat has been empty since the elven exodus. [[Rhennaya Silmara]] led the withdrawal from [[Valtorra]] and was killed before she could return. Her son [[Ryo]] is the last full-blood heir and holds the signet ring, but has not accepted any role as ruler or custodian of Sumara. The [[Royal Citadel of Sumara]] waited for him — old enchantments fired when he entered — but what he chooses to do with his birthright is unresolved.
+The seat has been empty since the elven exodus. [[Rhennaya Silmara]] led the withdrawal from [[Valtorra]] and was killed before she could return. Her son [[Ryo]] is the last full-blood heir and holds the signet ring, but has not accepted any role as ruler or custodian of Sumara. The [[Royal Citadel]] waited for him — old enchantments fired when he entered — but what he chooses to do with his birthright is unresolved.
 
 ## Mandate & Powers
 
@@ -49,7 +50,7 @@ Two capabilities belong exclusively to the Silmara bloodline and have never been
 
 The [[World Gates]] are portals that run along the roots of the [[World Tree]], connecting Sumara to destinations beyond the Faewild without requiring planar travel. They can be opened only by a Silmara bearing the family's signet ring. The ring is not merely a symbol of office; it is the physical key, and its loss would leave the gates inoperable. When [[Rhennaya Silmara]] surrendered the ring to [[Jek]] along with her infant son, she was not handing over a keepsake — she was choosing not to write herself a way out.
 
-The [[Vault of Memories]] beneath the [[Royal Citadel of Sumara]] holds memory-impressions preserved across centuries. The vault opens only to Silmara blood, and its deeper archives respond only to the ruling heir. What it contains — the histories, the visions, the earliest records of the bloodline's founding — is accessible to no one else.
+The [[Vault of Memories]] beneath the [[Royal Citadel]] holds memory-impressions preserved across centuries. The vault opens only to Silmara blood, and its deeper archives respond only to the ruling heir. What it contains — the histories, the visions, the earliest records of the bloodline's founding — is accessible to no one else.
 
 ## Heraldry
 
@@ -74,7 +75,7 @@ The Silmara signet is a solar wheel: a circular medallion bearing six curved, sw
 
 #### The Sundering
 
-The origin of the Silmara bloodline is the act that named it. In an age so distant that even the Vault of Memories holds only fragments, an elven soldier — remembered as Ryordan Silmara, First of His Name — fought alongside vast celestial beings at a cosmic battle at the roots of the [[World Tree]]. At the turning point, he drove his blade into one of the great roots and severed it, removing whatever had targeted it through it and paying the price to save the tree. The root was left behind; he bound his bloodline to it in the act. Over uncounted centuries, the severed root petrified into stone. It is now the [[Heartstone]], the column of white rock beneath the [[Royal Citadel of Sumara]] that pulses with residual World Tree magic to this day. The binding he forged runs in every Silmara descendant, unbroken.
+The origin of the Silmara bloodline is the act that named it. In an age so distant that even the Vault of Memories holds only fragments, an elven soldier — remembered as Ryordan Silmara, First of His Name — fought alongside vast celestial beings at a cosmic battle at the roots of the [[World Tree]]. At the turning point, he drove his blade into one of the great roots and severed it, removing whatever had targeted it through it and paying the price to save the tree. The root was left behind; he bound his bloodline to it in the act. Over uncounted centuries, the severed root petrified into stone. It is now the [[Heartstone]], the column of white rock beneath the [[Royal Citadel]] that pulses with residual World Tree magic to this day. The binding he forged runs in every Silmara descendant, unbroken.
 
 #### Ellesandra and the Long Hunt
 
@@ -130,4 +131,4 @@ The party researched the first Ryordan in the restricted archives of the [[Circl
 
 - The binding Ryordan made at the Sundering runs in both directions: the bloodline to the tree, and the tree's residual magic to the bloodline. Every living Silmara is, in a literal sense, a custodian of the World Tree's severed root.
 - The name Ryordan has been passed down through the line across countless generations. The most recent bearer asked [[Praetor'Varanous]] never to call him Ryordan again after learning the full weight of what the name carried.
-- The kitchen of the [[Royal Citadel of Sumara]] lit its own fireplace when Ryo and [[Eryndor]] entered — old enchantments detecting guests in a home that had waited a century for its heir.
+- The kitchen of the [[Royal Citadel]] lit its own fireplace when Ryo and [[Eryndor]] entered — old enchantments detecting guests in a home that had waited a century for its heir.

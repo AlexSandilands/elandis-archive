@@ -62,7 +62,7 @@ Two powers run the Gulf of Miriel between them, and neither can be removed witho
 
 ### The Empire
 
-The [[Valtorran Empire|Empire]] holds the *law* of the gulf from [[Val Miriel]]. [[Governor Tarlis Evandron|Governor Tarlis]] rules the city as the gulf's de facto Imperial seat. The [[The Miriel Bastion|Miriel Bastion]] commands the river-mouth, and Red Cloak patrols range the inner shore. On paper, every boat that enters or leaves the gulf does so at Imperial sufferance.
+The [[Valtorran Empire|Empire]] holds the *law* of the gulf from [[Val Miriel]]. [[Governor Tarlis Evandron|Governor Tarlis]] rules the city as the gulf's de facto Imperial seat. The [[Red Bastion]] commands the river-mouth, and Red Cloak patrols range the inner shore. On paper, every boat that enters or leaves the gulf does so at Imperial sufferance.
 
 ### The Mawbreakers
 
@@ -115,5 +115,5 @@ The party sailed out of the gulf for the first time. Aboard the [[The Albatross|
 
 ## Trivia
 
-- The Miriel name has outlasted the Miriel crown. The dynasty that gave the gulf its name effectively lost its kingdom a century ago, yet the gulf, the city, the [[The Miriel Bastion|bastion]], and the surviving heir [[Vallania Miriel]] all still carry it.
+- The Miriel name has outlasted the Miriel crown. The dynasty that gave the gulf its name effectively lost its kingdom a century ago, yet the gulf, the city, the [[Red Bastion|bastion]], and the surviving heir [[Vallania Miriel]] all still carry it.
 - *The Teeth* — the locals' name for the basalt sea-stacks at the mouth of the gulf — predates Imperial cartography, and the Empire's maps have never bothered to rename them.

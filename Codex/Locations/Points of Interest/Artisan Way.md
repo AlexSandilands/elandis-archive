@@ -37,7 +37,7 @@ The Way is a place for spending and being seen, lined with the city's finest est
 
 - [[Silverforge]], a fancy armoury beloved of the city's nobles, turning out beautiful, ornate weapons and armour better suited to a gallery than a battlefield.
 - [[The Gilded Crow]], a luxurious tavern of golden accents, velvet, and classical music, with the finest food and wine in the city — and, behind a keg in its cellar, a concealed entrance to a hidden world beneath the streets.
-- [[The Bridge of Stars]], a mysterious curio shop of magical artifacts and oddities, run by the charming, enigmatic [[Felix]].
+- The [[Bridge of Stars]], a mysterious curio shop of magical artifacts and oddities, run by the charming, enigmatic [[Felix]].
 
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
@@ -51,4 +51,4 @@ The party's search for armaments brought them to [[Silverforge]] on the Artisan 
 
 #### [[Session 27 - The Wanted Dwarf]]
 
-The party returned to the Artisan Way to resupply, [[Dondar]] buying fine paper for his spellbook and [[Kai]] buying ruby dust from [[Felix]] at [[The Bridge of Stars]].
+The party returned to the Artisan Way to resupply, [[Dondar]] buying fine paper for his spellbook and [[Kai]] buying ruby dust from [[Felix]] at the [[Bridge of Stars]].

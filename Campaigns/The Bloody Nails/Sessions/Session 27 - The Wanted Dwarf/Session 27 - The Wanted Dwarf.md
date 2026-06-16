@@ -24,7 +24,7 @@ tags:
 > Characters | [[Porta Hale]]<br>[[Ayana Syndrosa]] |
 ## Summary
 
-The morning breaks over [[Val Miriel]] with tension thick in the air. At the [[Green Gryphons]], [[Vaeleran]], [[Ryo]], and [[Eryndor]] are awakened by a pulsing message from [[Governor Tarlis Evandron|Govenor Tarlis]], inquiring about a failed assassination attempt on [[General Varan Brado]] at [[The Bastion]] - a crime the party denies committing. The atmosphere shifts from intrigue to danger as a [[Hand of the Empire]] raids the guildhall in search of a druid and a "half-folk" magic user. Thanks to the stoic deflection of [[Porta Hale]], the party evades capture, though the Guildmaster warns that their presence is becoming a liability, urging them to leave the city until the heat dies down.
+The morning breaks over [[Val Miriel]] with tension thick in the air. At the [[Green Gryphons]], [[Vaeleran]], [[Ryo]], and [[Eryndor]] are awakened by a pulsing message from [[Governor Tarlis Evandron|Govenor Tarlis]], inquiring about a failed assassination attempt on [[General Varan Brado]] at the [[Red Bastion]] - a crime the party denies committing. The atmosphere shifts from intrigue to danger as a [[Hand of the Empire]] raids the guildhall in search of a druid and a "half-folk" magic user. Thanks to the stoic deflection of [[Porta Hale]], the party evades capture, though the Guildmaster warns that their presence is becoming a liability, urging them to leave the city until the heat dies down.
 
 Meanwhile, at the [[High Sept]], [[Kai]] and [[Dondar]] awake to the aftermath of their chaotic night. Kai suffers a searing pain in his arm, accompanied by a mysterious whisper promising reward for his actions, as the starry markings on his skin fade. Aided by the cleric Lara, they attempt a desperate and somewhat comical escape through the lockdown; Dondar utilises invisibility and later a precarious disguise involving a stool and ice-platform shoes created by Kai’s magic. They eventually reunite with the rest of the party, though their "old man" disguise fails to fool their companions, leading to Dondar being unceremoniously hidden beneath sacks in their damaged cart.
 
@@ -50,7 +50,7 @@ Seeking a way out, the party liquidates their monster harvest at the [[Fur and F
 * **The Rendezvous:** [[Vaeleran]] spots the terrible disguise immediately on the main street and pulls [[Kai]] and [[Dondar]] into an alley. Dondar is hidden in the back of the cart under canvas sacks to avoid Imperial patrols.
 * **Liquidating Assets:** [[Ryo]] and [[Eryndor]] visit the [[Fur and Fang]]. [[Gaara]] and [[Kira]] have finished analysing the Chimera.
 * **The Payout:** They offer a total of roughly 2,900 gold pieces for the Chimera parts and 40 gold for tiger pelts. They receive an upfront payment of approximately 2,000 gold pieces (with some held back for processing). Ryo quietly pockets the 40 gold from the tiger pelts for himself.
-* **Shopping Trip:** The party moves to the [[Artisan Way]]. Dondar buys fine paper for his spellbook, and Kai buys ruby dust from [[Felix]] at [[The Bridge of Stars]], apologising for his previous attempt to charm the shopkeeper.
+* **Shopping Trip:** The party moves to the [[Artisan Way]]. Dondar buys fine paper for his spellbook, and Kai buys ruby dust from [[Felix]] at the [[Bridge of Stars]], apologising for his previous attempt to charm the shopkeeper.
 
 ### The Ravens and the Exit Strategy
 

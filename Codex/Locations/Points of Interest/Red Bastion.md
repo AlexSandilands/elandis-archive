@@ -10,6 +10,8 @@ cssclasses:
 tags:
   - location
   - location/poi
+aliases:
+  - The Bastion
 ---
 > [!infobox|wikipedia]
 > # Red Bastion

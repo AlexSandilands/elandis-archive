@@ -29,7 +29,7 @@ The **Palisade Eternal** is the Nexus of the [[Circle of the Blade]], the floati
 
 ## Location & Geography
 
-The Palisade Eternal anchors the Ironsward Canton, on the mid-elevation western terraces of Sumara's caldera — the only Canton in the city with visible walls, its architecture strong, angular, and defensible. The citadel is a low, heavy tower of dark grey stone, its face dominated by a giant elven broadsword mounted point-down, its arrow slits glowing a faint red. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel of Sumara]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
+The Palisade Eternal anchors the Ironsward Canton, on the mid-elevation western terraces of Sumara's caldera — the only Canton in the city with visible walls, its architecture strong, angular, and defensible. The citadel is a low, heavy tower of dark grey stone, its face dominated by a giant elven broadsword mounted point-down, its arrow slits glowing a faint red. Like all seven Nexuses, it can lift from its anchor and drift above the city, rising with its sister citadels to dock at the peak of the [[Royal Citadel]] whenever a [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] is called.
 
 ## Seat of the Blade
 

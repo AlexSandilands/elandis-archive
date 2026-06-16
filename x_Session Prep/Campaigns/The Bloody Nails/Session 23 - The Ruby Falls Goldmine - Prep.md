@@ -48,10 +48,10 @@ tags:
 
 ### Meeting with General Varan Brado
 
-- Taken to the [[The Miriel Bastion]]
+- Taken to the [[Red Bastion]]
 - Up one of the spiral stairs to the fourth floor
 - [[General Varan Brado]] is in his office in one of the exterior towers, currently very busily writing on some paper
-- The office looks out into some gardens north of the [[The Miriel Bastion|The Bastion]]
+- The office looks out into some gardens north of [[Red Bastion|The Bastion]]
 
 ### Jerek
 

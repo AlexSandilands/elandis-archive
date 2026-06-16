@@ -117,7 +117,7 @@ As the party puzzled over the [[Vault of Memories]]' immortal stone guardian, [[
 
 #### [[Session 49 - The Silver Sage]]
 
-After the party's long day in the vault with [[Praetor'Varanous]], a soft blue orb unfolded in the [[Royal Citadel of Sumara|Royal Citadel]]'s entry alcove into a flickering image of Ayana, [[Illythia Voss]] waving briefly at her side. She told [[The Bloody Nails]] the council would ask nothing more of them that night — *"I will ask no more of you. Only come when you feel like you're ready. Take the night to yourselves."* In an unusually candid moment she admitted that part of her drive had been selfish: the party had reunited her with someone she cared deeply about, and for that she would be forever thankful.
+After the party's long day in the vault with [[Praetor'Varanous]], a soft blue orb unfolded in the [[Royal Citadel|Royal Citadel]]'s entry alcove into a flickering image of Ayana, [[Illythia Voss]] waving briefly at her side. She told [[The Bloody Nails]] the council would ask nothing more of them that night — *"I will ask no more of you. Only come when you feel like you're ready. Take the night to yourselves."* In an unusually candid moment she admitted that part of her drive had been selfish: the party had reunited her with someone she cared deeply about, and for that she would be forever thankful.
 
 #### [[Session 50 - A New Morning in Sumara]]
 

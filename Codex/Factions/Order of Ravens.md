@@ -66,7 +66,7 @@ The Order keeps Nests in cities across Valtorra. Each operates with near-total l
 ## Operations
 
 - **Skyreach intelligence (Darmouth).** Ella Sable was captured attempting to steal the schematics of [[Skyreach]] from the Darmouth Lawmaster's office; Uric Graad and the party broke her out, and the intelligence was carried onward toward Camaar.
-- **The Bastion heist (Val Miriel).** The Val Miriel Nest broke into [[The Bastion]] and made off with sensitive Imperial documents — a clean operation until the Fledgling Lia broke from the plan and attempted to assassinate [[General Varan Brado]] without sanction, an act that helped spark the Val Miriel riots.
+- **The Bastion heist (Val Miriel).** The Val Miriel Nest broke into the [[Red Bastion]] and made off with sensitive Imperial documents — a clean operation until the Fledgling Lia broke from the plan and attempted to assassinate [[General Varan Brado]] without sanction, an act that helped spark the Val Miriel riots.
 - **The Val Luminor rescue.** A captured Raven was extracted from the dungeons beneath [[Val Luminor]]. She returned with word that full-blooded elves were being held and interrogated there — testimony that has since taken on a weight far beyond the rescue itself.
 
 ## Symbols & Iconography
