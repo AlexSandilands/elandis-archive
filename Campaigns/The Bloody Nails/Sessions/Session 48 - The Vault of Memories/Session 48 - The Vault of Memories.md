@@ -81,10 +81,10 @@ The passage beyond opened into a chamber so vast the far walls were lost to dark
 
 ### The Faith Chamber
 
-![[Faith Chamber - 1.jpg]]
+![[Faith Chamber - 1.webp]]
 
-![[Faith Chamber - 2.jpg]]
+![[Faith Chamber - 2.webp]]
 
-![[Faith Chamber - 3.jpg]]
+![[Faith Chamber - 3.webp]]
 
-![[Faith Chamber - 4.jpg]]
+![[Faith Chamber - 4.webp]]

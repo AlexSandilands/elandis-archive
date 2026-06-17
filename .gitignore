@@ -5,6 +5,22 @@
 .claude/sessions/
 .claude/worktrees
 
-# Large images should not be checked into git, handle with Obsidian Sync
+# Image policy:
+# Only WebP inside the published zones (Codex, Codex-Restricted, Campaigns) is
+# tracked in git. Any non-WebP image, and any image outside those zones, is
+# ignored here and synced via Obsidian Sync instead.
 *.png
 *.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.avif
+*.heic
+
+# Keep WebP inside the published zones tracked
+!Campaigns/**/*.webp
+!Codex/**/*.webp
+!Codex-Restricted/**/*.webp

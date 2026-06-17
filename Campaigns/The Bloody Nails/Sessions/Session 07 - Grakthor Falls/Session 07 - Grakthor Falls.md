@@ -81,4 +81,4 @@ The session concludes at the [[Finegolds]]' merchant camp. The party reunites [[
 
 ### Goblin Tent City
 
-![[Temple_Landing.jpg]]
+![[Temple_Landing.webp]]

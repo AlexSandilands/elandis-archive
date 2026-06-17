@@ -97,7 +97,7 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
 
 ### Skyreach Labour Camp Sketch
 
-![[Skyreach - Labour Camp Sketch.jpg]]
+![[Skyreach - Labour Camp Sketch.webp]]
 
 ### Skyreach Blueprint
 

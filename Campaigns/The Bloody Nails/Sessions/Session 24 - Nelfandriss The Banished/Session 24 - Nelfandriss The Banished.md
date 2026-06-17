@@ -70,8 +70,8 @@ The climax occurred in a glimmering chamber filled with the missing gold and tre
 
 ### The Pool of Reflection - Chasm
 
-![[Pool of Relfections Chasm.jpg]]
+![[Pool of Relfections Chasm.webp]]
 
 ### Spiderling Nursery
 
-![[Spiderling Nursery.jpg]]
+![[Spiderling Nursery.webp]]

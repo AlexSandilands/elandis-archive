@@ -83,7 +83,7 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 ### The Underrun - Brown Mould
 
-![[The Underrun - Brown Mould.jpg]]
+![[The Underrun - Brown Mould.webp]]
 
 ### The Underrun - Black Pudding Ambush
 

@@ -80,5 +80,5 @@ In a grim act of defiance to mark the rebellion's presence, [[Eryndor]] hammered
 
 ### Skyreach Labour Camp
 
-![[Skyreach - Labour Camp.jpg]]
+![[Skyreach - Labour Camp.webp]]
 

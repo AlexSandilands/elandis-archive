@@ -98,4 +98,4 @@ The party descended into the Heartstone — the petrified remnant of a [[World T
 
 ## Art
 
-![[Cipher Memory Vault.jpg]]
+![[Cipher Memory Vault.webp]]

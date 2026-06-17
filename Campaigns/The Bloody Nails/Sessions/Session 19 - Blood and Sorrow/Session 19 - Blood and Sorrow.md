@@ -72,4 +72,4 @@ Upon arriving in Val Miriel, the group witnesses a grand procession led by [[Gov
 
 ### Ancient Forest Ruins
 
-![[Ancient Forest Ruins.jpg]]
+![[Ancient Forest Ruins.webp]]
