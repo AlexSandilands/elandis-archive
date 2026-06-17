@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|5th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|5th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]
 > Characters | [[Felix]]<br>[[Gaara]]<br>[[Lord Norak Vara]] |
 
@@ -84,4 +84,4 @@ The session concluded with an explosive climax at [[Serenity Plaza]]. Stumbling 
 
 ### Serenity Plaza
 
-![[Serenity Plaza.png]]
+![[Serenity Plaza.webp]]

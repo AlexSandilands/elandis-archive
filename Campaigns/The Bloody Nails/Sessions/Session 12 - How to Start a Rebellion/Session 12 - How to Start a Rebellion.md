@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|10th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|11th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|10th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|11th Water, 1st - 2507]] |
 > Location | [[Faelon]]<br>[[Camaar]]
 > Characters | [[Teresa]]<br>[[Tara]]<br>[[Thane]]<br>[[Barak Stormrider]]<br>[[Gromdal]] |
 

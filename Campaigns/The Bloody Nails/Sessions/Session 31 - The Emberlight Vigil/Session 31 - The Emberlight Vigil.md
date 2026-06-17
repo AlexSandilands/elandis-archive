@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|14th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|15th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|14th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|15th Water, 2nd - 2507]] |
 > Location | [[Lighthaven]]
 > Characters | [[Belinda Bubblegum]]<br>[[Dhorik]] |
 

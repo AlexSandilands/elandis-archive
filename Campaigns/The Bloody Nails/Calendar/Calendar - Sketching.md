@@ -295,17 +295,17 @@ Morning research in Sumara
 Glided to Vale of Eternal Night ^f6d7NB1W
 
 ## Embedded Files
-448af2d6f5c6bd2016078a0a5bec45fe534c5e2d: [[2506 - 12 - Earth, 3rd.png]]
+448af2d6f5c6bd2016078a0a5bec45fe534c5e2d: [[2506 - 12 - Earth, 3rd.webp]]
 
-da1b3d8e6b44c6a19a159c2a3b8608586d7a578a: [[2507 - 01 - Water, 1st.png]]
+da1b3d8e6b44c6a19a159c2a3b8608586d7a578a: [[2507 - 01 - Water, 1st.webp]]
 
-7c30ca601e74b659f5d97de225596023f0f9106a: [[2507 - 02 - Water, 2nd.png]]
+7c30ca601e74b659f5d97de225596023f0f9106a: [[2507 - 02 - Water, 2nd.webp]]
 
-a7fd16f27be88d50c55eb79ff4ea2ce0aefb18d2: [[2507 - 03 - Water, 3rd.png]]
+a7fd16f27be88d50c55eb79ff4ea2ce0aefb18d2: [[2507 - 03 - Water, 3rd.webp]]
 
-f79dc9b4ddd9ee4edcfdcabd7991a0c4b7c1243a: [[2507 - 04 - Air, 1st.png]]
+f79dc9b4ddd9ee4edcfdcabd7991a0c4b7c1243a: [[2507 - 04 - Air, 1st.webp]]
 
-660f6f0ef23dd2d62f6500fea7d6c1401f30b1ba: [[2507 - 05 - Air, 2nd.png]]
+660f6f0ef23dd2d62f6500fea7d6c1401f30b1ba: [[2507 - 05 - Air, 2nd.webp]]
 
 %%
 ## Drawing

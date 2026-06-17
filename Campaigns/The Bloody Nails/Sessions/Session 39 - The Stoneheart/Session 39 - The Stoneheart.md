@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|6th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|6th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[King Marius Noren]]<br>[[Dread General Gerard Blackmarsh]]<br>[[General Korvas]] |
 
@@ -84,8 +84,8 @@ After reviving the exhausted but physically unharmed King, the group looted a st
 
 ### The Stoneheart Under Passages
 
-![[The Stoneheart - Under Passages.png]]
+![[The Stoneheart - Under Passages.webp]]
 
 ### The Stoneheart Crypt
 
-![[The Stoneheart - Crypt.png]]
+![[The Stoneheart - Crypt.webp]]

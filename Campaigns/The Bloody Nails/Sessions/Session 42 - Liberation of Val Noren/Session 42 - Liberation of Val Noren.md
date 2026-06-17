@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|6th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|6th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[King Marius Noren]]<br>[[Barak Stormrider]] |
 
@@ -85,4 +85,4 @@ As the fog lifted and the Loyalist army crossed the river, the session culminate
 
 ### Val Noren River Gate
 
-![[Val Noren River Gate.png]]
+![[Val Noren River Gate.webp]]

@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|12th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|13th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|12th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|13th Water, 3rd - 2507]] |
 > Location | [[Faewild]]
 > Characters | [[Ayana Syndrosa]] |
 
@@ -71,8 +71,8 @@ Emerging from the [[Briarshade]], the party reached the [[Shimmering Peaks]], bo
 
 ### The Shimmering Peaks and Surrounding Courts
 
-![[The Shimmering Peaks and Surrounding Courts.png]]
+![[The Shimmering Peaks and Surrounding Courts.webp]]
 
 ### The Annihilator's Chess Board
 
-![[The Annihilator's Chess Board.png]]
+![[The Annihilator's Chess Board.webp]]

@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|8th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|9th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|8th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|9th Water, 2nd - 2507]] |
 > Location | [[Ruby Falls Goldmine]]<br>[[Val Miriel]]
 > Characters | [[Gaara]]<br>[[Kira]] |
 ## Summary
@@ -66,4 +66,4 @@ The session concludes with the party capitalising on their hunt. They sell the C
 
 ### Mountain Side - The Chimera
 
-![[Mountain Side - The Chimera.png]]
+![[Mountain Side - The Chimera.webp]]

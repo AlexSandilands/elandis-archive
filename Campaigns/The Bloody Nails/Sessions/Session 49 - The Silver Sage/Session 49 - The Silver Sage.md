@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|13th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|13th Water, 3rd - 2507]] |
 > Location | [[Vault of Memories]] |
 > Characters | [[Praetor'Varanous]]<br>[[Ayana Syndrosa]]<br>[[Illythia Voss]] |
 

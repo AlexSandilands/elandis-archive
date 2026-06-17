@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|18th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|24th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|18th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|24th Water, 1st - 2507]] |
 > Location | [[Skyreach]]<br>Travelling to [[Camaar]]
 > Characters | [[Lirien]]<br>[[Barak Stormrider]]<br>[[Ari]]<br>[[Mawbreakers]] |
 

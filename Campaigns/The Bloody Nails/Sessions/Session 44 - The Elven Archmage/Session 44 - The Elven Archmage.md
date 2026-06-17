@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|7th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|12th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|7th Water, 3rd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|12th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]<br>[[Ithilmara]]
 > Characters | [[Ayana Syndrosa]] |
 

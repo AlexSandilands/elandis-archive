@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|1st Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|3rd Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|1st Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|3rd Water, 2nd - 2507]] |
 > Location | [[Ancient Woods]]
 > Characters | [[Gemma Finegold]]<br>[[Harland Finegold]]<br>[[Finegolds]] |
 

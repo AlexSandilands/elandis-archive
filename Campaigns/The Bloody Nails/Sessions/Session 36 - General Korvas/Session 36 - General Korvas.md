@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|4th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|4th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[Dread General Gerard Blackmarsh]]<br>[[Marcelle the Broken]]<br>[[Barak Stormrider]] |
 
@@ -67,4 +67,4 @@ Just as Korvas prepared to deliver the killing blow to his former companions, th
 
 ### The Betrayal
 
-![[The Betrayal.png]]
+![[The Betrayal.webp]]

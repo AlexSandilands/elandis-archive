@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|9th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|9th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]
 > Characters | [[High Priest Oldir]] |
 ## Summary

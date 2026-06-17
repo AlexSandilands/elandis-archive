@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|25th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|25th Water, 2nd - 2507]] |
 > Location | [[Point Blackrock]]
 > Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane Verric]] |
 
@@ -77,4 +77,4 @@ The distraction is explosive and effective. Kai calls down searing moonbeams whi
 
 ### Point Blackrock Sketch
 
-![[Campaigns/The Bloody Nails/Sessions/Session 33/Art/Point Blackrock.png]]
+![[Campaigns/The Bloody Nails/Sessions/Session 33/Art/Point Blackrock.webp]]

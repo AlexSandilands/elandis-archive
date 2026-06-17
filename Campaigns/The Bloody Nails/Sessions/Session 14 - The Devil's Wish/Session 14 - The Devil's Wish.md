@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|17th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|17th Water, 1st - 2507]] |
 > Location | Travelling to [[Skyreach]]
 > Characters | [[Barak Stormrider]]<br>[[Jorund Ironsight]]<br>[[Prax Shea]]<br>[[Mawbreakers]] |
 ## Summary
@@ -89,4 +89,4 @@ In the aftermath, the party enacted a "no survivors" policy, picking off the rem
 
 ### The Devil's Wish
 
-![[The Devil's Wish.png]]
+![[The Devil's Wish.webp]]

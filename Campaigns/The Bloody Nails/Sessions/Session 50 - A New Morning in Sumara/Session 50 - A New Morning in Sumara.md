@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|14th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|14th Water, 3rd - 2507]] |
 > Location | [[Sumara, The Shining City]] |
 > Characters | [[Warden Sylvaris]]<br>[[Ayana Syndrosa]] |
 

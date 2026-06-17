@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|4th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|7th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|4th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|7th Water, 1st - 2507]] |
 > Location | Travelling to [[Camaar]]
 > Characters | [[Vallania Miriel]] (Nia)<br>[[Gemma Finegold]]<br>[[Barak Stormrider]]<br>[[Ari]] |
 

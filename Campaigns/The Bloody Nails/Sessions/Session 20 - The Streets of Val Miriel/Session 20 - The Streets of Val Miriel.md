@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|4th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|4th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]
 > Characters | [[Gemma Finegold]]<br>[[Porta Hale]]<br>[[High Priest Oldir]] |
 

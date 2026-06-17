@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|13th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|14th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|13th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|14th Water, 2nd - 2507]] |
 > Location | [[Lighthaven]]<br>[[Darkwood]]
 > Characters | [[Captain Lucius Draegor]]<br>[[Dhorik]] |
 
@@ -80,4 +80,4 @@ The session culminated in a daring but disastrous attempt to insert Belinda’s 
 
 ### The Darkwood - Ambush
 
-![[The Darkwood - Ambush.png]]
+![[The Darkwood - Ambush.webp]]

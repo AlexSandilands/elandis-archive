@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|10th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|13th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|10th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|13th Water, 2nd - 2507]] |
 > Location | [[Val Miriel]]<br>[[Lighthaven]]
 > Characters | [[Gemma Finegold]]<br>[[Lia]] |
 
@@ -87,4 +87,4 @@ On the road to [[Lighthaven]], the party encountered farmers robbed of their cro
 
 ### The Underrun - Black Pudding Ambush
 
-![[The Underrun - Black Pudding Ambush.png]]
+![[The Underrun - Black Pudding Ambush.webp]]

@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|18th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|18th Water, 1st - 2507]] |
 > Location | [[Skyreach]]
 > Characters | [[Barak Stormrider]]<br>[[Ari]]<br>[[Mawbreakers]] |
 
@@ -101,4 +101,4 @@ The infiltration turned violent as they breached the guardroom, slaughtering the
 
 ### Skyreach Blueprint
 
-![[Skyreach - Blueprint.png]]
+![[Skyreach - Blueprint.webp]]

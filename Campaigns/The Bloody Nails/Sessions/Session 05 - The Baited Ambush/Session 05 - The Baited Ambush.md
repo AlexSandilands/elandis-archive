@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Thumbnail
-> [![[Chapter05_Thumbnail.png]]](Chapter05_Thumbnail.png)
+> [![[Chapter05_Thumbnail.webp]]](Chapter05_Thumbnail.webp)
 > # Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|3rd Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|3rd Water, 1st - 2507]] |
 > Location | Travelling the High Road to [[Camaar]]
 > Characters | [[Gemma Finegold]]<br>[[Finegolds]] |
 
@@ -68,4 +68,4 @@ The session concluded as the party arrived at the mouth of the goblin cave. Afte
 
 ### The Bait and Trap
 
-![[The_Bait_and_Trap.png]]
+![[The_Bait_and_Trap.webp]]

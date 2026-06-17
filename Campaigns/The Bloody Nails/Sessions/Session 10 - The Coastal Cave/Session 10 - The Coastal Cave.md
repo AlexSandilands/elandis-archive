@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|7th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|7th Water, 3rd - 2507]] |
 > Location | [[Camaar]]
 > Characters | [[Ellesar]]<br>[[Lia]]<br>[[Veiled Cubs]] |
 
@@ -83,4 +83,4 @@ The climax of the session takes place within the damp, echoing confines of the c
 
 ### The Coastal Cave
 
-![[The Coastal Cave.png]]
+![[The Coastal Cave.webp]]

@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|7th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|8th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|7th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|8th Water, 1st - 2507]] |
 > Location | [[Camaar]]
 > Characters | [[Gemma Finegold]]<br>[[Ellesar]] |
 
@@ -81,4 +81,4 @@ Deciding to take the initiative, the party executed a sting operation to draw ou
 
 ### Scuffle with The Shadow Serpents
 
-![[Scuffle with The Shadow Serpents.png]]
+![[Scuffle with The Shadow Serpents.webp]]

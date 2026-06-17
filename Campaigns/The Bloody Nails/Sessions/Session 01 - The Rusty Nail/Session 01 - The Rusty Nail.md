@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Thumbnail
-> [![[Chapter01_Thumbnail.png]]](Chapter01_Thumbnail.png)
+> [![[Chapter01_Thumbnail.webp]]](Chapter01_Thumbnail.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|23rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|24rd Earth, 3rd - 2506]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|23rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|24rd Earth, 3rd - 2506]] |
 > Location | Travelling to [[Darmouth]]
 > Characters | [[Draedan Coldsteel]]<br>[[Seraphina]]<br>[[Gemma Finegold]]<br>[[Finegolds]] |
 
@@ -73,4 +73,4 @@ Leaving the shore behind, the party trekked through the dense coastal woods unti
 
 ### Scuffle on the Beach
 
-![[Scuffle on the Beach.png]]
+![[Scuffle on the Beach.webp]]

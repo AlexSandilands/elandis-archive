@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|15th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|25th Water, 2nd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|15th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|25th Water, 2nd - 2507]] |
 > Location | Travelling from [[Lighthaven]] to [[Point Blackrock]]
 > Characters | [[Dhorik]] |
 
@@ -69,8 +69,8 @@ The tension peaked at a heavily fortified Imperial barricade blocking the road n
 
 ### Road to Point Blackrock - Ambush
 
-![[Road to Point Blackrock - Ambush.png]]
+![[Road to Point Blackrock - Ambush.webp]]
 
 ### Road to Point Blackrock - Barricade
 
-![[Road to Point Blackrock - Barricade.png]]
+![[Road to Point Blackrock - Barricade.webp]]

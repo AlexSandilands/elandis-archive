@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Thumbnail
-> [![[Chapter02_Thumbnail.png]]](Chapter02_Thumbnail.png)
+> [![[Chapter02_Thumbnail.webp]]](Chapter02_Thumbnail.webp)
 > # Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|24rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|26rd Earth, 3rd - 2506]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|24rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|26rd Earth, 3rd - 2506]] |
 > Location | Travelling to [[Darmouth]]
 > Characters | [[Gemma Finegold]]<br>[[Finegolds]] |
 
@@ -57,4 +57,4 @@ The relative safety of the caravan was shattered on the third night. A coordinat
 
 ### Midnight Ambush
 
-![[Midnight_Ambush.png]]
+![[Midnight_Ambush.webp]]

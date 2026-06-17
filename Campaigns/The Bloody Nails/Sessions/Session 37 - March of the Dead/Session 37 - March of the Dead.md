@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!infobox|wikipedia]
-> ![[Val Norren - Streets.png]]
+> ![[Val Norren - Streets.webp]]
 > # Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|5th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|5th Water, 3rd - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[King Marius Noren]]<br>[[Barak Stormrider]] |
 

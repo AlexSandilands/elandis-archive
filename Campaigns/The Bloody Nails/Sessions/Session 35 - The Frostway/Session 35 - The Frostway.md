@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.png\|28th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|4th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|28th Water, 2nd - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|4th Water, 3rd - 2507]] |
 > Location | [[Frostway]]
 > Characters | [[Sela Ren]]<br>[[Lysa]]<br>[[Dane Verric]] |
 
@@ -79,4 +79,4 @@ Faced with a choice between the [[Frostway#Nature of the Frostway|Shattered Fiel
 
 ### The Yeti Ambush
 
-![[The Frostway - Yeti.png]]
+![[The Frostway - Yeti.webp]]

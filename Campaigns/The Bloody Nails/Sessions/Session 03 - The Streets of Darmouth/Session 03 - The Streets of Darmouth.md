@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Recording
-> [![[Chapter03_Thumbnail.png]]](Chapter03_Thumbnail.png)
+> [![[Chapter03_Thumbnail.webp]]](Chapter03_Thumbnail.webp)
 > # Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|24rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.png\|26rd Earth, 3rd - 2506]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|24rd Earth, 3rd - 2506]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|26rd Earth, 3rd - 2506]] |
 > Location | [[Darmouth]]
 > Characters | [[Gemma Finegold]]<br>[[Finegolds]]<br>[[Uric Graad]] |
 

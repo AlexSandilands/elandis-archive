@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|11th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|17th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|11th Water, 1st - 2507]]<br>to<br>[[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|17th Water, 1st - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]] |
 
@@ -75,4 +75,4 @@ The following days were a battle against the elements. The party endured bouts o
 
 ### Harpy Ambush
 
-![[Harpy Ambush.png]]
+![[Harpy Ambush.webp]]

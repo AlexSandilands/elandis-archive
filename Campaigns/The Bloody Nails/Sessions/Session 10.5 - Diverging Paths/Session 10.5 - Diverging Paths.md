@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|9th Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|9th Water, 1st - 2507]] |
 > Location | [[Camaar]]<br>[[Faelon]]
 > Characters | [[Thane]]<br>[[Tara]] |
 

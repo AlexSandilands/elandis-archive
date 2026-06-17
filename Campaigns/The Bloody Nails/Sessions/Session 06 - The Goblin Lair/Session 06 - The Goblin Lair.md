@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Recording
-> [![[Chapter06_Thumbnail.png]]](Chapter06_Thumbnail.png)
+> [![[Chapter06_Thumbnail.webp]]](Chapter06_Thumbnail.webp)
 > # Basic Information
 > Attribute |  Details |
 > ---|---|
@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.png\|3rd Water, 1st - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|3rd Water, 1st - 2507]] |
 > Location | [[Goblin Lair]]
 > Characters | [[Vallania Miriel\|Nia]] |
 

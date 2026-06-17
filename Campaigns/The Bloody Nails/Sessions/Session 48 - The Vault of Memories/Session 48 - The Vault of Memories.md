@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.png\|13th Water, 3rd - 2507]] |
+> Date | [[Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|13th Water, 3rd - 2507]] |
 > Location | [[Vault of Memories]] |
 > Characters | -- |
 
@@ -75,9 +75,9 @@ The passage beyond opened into a chamber so vast the far walls were lost to dark
 
 ### The Guardian Chamber
 
-![[The Guardian Chamber - P1.png]]
+![[The Guardian Chamber - P1.webp]]
 
-![[The Guardian Chamber - P2.png]]
+![[The Guardian Chamber - P2.webp]]
 
 ### The Faith Chamber
 
