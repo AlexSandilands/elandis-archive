@@ -4,4 +4,7 @@
 .obsidian/plugins/
 .claude/sessions/
 .claude/worktrees
+
+# Large images should not be checked into git, handle with Obsidian Sync
 *.png
+*.jpg
